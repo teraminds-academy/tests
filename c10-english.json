@@ -1,0 +1,775 @@
+{
+ "schema": 1,
+ "id": "c10-english",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 English Language and Literature (184) · Crash revision of reading, grammar, writing and literature (2026-27)",
+ "short_title": "Class 10 English · Crash Revision 2027",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written from this video's script, its worksheet and the NCERT/CBSE material it cites, modelled on most-repeated / high-weightage question types in CBSE Sample Question Papers and past board papers. Practice for readiness only: not predictions of any exam and no promise of marks.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number.",
+ "suggested_minutes": 40,
+ "video_url": "https://youtu.be/6SJt9aOugLE",
+ "worksheet_url": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Inference / tone MCQ",
+  "T2": "Vocabulary in context",
+  "T3": "Interpret data in a passage",
+  "T4": "Error correction: concord",
+  "T5": "Reported speech",
+  "T6": "Determiner / modal / tense",
+  "T7": "Letter format and marking",
+  "T8": "Analytical paragraph: structure and data use",
+  "T9": "Prose: theme, irony, character",
+  "T10": "Drama: The Proposal",
+  "T11": "Poetry: symbol, device, theme",
+  "T12": "Supplementary reader: character and message"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Reading Skills",
+   "tip": "Read the questions first, then the passage, and underline the answer lines. Vocabulary = meaning in that sentence. For charts: title, units, highest, lowest. Answers must point back to the text.",
+   "ncert": "CBSE English (184) SQP 2026-27 Section A (Q1, Q2); practise one discursive and one case-based passage a day"
+  },
+  "S2": {
+   "name": "Grammar",
+   "tip": "Neither…nor: verb agrees with the nearer subject. Each / every / a bunch of → singular verb. few (countable) vs little (uncountable). since / for → present perfect. Yes/no question → asked if / whether + statement order.",
+   "ncert": "CBSE English (184) SQP 2026-27 Q3 (gap filling, error correction, reported speech); Curriculum 2026-27 grammar list"
+  },
+  "S3": {
+   "name": "Formal Letter",
+   "tip": "Format: sender's address → date → receiver (designation first) → subject → salutation → body → close → name. Body: purpose → issue and effects → solutions → thanks. 100–120 words.",
+   "ncert": "CBSE English (184) SQP 2026-27 Q4 and Marking Scheme (format 1, content 2, organisation 1, accuracy 1)"
+  },
+  "S4": {
+   "name": "Analytical Paragraph",
+   "tip": "Intro (what, where, when) → main trend with real numbers and one comparison → conclusion. Never add opinions the data does not support.",
+   "ncert": "CBSE English (184) SQP 2026-27 Q5 and Marking Scheme (content 2, organisation 2, accuracy 1)"
+  },
+  "S5": {
+   "name": "First Flight Prose 1",
+   "tip": "For each text, know one theme word, the main characters and one message: A Letter to God (faith, irony), Mandela (freedom, courage), Two Stories about Flying, Anne Frank (loneliness, wit), Glimpses of India.",
+   "ncert": "NCERT First Flight: A Letter to God; Nelson Mandela: Long Walk to Freedom; Two Stories about Flying; From the Diary of Anne Frank; Glimpses of India"
+  },
+  "S6": {
+   "name": "First Flight Prose 2",
+   "tip": "Mijbil (human–animal bond, humour), Madam Rides the Bus (curiosity, first brush with death), Sermon at Benares (death is universal), The Proposal (farce on greed).",
+   "ncert": "NCERT First Flight: Mijbil the Otter; Madam Rides the Bus; The Sermon at Benares; The Proposal"
+  },
+  "S7": {
+   "name": "First Flight Poems 1",
+   "tip": "Link each poem to its symbol: crow and hemlock (Dust of Snow), fire = desire and ice = hatred, cage vs jungle (Tiger), the lost ball (accepting loss).",
+   "ncert": "NCERT First Flight poems: Dust of Snow; Fire and Ice; A Tiger in the Zoo; How to Tell Wild Animals; The Ball Poem"
+  },
+  "S8": {
+   "name": "First Flight Poems 2",
+   "tip": "Amanda (child's need for freedom; repeated name = nagging), The Trees (nature reclaiming freedom), Fog (extended cat metaphor), Custard (don't judge by appearances), Anne Gregory (inner vs outer beauty).",
+   "ncert": "NCERT First Flight poems: Amanda!; The Trees; Fog; The Tale of Custard the Dragon; For Anne Gregory"
+  },
+  "S9": {
+   "name": "Footprints Without Feet 1",
+   "tip": "Triumph of Surgery (pampering harms), Thief's Story (trust and education), Midnight Visitor (wit beats force), Question of Trust (the trickster is tricked), Footprints (science without ethics).",
+   "ncert": "NCERT Footprints without Feet: A Triumph of Surgery; The Thief's Story; The Midnight Visitor; A Question of Trust; Footprints without Feet"
+  },
+  "S10": {
+   "name": "Footprints Without Feet 2",
+   "tip": "Making of a Scientist (curiosity + persistence), The Necklace (vanity and irony), Bholi (education gives dignity), Book that Saved the Earth (arrogance mocked).",
+   "ncert": "NCERT Footprints without Feet: The Making of a Scientist; The Necklace; Bholi; The Book that Saved the Earth"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "For a question based on a chart or table in a reading passage, what should you check first?",
+   "answer": "B",
+   "explanation": "Title and units tell you what is measured; the highest and lowest values anchor most answers.",
+   "remediation": "Video part 1: Reading Skills; then the worksheet practice for this part.",
+   "options": [
+    "Only the colours used",
+    "Its title, units, and the highest and lowest values",
+    "The number of words in the passage",
+    "The last line of the passage only"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Read the passage. “Every Saturday, the families of Lakeview Colony used to dump their unwanted things on one heap. Last year, two students set up a 'swap shelf' in the community hall. People now leave books, toys and utensils they no longer need, and others take them home free. In twelve months, the colony's weekly garbage fell from about 80 kg to 60 kg. Not everyone was convinced at first; some called it 'a shelf of junk'. Today, even those critics drop by on Saturdays.” The writer's attitude towards the swap shelf is:",
+   "answer": "C",
+   "explanation": "The writer reports its success and ends with even the critics coming round: an approving tone.",
+   "remediation": "Video part 1: Reading Skills; then the worksheet practice for this part.",
+   "options": [
+    "Critical",
+    "Indifferent",
+    "Appreciative",
+    "Mocking"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Read the passage. “Every Saturday, the families of Lakeview Colony used to dump their unwanted things on one heap. Last year, two students set up a 'swap shelf' in the community hall. People now leave books, toys and utensils they no longer need, and others take them home free. In twelve months, the colony's weekly garbage fell from about 80 kg to 60 kg. Not everyone was convinced at first; some called it 'a shelf of junk'. Today, even those critics drop by on Saturdays.” In this passage, 'convinced' means:",
+   "answer": "C",
+   "explanation": "Meaning in context: people were not yet persuaded that the shelf was useful. 'Found guilty' is a different word (convicted).",
+   "remediation": "Video part 1: Reading Skills; then the worksheet practice for this part.",
+   "options": [
+    "Found guilty of a crime",
+    "Forced to take part",
+    "Persuaded that the idea was good",
+    "Confused about the rules"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "Read the passage. “Every Saturday, the families of Lakeview Colony used to dump their unwanted things on one heap. Last year, two students set up a 'swap shelf' in the community hall. People now leave books, toys and utensils they no longer need, and others take them home free. In twelve months, the colony's weekly garbage fell from about 80 kg to 60 kg. Not everyone was convinced at first; some called it 'a shelf of junk'. Today, even those critics drop by on Saturdays.” By what percentage did the colony's weekly garbage fall?",
+   "answer": "25",
+   "explanation": "Fall = 80 − 60 = 20 kg. 20 ÷ 80 × 100 = 25%.",
+   "remediation": "Video part 1: Reading Skills; then the worksheet practice for this part."
+  },
+  {
+   "id": "q05",
+   "subtopic": "S1",
+   "level": "L4",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Read the passage. “Every Saturday, the families of Lakeview Colony used to dump their unwanted things on one heap. Last year, two students set up a 'swap shelf' in the community hall. People now leave books, toys and utensils they no longer need, and others take them home free. In twelve months, the colony's weekly garbage fell from about 80 kg to 60 kg. Not everyone was convinced at first; some called it 'a shelf of junk'. Today, even those critics drop by on Saturdays.” What does the last line, 'even those critics drop by on Saturdays', suggest?",
+   "answer": "B",
+   "explanation": "Inference: the people who mocked it now use it, so the shelf has proved its worth.",
+   "remediation": "Video part 1: Reading Skills; then the worksheet practice for this part.",
+   "options": [
+    "The critics were paid to use the shelf",
+    "The idea has won over people who once doubted it",
+    "The shelf is now closed on other days",
+    "The critics come to complain every week"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Choose the correct verb: 'Neither the coach nor the players ___ happy with the result.'",
+   "answer": "C",
+   "explanation": "With neither…nor, the verb agrees with the nearer subject, 'players' (plural): were.",
+   "remediation": "Video part 2: Grammar; then the worksheet practice for this part.",
+   "options": [
+    "was",
+    "is",
+    "were",
+    "has been"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Choose the correct determiner: 'There is ___ milk left in the jug, so please buy some.'",
+   "answer": "D",
+   "explanation": "Milk cannot be counted, so 'little' (not 'few').",
+   "remediation": "Video part 2: Grammar; then the worksheet practice for this part.",
+   "options": [
+    "few",
+    "many",
+    "a few",
+    "little"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Choose the correct form: 'My cousin ___ in Pune since 2019.'",
+   "answer": "C",
+   "explanation": "'Since' + a point in time → present perfect: has lived.",
+   "remediation": "Video part 2: Grammar; then the worksheet practice for this part.",
+   "options": [
+    "lived",
+    "is living",
+    "has lived",
+    "lives"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Choose the correct reported form: Riya said to me, “Are you coming to the match tomorrow?”",
+   "answer": "D",
+   "explanation": "Yes/no question → asked if/whether; statement order (I was coming); tense back-shift; tomorrow → the next day.",
+   "remediation": "Video part 2: Grammar; then the worksheet practice for this part.",
+   "options": [
+    "Riya asked me whether was I coming to the match tomorrow.",
+    "Riya said to me that I am coming to the match tomorrow.",
+    "Riya asked me are you coming to the match tomorrow.",
+    "Riya asked me if I was coming to the match the next day."
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Find the error and its correction: 'The bunch of keys were found under the sofa after a long search.'",
+   "answer": "B",
+   "explanation": "The subject is 'the bunch' (singular), so the verb must be 'was'.",
+   "remediation": "Video part 2: Grammar; then the worksheet practice for this part.",
+   "options": [
+    "after → before",
+    "were → was",
+    "under → below",
+    "found → find"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Which is the correct order for the top of a formal letter?",
+   "answer": "D",
+   "explanation": "Format: sender's address, date, receiver's designation and address, subject, salutation, then body, close and name.",
+   "remediation": "Video part 3: Formal Letter; then the worksheet practice for this part.",
+   "options": [
+    "Salutation → Sender's address → Date → Subject",
+    "Subject → Receiver's address → Date → Sender's address",
+    "Date → Salutation → Subject → Sender's address",
+    "Sender's address → Date → Receiver's designation and address → Subject → Salutation"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "In the CBSE marking of the 5-mark formal letter, how many marks are given for content?",
+   "answer": "2",
+   "explanation": "Format 1, content 2, organisation 1, accuracy 1 = 5.",
+   "remediation": "Video part 3: Formal Letter; then the worksheet practice for this part."
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "You are writing to the editor of a newspaper about broken footpaths near a busy market. Which is the best subject line?",
+   "answer": "D",
+   "explanation": "A good subject line is short and states the exact issue and place.",
+   "remediation": "Video part 3: Formal Letter; then the worksheet practice for this part.",
+   "options": [
+    "Subject: Letter",
+    "Subject: I am very angry",
+    "Subject: Hello Sir, please read this",
+    "Subject: Urgent need to repair broken footpaths near Green Park market"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "How are the 5 marks of the analytical paragraph divided in the CBSE marking scheme?",
+   "answer": "D",
+   "explanation": "Analytical paragraph: content 2, organisation 2, accuracy 1 (the letter has a format mark instead).",
+   "remediation": "Video part 4: Analytical Paragraph; then the worksheet practice for this part.",
+   "options": [
+    "Content 5",
+    "Format 1, content 2, organisation 1, accuracy 1",
+    "Content 3, accuracy 2",
+    "Content 2, organisation 2, accuracy 1"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "A bar graph shows the average daily screen time of students of a school from 2022 to 2025. Which is the best opening line?",
+   "answer": "A",
+   "explanation": "Open with what the data shows, its subject and its time frame, with no opinion.",
+   "remediation": "Video part 4: Analytical Paragraph; then the worksheet practice for this part.",
+   "options": [
+    "The bar graph shows the average daily screen time of students of a school from 2022 to 2025.",
+    "Phones are ruining the lives of students today.",
+    "I think students should stop using phones.",
+    "Screen time is the biggest problem in the world."
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L4",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "The same graph shows 2 hours a day in 2022 and 5 hours a day in 2025. Which sentence uses the data correctly?",
+   "answer": "C",
+   "explanation": "5 − 2 = 3 hours, and 5 is 2.5 times 2, so 'more than double' is right; 'exactly doubled' is wrong; the marks claim is not in the data.",
+   "remediation": "Video part 4: Analytical Paragraph; then the worksheet practice for this part.",
+   "options": [
+    "Students' marks fell because of their phones.",
+    "Screen time fell by 3 hours a day.",
+    "Screen time rose by 3 hours a day, to more than double its 2022 level.",
+    "Screen time exactly doubled between 2022 and 2025."
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "In 'A Letter to God', what destroys Lencho's crop?",
+   "answer": "D",
+   "explanation": "A hailstorm ruins the corn and beans, and Lencho writes to God for help.",
+   "remediation": "Video part 5: First Flight Prose 1; then the worksheet practice for this part.",
+   "options": [
+    "A flood",
+    "A forest fire",
+    "A swarm of locusts",
+    "A hailstorm"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "What is ironic about the end of 'A Letter to God'?",
+   "answer": "A",
+   "explanation": "The people who helped him are the ones he suspects: irony, alongside his unshakeable faith.",
+   "remediation": "Video part 5: First Flight Prose 1; then the worksheet practice for this part.",
+   "options": [
+    "Lencho calls the post-office employees 'a bunch of crooks' though they gave him the money",
+    "The rain destroys the post office",
+    "Lencho returns the money to God",
+    "The postmaster refuses to read the letter"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "In 'Long Walk to Freedom', what are the 'twin obligations' every man has?",
+   "answer": "B",
+   "explanation": "Mandela says every man has obligations to his family and to his people and country.",
+   "remediation": "Video part 5: First Flight Prose 1; then the worksheet practice for this part.",
+   "options": [
+    "To his job and to his bank",
+    "To his family and to his people and country",
+    "To his religion and to his property",
+    "To his school and to his friends"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "In 'From the Diary of Anne Frank', why does Mr Keesing set Anne extra essays?",
+   "answer": "D",
+   "explanation": "Punished for talking, Anne answers with witty essays ('chatterbox'), and wins Mr Keesing over.",
+   "remediation": "Video part 5: First Flight Prose 1; then the worksheet practice for this part.",
+   "options": [
+    "She fails her maths test",
+    "She is late every day",
+    "She forgets her homework",
+    "She talks too much in class"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S6",
+   "level": "L1",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "On her way back from town in 'Madam Rides the Bus', what changes Valli's mood?",
+   "answer": "B",
+   "explanation": "The dead cow is Valli's first brush with death; she comes back quieter.",
+   "remediation": "Video part 6: First Flight Prose 2; then the worksheet practice for this part.",
+   "options": [
+    "Being scolded by the conductor",
+    "Seeing a cow that has been killed on the road",
+    "Missing the bus home",
+    "Losing her coins"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "What does Kisa Gotami learn in 'The Sermon at Benares'?",
+   "answer": "C",
+   "explanation": "She finds no house where no one has died and realises death is universal.",
+   "remediation": "Video part 6: First Flight Prose 2; then the worksheet practice for this part.",
+   "options": [
+    "Only the poor suffer loss",
+    "Prayer can bring the dead back",
+    "Death is common to all, so grief must be accepted",
+    "Mustard seed can cure death"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "In Chekhov's 'The Proposal', Lomov and Natalya quarrel over:",
+   "answer": "B",
+   "explanation": "The proposal is lost in fights about land (Oxen Meadows) and dogs: a farce on greed for property.",
+   "remediation": "Video part 6: First Flight Prose 2; then the worksheet practice for this part.",
+   "options": [
+    "Her father's debts",
+    "Oxen Meadows and whose dog is better",
+    "The date of the wedding",
+    "A lost ring"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "What makes the journey with Mijbil from Iraq to London funny?",
+   "answer": "C",
+   "explanation": "Humour comes from Mijbil's chaos and people's comic guesses; the warmth comes from the bond between man and pet.",
+   "remediation": "Video part 6: First Flight Prose 2; then the worksheet practice for this part.",
+   "options": [
+    "The pilot's jokes",
+    "The writer's fear of flying",
+    "The chaos in the plane and strangers' wild guesses about what kind of animal he was",
+    "Mijbil's long speeches"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T11",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true, and R explains why ice 'would suffice' for destruction.",
+   "remediation": "Video part 7: First Flight Poems 1; then the worksheet practice for this part.",
+   "assertion": "In 'Fire and Ice', the poet says that ice would also be enough to destroy the world.",
+   "reason": "In the poem, ice stands for hatred, which is as destructive as desire (fire).",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Why is the crow and hemlock moment in 'Dust of Snow' striking?",
+   "answer": "B",
+   "explanation": "A small moment in nature, involving usually gloomy symbols, saves part of the poet's day.",
+   "remediation": "Video part 7: First Flight Poems 1; then the worksheet practice for this part.",
+   "options": [
+    "The crow attacks the poet",
+    "Things usually seen as gloomy change the poet's bad mood for the better",
+    "The hemlock tree is in full bloom",
+    "The snow ruins the poet's day completely"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "What is the main contrast in 'A Tiger in the Zoo'?",
+   "answer": "A",
+   "explanation": "The cage–jungle contrast makes the poem a plea against captivity.",
+   "remediation": "Video part 7: First Flight Poems 1; then the worksheet practice for this part.",
+   "options": [
+    "The tiger in a cage versus the tiger free in the jungle",
+    "A tiger versus a lion",
+    "A young tiger versus an old tiger",
+    "Day versus night in the city"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "S7",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "What does the boy in 'The Ball Poem' learn?",
+   "answer": "B",
+   "explanation": "The poet does not buy him another ball: growing up means accepting loss and responsibility.",
+   "remediation": "Video part 7: First Flight Poems 1; then the worksheet practice for this part.",
+   "options": [
+    "Money can buy back anything he loses",
+    "Loss is part of life, and he must learn to bear it himself",
+    "Others will always replace what he loses",
+    "He should never play with a ball again"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "S8",
+   "level": "L1",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "In Carl Sandburg's 'Fog', the fog is compared to:",
+   "answer": "D",
+   "explanation": "One extended metaphor: the fog comes and goes silently, like a cat.",
+   "remediation": "Video part 8: First Flight Poems 2; then the worksheet practice for this part.",
+   "options": [
+    "A ship",
+    "A tiger",
+    "A cloud of smoke",
+    "A cat"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Why is the name 'Amanda' repeated in the poem 'Amanda!'?",
+   "answer": "B",
+   "explanation": "The repeated name sets the tone of constant scolding, from which Amanda escapes into daydreams.",
+   "remediation": "Video part 8: First Flight Poems 2; then the worksheet practice for this part.",
+   "options": [
+    "To show that Amanda is famous",
+    "To show the nagging, scolding tone of the speaker",
+    "Because Amanda cannot hear",
+    "To introduce a new character"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "What is the message of 'The Tale of Custard the Dragon'?",
+   "answer": "B",
+   "explanation": "The pets who mock Custard flee from the pirate; only Custard fights.",
+   "remediation": "Video part 8: First Flight Poems 2; then the worksheet practice for this part.",
+   "options": [
+    "Pirates are always brave",
+    "Do not judge anyone by appearances",
+    "Pets should never be kept at home",
+    "Cowards are always happy"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "S8",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "In 'For Anne Gregory', why does the young woman want to dye her hair?",
+   "answer": "A",
+   "explanation": "Inner versus outer beauty: the poet replies that only God could love her 'for herself alone'.",
+   "remediation": "Video part 8: First Flight Poems 2; then the worksheet practice for this part.",
+   "options": [
+    "She wants to be loved for herself, not for her yellow hair",
+    "She is going to a party",
+    "She wants to look like the poet",
+    "She dislikes the colour yellow"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S9",
+   "level": "L1",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "How does the vet cure Tricki in 'A Triumph of Surgery'?",
+   "answer": "B",
+   "explanation": "Overfeeding made Tricki ill; diet and exercise cured him. Too much love can harm.",
+   "remediation": "Video part 9: Footprints Without Feet 1; then the worksheet practice for this part.",
+   "options": [
+    "With expensive tonics",
+    "With a strict diet and exercise at the vet's surgery",
+    "By sending him to another city",
+    "With a major operation"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "Why does Hari Singh return the stolen money in 'The Thief's Story'?",
+   "answer": "A",
+   "explanation": "He chooses learning and trust over a life of stealing.",
+   "remediation": "Video part 9: Footprints Without Feet 1; then the worksheet practice for this part.",
+   "options": [
+    "He values the education and trust Anil offers him more than the money",
+    "He is caught by the police",
+    "He finds the money is fake",
+    "Anil threatens him"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "How does Ausable get rid of the armed spy Max in 'The Midnight Visitor'?",
+   "answer": "D",
+   "explanation": "Presence of mind beats force: Max jumps for a balcony that does not exist.",
+   "remediation": "Video part 9: Footprints Without Feet 1; then the worksheet practice for this part.",
+   "options": [
+    "He fights Max and takes his gun",
+    "He gives Max a fake report",
+    "He calls the police on the phone",
+    "He invents a balcony below the window, so Max jumps out"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "What is the irony in 'A Question of Trust'?",
+   "answer": "C",
+   "explanation": "The trickster is tricked; the 'honour among thieves' he expects does not exist.",
+   "remediation": "Video part 9: Footprints Without Feet 1; then the worksheet practice for this part.",
+   "options": [
+    "The lady returns the jewels",
+    "Horace refuses to steal",
+    "Horace, a careful thief, is himself tricked by a cleverer thief he trusts",
+    "Horace becomes a police officer"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S10",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; R is the irony that A refers to. Vanity leads to downfall.",
+   "remediation": "Video part 10: Footprints Without Feet 2; then the worksheet practice for this part.",
+   "assertion": "The ending of 'The Necklace' is ironic.",
+   "reason": "Matilda spends ten years in debt replacing a necklace that turns out to have been fake.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S10",
+   "level": "L1",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "Why does Bholi refuse to marry the groom at the end of 'Bholi'?",
+   "answer": "C",
+   "explanation": "Education gives her the confidence and dignity to reject a dowry-seeking groom.",
+   "remediation": "Video part 10: Footprints Without Feet 2; then the worksheet practice for this part.",
+   "options": [
+    "He is too young",
+    "He lives too far away",
+    "He is greedy and demands dowry",
+    "Her teacher forbids it"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "S10",
+   "level": "L3",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "Why does Think-Tank call off the invasion of Earth in 'The Book that Saved the Earth'?",
+   "answer": "D",
+   "explanation": "His arrogant misreading of nursery rhymes makes him think Earth is dangerous: books win.",
+   "remediation": "Video part 10: Footprints Without Feet 2; then the worksheet practice for this part.",
+   "options": [
+    "Earth's army defeats the Martians",
+    "The rocket breaks down",
+    "Noodle refuses to obey him",
+    "He misreads a book of nursery rhymes and panics"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "S10",
+   "level": "L4",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "According to 'The Making of a Scientist', which pair best explains Richard Ebright's success?",
+   "answer": "D",
+   "explanation": "His curiosity about butterflies, his mother's support and science fairs grew into real research.",
+   "remediation": "Video part 10: Footprints Without Feet 2; then the worksheet practice for this part.",
+   "options": [
+    "Copying other scientists' work",
+    "Strict teachers and punishments",
+    "Luck and wealth",
+    "Curiosity and persistence, encouraged by his mother"
+   ]
+  }
+ ],
+ "class": "10",
+ "subject": "English Language and Literature",
+ "board": "CBSE"
+}

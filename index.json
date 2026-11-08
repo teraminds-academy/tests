@@ -2,12 +2,122 @@
  "schema": 1,
  "tests": [
   {
+   "id": "c10-ai",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 AI (417) · Crash Revision 2027",
+   "chapter": "CBSE Class 10 Artificial Intelligence (417) · Crash revision of the theory units (2026-27)",
+   "class": "10",
+   "subject": "Artificial Intelligence",
+   "questions": 39,
+   "suggested_minutes": 40,
+   "version": 1
+  },
+  {
+   "id": "c10-civics",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Political Science · Crash Revision 2027",
+   "chapter": "CBSE Class 10 Social Science (087) · Political Science: Democratic Politics II · Crash revision (2026-27)",
+   "class": "10",
+   "subject": "Social Science: Political Science",
+   "questions": 39,
+   "suggested_minutes": 35,
+   "version": 1
+  },
+  {
+   "id": "c10-economics",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Economics · Crash Revision 2027",
+   "chapter": "CBSE Class 10 Social Science (087) · Economics: Understanding Economic Development · Crash revision (2026-27)",
+   "class": "10",
+   "subject": "Social Science: Economics",
+   "questions": 35,
+   "suggested_minutes": 35,
+   "version": 1
+  },
+  {
+   "id": "c10-english",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 English · Crash Revision 2027",
+   "chapter": "CBSE Class 10 English Language and Literature (184) · Crash revision of reading, grammar, writing and literature (2026-27)",
+   "class": "10",
+   "subject": "English Language and Literature",
+   "questions": 40,
+   "suggested_minutes": 40,
+   "version": 1
+  },
+  {
+   "id": "c10-geography",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Geography · Crash Revision 2027",
+   "chapter": "CBSE Class 10 Social Science (087) · Geography: Contemporary India II · Crash revision (2026-27)",
+   "class": "10",
+   "subject": "Social Science: Geography",
+   "questions": 39,
+   "suggested_minutes": 35,
+   "version": 1
+  },
+  {
+   "id": "c10-hindi",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Hindi A · Crash Revision 2027",
+   "chapter": "CBSE कक्षा 10 हिंदी कोर्स A (002) · क्रैश रिवीज़न (पाठ्यक्रम 2026-27)",
+   "class": "10",
+   "subject": "Hindi Course A",
+   "questions": 40,
+   "suggested_minutes": 40,
+   "version": 1
+  },
+  {
+   "id": "c10-history",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 History · Crash Revision 2027",
+   "chapter": "CBSE Class 10 Social Science (087) · History: India and the Contemporary World II · Crash revision (2026-27)",
+   "class": "10",
+   "subject": "Social Science: History",
+   "questions": 39,
+   "suggested_minutes": 35,
+   "version": 1
+  },
+  {
+   "id": "c10-marathi",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Marathi · Crash Revision 2027",
+   "chapter": "CBSE इयत्ता दहावी मराठी (009) · अक्षरभारती · क्रॅश रिव्हिजन (अभ्यासक्रम 2026-27)",
+   "class": "10",
+   "subject": "Marathi",
+   "questions": 40,
+   "suggested_minutes": 40,
+   "version": 1
+  },
+  {
    "id": "c10-maths-ch01",
    "title": "Board-pattern readiness test — most-repeated question types",
    "short_title": "Class 10 Maths · Ch 1 Real Numbers",
    "chapter": "CBSE Class 10 Mathematics · Chapter 1 Real Numbers (NCERT reprint 2026-27)",
    "class": "10",
    "subject": "Mathematics",
+   "questions": 40,
+   "suggested_minutes": 45,
+   "version": 1
+  },
+  {
+   "id": "c10-maths",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Crash Revision 2027",
+   "chapter": "CBSE Class 10 Mathematics Standard (041) · Crash revision of all chapters (2026-27 syllabus)",
+   "class": "10",
+   "subject": "Mathematics",
+   "questions": 40,
+   "suggested_minutes": 50,
+   "version": 1
+  },
+  {
+   "id": "c10-science",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Science · Crash Revision 2027",
+   "chapter": "CBSE Class 10 Science (086) · Crash revision of all assessed chapters (2026-27 syllabus)",
+   "class": "10",
+   "subject": "Science",
    "questions": 40,
    "suggested_minutes": 45,
    "version": 1

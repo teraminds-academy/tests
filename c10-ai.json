@@ -1,0 +1,704 @@
+{
+ "schema": 1,
+ "id": "c10-ai",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Artificial Intelligence (417) · Crash revision of the theory units (2026-27)",
+ "short_title": "Class 10 AI (417) · Crash Revision 2027",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written from this video's script, its worksheet and the NCERT/CBSE material it cites, modelled on most-repeated / high-weightage question types in CBSE Sample Question Papers and past board papers. Practice for readiness only: not predictions of any exam and no promise of marks.",
+ "instructions": "39 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number. Rough work on paper is fine.",
+ "suggested_minutes": 40,
+ "video_url": "https://youtu.be/cP5_-CXiMuE",
+ "worksheet_url": "https://drive.google.com/file/d/1YukGAO72Pw4C1N4ttCnCmzZvXjzTbBRr/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Part A recall / case (skill shown)",
+  "T2": "SDG / green skills",
+  "T3": "Stages of the AI Project Cycle",
+  "T4": "Identify the AI domain",
+  "T5": "Frameworks and bioethics (MCQ / A-R)",
+  "T6": "Biased-algorithm case",
+  "T7": "AI vs ML vs DL",
+  "T8": "Classification vs regression; learning types",
+  "T9": "ANN / CNN and layers",
+  "T10": "Perceptron output (MCQ-style)",
+  "T11": "Confusion matrix numerical",
+  "T12": "FP / FN and which metric matters",
+  "T13": "Train-test split",
+  "T14": "Pixels, byte and RGB images",
+  "T15": "CV tasks",
+  "T16": "Bag of Words vector table",
+  "T17": "Stemming vs lemmatization",
+  "T18": "NLP stages, bots, applications"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Part A: Employability Skills",
+   "tip": "Part A is list-based: self-motivation steps (strengths → goals → plan → stay loyal), SMART goals, strong passwords, entrepreneur functions, 17 SDGs. Case questions: name the skill the person shows.",
+   "ncert": "Employability Skills Class X (Part A) units on communication, self-management, ICT, entrepreneurship and green skills; CBSE SQP 2025-26 Part A"
+  },
+  "S2": {
+   "name": "AI Project Cycle & Domains",
+   "tip": "Six stages in order: scope, acquire, explore, model, evaluate, deploy. Domain = type of data: numbers/tables → Statistical Data, images/video → CV, human language → NLP. Always add the one-line reason.",
+   "ncert": "CBSE AI (417) Facilitator Handbook Class X, Unit 1 (AI Project Cycle, AI domains); CBSE SQP 2025-26 Q11"
+  },
+  "S3": {
+   "name": "Ethical Frameworks & Bioethics",
+   "tip": "Sector-based (bioethics in healthcare) vs value-based (rights, utility, virtue). Bioethics is sector-based. For biased-algorithm cases: name the unfair data, then the principle.",
+   "ncert": "CBSE AI (417) Facilitator Handbook Class X, Unit 1 (ethical frameworks); CBSE SQP 2025-26 Q17"
+  },
+  "S4": {
+   "name": "Modelling: AI, ML, DL & Learning Types",
+   "tip": "AI ⊃ ML ⊃ DL. Label output → classification; number output → regression. No labels: clustering (groups) or association (bought X, also bought Y). Reward and penalty → reinforcement.",
+   "ncert": "CBSE AI (417) Facilitator Handbook Class X, Unit 2 (Advanced Modelling); CBSE AI Curriculum 2026-27 Unit 2"
+  },
+  "S5": {
+   "name": "Neural Networks",
+   "tip": "Layers: input → hidden → output. CNN is for images; ANN learns features itself. Perceptron: y = w₁x₁ + w₂x₂ + … + b; multiply, add, then add the bias.",
+   "ncert": "CBSE AI (417) Facilitator Handbook Class X, Unit 2 (neural networks); CBSE SQP 2025-26 Q12"
+  },
+  "S6": {
+   "name": "Evaluating Models",
+   "tip": "Draw the confusion matrix first. Accuracy = (TP + TN)/total; Precision = TP/(TP + FP); Recall = TP/(TP + FN); F1 = 2PR/(P + R). Missed cases dangerous → watch recall; false alarms costly → watch precision.",
+   "ncert": "CBSE AI (417) Facilitator Handbook Class X, Unit 3 (Evaluating Models); CBSE SQP 2025-26 Q20"
+  },
+  "S7": {
+   "name": "Computer Vision",
+   "tip": "Pixel = smallest unit; resolution = number of pixels. Byte image: 0 (black) to 255 (white). RGB has 3 channels, grayscale 1. CV is the superset of image processing.",
+   "ncert": "CBSE AI (417) Facilitator Handbook Class X, Unit 5 (Computer Vision); CBSE SQP 2025-26 Q15"
+  },
+  "S8": {
+   "name": "Natural Language Processing",
+   "tip": "Bag of Words: normalise → dictionary → document vector → all vectors; only counts matter. Stem may not be a real word; lemma always is. Script bot = rules; smart bot = coded, big data.",
+   "ncert": "CBSE AI (417) Facilitator Handbook Class X, Unit 6 (NLP); CBSE SQP 2025-26 Q16, Q21"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "How many Sustainable Development Goals has the United Nations set?",
+   "answer": "A",
+   "explanation": "The UN has 17 SDGs (for example, donating unused things fits SDG 12, responsible consumption).",
+   "remediation": "Video part 1: Part A: Employability Skills; then the worksheet practice for this part.",
+   "options": [
+    "17",
+    "10",
+    "20",
+    "12"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A nod or a thumbs-up is an example of:",
+   "answer": "A",
+   "explanation": "Gestures and body language are non-verbal communication.",
+   "remediation": "Video part 1: Part A: Employability Skills; then the worksheet practice for this part.",
+   "options": [
+    "Non-verbal communication",
+    "Written communication",
+    "Verbal communication",
+    "Visual-only communication"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Which of these is the strongest password?",
+   "answer": "D",
+   "explanation": "A strong password mixes upper- and lower-case letters, numbers and special characters, and avoids names and simple sequences.",
+   "remediation": "Video part 1: Part A: Employability Skills; then the worksheet practice for this part.",
+   "options": [
+    "meera2011",
+    "password123",
+    "12345678",
+    "Tq#8vL2!mZ"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Meera has listed what she is good at. According to the steps to self-motivation, what should she do next?",
+   "answer": "C",
+   "explanation": "The four steps: find your strengths → set goals → make a plan → stay loyal to your goals.",
+   "remediation": "Video part 1: Part A: Employability Skills; then the worksheet practice for this part.",
+   "options": [
+    "Stay loyal to her goals",
+    "Skip planning and start at once",
+    "Set goals she wants to achieve",
+    "Ask others to plan for her"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Which is the FIRST stage of the AI Project Cycle?",
+   "answer": "A",
+   "explanation": "Order: problem scoping → data acquisition → data exploration → modelling → evaluation → deployment.",
+   "remediation": "Video part 2: AI Project Cycle & Domains; then the worksheet practice for this part.",
+   "options": [
+    "Problem scoping",
+    "Deployment",
+    "Modelling",
+    "Data acquisition"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "A team tests its trained model on fresh data it has never seen to check how well it works. This stage is:",
+   "answer": "A",
+   "explanation": "Testing a model on new data is evaluation; deployment is putting it into real use.",
+   "remediation": "Video part 2: AI Project Cycle & Domains; then the worksheet practice for this part.",
+   "options": [
+    "Evaluation",
+    "Problem scoping",
+    "Data exploration",
+    "Deployment"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Problem scoping uses the 4Ws. They are:",
+   "answer": "B",
+   "explanation": "The 4Ws canvas: Who, What, Where, Why.",
+   "remediation": "Video part 2: AI Project Cycle & Domains; then the worksheet practice for this part.",
+   "options": [
+    "Who, When, Which, Way",
+    "Who, What, Where, Why",
+    "Why, Which, Who, Work",
+    "What, When, Where, Wait"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "A hospital system reads chest X-ray images and flags possible pneumonia. Which AI domain is this?",
+   "answer": "D",
+   "explanation": "Name the domain from the type of input data: X-ray images → Computer Vision.",
+   "remediation": "Video part 2: AI Project Cycle & Domains; then the worksheet practice for this part.",
+   "options": [
+    "Natural Language Processing, because it gives a diagnosis",
+    "Statistical Data, because hospitals keep records",
+    "Natural Language Processing, because doctors write reports",
+    "Computer Vision, because the input is images"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "A water board uses 20 years of rainfall and usage tables to forecast next month's water demand. Choose the domain WITH the correct reason.",
+   "answer": "A",
+   "explanation": "The data is numerical and tabular, so it is Statistical Data; the reason must be built on the data type.",
+   "remediation": "Video part 2: AI Project Cycle & Domains; then the worksheet practice for this part.",
+   "options": [
+    "Statistical Data, because it learns from numbers in tables",
+    "Computer Vision, because it predicts the future",
+    "Computer Vision, because rainfall can be seen",
+    "NLP, because the board writes reports on it"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Bioethics, used in healthcare, is an example of a:",
+   "answer": "A",
+   "explanation": "Bioethics is built for one field (healthcare), so it is sector-based.",
+   "remediation": "Video part 3: Ethical Frameworks & Bioethics; then the worksheet practice for this part.",
+   "options": [
+    "Sector-based framework",
+    "Value-based framework",
+    "Rights-based framework only",
+    "Rule-based model"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "A virtue-based ethical framework mainly looks at:",
+   "answer": "C",
+   "explanation": "Virtue-based = character and intentions; utility-based = maximum benefit; rights-based = rights.",
+   "remediation": "Video part 3: Ethical Frameworks & Bioethics; then the worksheet practice for this part.",
+   "options": [
+    "The rules of one particular sector",
+    "The greatest benefit for the greatest number",
+    "The character and intentions of the person acting",
+    "Only the rights of individuals"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "D",
+   "explanation": "A is false: bioethics is sector-based. R is true, and it is exactly why bioethics is sector-based.",
+   "remediation": "Video part 3: Ethical Frameworks & Bioethics; then the worksheet practice for this part.",
+   "assertion": "Bioethics is a value-based framework.",
+   "reason": "Bioethics is applied in the field of healthcare.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L4",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "An AI tool that shortlists patients for a free check-up was trained mostly on records from one city, and it gives poorer results for patients from villages. What is the most likely reason it is unfair?",
+   "answer": "C",
+   "explanation": "Bias usually comes from unrepresentative data; the fix links to principles like 'do not harm' and 'give justice'.",
+   "remediation": "Video part 3: Ethical Frameworks & Bioethics; then the worksheet practice for this part.",
+   "options": [
+    "The computer was too slow",
+    "The model used too few hidden layers",
+    "The training data did not represent all groups of patients",
+    "The patients typed their names wrongly"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Which statement about AI, ML and DL is correct?",
+   "answer": "D",
+   "explanation": "Nested circles: AI ⊃ ML ⊃ DL.",
+   "remediation": "Video part 4: Modelling: AI, ML, DL & Learning Types; then the worksheet practice for this part.",
+   "options": [
+    "AI is a part of Machine Learning",
+    "AI, ML and DL do not overlap",
+    "Machine Learning is a part of Deep Learning",
+    "Deep Learning is a part of Machine Learning, which is a part of AI"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "A self-parking car learns by getting rewards for good moves and penalties for bad ones. This is:",
+   "answer": "C",
+   "explanation": "Learning by reward and penalty is reinforcement learning.",
+   "remediation": "Video part 4: Modelling: AI, ML, DL & Learning Types; then the worksheet practice for this part.",
+   "options": [
+    "Unsupervised learning",
+    "Rule-based learning",
+    "Reinforcement learning",
+    "Supervised learning"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Predicting tomorrow's maximum temperature in °C is an example of:",
+   "answer": "C",
+   "explanation": "The output is a continuous number, so it is regression.",
+   "remediation": "Video part 4: Modelling: AI, ML, DL & Learning Types; then the worksheet practice for this part.",
+   "options": [
+    "Clustering",
+    "Classification",
+    "Regression",
+    "Association"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "A shop groups its customers by buying habits, without any labels given in advance. This is:",
+   "answer": "B",
+   "explanation": "Unlabelled data grouped into similar sets is clustering (unsupervised).",
+   "remediation": "Video part 4: Modelling: AI, ML, DL & Learning Types; then the worksheet practice for this part.",
+   "options": [
+    "Classification",
+    "Clustering",
+    "Regression",
+    "Reinforcement learning"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Why does a rule-based chatbot fail when a user types a new slang word it was never given?",
+   "answer": "B",
+   "explanation": "Rule-based models follow fixed rules, so their learning is static.",
+   "remediation": "Video part 4: Modelling: AI, ML, DL & Learning Types; then the worksheet practice for this part.",
+   "options": [
+    "It is a deep-learning model",
+    "Its learning is static: it follows fixed rules and cannot adapt",
+    "It has too much training data",
+    "It uses reinforcement learning"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S4",
+   "level": "L4",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Which of these tasks is CLASSIFICATION?",
+   "answer": "B",
+   "explanation": "Ask: is the answer a label or a number? Approve / reject is a label; the rest are numbers (regression).",
+   "remediation": "Video part 4: Modelling: AI, ML, DL & Learning Types; then the worksheet practice for this part.",
+   "options": [
+    "Estimating tomorrow's rainfall in mm",
+    "Deciding whether a loan application should be approved or rejected",
+    "Forecasting a share price",
+    "Predicting the price of a flat in rupees"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "The three kinds of layers in a neural network are:",
+   "answer": "B",
+   "explanation": "Input layer → one or more hidden layers → output layer.",
+   "remediation": "Video part 5: Neural Networks; then the worksheet practice for this part.",
+   "options": [
+    "Input, process and print",
+    "Input, hidden and output",
+    "Pixel, channel and vector",
+    "Data, model and deploy"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "A Convolutional Neural Network (CNN) is mainly used for:",
+   "answer": "C",
+   "explanation": "A CNN assigns weights to image features to tell one object from another.",
+   "remediation": "Video part 5: Neural Networks; then the worksheet practice for this part.",
+   "options": [
+    "Storing passwords",
+    "Sorting numbers in a table",
+    "Telling objects apart in images",
+    "Translating speech only"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "numeric",
+   "question": "A perceptron has inputs x₁ = 2 and x₂ = 3, weights w₁ = 4 and w₂ = −1, and bias b = 5. Find the output y = w₁x₁ + w₂x₂ + b.",
+   "answer": "10",
+   "explanation": "y = 4 × 2 + (−1) × 3 + 5 = 8 − 3 + 5 = 10.",
+   "remediation": "Video part 5: Neural Networks; then the worksheet practice for this part."
+  },
+  {
+   "id": "q23",
+   "subtopic": "S5",
+   "level": "L4",
+   "pattern": "T10",
+   "type": "numeric",
+   "question": "A perceptron has inputs (1, 2, 3), weights (2, w₂, −1) and bias 4. Its output is 9. Find w₂.",
+   "answer": "3",
+   "explanation": "2(1) + 2w₂ + (−1)(3) + 4 = 9 → 3 + 2w₂ = 9 → w₂ = 3.",
+   "remediation": "Video part 5: Neural Networks; then the worksheet practice for this part."
+  },
+  {
+   "id": "q24",
+   "subtopic": "S6",
+   "level": "L1",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "In a confusion matrix, a FALSE POSITIVE means the model:",
+   "answer": "A",
+   "explanation": "False positive = a false alarm, like a fire alarm with no fire. A missed real case is a false negative.",
+   "remediation": "Video part 6: Evaluating Models; then the worksheet practice for this part.",
+   "options": [
+    "Said 'yes', but the real answer was 'no'",
+    "Said 'no', and the real answer was 'no'",
+    "Said 'no', but the real answer was 'yes'",
+    "Said 'yes', and the real answer was 'yes'"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "numeric",
+   "question": "A screening model tested on 200 cases gives TP = 30, FP = 10, FN = 30, TN = 130. Find its accuracy as a percentage.",
+   "answer": "80",
+   "explanation": "Accuracy = (TP + TN)/total = (30 + 130)/200 = 160/200 = 0.8 = 80%.",
+   "remediation": "Video part 6: Evaluating Models; then the worksheet practice for this part."
+  },
+  {
+   "id": "q26",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T11",
+   "type": "numeric",
+   "question": "For the same model (TP = 30, FP = 10, FN = 30, TN = 130), find the precision as a percentage.",
+   "answer": "75",
+   "explanation": "Precision = TP/(TP + FP) = 30/40 = 0.75 = 75%.",
+   "remediation": "Video part 6: Evaluating Models; then the worksheet practice for this part."
+  },
+  {
+   "id": "q27",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T11",
+   "type": "numeric",
+   "question": "For the same model (TP = 30, FP = 10, FN = 30, TN = 130), find the recall as a percentage.",
+   "answer": "50",
+   "explanation": "Recall = TP/(TP + FN) = 30/60 = 0.5 = 50%.",
+   "remediation": "Video part 6: Evaluating Models; then the worksheet practice for this part."
+  },
+  {
+   "id": "q28",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "numeric",
+   "question": "For the same model, precision = 0.75 and recall = 0.5. Find the F1 score as a percentage.",
+   "answer": "60",
+   "explanation": "F1 = 2PR/(P + R) = 2 × 0.75 × 0.5 / 1.25 = 0.75/1.25 = 0.6 = 60%. Note how the low recall pulls F1 down even though accuracy is 80%.",
+   "remediation": "Video part 6: Evaluating Models; then the worksheet practice for this part."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "For a model that screens patients for a serious disease, which metric matters most?",
+   "answer": "A",
+   "explanation": "When missing a real case is dangerous, false negatives matter most, so watch recall. High accuracy can mislead.",
+   "remediation": "Video part 6: Evaluating Models; then the worksheet practice for this part.",
+   "options": [
+    "Recall, because missing a real case (false negative) is dangerous",
+    "Accuracy, because it is always reliable",
+    "Precision, because false alarms are the only problem",
+    "None, because metrics do not matter in health"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "Why should a model not be tested on the same data it was trained on?",
+   "answer": "D",
+   "explanation": "Testing on training data hides overfitting and shows fake-high accuracy; use a separate testing set.",
+   "remediation": "Video part 6: Evaluating Models; then the worksheet practice for this part.",
+   "options": [
+    "It always lowers accuracy to zero",
+    "Training data cannot be stored",
+    "It makes the model run faster",
+    "It gives a falsely high accuracy because the model has already seen those answers (overfitting)"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S7",
+   "level": "L1",
+   "pattern": "T14",
+   "type": "numeric",
+   "question": "In a byte image, what is the highest possible pixel value (white)?",
+   "answer": "255",
+   "explanation": "8 bits give 2⁸ = 256 values, from 0 (black) to 255 (white).",
+   "remediation": "Video part 7: Computer Vision; then the worksheet practice for this part."
+  },
+  {
+   "id": "q32",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T15",
+   "type": "mcq",
+   "question": "A traffic camera finds and boxes every car and every person in one frame. This Computer Vision task is:",
+   "answer": "C",
+   "explanation": "Classification labels one object; classification + localisation also locates it; object detection finds many objects; instance segmentation marks each one pixel by pixel.",
+   "remediation": "Video part 7: Computer Vision; then the worksheet practice for this part.",
+   "options": [
+    "Text normalisation",
+    "Image resolution",
+    "Object detection",
+    "Classification of a single object"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T14",
+   "type": "numeric",
+   "question": "A tiny RGB image is 4 pixels wide and 4 pixels high. How many numbers (channel values) does the computer store for it?",
+   "answer": "48",
+   "explanation": "4 × 4 = 16 pixels, each with 3 channel values (R, G, B): 16 × 3 = 48.",
+   "remediation": "Video part 7: Computer Vision; then the worksheet practice for this part."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T14",
+   "type": "mcq",
+   "question": "Which statement is correct?",
+   "answer": "C",
+   "explanation": "Image processing is a subset of CV; grayscale has one channel; resolution is the number of pixels.",
+   "remediation": "Video part 7: Computer Vision; then the worksheet practice for this part.",
+   "options": [
+    "Resolution is the size of the file in MB",
+    "Image processing is the superset of Computer Vision",
+    "Computer Vision is the superset of image processing",
+    "A grayscale image has three channels"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S8",
+   "level": "L1",
+   "pattern": "T18",
+   "type": "mcq",
+   "question": "Rearranging a jumbled sentence into the correct grammatical order is which stage of NLP?",
+   "answer": "D",
+   "explanation": "Syntax deals with the arrangement of words in a grammatically correct order.",
+   "remediation": "Video part 8: Natural Language Processing; then the worksheet practice for this part.",
+   "options": [
+    "Discourse integration",
+    "Pragmatic analysis",
+    "Lexical analysis",
+    "Syntactic analysis (parsing)"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "For the word 'studies', which is correct?",
+   "answer": "A",
+   "explanation": "Stemming just chops the ending, so the stem may not be a real word; the lemma always is (like flies → fli / fly).",
+   "remediation": "Video part 8: Natural Language Processing; then the worksheet practice for this part.",
+   "options": [
+    "Stemming may give 'studi'; lemmatization gives 'study'",
+    "Stemming gives 'study'; lemmatization gives 'studi'",
+    "Both always give real words",
+    "Both remove the word completely"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T18",
+   "type": "mcq",
+   "question": "A chatbot that follows pre-written rules, is easy to make and works on a small set of responses is a:",
+   "answer": "D",
+   "explanation": "Script bots work on rules and are easy to make; smart bots need coding and bigger databases.",
+   "remediation": "Video part 8: Natural Language Processing; then the worksheet practice for this part.",
+   "options": [
+    "Deep-learning bot",
+    "Computer Vision bot",
+    "Smart bot",
+    "Script bot"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T16",
+   "type": "numeric",
+   "question": "Two documents are lower-cased only (no stop words removed): D1 'The cat sat on the mat', D2 'The dog sat'. How many words are in the dictionary of unique words?",
+   "answer": "6",
+   "explanation": "Unique words: the, cat, sat, on, mat, dog = 6.",
+   "remediation": "Video part 8: Natural Language Processing; then the worksheet practice for this part."
+  },
+  {
+   "id": "q39",
+   "subtopic": "S8",
+   "level": "L4",
+   "pattern": "T16",
+   "type": "numeric",
+   "question": "Using the same dictionary, what is the value for 'the' in the document vector of D1?",
+   "answer": "2",
+   "explanation": "Bag of Words counts frequency: 'the' appears twice in 'the cat sat on the mat'. Word order does not matter.",
+   "remediation": "Video part 8: Natural Language Processing; then the worksheet practice for this part."
+  }
+ ],
+ "class": "10",
+ "subject": "Artificial Intelligence",
+ "board": "CBSE"
+}

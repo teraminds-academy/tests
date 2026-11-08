@@ -1,0 +1,638 @@
+{
+ "schema": 1,
+ "id": "c10-economics",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Social Science (087) · Economics: Understanding Economic Development · Crash revision (2026-27)",
+ "short_title": "Class 10 Economics · Crash Revision 2027",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written from this video's script, its worksheet and the NCERT/CBSE material it cites, modelled on most-repeated / high-weightage question types in CBSE Sample Question Papers and past board papers. Practice for readiness only: not predictions of any exam and no promise of marks.",
+ "instructions": "35 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (no commas needed).",
+ "suggested_minutes": 35,
+ "video_url": null,
+ "worksheet_url": null,
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Average / per capita income",
+  "T2": "Indicators: IMR, literacy, HDI",
+  "T3": "Developmental goals and sustainability",
+  "T4": "Sectors and GDP",
+  "T5": "Underemployment and rural jobs",
+  "T6": "Organised / public sector",
+  "T7": "Barter and money",
+  "T8": "RBI and formal credit",
+  "T9": "Terms of credit and collateral",
+  "T10": "Self-help groups",
+  "T11": "Meaning of globalisation, MNCs",
+  "T12": "Technology and liberalisation"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Development",
+   "tip": "Per capita income = total income ÷ population, but averages hide disparities. Add IMR, literacy and NAR (Kerala beats richer Haryana). HDI = health + education + income. Backward averages: total = average × number, then subtract.",
+   "ncert": "NCERT Understanding Economic Development (Reprint 2026-27), Ch 1 Development"
+  },
+  "S2": {
+   "name": "Sectors of the Indian Economy",
+   "tip": "GDP counts final goods only (no double counting) and = primary + secondary + tertiary. Tertiary is the largest producer; primary the largest employer → disguised unemployment. Organised vs unorganised; public vs private.",
+   "ncert": "NCERT Understanding Economic Development (Reprint 2026-27), Ch 2 Sectors of the Indian Economy"
+  },
+  "S3": {
+   "name": "Money and Credit",
+   "tip": "Money solves the double coincidence of wants. RBI issues notes and supervises formal lenders. Terms of credit: interest, collateral, documents, repayment. Lack of collateral pushes the poor to informal lenders; SHGs fill the gap.",
+   "ncert": "NCERT Understanding Economic Development (Reprint 2026-27), Ch 3 Money and Credit"
+  },
+  "S4": {
+   "name": "Globalisation and the Indian Economy",
+   "tip": "Board tests only 'what is globalisation' and 'factors that enabled it': technology (containers, air transport, ICT), liberalisation (around 1991) and international organisations (WTO). One point each + how they reinforce each other.",
+   "ncert": "NCERT Understanding Economic Development (Reprint 2026-27), Ch 4 Globalisation, first two sub-topics only"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The World Bank's main criterion for comparing countries is per capita income, which is:",
+   "answer": "D",
+   "explanation": "Per capita (average) income = total income ÷ population.",
+   "remediation": "Video part 1: Development; then the worksheet practice for this part.",
+   "options": [
+    "Total income of the government",
+    "Total exports minus imports",
+    "Total income of the richest 10%",
+    "Total income of the country divided by its total population"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "A small country of 4 people has a total income of ₹60,000. What is its per capita income in ₹?",
+   "answer": "15000",
+   "explanation": "60,000 ÷ 4 = ₹15,000.",
+   "remediation": "Video part 1: Development; then the worksheet practice for this part."
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "The average income of 5 families is ₹8,000. Four of them earn ₹6,000, ₹9,000, ₹7,000 and ₹5,000. What does the fifth family earn, in ₹?",
+   "answer": "13000",
+   "explanation": "Total = 5 × 8,000 = 40,000. Four families = 27,000. Fifth = 40,000 − 27,000 = ₹13,000.",
+   "remediation": "Video part 1: Development; then the worksheet practice for this part."
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L4",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "In country A, five citizens earn ₹10,000 each. In country B, four citizens earn ₹500 each and one earns ₹48,000. Which statement is correct?",
+   "answer": "D",
+   "explanation": "A: 50,000 ÷ 5 = 10,000. B: (2,000 + 48,000) ÷ 5 = 10,000. Same average; averages hide disparities.",
+   "remediation": "Video part 1: Development; then the worksheet practice for this part.",
+   "options": [
+    "A has a higher average income than B",
+    "Both have equal distribution of income",
+    "B has a higher average income than A",
+    "Both have the same average income, but income in B is far more unequal"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The infant mortality rate (IMR) is:",
+   "answer": "D",
+   "explanation": "IMR: deaths before age 1 per 1,000 live births.",
+   "remediation": "Video part 1: Development; then the worksheet practice for this part.",
+   "options": [
+    "The number of children who die before the age of five, per 100 births",
+    "The share of children aged 7+ who can read",
+    "The number of hospitals per 1,000 people",
+    "The number of children who die before the age of one year, per 1,000 live children born in that year"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Kerala has a lower per capita income than Haryana, yet a much lower infant mortality rate (6 against 28 in 2020). The main reason is:",
+   "answer": "C",
+   "explanation": "Money cannot buy every public good; public provision of health, education and PDS matters.",
+   "remediation": "Video part 1: Development; then the worksheet practice for this part.",
+   "options": [
+    "Haryana has no hospitals",
+    "Kerala has more factories",
+    "Kerala has adequate basic health and education facilities and a working public distribution system",
+    "Kerala has a higher population"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The UNDP's Human Development Report compares countries on:",
+   "answer": "B",
+   "explanation": "HDI combines health, education and income; the World Bank uses per capita income alone.",
+   "remediation": "Video part 1: Development; then the worksheet practice for this part.",
+   "options": [
+    "Area and population",
+    "Health, education and per capita income",
+    "Military strength",
+    "Per capita income only"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S1",
+   "level": "L4",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "A big dam would give more electricity to industries. Which group is most likely to have a conflicting developmental goal?",
+   "answer": "B",
+   "explanation": "Different people have different, sometimes conflicting, goals: one person's development can be another's loss.",
+   "remediation": "Video part 1: Development; then the worksheet practice for this part.",
+   "options": [
+    "Industrialists who need power",
+    "Tribal people who would be displaced and may prefer small check dams",
+    "City people who want more electricity",
+    "Engineers building the dam"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Which of these is a non-renewable resource?",
+   "answer": "B",
+   "explanation": "Crude oil gets exhausted after use; groundwater is renewable but can be overused.",
+   "remediation": "Video part 1: Development; then the worksheet practice for this part.",
+   "options": [
+    "Forests",
+    "Crude oil",
+    "Crops",
+    "Groundwater"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Dairy farming belongs to which sector?",
+   "answer": "A",
+   "explanation": "Primary activities use natural resources directly: agriculture, dairy, fishing, forestry, mining.",
+   "remediation": "Video part 2: Sectors of the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "Primary",
+    "Tertiary",
+    "Secondary",
+    "Organised only"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A country's GDP is ₹1,200 crore. The primary sector produces ₹250 crore and the secondary sector ₹350 crore. What does the tertiary sector produce, in ₹ crore?",
+   "answer": "600",
+   "explanation": "GDP = primary + secondary + tertiary, so tertiary = 1,200 − 250 − 350 = ₹600 crore.",
+   "remediation": "Video part 2: Sectors of the Indian Economy; then the worksheet practice for this part."
+  },
+  {
+   "id": "q12",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A farmer sells wheat to a miller for ₹50, the miller sells flour to a baker for ₹80, and the baker sells biscuits to consumers for ₹150. Which value (in ₹) is counted in GDP?",
+   "answer": "150",
+   "explanation": "Only final goods count: the ₹150 biscuits already include the value of the flour and wheat. Adding 50 + 80 + 150 would be double counting.",
+   "remediation": "Video part 2: Sectors of the Indian Economy; then the worksheet practice for this part."
+  },
+  {
+   "id": "q13",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "A family of six works on a small plot that needs only three people. If three leave, output does not fall. This is:",
+   "answer": "C",
+   "explanation": "More people are working than needed; their contribution is hidden.",
+   "remediation": "Video part 2: Sectors of the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "Educated unemployment",
+    "Seasonal unemployment",
+    "Disguised unemployment (underemployment)",
+    "Full employment"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Which statement about India's sectors is correct?",
+   "answer": "B",
+   "explanation": "Primary employs more than half the workers yet produces only about one-sixth of GVA.",
+   "remediation": "Video part 2: Sectors of the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "All three sectors are equal in output and jobs",
+    "The tertiary sector is the largest producer, but the primary sector is still the largest employer",
+    "The primary sector is the largest producer and the smallest employer",
+    "The secondary sector employs more than half the workers"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S2",
+   "level": "L4",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Which measure would best create more work for rural people without moving them to cities?",
+   "answer": "A",
+   "explanation": "Irrigation, roads, storage, cheap credit, agro-industries and jobs in education, health and tourism.",
+   "remediation": "Video part 2: Sectors of the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "Building rural roads and storage, and setting up agro-processing industries in semi-rural areas",
+    "Closing all village schools",
+    "Banning loans to farmers",
+    "Moving every farmer to a factory overnight"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "Under MGNREGA 2005, how many days of work a year did the law promise to rural households?",
+   "answer": "100",
+   "explanation": "100 days of work a year, or an unemployment allowance.",
+   "remediation": "Video part 2: Sectors of the Indian Economy; then the worksheet practice for this part."
+  },
+  {
+   "id": "q17",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Which is a feature of the organised sector?",
+   "answer": "C",
+   "explanation": "Organised: registered, follows rules and laws, regular work; unorganised: insecure, often unregistered.",
+   "remediation": "Video part 2: Sectors of the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "Enterprises are never registered",
+    "It has no rules or regulations",
+    "Enterprises are registered and give regular jobs with assured terms of employment",
+    "Jobs are low-paid and insecure with no paid leave"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S2",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true, and R is one of the four reasons for the growth of services (also basic services, support for agriculture and industry, IT).",
+   "remediation": "Video part 2: Sectors of the Indian Economy; then the worksheet practice for this part.",
+   "assertion": "The tertiary sector is becoming more important in India.",
+   "reason": "Rising incomes create demand for services such as eating out, tourism and private schools.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "In a barter system, the main problem is the need for:",
+   "answer": "D",
+   "explanation": "Both sides must want exactly what the other has; money removes this by acting as a medium of exchange.",
+   "remediation": "Video part 3: Money and Credit; then the worksheet practice for this part.",
+   "options": [
+    "Foreign exchange",
+    "A bank account",
+    "Collateral",
+    "Double coincidence of wants"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Who issues currency notes in India on behalf of the central government?",
+   "answer": "A",
+   "explanation": "The RBI issues notes; no one in India can legally refuse the rupee.",
+   "remediation": "Video part 3: Money and Credit; then the worksheet practice for this part.",
+   "options": [
+    "The Reserve Bank of India",
+    "The State Bank of India",
+    "The Finance Ministry's local offices",
+    "Commercial banks"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T8",
+   "type": "numeric",
+   "question": "A bank keeps about 5% of its deposits as cash. If people deposit ₹2,00,000, how much (in ₹) does it keep as cash?",
+   "answer": "10000",
+   "explanation": "5% of 2,00,000 = ₹10,000; the rest is lent out.",
+   "remediation": "Video part 3: Money and Credit; then the worksheet practice for this part."
+  },
+  {
+   "id": "q22",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Collateral is:",
+   "answer": "C",
+   "explanation": "Land, a building, vehicle, livestock or deposits; the lender can sell it if the loan is not repaid.",
+   "remediation": "Video part 3: Money and Credit; then the worksheet practice for this part.",
+   "options": [
+    "The interest charged on a loan",
+    "A bank's cash balance",
+    "An asset the borrower owns and pledges to the lender until the loan is repaid",
+    "A type of currency"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Which of these is NOT one of the terms of credit?",
+   "answer": "B",
+   "explanation": "Terms of credit: interest rate, collateral, documentation and mode of repayment.",
+   "remediation": "Video part 3: Money and Credit; then the worksheet practice for this part.",
+   "options": [
+    "The mode of repayment",
+    "The number of bank branches in the city",
+    "The interest rate",
+    "Collateral"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T9",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; lack of collateral (R) is a key reason they turn to moneylenders (A).",
+   "remediation": "Video part 3: Money and Credit; then the worksheet practice for this part.",
+   "assertion": "Poor households depend largely on informal sources of credit.",
+   "reason": "They often lack the collateral and documents that banks require.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S3",
+   "level": "L4",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Ravi borrows from a moneylender at a high interest rate to grow a crop. The crop fails, and he has to sell part of his land to repay. This situation is called:",
+   "answer": "C",
+   "explanation": "Credit that cannot be repaid pushes the borrower into a worse situation: a debt trap.",
+   "remediation": "Video part 3: Money and Credit; then the worksheet practice for this part.",
+   "options": [
+    "Working capital",
+    "Collateral-free credit",
+    "A debt trap",
+    "Liberalisation"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "A self-help group (SHG) usually has:",
+   "answer": "B",
+   "explanation": "After a year or two of saving, the group can borrow from a bank; group pressure ensures repayment.",
+   "remediation": "Video part 3: Money and Credit; then the worksheet practice for this part.",
+   "options": [
+    "Only one member",
+    "15 to 20 members, mostly women, who save regularly",
+    "Over 1,000 members",
+    "Only bank employees"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S3",
+   "level": "L4",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Why does the RBI supervise formal lenders?",
+   "answer": "A",
+   "explanation": "RBI monitors cash balances and lending, so credit reaches small borrowers too; nobody supervises informal lenders.",
+   "remediation": "Video part 3: Money and Credit; then the worksheet practice for this part.",
+   "options": [
+    "To check that banks keep enough cash balance and also lend to small cultivators and small industries",
+    "To set the price of vegetables",
+    "To print books for schools",
+    "To run moneylenders' businesses"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "A multinational corporation (MNC) is a company that:",
+   "answer": "C",
+   "explanation": "MNCs spread production across countries.",
+   "remediation": "Video part 4: Globalisation and the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "Produces only agricultural goods",
+    "Sells only in its own city",
+    "Owns or controls production in more than one nation",
+    "Is owned by the government"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Globalisation is best described as:",
+   "answer": "D",
+   "explanation": "Goods, services, investment and technology move across borders; people move less because of restrictions.",
+   "remediation": "Video part 4: Globalisation and the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "Producing everything within one village",
+    "Closing borders to foreign goods",
+    "Moving all people to one country",
+    "Rapid integration or interconnection between countries through trade and investment"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "In globalisation, which moves LEAST freely between countries?",
+   "answer": "C",
+   "explanation": "People move less because of various restrictions.",
+   "remediation": "Video part 4: Globalisation and the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "Goods",
+    "Investment",
+    "People",
+    "Technology"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "Which of these is an example of a trade barrier?",
+   "answer": "C",
+   "explanation": "A tax on imports restricts trade; the others are technology factors that help trade.",
+   "remediation": "Video part 4: Globalisation and the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "Cheaper air transport",
+    "Containers on ships",
+    "A tax on imports",
+    "The internet"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "Around which year did India remove barriers on foreign trade and investment to a large extent?",
+   "answer": "D",
+   "explanation": "Around 1991, so Indian producers would compete globally and improve quality.",
+   "remediation": "Video part 4: Globalisation and the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "2005",
+    "1971",
+    "1950",
+    "1991"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S4",
+   "level": "L4",
+   "pattern": "T12",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true, and R explains A; developed countries also protected their producers in their early stages.",
+   "remediation": "Video part 4: Globalisation and the Indian Economy; then the worksheet practice for this part.",
+   "assertion": "After independence, the Indian government restricted foreign trade and investment.",
+   "reason": "It wanted to protect young domestic producers from foreign competition.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "S4",
+   "level": "L4",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "Which is a LIBERALISATION factor in globalisation, rather than a technology factor?",
+   "answer": "C",
+   "explanation": "Liberalisation = removing government barriers; the others are improvements in technology.",
+   "remediation": "Video part 4: Globalisation and the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "Use of containers for shipping",
+    "Information and communication technology",
+    "Removing government barriers on imports and investment",
+    "Cheaper air transport"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "How has information and communication technology helped globalisation?",
+   "answer": "D",
+   "explanation": "Telecom, computers, the internet and satellites let services be produced and paid for across borders.",
+   "remediation": "Video part 4: Globalisation and the Indian Economy; then the worksheet practice for this part.",
+   "options": [
+    "It has made transport costs higher",
+    "It has replaced all MNCs",
+    "It has stopped trade between countries",
+    "A magazine for London can be designed in Delhi and paid for instantly by e-banking"
+   ]
+  }
+ ],
+ "class": "10",
+ "subject": "Social Science: Economics",
+ "board": "CBSE"
+}

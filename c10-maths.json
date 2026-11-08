@@ -1,0 +1,631 @@
+{
+ "schema": 1,
+ "id": "c10-maths",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics Standard (041) · Crash revision of all chapters (2026-27 syllabus)",
+ "short_title": "Class 10 Maths · Crash Revision 2027",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written from this video's script, its worksheet and the NCERT/CBSE material it cites, modelled on most-repeated / high-weightage question types in CBSE Sample Question Papers and past board papers. Practice for readiness only: not predictions of any exam and no promise of marks.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (negative allowed). No calculator.",
+ "suggested_minutes": 50,
+ "video_url": "https://youtu.be/gqsYVh_a8xM",
+ "worksheet_url": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "HCF/LCM word problem",
+  "T2": "HCF × LCM property",
+  "T3": "Zeroes and coefficients",
+  "T4": "Evaluate α² + β² type expressions",
+  "T5": "Word problem: two equations",
+  "T6": "Find k for no / unique / infinite solutions",
+  "T7": "Quadratic word problem",
+  "T8": "Nature of roots / find k",
+  "T9": "nth term or sum",
+  "T10": "Sₙ given, find aₙ",
+  "T11": "Middle term",
+  "T12": "Axis divides a segment",
+  "T13": "Equidistant point / distance",
+  "T14": "BPT and similarity",
+  "T15": "Tangent results",
+  "T16": "Trig values and identities",
+  "T17": "Find A and B",
+  "T18": "Heights and distances",
+  "T19": "Sector / segment / arc",
+  "T20": "Combined solid or recasting",
+  "T21": "Grouped median / missing frequency",
+  "T22": "Empirical relation",
+  "T23": "Dice, coins, cards",
+  "T24": "Bag with unknown balls"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Real Numbers",
+   "tip": "Clue words: 'together again' → LCM; 'largest / greatest' → HCF. Remainders given: subtract them first, then take the HCF. HCF × LCM = product for two numbers only.",
+   "ncert": "NCERT Maths Ch 1: Fundamental Theorem of Arithmetic; irrationality proofs"
+  },
+  "S2": {
+   "name": "Polynomials",
+   "tip": "α + β = −b/a (keep the minus), αβ = c/a. For α² + β² use (α + β)² − 2αβ. Quadratic from zeroes: k[x² − (sum)x + product].",
+   "ncert": "NCERT Maths Ch 2: relationship between zeroes and coefficients"
+  },
+  "S3": {
+   "name": "Pair of Linear Equations",
+   "tip": "First write both as ax + by + c = 0, then compare a₁/a₂, b₁/b₂, c₁/c₂. In word problems, define both variables before forming the equations.",
+   "ncert": "NCERT Maths Ch 3: graphical method, substitution and elimination"
+  },
+  "S4": {
+   "name": "Quadratic Equations",
+   "tip": "D = b² − 4ac decides the roots; equal roots → D = 0. In word problems, reject roots that make no sense (negative length, speed).",
+   "ncert": "NCERT Maths Ch 4: nature of roots; word problems"
+  },
+  "S5": {
+   "name": "Arithmetic Progressions",
+   "tip": "aₙ = a + (n − 1)d; Sₙ = n/2[2a + (n − 1)d]. If Sₙ is given, aₙ = Sₙ − Sₙ₋₁. n must be a natural number.",
+   "ncert": "NCERT Maths Ch 5: nth term; sum of n terms"
+  },
+  "S6": {
+   "name": "Coordinate Geometry",
+   "tip": "Section formula: m goes with the second point. For an axis, take the ratio k : 1 and put y = 0 (x-axis) or x = 0 (y-axis). Equidistant: equate squared distances.",
+   "ncert": "NCERT Maths Ch 7: distance formula; section formula"
+  },
+  "S7": {
+   "name": "Triangles",
+   "tip": "BPT: DE ∥ BC ⇒ AD/DB = AE/EC. In similar triangles, sides, perimeters and medians are in the same ratio. Write vertices in matching order.",
+   "ncert": "NCERT Maths Ch 6: Theorem 6.1 (BPT); similarity criteria"
+  },
+  "S8": {
+   "name": "Circles",
+   "tip": "Tangent ⊥ radius; tangents from an external point are equal. PT = √(OP² − r²). ∠APB + ∠AOB = 180°. Circumscribed quadrilateral: AB + CD = AD + BC.",
+   "ncert": "NCERT Maths Ch 10: Theorems 10.1 and 10.2"
+  },
+  "S9": {
+   "name": "Introduction to Trigonometry",
+   "tip": "Know the 0°–90° table cold and the three identities. Turn sec, cosec, cot into sin and cos when stuck.",
+   "ncert": "NCERT Maths Ch 8: trigonometric ratios of specific angles; identities"
+  },
+  "S10": {
+   "name": "Some Applications of Trigonometry",
+   "tip": "Draw the figure first. Angles of elevation and depression are from the horizontal. One tan equation per right triangle; only 30°, 45°, 60°.",
+   "ncert": "NCERT Maths Ch 9: heights and distances"
+  },
+  "S11": {
+   "name": "Areas Related to Circles",
+   "tip": "Sector = (θ/360°)πr², arc = (θ/360°)2πr, segment = sector − triangle. Halve the diameter first.",
+   "ncert": "NCERT Maths Ch 11: areas of sector and segment"
+  },
+  "S12": {
+   "name": "Surface Areas and Volumes",
+   "tip": "Combined solids: add only visible surfaces, but add all volumes. Melting and recasting keeps the volume the same.",
+   "ncert": "NCERT Maths Ch 12: surface area and volume of combinations of solids"
+  },
+  "S13": {
+   "name": "Statistics",
+   "tip": "Median uses the cf of the class BEFORE the median class. 3 Median = Mode + 2 Mean. For a missing frequency, form one equation and solve.",
+   "ncert": "NCERT Maths Ch 13: mean, mode and median of grouped data"
+  },
+  "S14": {
+   "name": "Probability",
+   "tip": "P(E) = favourable ÷ total, between 0 and 1. Two dice: 36 outcomes; count (2, 6) and (6, 2) separately. Shrink the total when cards are removed.",
+   "ncert": "NCERT Maths Ch 14: theoretical probability (dice, coins, cards, bags)"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "For which numbers is HCF × LCM equal to the product of the numbers always true?",
+   "answer": "A",
+   "explanation": "HCF(a, b) × LCM(a, b) = a × b holds for any two positive integers; it fails in general for three numbers.",
+   "remediation": "Video part 1: Real Numbers; then the worksheet practice for this part.",
+   "options": [
+    "Any two positive integers",
+    "Only two even numbers",
+    "Any three positive integers",
+    "Only two prime numbers"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Three bells ring at intervals of 6, 8 and 12 minutes. They ring together at 9:00 a.m. After how many minutes will they next ring together?",
+   "answer": "24",
+   "explanation": "LCM(6, 8, 12) = 24 minutes.",
+   "remediation": "Video part 1: Real Numbers; then the worksheet practice for this part."
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Find the greatest number that divides 70 and 125, leaving remainders 5 and 8 respectively.",
+   "answer": "13",
+   "explanation": "Subtract the remainders: HCF(65, 117). 65 = 5 × 13, 117 = 3² × 13, so HCF = 13.",
+   "remediation": "Video part 1: Real Numbers; then the worksheet practice for this part."
+  },
+  {
+   "id": "q04",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "What is the sum of the zeroes of 2x² − 8x + 6?",
+   "answer": "C",
+   "explanation": "α + β = −b/a = −(−8)/2 = 4. (Product = c/a = 3.)",
+   "remediation": "Video part 2: Polynomials; then the worksheet practice for this part.",
+   "options": [
+    "−4",
+    "3",
+    "4",
+    "−3"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "If α and β are the zeroes of x² − 7x + 10, find the value of α² + β².",
+   "answer": "29",
+   "explanation": "α + β = 7, αβ = 10. α² + β² = (α + β)² − 2αβ = 49 − 20 = 29. (Zeroes 2 and 5: 4 + 25 = 29.)",
+   "remediation": "Video part 2: Polynomials; then the worksheet practice for this part."
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L4",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Which quadratic polynomial has a sum of zeroes −3 and a product of zeroes 2?",
+   "answer": "A",
+   "explanation": "k[x² − (sum)x + product] = x² − (−3)x + 2 = x² + 3x + 2 (zeroes −1 and −2).",
+   "remediation": "Video part 2: Polynomials; then the worksheet practice for this part.",
+   "options": [
+    "x² + 3x + 2",
+    "x² − 3x + 2",
+    "x² + 2x − 3",
+    "x² − 2x + 3"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "If a₁/a₂ = b₁/b₂ ≠ c₁/c₂ for a pair of linear equations, the lines are:",
+   "answer": "D",
+   "explanation": "Equal a- and b-ratios but a different c-ratio: parallel lines, inconsistent pair.",
+   "remediation": "Video part 3: Pair of Linear Equations; then the worksheet practice for this part.",
+   "options": [
+    "Intersecting, with one unique solution",
+    "Coincident, with infinitely many solutions",
+    "Perpendicular, with one solution",
+    "Parallel, with no solution"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "For what value of k does the pair kx + 3y = 5 and 6x + 9y = 7 have no solution?",
+   "answer": "2",
+   "explanation": "Need k/6 = 3/9 ≠ 5/7. k/6 = 1/3 gives k = 2, and 1/3 ≠ 5/7, so there is no solution.",
+   "remediation": "Video part 3: Pair of Linear Equations; then the worksheet practice for this part."
+  },
+  {
+   "id": "q09",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "2 pens and 3 notebooks cost ₹110, while 3 pens and 2 notebooks cost ₹90. What is the cost (in ₹) of one notebook?",
+   "answer": "30",
+   "explanation": "Adding: 5(p + n) = 200, so p + n = 40. Subtracting: n − p = 20. So n = 30, p = 10. Check: 20 + 90 = 110 ✓, 30 + 60 = 90 ✓.",
+   "remediation": "Video part 3: Pair of Linear Equations; then the worksheet practice for this part."
+  },
+  {
+   "id": "q10",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T8",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "D = (−4)² − 4(2)(3) = 16 − 24 = −8 < 0, so there are no real roots; R explains A.",
+   "remediation": "Video part 4: Quadratic Equations; then the worksheet practice for this part.",
+   "assertion": "The equation 2x² − 4x + 3 = 0 has no real roots.",
+   "reason": "The discriminant of 2x² − 4x + 3 is negative.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T8",
+   "type": "numeric",
+   "question": "Find the positive value of k for which x² + kx + 16 = 0 has two equal roots.",
+   "answer": "8",
+   "explanation": "Equal roots: D = k² − 64 = 0, so k = ±8; positive value 8.",
+   "remediation": "Video part 4: Quadratic Equations; then the worksheet practice for this part."
+  },
+  {
+   "id": "q12",
+   "subtopic": "S4",
+   "level": "L4",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "The length of a rectangular plot is 1 m more than twice its breadth, and its area is 528 m². Find the breadth in metres.",
+   "answer": "16",
+   "explanation": "b(2b + 1) = 528 → 2b² + b − 528 = 0. D = 1 + 4224 = 4225 = 65², b = (−1 ± 65)/4 = 16 or −16.5. Reject the negative root: breadth 16 m (length 33 m).",
+   "remediation": "Video part 4: Quadratic Equations; then the worksheet practice for this part."
+  },
+  {
+   "id": "q13",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "numeric",
+   "question": "Find the sum of the first 20 terms of the AP 2, 5, 8, …",
+   "answer": "610",
+   "explanation": "a = 2, d = 3. S₂₀ = 20/2 [2(2) + 19(3)] = 10 × 61 = 610.",
+   "remediation": "Video part 5: Arithmetic Progressions; then the worksheet practice for this part."
+  },
+  {
+   "id": "q14",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "numeric",
+   "question": "The sum of the first n terms of an AP is Sₙ = 3n² + 2n. Find its 5th term.",
+   "answer": "29",
+   "explanation": "a₅ = S₅ − S₄ = (75 + 10) − (48 + 8) = 85 − 56 = 29.",
+   "remediation": "Video part 5: Arithmetic Progressions; then the worksheet practice for this part."
+  },
+  {
+   "id": "q15",
+   "subtopic": "S5",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "numeric",
+   "question": "Find the middle term of the AP 4, 9, 14, …, 124.",
+   "answer": "64",
+   "explanation": "n = (124 − 4)/5 + 1 = 25 terms, so the middle term is the 13th: 4 + 12 × 5 = 64.",
+   "remediation": "Video part 5: Arithmetic Progressions; then the worksheet practice for this part."
+  },
+  {
+   "id": "q16",
+   "subtopic": "S6",
+   "level": "L1",
+   "pattern": "T13",
+   "type": "numeric",
+   "question": "Find the distance between the points (2, 3) and (8, 11).",
+   "answer": "10",
+   "explanation": "√[(8 − 2)² + (11 − 3)²] = √(36 + 64) = √100 = 10.",
+   "remediation": "Video part 6: Coordinate Geometry; then the worksheet practice for this part."
+  },
+  {
+   "id": "q17",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "In what ratio does the x-axis divide the segment joining (3, −4) and (−2, 6), and at which point?",
+   "answer": "B",
+   "explanation": "Take ratio k : 1: y = (6k − 4)/(k + 1) = 0 ⇒ k = 2/3, i.e. 2 : 3. x = (2(−2) + 3(3))/5 = 1, so the point is (1, 0).",
+   "remediation": "Video part 6: Coordinate Geometry; then the worksheet practice for this part.",
+   "options": [
+    "3 : 2, at (0, 1)",
+    "2 : 3, at (1, 0)",
+    "2 : 3, at (0, 1)",
+    "3 : 2, at (1, 0)"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "T13",
+   "type": "numeric",
+   "question": "P(x, 0) is a point on the x-axis equidistant from A(2, −5) and B(−2, 9). Find x.",
+   "answer": "-7",
+   "explanation": "(x − 2)² + 25 = (x + 2)² + 81 → −8x = 56 → x = −7. Check: PA² = 81 + 25 = 106, PB² = 25 + 81 = 106 ✓.",
+   "remediation": "Video part 6: Coordinate Geometry; then the worksheet practice for this part."
+  },
+  {
+   "id": "q19",
+   "subtopic": "S7",
+   "level": "L1",
+   "pattern": "T14",
+   "type": "mcq",
+   "question": "In ∆ABC, DE ∥ BC with D on AB and E on AC. By the Basic Proportionality Theorem:",
+   "answer": "C",
+   "explanation": "A line parallel to one side divides the other two sides in the same ratio.",
+   "remediation": "Video part 7: Triangles; then the worksheet practice for this part.",
+   "options": [
+    "AD/AE = BC/DE",
+    "AB/DB = DE/BC",
+    "AD/DB = AE/EC",
+    "AD/DB = EC/AE"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T14",
+   "type": "numeric",
+   "question": "In ∆ABC, DE ∥ BC. If AD = 4 cm, DB = 6 cm and AE = 6 cm, find EC in cm.",
+   "answer": "9",
+   "explanation": "AD/DB = AE/EC → 4/6 = 6/EC → EC = 9 cm.",
+   "remediation": "Video part 7: Triangles; then the worksheet practice for this part."
+  },
+  {
+   "id": "q21",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T14",
+   "type": "numeric",
+   "question": "The perimeters of two similar triangles are 30 cm and 45 cm. A side of the smaller triangle is 12 cm. Find the corresponding side of the larger triangle in cm.",
+   "answer": "18",
+   "explanation": "Side ratio = perimeter ratio: 12 × 45/30 = 18 cm.",
+   "remediation": "Video part 7: Triangles; then the worksheet practice for this part."
+  },
+  {
+   "id": "q22",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T15",
+   "type": "numeric",
+   "question": "A point P is 13 cm from the centre O of a circle of radius 5 cm. Find the length of the tangent from P in cm.",
+   "answer": "12",
+   "explanation": "PT = √(OP² − r²) = √(169 − 25) = √144 = 12 cm.",
+   "remediation": "Video part 8: Circles; then the worksheet practice for this part."
+  },
+  {
+   "id": "q23",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T15",
+   "type": "numeric",
+   "question": "PA and PB are tangents from P to a circle with centre O. If ∠APB = 70°, find ∠AOB in degrees.",
+   "answer": "110",
+   "explanation": "∠APB + ∠AOB = 180° (the quadrilateral OAPB has two right angles), so ∠AOB = 110°.",
+   "remediation": "Video part 8: Circles; then the worksheet practice for this part."
+  },
+  {
+   "id": "q24",
+   "subtopic": "S8",
+   "level": "L4",
+   "pattern": "T15",
+   "type": "numeric",
+   "question": "A quadrilateral ABCD is drawn to circumscribe a circle. If AB = 6 cm, BC = 7 cm and CD = 4 cm, find AD in cm.",
+   "answer": "3",
+   "explanation": "AB + CD = AD + BC (equal tangents) → 6 + 4 = AD + 7 → AD = 3 cm.",
+   "remediation": "Video part 8: Circles; then the worksheet practice for this part."
+  },
+  {
+   "id": "q25",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "T16",
+   "type": "numeric",
+   "question": "Find the value of 4 sin²30° + 3 tan²60° − 2 cos²45°.",
+   "answer": "9",
+   "explanation": "4(1/4) + 3(3) − 2(1/2) = 1 + 9 − 1 = 9.",
+   "remediation": "Video part 9: Introduction to Trigonometry; then the worksheet practice for this part."
+  },
+  {
+   "id": "q26",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T16",
+   "type": "numeric",
+   "question": "Find the value of (1 + tan²A)(1 − sin²A), for any acute angle A.",
+   "answer": "1",
+   "explanation": "(1 + tan²A) = sec²A and (1 − sin²A) = cos²A, so the product is sec²A × cos²A = 1.",
+   "remediation": "Video part 9: Introduction to Trigonometry; then the worksheet practice for this part."
+  },
+  {
+   "id": "q27",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T17",
+   "type": "numeric",
+   "question": "If sin(A + B) = 1 and cos(A − B) = √3/2, with 0° < A + B ≤ 90° and A > B, find A in degrees.",
+   "answer": "60",
+   "explanation": "A + B = 90° and A − B = 30°, so A = 60°, B = 30°.",
+   "remediation": "Video part 9: Introduction to Trigonometry; then the worksheet practice for this part."
+  },
+  {
+   "id": "q28",
+   "subtopic": "S10",
+   "level": "L2",
+   "pattern": "T18",
+   "type": "numeric",
+   "question": "A kite is flying on a 100 m string that makes an angle of 30° with the ground. Taking the string as straight, find the height of the kite in metres.",
+   "answer": "50",
+   "explanation": "sin 30° = h/100, so h = 100 × ½ = 50 m.",
+   "remediation": "Video part 10: Some Applications of Trigonometry; then the worksheet practice for this part."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S10",
+   "level": "L4",
+   "pattern": "T18",
+   "type": "numeric",
+   "question": "From the top of a 60 m tall building, the angles of depression of the top and the bottom of a tower are 30° and 60°. Find the height of the tower in metres.",
+   "answer": "40",
+   "explanation": "Distance d = 60/tan 60° = 20√3 m. Drop to the tower's top = d tan 30° = 20√3 × 1/√3 = 20 m. Tower = 60 − 20 = 40 m.",
+   "remediation": "Video part 10: Some Applications of Trigonometry; then the worksheet practice for this part."
+  },
+  {
+   "id": "q30",
+   "subtopic": "S11",
+   "level": "L2",
+   "pattern": "T19",
+   "type": "numeric",
+   "question": "Find the area (in cm²) of a sector of a circle of radius 14 cm with central angle 90°. (Use π = 22/7.)",
+   "answer": "154",
+   "explanation": "(90/360) × 22/7 × 14 × 14 = ¼ × 616 = 154 cm².",
+   "remediation": "Video part 11: Areas Related to Circles; then the worksheet practice for this part."
+  },
+  {
+   "id": "q31",
+   "subtopic": "S11",
+   "level": "L3",
+   "pattern": "T19",
+   "type": "numeric",
+   "question": "Find the length (in cm) of an arc of a circle of radius 21 cm subtending an angle of 60° at the centre. (Use π = 22/7.)",
+   "answer": "22",
+   "explanation": "(60/360) × 2 × 22/7 × 21 = (1/6) × 132 = 22 cm.",
+   "remediation": "Video part 11: Areas Related to Circles; then the worksheet practice for this part."
+  },
+  {
+   "id": "q32",
+   "subtopic": "S11",
+   "level": "L4",
+   "pattern": "T19",
+   "type": "numeric",
+   "question": "Find the area (in cm²) of the minor segment of a circle of radius 14 cm when the central angle is 90°. (Use π = 22/7.)",
+   "answer": "56",
+   "explanation": "Sector = 154 cm²; triangle = ½ × 14 × 14 = 98 cm²; segment = 154 − 98 = 56 cm².",
+   "remediation": "Video part 11: Areas Related to Circles; then the worksheet practice for this part."
+  },
+  {
+   "id": "q33",
+   "subtopic": "S12",
+   "level": "L3",
+   "pattern": "T20",
+   "type": "numeric",
+   "question": "A toy is a cone of radius 7 cm and height 24 cm mounted on a hemisphere of the same radius. Find the total surface area of the toy in cm². (Use π = 22/7.)",
+   "answer": "858",
+   "explanation": "Slant height l = √(49 + 576) = 25 cm. Visible surfaces: hemisphere CSA 2πr² = 308, cone CSA πrl = 550. Total = 858 cm².",
+   "remediation": "Video part 12: Surface Areas and Volumes; then the worksheet practice for this part."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S12",
+   "level": "L4",
+   "pattern": "T20",
+   "type": "numeric",
+   "question": "A solid metal sphere of radius 6 cm is melted and recast into solid cones of radius 3 cm and height 4 cm. How many cones are made?",
+   "answer": "24",
+   "explanation": "Volume is unchanged: (4/3)π(6³) ÷ (1/3)π(3²)(4) = 288π ÷ 12π = 24.",
+   "remediation": "Video part 12: Surface Areas and Volumes; then the worksheet practice for this part."
+  },
+  {
+   "id": "q35",
+   "subtopic": "S13",
+   "level": "L2",
+   "pattern": "T22",
+   "type": "numeric",
+   "question": "For a distribution, the mean is 30 and the median is 32. Using the empirical relation, find the mode.",
+   "answer": "36",
+   "explanation": "3 Median = Mode + 2 Mean → Mode = 96 − 60 = 36.",
+   "remediation": "Video part 13: Statistics; then the worksheet practice for this part."
+  },
+  {
+   "id": "q36",
+   "subtopic": "S13",
+   "level": "L3",
+   "pattern": "T21",
+   "type": "numeric",
+   "question": "Find the median of the data: class 0–10, 10–20, 20–30, 30–40, 40–50 with frequencies 5, 8, 20, 15, 2.",
+   "answer": "26",
+   "explanation": "n = 50, n/2 = 25. Cumulative frequencies 5, 13, 33, … so the median class is 20–30 (l = 20, f = 20, cf before = 13, h = 10). Median = 20 + (25 − 13)/20 × 10 = 26.",
+   "remediation": "Video part 13: Statistics; then the worksheet practice for this part."
+  },
+  {
+   "id": "q37",
+   "subtopic": "S13",
+   "level": "L4",
+   "pattern": "T21",
+   "type": "numeric",
+   "question": "The mean of the data below is 25. Find the missing frequency k. x: 10, 20, 30, 40; f: 3, k, 5, 2.",
+   "answer": "2",
+   "explanation": "Σfx = 30 + 20k + 150 + 80 = 260 + 20k, Σf = 10 + k. (260 + 20k)/(10 + k) = 25 → 260 + 20k = 250 + 25k → k = 2.",
+   "remediation": "Video part 13: Statistics; then the worksheet practice for this part."
+  },
+  {
+   "id": "q38",
+   "subtopic": "S14",
+   "level": "L2",
+   "pattern": "T23",
+   "type": "mcq",
+   "question": "Two dice are thrown together. What is the probability that the sum of the numbers is 8?",
+   "answer": "C",
+   "explanation": "(2, 6), (3, 5), (4, 4), (5, 3), (6, 2): 5 outcomes out of 36.",
+   "remediation": "Video part 14: Probability; then the worksheet practice for this part.",
+   "options": [
+    "1/9",
+    "7/36",
+    "5/36",
+    "1/6"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "S14",
+   "level": "L3",
+   "pattern": "T23",
+   "type": "mcq",
+   "question": "All four aces are removed from a well-shuffled deck of 52 cards. One card is drawn from the rest. What is the probability that it is red?",
+   "answer": "D",
+   "explanation": "48 cards remain, of which 26 − 2 = 24 are red (two red aces removed): 24/48 = 1/2.",
+   "remediation": "Video part 14: Probability; then the worksheet practice for this part.",
+   "options": [
+    "13/24",
+    "1/4",
+    "6/13",
+    "1/2"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "S14",
+   "level": "L4",
+   "pattern": "T24",
+   "type": "numeric",
+   "question": "A bag has 5 red balls and some blue balls. The probability of drawing a blue ball is three times that of a red ball. How many blue balls are in the bag?",
+   "answer": "15",
+   "explanation": "b/(5 + b) = 3 × 5/(5 + b) → b = 15. Check: P(red) = 5/20 = 1/4, P(blue) = 15/20 = 3/4 ✓.",
+   "remediation": "Video part 14: Probability; then the worksheet practice for this part."
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

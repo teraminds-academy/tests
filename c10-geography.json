@@ -1,0 +1,730 @@
+{
+ "schema": 1,
+ "id": "c10-geography",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Social Science (087) · Geography: Contemporary India II · Crash revision (2026-27)",
+ "short_title": "Class 10 Geography · Crash Revision 2027",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written from this video's script, its worksheet and the NCERT/CBSE material it cites, modelled on most-repeated / high-weightage question types in CBSE Sample Question Papers and past board papers. Practice for readiness only: not predictions of any exam and no promise of marks.",
+ "instructions": "39 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number.",
+ "suggested_minutes": 35,
+ "video_url": null,
+ "worksheet_url": null,
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Soil / resource identification",
+  "T2": "Land use and degradation",
+  "T3": "Conservation: acts, reserves, communities",
+  "T4": "Multi-purpose projects and harvesting",
+  "T5": "Crop seasons and conditions",
+  "T6": "Types of farming",
+  "T7": "Minerals: occurrence and belts",
+  "T8": "Energy resources",
+  "T9": "Industry facts and A-R",
+  "T10": "Pollution control",
+  "T11": "Map: locate by clue"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Resources and Development",
+   "tip": "Four ways to classify resources; three steps of resource planning; six soils with their features and crops. Land use: culturable waste > 5 years, current fallow ≤ 1 year. Read status-of-development stems carefully.",
+   "ncert": "NCERT Contemporary India II (Reprint 2026-27), Ch 1 Resources and Development"
+  },
+  "S2": {
+   "name": "Forest and Wildlife Resources",
+   "tip": "Dates: 1972 Wildlife Act, 1973 Project Tiger, 1988 Joint Forest Management (Odisha first). Tiger reserves with states. Community movements: Chipko, Beej Bachao (Tehri), Navdanya, Bhairodev Dakav Sonchuri (Alwar), Bishnois.",
+   "ncert": "NCERT Contemporary India II (Reprint 2026-27), Ch 2 Forest and Wildlife Resources"
+  },
+  "S3": {
+   "name": "Water Resources",
+   "tip": "Bhakra Nangal (Sutlej-Beas), Hirakud (Mahanadi), Sardar Sarovar (Narmada). Match each rainwater-harvesting method to its region: guls/kuls (W Himalayas), khadins/johads (Rajasthan), tankas (Bikaner, Phalodi, Barmer), bamboo drip (Meghalaya).",
+   "ncert": "NCERT Contemporary India II (Reprint 2026-27), Ch 3 Water Resources"
+  },
+  "S4": {
+   "name": "Agriculture",
+   "tip": "Learn crop conditions as numbers: rice > 25°C, > 100 cm; wheat 50–75 cm, cool growing season; sugarcane 21–27°C, 75–100 cm; rubber > 25°C, > 200 cm; cotton 210 frost-free days. Rabi Oct–Dec, kharif with monsoon, zaid in summer.",
+   "ncert": "NCERT Contemporary India II (Reprint 2026-27), Ch 4 Agriculture"
+  },
+  "S5": {
+   "name": "Minerals and Energy Resources",
+   "tip": "Mode of occurrence (veins, beds, residual, placer); four iron-ore belts; bauxite Odisha; mica Koderma-Gaya-Hazaribagh; Gondwana coal in the Damodar valley; oil at Mumbai High, Ankleshwar, Digboi. Practise 3 + 2 'role + distribution' answers.",
+   "ncert": "NCERT Contemporary India II (Reprint 2026-27), Ch 5 Minerals and Energy Resources"
+  },
+  "S6": {
+   "name": "Manufacturing Industries",
+   "tip": "Importance of manufacturing (jobs, modern agriculture, exports, less regional disparity); classification by raw material, role, ownership, bulk; steel inputs 4 : 2 : 1; three-stage effluent treatment; pollution controls.",
+   "ncert": "NCERT Contemporary India II (Reprint 2026-27), Ch 6 Manufacturing Industries"
+  },
+  "S7": {
+   "name": "Geography Map Work",
+   "tip": "Learn the CBSE map list with a clue for each: dams, mines, thermal and nuclear plants, cotton and steel centres, software technology parks, 10 major ports, 6 international airports.",
+   "ncert": "CBSE Social Science Curriculum 2026-27 Geography map list; SQP 2026-27 Q19; NCERT Ch 7 Lifelines (map only)"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Agenda 21 was adopted at:",
+   "answer": "D",
+   "explanation": "The Rio Earth Summit of June 1992 adopted Agenda 21 for sustainable development.",
+   "remediation": "Video part 1: Resources and Development; then the worksheet practice for this part.",
+   "options": [
+    "The Kyoto meeting, 1987",
+    "The UN meeting on CFCs",
+    "The Treaty of Vienna, 1815",
+    "The Rio de Janeiro Earth Summit, 1992"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A soil holds moisture well, is rich in lime and potash but poor in phosphorus, and is ideal for cotton. It is:",
+   "answer": "A",
+   "explanation": "Black soil of the Deccan trap region: moisture-retentive, cotton soil.",
+   "remediation": "Video part 1: Resources and Development; then the worksheet practice for this part.",
+   "options": [
+    "Black (regur) soil",
+    "Arid soil",
+    "Alluvial soil",
+    "Laterite soil"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "About 43% of India's land area is plains and 30% is mountains. What percentage is plateau?",
+   "answer": "27",
+   "explanation": "100 − 43 − 30 = 27%.",
+   "remediation": "Video part 1: Resources and Development; then the worksheet practice for this part."
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Land that has been left uncultivated for more than five agricultural years is called:",
+   "answer": "B",
+   "explanation": "Culturable waste: uncultivated for more than 5 agricultural years; current fallow: 1 year or less.",
+   "remediation": "Video part 1: Resources and Development; then the worksheet practice for this part.",
+   "options": [
+    "Net sown area",
+    "Culturable waste land",
+    "Current fallow",
+    "Permanent pasture"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S1",
+   "level": "L4",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "In which group of states is over-irrigation the main cause of land degradation?",
+   "answer": "B",
+   "explanation": "Over-irrigation → waterlogging and salinity in Punjab, Haryana, western UP; mining causes degradation in Jharkhand, Chhattisgarh, MP, Odisha; overgrazing in Gujarat, Rajasthan, MP, Maharashtra.",
+   "remediation": "Video part 1: Resources and Development; then the worksheet practice for this part.",
+   "options": [
+    "Gujarat, Rajasthan and Maharashtra",
+    "Punjab, Haryana and western Uttar Pradesh",
+    "Jharkhand, Chhattisgarh and Odisha",
+    "Kerala, Goa and Sikkim"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Project Tiger was launched in:",
+   "answer": "D",
+   "explanation": "1972: Indian Wildlife (Protection) Act; 1973: Project Tiger (tigers had fallen to 1,827).",
+   "remediation": "Video part 2: Forest and Wildlife Resources; then the worksheet practice for this part.",
+   "options": [
+    "1972",
+    "1988",
+    "1992",
+    "1973"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Which tiger reserve is correctly matched with its state?",
+   "answer": "D",
+   "explanation": "Corbett–Uttarakhand, Sunderbans–West Bengal, Bandhavgarh–MP, Sariska–Rajasthan, Manas–Assam, Periyar–Kerala.",
+   "remediation": "Video part 2: Forest and Wildlife Resources; then the worksheet practice for this part.",
+   "options": [
+    "Sariska: Assam",
+    "Manas: Rajasthan",
+    "Bandhavgarh: West Bengal",
+    "Periyar: Kerala"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Which state has the largest area under permanent forests?",
+   "answer": "A",
+   "explanation": "Madhya Pradesh: permanent forests make up 75% of its forest area.",
+   "remediation": "Video part 2: Forest and Wildlife Resources; then the worksheet practice for this part.",
+   "options": [
+    "Madhya Pradesh",
+    "Rajasthan",
+    "Kerala",
+    "Odisha"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Joint Forest Management, begun in Odisha in 1988, involves:",
+   "answer": "B",
+   "explanation": "Communities manage and restore degraded forest land and get a share of the forest produce.",
+   "remediation": "Video part 2: Forest and Wildlife Resources; then the worksheet practice for this part.",
+   "options": [
+    "Selling forests to private companies",
+    "Local villages protecting degraded forests and sharing the benefits",
+    "Banning all people from forest areas",
+    "Planting only one tree species"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Five villages in Alwar district declared 1,200 hectares of forest as the Bhairodev Dakav 'Sonchuri', with their own rules. This shows:",
+   "answer": "D",
+   "explanation": "A community-declared sanctuary that bans hunting and protects wildlife against outside encroachment.",
+   "remediation": "Video part 2: Forest and Wildlife Resources; then the worksheet practice for this part.",
+   "options": [
+    "Forests should be converted to farmland",
+    "Mining helps forests grow",
+    "Only the government can conserve forests",
+    "Communities can protect habitats on their own initiative"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The Bhakra Nangal project in the Sutlej-Beas basin is used mainly for:",
+   "answer": "A",
+   "explanation": "Bhakra Nangal: hydel power + irrigation; Hirakud (Mahanadi): conservation + flood control.",
+   "remediation": "Video part 3: Water Resources; then the worksheet practice for this part.",
+   "options": [
+    "Hydel power and irrigation",
+    "Flood control only",
+    "Drinking water for Mumbai",
+    "Navigation only"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "In which places are 'tankas' (underground tanks) used to store rainwater for drinking?",
+   "answer": "D",
+   "explanation": "Tankas in the dry Thar region; guls/kuls in the western Himalayas; bamboo drip irrigation in Meghalaya.",
+   "remediation": "Video part 3: Water Resources; then the worksheet practice for this part.",
+   "options": [
+    "Kerala backwaters",
+    "Meghalaya hills",
+    "Western Himalayas",
+    "Bikaner, Phalodi and Barmer in Rajasthan"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Which was the first state to make rooftop rainwater harvesting compulsory for all houses?",
+   "answer": "B",
+   "explanation": "Tamil Nadu made rooftop rainwater harvesting compulsory for all houses across the state.",
+   "remediation": "Video part 3: Water Resources; then the worksheet practice for this part.",
+   "options": [
+    "Gujarat",
+    "Tamil Nadu",
+    "Rajasthan",
+    "Meghalaya"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; the problems in R are the reasons for the criticism in A (also induced earthquakes and salinisation).",
+   "remediation": "Video part 3: Water Resources; then the worksheet practice for this part.",
+   "assertion": "Large multi-purpose dams have come under great criticism in recent years.",
+   "reason": "They fragment rivers, reduce sediment flow and displace local communities.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S3",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "A dry village in western Rajasthan has very little rain and no perennial river. Which traditional method would you suggest for drinking water?",
+   "answer": "A",
+   "explanation": "Tankas suit the arid region; guls/kuls need mountain streams; bamboo drip suits Meghalaya's slopes and springs.",
+   "remediation": "Video part 3: Water Resources; then the worksheet practice for this part.",
+   "options": [
+    "Tankas: underground tanks filled by rooftop rainwater",
+    "Guls and kuls (diversion channels from mountain streams)",
+    "Bamboo drip irrigation from hill springs",
+    "Building a large hydel dam"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The Sardar Sarovar Dam is built on which river?",
+   "answer": "B",
+   "explanation": "Sardar Sarovar on the Narmada in Gujarat benefits Maharashtra, MP, Gujarat and Rajasthan.",
+   "remediation": "Video part 3: Water Resources; then the worksheet practice for this part.",
+   "options": [
+    "Sutlej",
+    "Narmada",
+    "Mahanadi",
+    "Chenab"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Which of these is a rabi crop?",
+   "answer": "D",
+   "explanation": "Rabi (sown Oct–Dec, harvested Apr–Jun): wheat, barley, peas, gram, mustard. Paddy, maize and cotton are kharif.",
+   "remediation": "Video part 4: Agriculture; then the worksheet practice for this part.",
+   "options": [
+    "Paddy",
+    "Maize",
+    "Cotton",
+    "Wheat"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Which conditions suit rice?",
+   "answer": "A",
+   "explanation": "Rice: > 25°C, high humidity, > 100 cm. The other options describe wheat, sugarcane and cotton.",
+   "remediation": "Video part 4: Agriculture; then the worksheet practice for this part.",
+   "options": [
+    "Temperature above 25°C, high humidity and over 100 cm of rain",
+    "A cool growing season and 50–75 cm of rain",
+    "Black soil and 210 frost-free days",
+    "21–27°C and 75–100 cm of rain"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "How many frost-free days does cotton need to grow well?",
+   "answer": "210",
+   "explanation": "Cotton: black soil of the Deccan, high temperature, light rainfall or irrigation, 210 frost-free days and bright sunshine.",
+   "remediation": "Video part 4: Agriculture; then the worksheet practice for this part."
+  },
+  {
+   "id": "q20",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Which statement about rice is correct?",
+   "answer": "B",
+   "explanation": "The same crop can be commercial in one region and subsistence in another.",
+   "remediation": "Video part 4: Agriculture; then the worksheet practice for this part.",
+   "options": [
+    "It is a subsistence crop everywhere in India",
+    "It is a commercial crop in Punjab and Haryana but a subsistence crop in Odisha",
+    "It is grown only in the zaid season",
+    "It needs less than 50 cm of rain"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "A region is hot and humid, with temperatures above 25°C and over 200 cm of rain. Which plantation crop suits it?",
+   "answer": "D",
+   "explanation": "Rubber: > 25°C, > 200 cm (Kerala, Tamil Nadu, Karnataka, Andaman and Nicobar, Garo hills).",
+   "remediation": "Video part 4: Agriculture; then the worksheet practice for this part.",
+   "options": [
+    "Gram",
+    "Wheat",
+    "Mustard",
+    "Rubber"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S4",
+   "level": "L4",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "A farmer's region gets about 60 cm of rain, has a cool growing season and bright sunshine at the time of ripening. Which crop is best?",
+   "answer": "A",
+   "explanation": "Wheat: 50–75 cm of rain, cool growing season, bright sunshine at ripening. Rice, rubber and jute need much more water.",
+   "remediation": "Video part 4: Agriculture; then the worksheet practice for this part.",
+   "options": [
+    "Wheat",
+    "Rice",
+    "Jute",
+    "Rubber"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Gold, silver, tin and platinum found in the sands of valley floors are:",
+   "answer": "C",
+   "explanation": "Placer deposits: minerals in valley sands that are not corroded by water.",
+   "remediation": "Video part 5: Minerals and Energy Resources; then the worksheet practice for this part.",
+   "options": [
+    "Residual mass",
+    "Beds of sedimentary rocks",
+    "Placer deposits",
+    "Veins and lodes"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Which is the finest iron ore, with up to 70% iron?",
+   "answer": "C",
+   "explanation": "Magnetite has up to 70% iron; hematite is the most widely used.",
+   "remediation": "Video part 5: Minerals and Energy Resources; then the worksheet practice for this part.",
+   "options": [
+    "Bauxite",
+    "Hematite",
+    "Magnetite",
+    "Mica"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Which state leads in bauxite, with deposits at Panchpatmali in Koraput?",
+   "answer": "C",
+   "explanation": "Odisha leads in bauxite (Panchpatmali, Koraput district).",
+   "remediation": "Video part 5: Minerals and Energy Resources; then the worksheet practice for this part.",
+   "options": [
+    "Jharkhand",
+    "Gujarat",
+    "Odisha",
+    "Kerala"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Gondwana coal fields at Jharia, Raniganj and Bokaro lie in the:",
+   "answer": "B",
+   "explanation": "Gondwana coal: Damodar valley; tertiary coal: the north-east; lignite: Neyveli.",
+   "remediation": "Video part 5: Minerals and Energy Resources; then the worksheet practice for this part.",
+   "options": [
+    "Gulf of Khambhat",
+    "Damodar valley",
+    "North-eastern states",
+    "Neyveli region"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Bailadila, whose iron ore has the best physical properties needed for steel, belongs to which belt?",
+   "answer": "C",
+   "explanation": "Bailadila is in the Durg-Bastar-Chandrapur belt (Chhattisgarh–Maharashtra).",
+   "remediation": "Video part 5: Minerals and Energy Resources; then the worksheet practice for this part.",
+   "options": [
+    "Maharashtra-Goa",
+    "Odisha-Jharkhand",
+    "Durg-Bastar-Chandrapur",
+    "Ballari-Chitradurga-Chikkamagaluru-Tumakuru"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "S5",
+   "level": "L4",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "About 10 kg of manganese is needed to make one tonne of steel. How many kg of manganese are needed for 5 tonnes of steel?",
+   "answer": "50",
+   "explanation": "10 kg × 5 = 50 kg.",
+   "remediation": "Video part 5: Minerals and Energy Resources; then the worksheet practice for this part."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Which is the oldest oil-producing state of India?",
+   "answer": "B",
+   "explanation": "Assam (Digboi, Naharkatiya); Mumbai High and Ankleshwar (Gujarat) are other fields.",
+   "remediation": "Video part 5: Minerals and Energy Resources; then the worksheet practice for this part.",
+   "options": [
+    "Maharashtra",
+    "Assam",
+    "Gujarat",
+    "Rajasthan"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "S6",
+   "level": "L1",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Where was India's first successful textile mill set up, in 1854?",
+   "answer": "A",
+   "explanation": "1854: first textile mill, Mumbai; 1855: first jute mill at Rishra near Kolkata.",
+   "remediation": "Video part 6: Manufacturing Industries; then the worksheet practice for this part.",
+   "options": [
+    "Mumbai",
+    "Kanpur",
+    "Ahmedabad",
+    "Rishra"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T9",
+   "type": "numeric",
+   "question": "Steel making uses iron ore, coking coal and limestone in the ratio 4 : 2 : 1. If 8 tonnes of iron ore are used, how many tonnes of limestone are needed?",
+   "answer": "2",
+   "explanation": "4 parts = 8 t, so 1 part = 2 t of limestone (and 4 t of coking coal).",
+   "remediation": "Video part 6: Manufacturing Industries; then the worksheet practice for this part."
+  },
+  {
+   "id": "q32",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T9",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "C",
+   "explanation": "A is true; R is false (Bengaluru is inland). The SQP 2026-27 assertion-reason uses this trap.",
+   "remediation": "Video part 6: Manufacturing Industries; then the worksheet practice for this part.",
+   "assertion": "Bengaluru has emerged as the electronic capital of India.",
+   "reason": "Bengaluru has a major sea port.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "India spins world-class yarn, yet much of its woven fabric is of lower quality. Why?",
+   "answer": "C",
+   "explanation": "Spinning is centralised and modern, but weaving (handloom, powerloom) is scattered and low-tech.",
+   "remediation": "Video part 6: Manufacturing Industries; then the worksheet practice for this part.",
+   "options": [
+    "Fabric is woven only in Bengaluru",
+    "India grows no cotton",
+    "Weaving is largely decentralised and cannot use much of the high-quality yarn",
+    "Spinning mills are all closed"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "Industrial effluents are treated in three stages. Which order is correct?",
+   "answer": "C",
+   "explanation": "Primary: screening, grinding, settling; secondary: biological; tertiary: biological, chemical and physical recycling.",
+   "remediation": "Video part 6: Manufacturing Industries; then the worksheet practice for this part.",
+   "options": [
+    "Recycling → biological → mechanical",
+    "Mechanical → recycling → biological",
+    "Primary (mechanical) → secondary (biological) → tertiary (recycling)",
+    "Biological → mechanical → recycling"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S7",
+   "level": "L1",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Which nuclear power plant on the CBSE map list is in Maharashtra?",
+   "answer": "D",
+   "explanation": "Tarapur (Maharashtra); Kakrapara (Gujarat); Narora (UP); Kalpakkam (Tamil Nadu).",
+   "remediation": "Video part 7: Geography Map Work; then the worksheet practice for this part.",
+   "options": [
+    "Kakrapara",
+    "Kalpakkam",
+    "Narora",
+    "Tarapur"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Which international airport on the map list is in Punjab?",
+   "answer": "B",
+   "explanation": "The six airports: Amritsar, Delhi, Mumbai, Chennai (Meenambakkam), Kolkata, Hyderabad.",
+   "remediation": "Video part 7: Geography Map Work; then the worksheet practice for this part.",
+   "options": [
+    "Hyderabad",
+    "Amritsar",
+    "Kolkata",
+    "Delhi"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "The Salal dam on the CBSE map list is on the river:",
+   "answer": "A",
+   "explanation": "Salal on the Chenab; Bhakra Nangal on the Sutlej; Sardar Sarovar on the Narmada; Hirakud on the Mahanadi.",
+   "remediation": "Video part 7: Geography Map Work; then the worksheet practice for this part.",
+   "options": [
+    "Chenab",
+    "Narmada",
+    "Mahanadi",
+    "Sutlej"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Which iron and steel plant on the map list is in Karnataka?",
+   "answer": "B",
+   "explanation": "Vijayanagar (Karnataka), Salem (Tamil Nadu), Bhilai (Chhattisgarh), Durgapur (West Bengal).",
+   "remediation": "Video part 7: Geography Map Work; then the worksheet practice for this part.",
+   "options": [
+    "Bhilai",
+    "Vijayanagar",
+    "Durgapur",
+    "Salem"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "S7",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Which major sea port is correctly matched with its state?",
+   "answer": "C",
+   "explanation": "Paradip–Odisha, Kandla–Gujarat, Tuticorin–Tamil Nadu, Haldia–West Bengal.",
+   "remediation": "Video part 7: Geography Map Work; then the worksheet practice for this part.",
+   "options": [
+    "Haldia: Andhra Pradesh",
+    "Kandla: Maharashtra",
+    "Paradip: Odisha",
+    "Tuticorin: Kerala"
+   ]
+  }
+ ],
+ "class": "10",
+ "subject": "Social Science: Geography",
+ "board": "CBSE"
+}

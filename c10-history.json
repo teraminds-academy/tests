@@ -1,0 +1,744 @@
+{
+ "schema": 1,
+ "id": "c10-history",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Social Science (087) · History: India and the Contemporary World II · Crash revision (2026-27)",
+ "short_title": "Class 10 History · Crash Revision 2027",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written from this video's script, its worksheet and the NCERT/CBSE material it cites, modelled on most-repeated / high-weightage question types in CBSE Sample Question Papers and past board papers. Practice for readiness only: not predictions of any exam and no promise of marks.",
+ "instructions": "39 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number.",
+ "suggested_minutes": 35,
+ "video_url": null,
+ "worksheet_url": null,
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Unification of Italy / Germany",
+  "T2": "French Revolution, Napoleon, Vienna",
+  "T3": "Liberalism, Zollverein, 1848",
+  "T4": "Allegory / symbols",
+  "T5": "Chronology MCQ",
+  "T6": "Non-Cooperation: causes, effects, withdrawal",
+  "T7": "Civil Disobedience: who joined and why",
+  "T8": "Assertion-Reason",
+  "T9": "Pre-modern trade and food",
+  "T10": "Conquest, disease and silver",
+  "T11": "Print in Europe",
+  "T12": "Print in India and censorship",
+  "T13": "Map: identify the place"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "The Rise of Nationalism in Europe",
+   "tip": "Make a dated chain: 1789 → 1804 Civil Code → 1815 Vienna → 1821/1832 Greece → 1834 Zollverein → 1848 Frankfurt → Italy 1859–70 → Germany 1866–71. For 5-markers, one date and one leader per point.",
+   "ncert": "NCERT India and the Contemporary World II (Reprint 2026-27), Ch 1 The Rise of Nationalism in Europe"
+  },
+  "S2": {
+   "name": "Nationalism in India",
+   "tip": "Learn the sequence 1917 Champaran → 1919 Rowlatt/Jallianwala → 1920 Calcutta/Nagpur → Jan 1921 NCM → Feb 1922 withdrawal → 1928 Simon → 1929 Lahore → 6 Apr 1930 Dandi → 1931 Gandhi-Irwin → 1932 Poona Pact. Know who joined CDM and why.",
+   "ncert": "NCERT India and the Contemporary World II (Reprint 2026-27), Ch 2 Nationalism in India"
+  },
+  "S3": {
+   "name": "The Making of a Global World (1 to 1.3)",
+   "tip": "Only the pre-modern world is in the board paper. Two examples per 2-marker: silk routes (goods, Buddhism), food (potato, maize, chilli), smallpox, silver from Peru and Mexico.",
+   "ncert": "NCERT India and the Contemporary World II (Reprint 2026-27), Ch 3 The Making of a Global World, sections 1 to 1.3 only"
+  },
+  "S4": {
+   "name": "Print Culture and the Modern World",
+   "tip": "Dates: 1430s Gutenberg, 1517 Luther, 1558 Index, 1780 Hickey, 1878 Vernacular Press Act. Link print to the Reformation and the French Revolution; match writers to works.",
+   "ncert": "NCERT India and the Contemporary World II (Reprint 2026-27), Ch 5 Print Culture and the Modern World"
+  },
+  "S5": {
+   "name": "History Map Work",
+   "tip": "Learn each map place with its year and reason: Calcutta & Nagpur 1920, Madras 1927, Champaran, Kheda, Ahmedabad, Jallianwala Bagh (Amritsar), Dandi (Gujarat coast).",
+   "ncert": "CBSE Social Science Curriculum 2026-27 map list (History: Nationalism in India); SQP 2026-27 Q9"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Which of these was a provision of Napoleon's Civil Code of 1804?",
+   "answer": "B",
+   "explanation": "The 1804 Code abolished privileges by birth, established equality before the law and secured the right to property.",
+   "remediation": "Video part 1: The Rise of Nationalism in Europe; then the worksheet practice for this part.",
+   "options": [
+    "It gave all women the right to vote",
+    "It did away with privileges based on birth and established equality before the law",
+    "It restored the Bourbon monarchy",
+    "It created the German Confederation"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The Treaty of Vienna of 1815, hosted by Metternich, aimed mainly to:",
+   "answer": "B",
+   "explanation": "The Bourbons were restored and conservative regimes imposed censorship: the aim was to undo Napoleon's changes.",
+   "remediation": "Video part 1: The Rise of Nationalism in Europe; then the worksheet practice for this part.",
+   "options": [
+    "Spread the ideas of the French Revolution",
+    "Undo most of the changes made during the Napoleonic wars",
+    "Unify Italy under Garibaldi",
+    "Grant independence to Greece"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The Zollverein, formed in 1834 at the initiative of Prussia, was:",
+   "answer": "A",
+   "explanation": "The customs union removed tariff barriers and cut the number of currencies from over thirty to two, helping economic unity.",
+   "remediation": "Video part 1: The Rise of Nationalism in Europe; then the worksheet practice for this part.",
+   "options": [
+    "A customs union that abolished tariff barriers and reduced over thirty currencies to two",
+    "A parliament elected by all adult men",
+    "A secret society to unify Italy",
+    "A treaty that ended the Greek war of independence"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "In the unification of Italy, who led the Red Shirts?",
+   "answer": "B",
+   "explanation": "Mazzini founded Young Italy; Cavour used diplomacy; Garibaldi led the Red Shirts; Bismarck led German unification.",
+   "remediation": "Video part 1: The Rise of Nationalism in Europe; then the worksheet practice for this part.",
+   "options": [
+    "Otto von Bismarck",
+    "Giuseppe Garibaldi",
+    "Giuseppe Mazzini",
+    "Count Cavour"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "In the allegory of Germania, the crown of oak leaves stands for:",
+   "answer": "C",
+   "explanation": "Germania = Germany; her crown of oak leaves symbolises heroism (Marianne stands for France).",
+   "remediation": "Video part 1: The Rise of Nationalism in Europe; then the worksheet practice for this part.",
+   "options": [
+    "Freedom from slavery",
+    "Peace",
+    "Heroism",
+    "Readiness to fight"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Arrange in the correct order: (i) Frankfurt Parliament meets (ii) Greek war of independence begins (iii) William I proclaimed German Emperor (iv) Zollverein formed",
+   "answer": "B",
+   "explanation": "1821 Greek war → 1834 Zollverein → 1848 Frankfurt Parliament → January 1871 William I at Versailles.",
+   "remediation": "Video part 1: The Rise of Nationalism in Europe; then the worksheet practice for this part.",
+   "options": [
+    "(i), (ii), (iv), (iii)",
+    "(ii), (iv), (i), (iii)",
+    "(ii), (i), (iv), (iii)",
+    "(iv), (ii), (i), (iii)"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T8",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true, and R is the example that explains A; the Napoleonic Code also reduced women to the status of minors.",
+   "remediation": "Video part 1: The Rise of Nationalism in Europe; then the worksheet practice for this part.",
+   "assertion": "In nineteenth-century Europe, equality before the law did not mean universal suffrage.",
+   "reason": "In revolutionary France, the right to vote and to get elected was given only to property-owning men.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S1",
+   "level": "L4",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Why did the Frankfurt Parliament of 1848 fail to unite Germany?",
+   "answer": "A",
+   "explanation": "The king's rejection left the middle-class parliament without power; it was also narrow (women only as observers).",
+   "remediation": "Video part 1: The Rise of Nationalism in Europe; then the worksheet practice for this part.",
+   "options": [
+    "The Prussian king Friedrich Wilhelm IV rejected the crown it offered, and the parliament lost the support of the powerful",
+    "It was dissolved by Napoleon",
+    "Britain declared war on it",
+    "Women took over its leadership"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S1",
+   "level": "L4",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "How was nation-building in Britain different from that in Italy and Germany?",
+   "answer": "D",
+   "explanation": "Britain's nation-state grew gradually (for example, the Act of Union of 1707) rather than by sudden upheaval.",
+   "remediation": "Video part 1: The Rise of Nationalism in Europe; then the worksheet practice for this part.",
+   "options": [
+    "It was achieved by Garibaldi's army",
+    "It happened in one war in 1871",
+    "It was imposed by the Treaty of Vienna",
+    "It was a long-drawn-out process, not the result of a sudden revolution"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Gandhiji's Champaran satyagraha of 1917 was organised for:",
+   "answer": "D",
+   "explanation": "Champaran (Bihar), 1917: peasants against the plantation system. Ahmedabad mill workers and Kheda peasants followed in 1918.",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part.",
+   "options": [
+    "Cotton mill workers of Ahmedabad",
+    "Students boycotting schools",
+    "Business classes against imports",
+    "Peasants struggling against the oppressive plantation system"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Why was the Rowlatt Act of 1919 opposed?",
+   "answer": "C",
+   "explanation": "Detention without trial for two years: Gandhiji called a hartal on 6 April 1919.",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part.",
+   "options": [
+    "It banned foreign cloth",
+    "It gave Indians more seats in councils",
+    "It allowed the detention of political prisoners without trial for two years",
+    "It reduced the salt tax"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Arrange in order: (i) Nagpur session adopts non-cooperation (ii) Champaran satyagraha (iii) Jallianwala Bagh massacre (iv) Movement withdrawn after Chauri Chaura",
+   "answer": "C",
+   "explanation": "1917 Champaran → 13 April 1919 Jallianwala → December 1920 Nagpur → February 1922 withdrawal.",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part.",
+   "options": [
+    "(iii), (ii), (i), (iv)",
+    "(ii), (i), (iii), (iv)",
+    "(ii), (iii), (i), (iv)",
+    "(i), (ii), (iii), (iv)"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "During the Non-Cooperation Movement, the import of foreign cloth fell from ₹102 crore to ₹57 crore between 1921 and 1922. By how many crore rupees did it fall?",
+   "answer": "45",
+   "explanation": "102 − 57 = 45 crore rupees: the value of imports nearly halved.",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part."
+  },
+  {
+   "id": "q14",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; the violence (R) is why Gandhiji called off the movement (A).",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part.",
+   "assertion": "Gandhiji withdrew the Non-Cooperation Movement in February 1922.",
+   "reason": "The movement was turning violent in many places, as at Chauri Chaura.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Who formed the Swaraj Party after the Non-Cooperation Movement ended?",
+   "answer": "C",
+   "explanation": "C. R. Das and Motilal Nehru wanted to return to council politics; Nehru and Bose wanted more radical mass agitation.",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part.",
+   "options": [
+    "Gandhiji and Sardar Patel",
+    "Jawaharlal Nehru and Subhas Chandra Bose",
+    "C. R. Das and Motilal Nehru",
+    "B. R. Ambedkar and Periyar"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "What did Gandhiji's march to Dandi, which reached there on 6 April 1930, begin?",
+   "answer": "D",
+   "explanation": "78 volunteers walked about 240 miles; breaking the salt law at Dandi began Civil Disobedience.",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part.",
+   "options": [
+    "The Khilafat Movement",
+    "The Non-Cooperation Movement",
+    "The Quit India Movement",
+    "The Civil Disobedience Movement, by breaking the salt law"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Which groups stayed lukewarm towards the Civil Disobedience Movement?",
+   "answer": "A",
+   "explanation": "Rich peasants, business classes and women joined; dalits and many Muslims stayed lukewarm.",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part.",
+   "options": [
+    "Dalits and many Muslims",
+    "Business classes and women",
+    "Rich peasants and business classes",
+    "Women and rich peasants"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S2",
+   "level": "L4",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Which statement best describes the role of Indian business classes in the Civil Disobedience Movement?",
+   "answer": "B",
+   "explanation": "Business groups (FICCI, formed in 1927) wanted protection from imports and supported the movement financially.",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part.",
+   "options": [
+    "They formed the Swaraj Party in 1930",
+    "Industrialists like Purshottamdas Thakurdas and G. D. Birla gave financial help and refused to buy or sell imported goods",
+    "They opposed it from the start and supported British imports",
+    "They led the salt march to Dandi"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "What did the Poona Pact of September 1932 provide?",
+   "answer": "A",
+   "explanation": "Ambedkar's demand for separate electorates ended in the Poona Pact: reserved seats, general electorate.",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part.",
+   "options": [
+    "Reserved seats for the depressed classes, to be voted in by the general electorate",
+    "Purna Swaraj for India",
+    "Separate electorates for the depressed classes",
+    "An end to the salt tax"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S2",
+   "level": "L4",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "For plantation workers in Assam, what did 'swaraj' mean?",
+   "answer": "A",
+   "explanation": "Swaraj meant different things to different groups; for Assam plantation workers, it meant freedom to move.",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part.",
+   "options": [
+    "The right to move freely in and out of the plantations and keep in touch with their villages",
+    "Starting their own textile mills",
+    "Cancelling land revenue only",
+    "Getting seats in the legislative council"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Why was the Simon Commission met with the slogan 'Go back Simon' in 1928?",
+   "answer": "B",
+   "explanation": "The all-British commission was boycotted with 'Go back Simon'.",
+   "remediation": "Video part 2: Nationalism in India; then the worksheet practice for this part.",
+   "options": [
+    "It abolished the Rowlatt Act",
+    "It did not have a single Indian member",
+    "It wanted to give India Purna Swaraj",
+    "It was led by Gandhiji"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "The name 'silk routes' points to:",
+   "answer": "C",
+   "explanation": "The routes linked Asia with Europe and northern Africa; Chinese silk going west gave them the name.",
+   "remediation": "Video part 3: The Making of a Global World (1 to 1.3); then the worksheet practice for this part.",
+   "options": [
+    "Routes used only by silk farmers",
+    "Sea routes discovered in 1492",
+    "The west-bound Chinese silk carried along them",
+    "Roads paved with silk"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Which of these foods came to Europe and Asia from the Americas?",
+   "answer": "C",
+   "explanation": "Potatoes, maize, tomatoes and chillies came from the Americas; noodles may have travelled west from China.",
+   "remediation": "Video part 3: The Making of a Global World (1 to 1.3); then the worksheet practice for this part.",
+   "options": [
+    "Rice",
+    "Noodles",
+    "Potatoes",
+    "Wheat"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Which religion spread from eastern India along the silk routes?",
+   "answer": "B",
+   "explanation": "Trade and culture went together: Buddhism spread along the silk routes.",
+   "remediation": "Video part 3: The Making of a Global World (1 to 1.3); then the worksheet practice for this part.",
+   "options": [
+    "Christianity",
+    "Buddhism",
+    "Islam",
+    "Zoroastrianism"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true, and the lack of immunity explains why germs did more damage than guns.",
+   "remediation": "Video part 3: The Making of a Global World (1 to 1.3); then the worksheet practice for this part.",
+   "assertion": "Smallpox was the Spanish conquerors' most powerful weapon in America.",
+   "reason": "America's long isolation meant its people had no immunity against diseases from Europe.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "What was the role of silver from mines in present-day Peru and Mexico?",
+   "answer": "C",
+   "explanation": "American silver made Europe richer and paid for Asian goods.",
+   "remediation": "Video part 3: The Making of a Global World (1 to 1.3); then the worksheet practice for this part.",
+   "options": [
+    "It ended trade on the silk routes",
+    "It was used only to make coins in China",
+    "It enhanced Europe's wealth and financed its trade with Asia",
+    "It caused the Irish potato famine"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S3",
+   "level": "L4",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "Why did the centre of world trade shift westwards towards Europe after the fifteenth century?",
+   "answer": "D",
+   "explanation": "China's withdrawal from overseas contact, plus Europe's sea routes and silver, moved the centre of trade west.",
+   "remediation": "Video part 3: The Making of a Global World (1 to 1.3); then the worksheet practice for this part.",
+   "options": [
+    "India stopped producing textiles",
+    "Europe closed its ports to Asia",
+    "The silk routes were paved with gold",
+    "China restricted its overseas contacts, while Europe gained new sea routes and American wealth"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "What was the first book printed by Johann Gutenberg?",
+   "answer": "C",
+   "explanation": "Gutenberg's first book was the Bible, about 180 copies; his system was perfected by 1448.",
+   "remediation": "Video part 4: Print Culture and the Modern World; then the worksheet practice for this part.",
+   "options": [
+    "Gulamgiri",
+    "The Diamond Sutra",
+    "The Bible",
+    "The Ninety Five Theses"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Martin Luther's Ninety Five Theses of 1517 led to:",
+   "answer": "C",
+   "explanation": "Luther's criticism of Church practices, spread by print, began the Reformation; the Church responded with the Index of Prohibited Books (1558).",
+   "remediation": "Video part 4: Print Culture and the Modern World; then the worksheet practice for this part.",
+   "options": [
+    "The French Revolution",
+    "The Vernacular Press Act",
+    "The Protestant Reformation",
+    "The unification of Germany"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "Which writer and work are correctly matched?",
+   "answer": "C",
+   "explanation": "Phule wrote Gulamgiri (1871); Rashsundari Debi wrote Amar Jiban (1876); Rammohun Roy published Sambad Kaumudi; Tilak wrote in Kesari.",
+   "remediation": "Video part 4: Print Culture and the Modern World; then the worksheet practice for this part.",
+   "options": [
+    "Rammohun Roy: Amar Jiban",
+    "Bal Gangadhar Tilak: Gulamgiri",
+    "Jyotiba Phule: Gulamgiri",
+    "Rashsundari Debi: Kesari"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "What did the Vernacular Press Act of 1878 do?",
+   "answer": "A",
+   "explanation": "Modelled on Irish press laws, it allowed censorship of the vernacular press; nationalist papers still grew.",
+   "remediation": "Video part 4: Print Culture and the Modern World; then the worksheet practice for this part.",
+   "options": [
+    "It gave the government extensive powers to censor reports and editorials in the vernacular press",
+    "It started English printing in India",
+    "It made printing free for all newspapers",
+    "It banned the Bengal Gazette"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Arrange in order: (i) Hickey's Bengal Gazette (ii) Index of Prohibited Books (iii) Gutenberg's press perfected (iv) Luther's Ninety Five Theses",
+   "answer": "D",
+   "explanation": "By 1448 Gutenberg → 1517 Luther → 1558 Index → 1780 Hickey.",
+   "remediation": "Video part 4: Print Culture and the Modern World; then the worksheet practice for this part.",
+   "options": [
+    "(iv), (iii), (ii), (i)",
+    "(i), (iii), (iv), (ii)",
+    "(iii), (ii), (iv), (i)",
+    "(iii), (iv), (ii), (i)"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S4",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Many historians argue that print helped create the conditions for the French Revolution. Which reason supports this?",
+   "answer": "A",
+   "explanation": "Enlightenment ideas, debate and satire of royalty undermined the monarchy (Mercier: 'tremble, therefore, tyrants of the world').",
+   "remediation": "Video part 4: Print Culture and the Modern World; then the worksheet practice for this part.",
+   "options": [
+    "Print spread the ideas of Enlightenment thinkers, a culture of debate, and literature that mocked royalty",
+    "Print was banned throughout France",
+    "Print made all French people literate overnight",
+    "The king owned all printing presses"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "S4",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; his fear of a flood of worthless and harmful books (R) explains his unease (A).",
+   "remediation": "Video part 4: Print Culture and the Modern World; then the worksheet practice for this part.",
+   "assertion": "Erasmus was not happy about the spread of printed books.",
+   "reason": "He feared that print would flood the world with worthless books.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "Jallianwala Bagh, a place on the CBSE History map list, is in:",
+   "answer": "A",
+   "explanation": "13 April 1919: General Dyer fired on a crowd at Jallianwala Bagh, Amritsar.",
+   "remediation": "Video part 5: History Map Work; then the worksheet practice for this part.",
+   "options": [
+    "Amritsar",
+    "Lahore",
+    "Ahmedabad",
+    "Nagpur"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "At which Congress session, in September 1920, was the decision to start non-cooperation taken?",
+   "answer": "D",
+   "explanation": "Calcutta, September 1920: decided; Nagpur, December 1920: adopted.",
+   "remediation": "Video part 5: History Map Work; then the worksheet practice for this part.",
+   "options": [
+    "Nagpur",
+    "Lahore",
+    "Madras",
+    "Calcutta"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "Champaran, marked on the map list for Gandhiji's 1917 satyagraha, is in present-day:",
+   "answer": "A",
+   "explanation": "Champaran is in Bihar (indigo plantation peasants); Kheda and Ahmedabad are in Gujarat.",
+   "remediation": "Video part 5: History Map Work; then the worksheet practice for this part.",
+   "options": [
+    "Bihar",
+    "Gujarat",
+    "Maharashtra",
+    "Punjab"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "A place on the Gujarat coast where Gandhiji broke the salt law on 6 April 1930 is:",
+   "answer": "A",
+   "explanation": "Dandi: end of the salt march; Civil Disobedience began there.",
+   "remediation": "Video part 5: History Map Work; then the worksheet practice for this part.",
+   "options": [
+    "Dandi",
+    "Amritsar",
+    "Champaran",
+    "Kheda"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "S5",
+   "level": "L4",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "On a map, place A is clued 'satyagraha of 1918 for cotton mill workers' and place B 'Congress session of 1927'. Identify A and B.",
+   "answer": "B",
+   "explanation": "Ahmedabad (mill workers, 1918) and Madras (Congress session, 1927) are both on the CBSE map list.",
+   "remediation": "Video part 5: History Map Work; then the worksheet practice for this part.",
+   "options": [
+    "A: Champaran; B: Nagpur",
+    "A: Ahmedabad; B: Madras",
+    "A: Ahmedabad; B: Lahore",
+    "A: Kheda; B: Calcutta"
+   ]
+  }
+ ],
+ "class": "10",
+ "subject": "Social Science: History",
+ "board": "CBSE"
+}

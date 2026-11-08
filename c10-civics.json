@@ -1,0 +1,732 @@
+{
+ "schema": 1,
+ "id": "c10-civics",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Social Science (087) · Political Science: Democratic Politics II · Crash revision (2026-27)",
+ "short_title": "Class 10 Political Science · Crash Revision 2027",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written from this video's script, its worksheet and the NCERT/CBSE material it cites, modelled on most-repeated / high-weightage question types in CBSE Sample Question Papers and past board papers. Practice for readiness only: not predictions of any exam and no promise of marks.",
+ "instructions": "39 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number.",
+ "suggested_minutes": 35,
+ "video_url": null,
+ "worksheet_url": null,
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Belgium vs Sri Lanka",
+  "T2": "Prudential vs moral (MCQ / A-R)",
+  "T3": "Forms of power sharing",
+  "T4": "Lists and federal features",
+  "T5": "1992 amendment and local government",
+  "T6": "Gender and women's representation",
+  "T7": "Secularism and communalism",
+  "T8": "Caste in elections",
+  "T9": "Functions and need of parties",
+  "T10": "Party systems",
+  "T11": "Challenges and reforms",
+  "T12": "Accountable, responsive, legitimate",
+  "T13": "Growth, inequality, diversity, dignity"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Power Sharing",
+   "tip": "Belgium (accommodation: equal ministers, state and community governments, Brussels) vs Sri Lanka (majoritarianism, 1956 Act). Prudential = less conflict; moral = spirit of democracy. Four forms: horizontal, vertical, social groups, parties and pressure groups.",
+   "ncert": "NCERT Democratic Politics II (Reprint 2026-27), Ch 1 Power Sharing"
+  },
+  "S2": {
+   "name": "Federalism",
+   "tip": "Three lists (Union, State, Concurrent) + residuary to the Union; clash on a Concurrent subject → Union law prevails. India is 'holding together'. 1992 amendment: regular elections, reservations, one-third seats for women, State Election Commission, shared powers and revenue.",
+   "ncert": "NCERT Democratic Politics II (Reprint 2026-27), Ch 2 Federalism"
+  },
+  "S3": {
+   "name": "Gender, Religion and Caste",
+   "tip": "Define patriarchy, sexual division of labour, communalism, secular state. Know women's representation facts (14.36% in 2019 Lok Sabha; 2023 Act: 33%). Three arguments why elections are not only about caste.",
+   "ncert": "NCERT Democratic Politics II (Reprint 2026-27), Ch 3 Gender, Religion and Caste"
+  },
+  "S4": {
+   "name": "Political Parties",
+   "tip": "Seven functions in order, three components, party systems with examples, four challenges and the reforms already made vs suggested. 5-markers: 5 points, one line each, ≤ 120 words.",
+   "ncert": "NCERT Democratic Politics II (Reprint 2026-27), Ch 4 Political Parties"
+  },
+  "S5": {
+   "name": "Outcomes of Democracy",
+   "tip": "Democracy creates conditions; citizens use them. Judge it as accountable, responsive and legitimate. Growth: dictatorships slightly ahead (4.42% vs 3.95%), negligible among poor countries. Weak on inequality; strong on dignity and freedom.",
+   "ncert": "NCERT Democratic Politics II (Reprint 2026-27), Ch 5 Outcomes of Democracy"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "What percentage of Belgium's people live in the Flemish region and speak Dutch?",
+   "answer": "59",
+   "explanation": "Belgium: 59% Dutch-speaking (Flemish region), 40% French-speaking (Wallonia), 1% German-speaking.",
+   "remediation": "Video part 1: Power Sharing; then the worksheet practice for this part."
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "In Brussels, the capital of Belgium, the situation is different from the country as a whole because:",
+   "answer": "D",
+   "explanation": "Dutch speakers are the national majority, but French speakers are 80% in Brussels.",
+   "remediation": "Video part 1: Power Sharing; then the worksheet practice for this part.",
+   "options": [
+    "About 80% speak Dutch",
+    "Only English is spoken",
+    "Everyone speaks German",
+    "About 80% speak French and 20% speak Dutch"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "What did the 1956 Act in Sri Lanka do?",
+   "answer": "D",
+   "explanation": "The Act was a majoritarian measure that alienated Sri Lankan Tamils.",
+   "remediation": "Video part 1: Power Sharing; then the worksheet practice for this part.",
+   "options": [
+    "It made Tamil the only official language",
+    "It divided power between the centre and the provinces",
+    "It created a community government for Tamils",
+    "It recognised Sinhala as the only official language"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Majoritarianism means:",
+   "answer": "C",
+   "explanation": "Sri Lanka's post-1948 governments followed majoritarian measures.",
+   "remediation": "Video part 1: Power Sharing; then the worksheet practice for this part.",
+   "options": [
+    "Power is shared equally among all communities",
+    "The minority community governs the majority",
+    "The majority community rules the country in whatever way it wants, ignoring the wishes and needs of the minority",
+    "Every decision needs a two-thirds majority"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "B",
+   "explanation": "Both true, but R is the moral reason, while A states the prudential reason; R does not explain A.",
+   "remediation": "Video part 1: Power Sharing; then the worksheet practice for this part.",
+   "assertion": "Power sharing reduces the possibility of conflict between social groups.",
+   "reason": "Power sharing is the very spirit of democracy.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Power shared among the legislature, executive and judiciary, with checks and balances, is called:",
+   "answer": "A",
+   "explanation": "Horizontal: organs at the same level; vertical: levels of government (centre, state, local).",
+   "remediation": "Video part 1: Power Sharing; then the worksheet practice for this part.",
+   "options": [
+    "Horizontal distribution of power",
+    "Vertical distribution of power",
+    "Coalition government",
+    "Community government"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Which is an example of VERTICAL division of power?",
+   "answer": "A",
+   "explanation": "Vertical = between higher and lower levels of government.",
+   "remediation": "Video part 1: Power Sharing; then the worksheet practice for this part.",
+   "options": [
+    "Power shared among the central, state and local governments",
+    "Power shared among legislature, executive and judiciary",
+    "Pressure groups influencing a decision",
+    "Two parties forming a coalition"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S1",
+   "level": "L4",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "In Belgium, a question about the language of instruction in Dutch-speaking schools would be decided mainly by:",
+   "answer": "B",
+   "explanation": "The community government, elected by each language group, handles cultural, educational and language issues.",
+   "remediation": "Video part 1: Power Sharing; then the worksheet practice for this part.",
+   "options": [
+    "The European Union",
+    "The community government elected by the Dutch-speaking people",
+    "The Sri Lankan Parliament",
+    "The Brussels government"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Which subject is in the Union List?",
+   "answer": "D",
+   "explanation": "Union: defence, foreign affairs, banking, communications, currency. Police, agriculture and irrigation are State subjects.",
+   "remediation": "Video part 2: Federalism; then the worksheet practice for this part.",
+   "options": [
+    "Police",
+    "Agriculture",
+    "Irrigation",
+    "Defence"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Which subject is in the Concurrent List?",
+   "answer": "C",
+   "explanation": "Concurrent: education, forest, trade unions, marriage, adoption, succession.",
+   "remediation": "Video part 2: Federalism; then the worksheet practice for this part.",
+   "options": [
+    "Police",
+    "Currency",
+    "Education",
+    "Banking"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Who can make laws on 'residuary' subjects like computer software?",
+   "answer": "A",
+   "explanation": "Residuary subjects, not in any list, go to the Union.",
+   "remediation": "Video part 2: Federalism; then the worksheet practice for this part.",
+   "options": [
+    "The Union Government",
+    "Local bodies",
+    "The Supreme Court",
+    "The State Governments"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "B",
+   "explanation": "Both true, but R only lists Concurrent subjects; it does not explain why the Union law prevails.",
+   "remediation": "Video part 2: Federalism; then the worksheet practice for this part.",
+   "assertion": "If Union and State laws on a Concurrent List subject conflict, the Union law prevails.",
+   "reason": "The Concurrent List includes subjects like education, forest and marriage.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "India, Spain and Belgium are examples of which kind of federation?",
+   "answer": "A",
+   "explanation": "Holding together: a large country divides power, and the centre tends to be stronger. Coming together: USA, Switzerland, Australia.",
+   "remediation": "Video part 2: Federalism; then the worksheet practice for this part.",
+   "options": [
+    "Holding together",
+    "Unitary",
+    "Confederation",
+    "Coming together"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "What is needed to change the basic division of powers between the Union and the States?",
+   "answer": "D",
+   "explanation": "Fundamental provisions cannot be changed by one level alone; courts act as umpire in disputes.",
+   "remediation": "Video part 2: Federalism; then the worksheet practice for this part.",
+   "options": [
+    "A decision of the Prime Minister alone",
+    "A simple majority in one House",
+    "An order of the State Election Commission",
+    "A two-thirds majority in both Houses of Parliament and ratification by at least half of the states"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S2",
+   "level": "L4",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Which of these was NOT a provision of the 1992 amendment on local government?",
+   "answer": "A",
+   "explanation": "Regular elections became constitutionally mandatory, so indefinite postponement is the opposite of the amendment.",
+   "remediation": "Video part 2: Federalism; then the worksheet practice for this part.",
+   "options": [
+    "State governments may postpone local body elections indefinitely",
+    "At least one-third of positions are reserved for women",
+    "Regular elections to local bodies are mandatory",
+    "A State Election Commission conducts local elections"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Who heads a municipal corporation?",
+   "answer": "D",
+   "explanation": "Municipal corporations (big cities) are headed by a mayor; the gram panchayat by a sarpanch.",
+   "remediation": "Video part 2: Federalism; then the worksheet practice for this part.",
+   "options": [
+    "The Chief Minister",
+    "The Sarpanch",
+    "The Governor",
+    "The Mayor"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Patriarchy is:",
+   "answer": "B",
+   "explanation": "Literally 'rule by father'; a feminist believes in equal rights and opportunities for women and men.",
+   "remediation": "Video part 3: Gender, Religion and Caste; then the worksheet practice for this part.",
+   "options": [
+    "A system of equal rights for all",
+    "A system that values men more and gives them power over women",
+    "A religion-based political party",
+    "A form of power sharing"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "The 'sexual division of labour' refers to:",
+   "answer": "A",
+   "explanation": "Housework is left to women, and that work stays unpaid and invisible.",
+   "remediation": "Video part 3: Gender, Religion and Caste; then the worksheet practice for this part.",
+   "options": [
+    "A system in which all work inside the home is done, or organised, by women",
+    "Equal sharing of housework",
+    "Separate schools for boys and girls",
+    "Men doing all paid and unpaid work"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "In 2019, women's share in the Lok Sabha touched for the first time:",
+   "answer": "B",
+   "explanation": "14.36% in 2019; the Women's Reservation Act 2023 provides 33% in the Lok Sabha and state assemblies.",
+   "remediation": "Video part 3: Gender, Religion and Caste; then the worksheet practice for this part.",
+   "options": [
+    "50%",
+    "14.36%",
+    "33%",
+    "10%"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "What percentage of seats in the Lok Sabha and State Assemblies does the Women's Reservation Act of 2023 (Nari Shakti Vandan Adhiniyam) provide for women?",
+   "answer": "33",
+   "explanation": "33% (one-third) of seats.",
+   "remediation": "Video part 3: Gender, Religion and Caste; then the worksheet practice for this part."
+  },
+  {
+   "id": "q21",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Which group of countries has a high level of women's participation in public life?",
+   "answer": "C",
+   "explanation": "The Nordic countries lead in women's participation.",
+   "remediation": "Video part 3: Gender, Religion and Caste; then the worksheet practice for this part.",
+   "options": [
+    "Only India and Sri Lanka",
+    "None in the world",
+    "Sweden, Norway and Finland",
+    "Countries of the Sahara"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Which is a feature of India as a secular state?",
+   "answer": "C",
+   "explanation": "No official religion; freedom to profess, practise and propagate; no discrimination; intervention for equality (e.g. banning untouchability).",
+   "remediation": "Video part 3: Gender, Religion and Caste; then the worksheet practice for this part.",
+   "options": [
+    "Only one religion may be propagated",
+    "The state can never intervene in religious matters",
+    "There is no official religion, and the state may intervene in religion to ensure equality",
+    "Hinduism is the official religion"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Communalism means:",
+   "answer": "A",
+   "explanation": "It shows up as everyday prejudice, quest for dominance, religious mobilisation and violence.",
+   "remediation": "Video part 3: Gender, Religion and Caste; then the worksheet practice for this part.",
+   "options": [
+    "Using religion in politics in exclusive and partisan terms",
+    "Respecting all religions equally",
+    "Separating religion from the state",
+    "Celebrating festivals together"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S3",
+   "level": "L4",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Which argument best shows that elections in India are NOT only about caste?",
+   "answer": "B",
+   "explanation": "Parties and candidates must win the trust of more than one caste, and voters also weigh other issues.",
+   "remediation": "Video part 3: Gender, Religion and Caste; then the worksheet practice for this part.",
+   "options": [
+    "Voters never think about caste",
+    "No parliamentary constituency has a clear majority of one single caste",
+    "Caste is banned in elections",
+    "Every party gets all the votes of one caste"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "The three components of a political party are:",
+   "answer": "C",
+   "explanation": "Leaders, active members and followers.",
+   "remediation": "Video part 4: Political Parties; then the worksheet practice for this part.",
+   "options": [
+    "President, Governor and Mayor",
+    "Voters, officials and media",
+    "Leaders, active members and followers",
+    "Judges, lawyers and police"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Which of these is NOT a function of political parties?",
+   "answer": "A",
+   "explanation": "Seven functions: contest elections, put forward policies, make laws, form governments, act as opposition, shape opinion, give access to welfare schemes.",
+   "remediation": "Video part 4: Political Parties; then the worksheet practice for this part.",
+   "options": [
+    "Appointing judges of the Supreme Court",
+    "Shaping public opinion",
+    "Contesting elections",
+    "Forming and running governments"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "Which country is an example of a two-party system?",
+   "answer": "B",
+   "explanation": "One-party: China; two-party: USA, UK; multiparty: India.",
+   "remediation": "Video part 4: Political Parties; then the worksheet practice for this part.",
+   "options": [
+    "India",
+    "The USA",
+    "None of these",
+    "China"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T10",
+   "type": "numeric",
+   "question": "As per the Election Commission's 2023 notification mentioned in the video, how many recognised national parties are there?",
+   "answer": "6",
+   "explanation": "Six recognised national parties, recognised on their share of votes and seats.",
+   "remediation": "Video part 4: Political Parties; then the worksheet practice for this part."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "Why has India evolved a multiparty system?",
+   "answer": "A",
+   "explanation": "Diversity explains the multiparty system.",
+   "remediation": "Video part 4: Political Parties; then the worksheet practice for this part.",
+   "options": [
+    "Its social and geographical diversity cannot easily be absorbed by two or three parties",
+    "Only one party is allowed to rule",
+    "The Constitution bans two-party systems",
+    "Every state has its own Constitution"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T9",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true, and R explains A.",
+   "remediation": "Video part 4: Political Parties; then the worksheet practice for this part.",
+   "assertion": "Political parties are necessary in a representative democracy.",
+   "reason": "Without parties, every candidate would be independent and nobody would be responsible for how the country is run.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Which challenge to political parties does 'dynastic succession' describe?",
+   "answer": "C",
+   "explanation": "Four challenges: lack of internal democracy, dynastic succession, money and muscle power, lack of meaningful choice.",
+   "remediation": "Video part 4: Political Parties; then the worksheet practice for this part.",
+   "options": [
+    "Elections are held too often",
+    "Parties have too many members",
+    "Top positions are passed on to members of one family",
+    "Parties do not contest elections"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "S4",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Which of these steps to reform parties has ALREADY been taken, rather than only suggested?",
+   "answer": "C",
+   "explanation": "Made: anti-defection law, affidavits ordered by the Supreme Court, EC order on organisational elections and tax returns. The others are suggestions.",
+   "remediation": "Video part 4: Political Parties; then the worksheet practice for this part.",
+   "options": [
+    "State funding of elections",
+    "Reserving one-third of party tickets for women",
+    "The anti-defection amendment",
+    "A law to regulate parties' internal affairs"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "Democracy is expected to produce a government that is:",
+   "answer": "B",
+   "explanation": "Outcome one: an accountable, responsive and legitimate government.",
+   "remediation": "Video part 5: Outcomes of Democracy; then the worksheet practice for this part.",
+   "options": [
+    "Secret, quick and permanent",
+    "Accountable, responsive and legitimate",
+    "Run by one party only",
+    "Hereditary and unelected"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "According to data for 1950–2000, which statement about economic growth is correct?",
+   "answer": "B",
+   "explanation": "4.42% vs 3.95%; among poor countries the gap is negligible (4.34% vs 4.28%).",
+   "remediation": "Video part 5: Outcomes of Democracy; then the worksheet practice for this part.",
+   "options": [
+    "Democracies grew much faster than dictatorships",
+    "Dictatorships grew slightly faster (4.42%) than democracies (3.95%)",
+    "Both grew at exactly 5%",
+    "Dictatorships did not grow at all"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T13",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true, and R explains A: growth depends on other factors too.",
+   "remediation": "Video part 5: Outcomes of Democracy; then the worksheet practice for this part.",
+   "assertion": "Economic growth alone cannot be the reason to prefer dictatorship over democracy.",
+   "reason": "Among poor countries, the difference in growth rates between dictatorships and democracies is negligible.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "In countries like South Africa and Brazil, the top 20% of people take more than 60% of the national income. This shows that democracies:",
+   "answer": "A",
+   "explanation": "Outcome three: on inequality and poverty, democracies have not done well.",
+   "remediation": "Video part 5: Outcomes of Democracy; then the worksheet practice for this part.",
+   "options": [
+    "Have not done well in reducing economic inequality",
+    "Have equal incomes for all",
+    "Have removed all poverty",
+    "Do not allow anyone to be rich"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "For democracy to accommodate social diversity, which condition is necessary?",
+   "answer": "A",
+   "explanation": "Both conditions from the chapter.",
+   "remediation": "Video part 5: Outcomes of Democracy; then the worksheet practice for this part.",
+   "options": [
+    "The majority must work with the minority, and rule by majority must not become rule by one religious, racial or language community",
+    "The largest community must always rule",
+    "Minorities must not vote",
+    "All languages except one must be banned"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "Which feature makes decisions in a democracy transparent?",
+   "answer": "D",
+   "explanation": "Decisions follow norms and procedures, and citizens can find out how they were made.",
+   "remediation": "Video part 5: Outcomes of Democracy; then the worksheet practice for this part.",
+   "options": [
+    "No elections",
+    "Banning newspapers",
+    "Secret decisions by a few leaders",
+    "Citizens' right to information about how decisions are taken"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "S5",
+   "level": "L4",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "People in democracies often complain about their governments. What does this show?",
+   "answer": "A",
+   "explanation": "Democracy's examination never gets over; complaints show citizens have become aware and critical.",
+   "remediation": "Video part 5: Outcomes of Democracy; then the worksheet practice for this part.",
+   "options": [
+    "Citizens have become aware and expect more, which itself is a sign of democracy's success",
+    "Complaints are not allowed in a democracy",
+    "Democracy has completely failed",
+    "Dictatorship is always better"
+   ]
+  }
+ ],
+ "class": "10",
+ "subject": "Social Science: Political Science",
+ "board": "CBSE"
+}

@@ -1,0 +1,762 @@
+{
+ "schema": 1,
+ "id": "c10-science",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Science (086) · Crash revision of all assessed chapters (2026-27 syllabus)",
+ "short_title": "Class 10 Science · Crash Revision 2027",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written from this video's script, its worksheet and the NCERT/CBSE material it cites, modelled on most-repeated / high-weightage question types in CBSE Sample Question Papers and past board papers. Practice for readiness only: not predictions of any exam and no promise of marks.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (negative allowed). No calculator.",
+ "suggested_minutes": 45,
+ "video_url": "https://youtu.be/PNetLXw7BYc",
+ "worksheet_url": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Balanced equation + type of reaction",
+  "T2": "Redox / correct the equation",
+  "T3": "Salt preparation and uses",
+  "T4": "pH and indicators",
+  "T5": "Water of crystallisation",
+  "T6": "Roasting vs calcination / extraction",
+  "T7": "Amphoteric oxides",
+  "T8": "Ionic compounds / reactivity",
+  "T9": "Homologous series and formulae",
+  "T10": "Identify compound; ethanol/ethanoic acid",
+  "T11": "Soap, micelles, hard water",
+  "T12": "Digestion: bile, pancreas",
+  "T13": "Heart and double circulation",
+  "T14": "Aerobic vs anaerobic",
+  "T15": "Reflex arc",
+  "T16": "Plant hormones and tropisms",
+  "T17": "Asexual modes",
+  "T18": "Changes after fertilisation; reproductive health",
+  "T19": "Mendel crosses: ratio / number",
+  "T20": "Sex determination",
+  "T21": "10% energy law",
+  "T22": "Biological magnification",
+  "T23": "Ozone",
+  "T24": "Mirror / lens formula numerical",
+  "T25": "Power of a lens",
+  "T26": "Refractive index",
+  "T27": "Defects of vision",
+  "T28": "Dispersion and scattering",
+  "T29": "Series-parallel circuit",
+  "T30": "Resistivity / wire cut and rejoined",
+  "T31": "Power and current of an appliance",
+  "T32": "Field lines (A-R)",
+  "T33": "Rules: thumb rule / Fleming",
+  "T34": "Domestic circuits"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Chemical Reactions and Equations",
+   "tip": "Balance with coefficients only, then name the type: combination, decomposition, displacement, double displacement, redox. Oxidation = gain of O / loss of H.",
+   "ncert": "NCERT Science Ch 1: 'Types of chemical reactions' and 'Oxidation and reduction'; end-of-chapter exercises"
+  },
+  "S2": {
+   "name": "Acids, Bases and Salts",
+   "tip": "Learn each salt with its preparation equation and one use. Water of crystallisation: gypsum, PoP, washing soda, blue vitriol; baking soda has none. Enamel corrodes below pH 5.5.",
+   "ncert": "NCERT Science Ch 2: pH scale; 'More about salts' (NaOH, bleaching powder, baking soda, washing soda, PoP)"
+  },
+  "S3": {
+   "name": "Metals and Non-metals",
+   "tip": "Reactivity series K Na Ca Mg Al Zn Fe Pb [H] Cu Hg Ag Au decides displacement. Roasting = sulphide + excess air; calcination = carbonate + limited air. Al₂O₃ and ZnO are amphoteric.",
+   "ncert": "NCERT Science Ch 3: reactivity series, ionic compounds, extraction of metals, corrosion"
+  },
+  "S4": {
+   "name": "Carbon and its Compounds",
+   "tip": "Know CₙH₂ₙ₊₂ / CₙH₂ₙ / CₙH₂ₙ₋₂, the CH₂ (14 u) step, and the ethanol / ethanoic-acid reactions (oxidation, esterification, dehydration at 443 K). Soap + hard water → scum.",
+   "ncert": "NCERT Science Ch 4: homologous series, chemical properties of carbon compounds, ethanol and ethanoic acid, soaps and detergents"
+  },
+  "S5": {
+   "name": "Life Processes",
+   "tip": "Pyruvate → lactic acid (muscle, no O₂), ethanol + CO₂ (yeast), CO₂ + H₂O (mitochondria). Bile: alkaline + breaks fats into globules. Four chambers keep oxygenated and deoxygenated blood apart.",
+   "ncert": "NCERT Science Ch 5: nutrition, respiration, transportation (heart), excretion (nephron)"
+  },
+  "S6": {
+   "name": "Control and Coordination",
+   "tip": "Reflex arc: receptor → sensory neuron → spinal cord → motor neuron → effector. Medulla: involuntary actions. Touch-me-not: water movement, not growth. Pollen tube: chemotropism.",
+   "ncert": "NCERT Science Ch 6: reflex action, human brain, coordination in plants, hormones in animals"
+  },
+  "S7": {
+   "name": "How do Organisms Reproduce?",
+   "tip": "Match mode to organism: Amoeba fission, Plasmodium multiple fission, Hydra budding, Planaria regeneration, Spirogyra fragmentation, Rhizopus spores. Ovary → fruit, ovule → seed.",
+   "ncert": "NCERT Science Ch 7: modes of asexual reproduction; sexual reproduction in flowering plants; reproductive health"
+  },
+  "S8": {
+   "name": "Heredity",
+   "tip": "Monohybrid F₂ 3 : 1 (genotype 1 : 2 : 1); dihybrid F₂ 9 : 3 : 3 : 1. Multiply the fraction by the total. Father's X or Y decides the sex of the child.",
+   "ncert": "NCERT Science Ch 8: Mendel's contributions, inheritance of traits, sex determination"
+  },
+  "S9": {
+   "name": "Our Environment",
+   "tip": "About 10% of energy passes to the next trophic level, so multiply or divide by 10 per step. Pesticides concentrate most at the top level. O₂ → O + O (UV), O + O₂ → O₃.",
+   "ncert": "NCERT Science Ch 13: food chains and webs, ozone layer, waste management"
+  },
+  "S10": {
+   "name": "Light: Reflection and Refraction",
+   "tip": "Put signs in first (u is negative). Mirror 1/v + 1/u = 1/f, lens 1/v − 1/u = 1/f; lens m = v/u. P = 1/f with f in metres. n = c/v.",
+   "ncert": "NCERT Science Ch 9: mirror formula and magnification, refractive index, lens formula, power of a lens"
+  },
+  "S11": {
+   "name": "The Human Eye and the Colourful World",
+   "tip": "Myopia → concave lens; hypermetropia → convex lens. Violet deviates most, red least. Blue sky: fine particles scatter blue most; no atmosphere means a dark sky.",
+   "ncert": "NCERT Science Ch 10: defects of vision and their correction, dispersion by a prism, scattering of light"
+  },
+  "S12": {
+   "name": "Electricity",
+   "tip": "Series: add R, same current. Parallel: add 1/R, then invert, same voltage. P = VI = I²R = V²/R; H = I²Rt. A wire cut into n parts and joined in parallel becomes R/n².",
+   "ncert": "NCERT Science Ch 11: Ohm's law, resistivity, series and parallel resistors, heating effect, electric power"
+  },
+  "S13": {
+   "name": "Magnetic Effects of Electric Current",
+   "tip": "Right-hand thumb rule for the field round a wire; Fleming's LEFT hand for the force (forefinger field, middle finger current, thumb motion). Field lines never cross. Earth wire protects metal bodies.",
+   "ncert": "NCERT Science Ch 12: field lines, field due to a current, force on a conductor, domestic electric circuits"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Which type of reaction is CaO + H₂O → Ca(OH)₂ + heat?",
+   "answer": "B",
+   "explanation": "Two substances form one product and heat is released: an exothermic combination reaction.",
+   "remediation": "Video part 1: Chemical Reactions and Equations; then the worksheet practice for this part.",
+   "options": [
+    "Decomposition, and endothermic",
+    "Combination, and exothermic",
+    "Displacement",
+    "Double displacement"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "CuO loses oxygen to become Cu, so it is reduced; R is the definition that explains A.",
+   "remediation": "Video part 1: Chemical Reactions and Equations; then the worksheet practice for this part.",
+   "assertion": "In the reaction CuO + H₂ → Cu + H₂O, copper oxide is reduced.",
+   "reason": "Reduction is the loss of oxygen (or gain of hydrogen) by a substance.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Water is electrolysed and 24 mL of hydrogen collects at the cathode. How many mL of oxygen collect at the anode in the same time?",
+   "answer": "12",
+   "explanation": "2H₂O → 2H₂ + O₂: hydrogen and oxygen form in the ratio 2 : 1 by volume, so 24 ÷ 2 = 12 mL.",
+   "remediation": "Video part 1: Chemical Reactions and Equations; then the worksheet practice for this part."
+  },
+  {
+   "id": "q04",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "In the chlor-alkali process, which gas is released at the anode?",
+   "answer": "B",
+   "explanation": "2NaCl + 2H₂O → 2NaOH + Cl₂ + H₂: chlorine at the anode, hydrogen at the cathode, NaOH near the cathode.",
+   "remediation": "Video part 2: Acids, Bases and Salts; then the worksheet practice for this part.",
+   "options": [
+    "Carbon dioxide",
+    "Chlorine",
+    "Oxygen",
+    "Hydrogen"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Which set contains ONLY substances that have water of crystallisation?",
+   "answer": "C",
+   "explanation": "Gypsum CaSO₄·2H₂O, washing soda Na₂CO₃·10H₂O and PoP CaSO₄·½H₂O all have it; baking soda NaHCO₃ has none.",
+   "remediation": "Video part 2: Acids, Bases and Salts; then the worksheet practice for this part.",
+   "options": [
+    "Baking soda, common salt, Plaster of Paris",
+    "Baking soda, washing soda, gypsum",
+    "Gypsum, washing soda, Plaster of Paris",
+    "Bleaching powder, baking soda, gypsum"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Four solutions have pH P = 2, Q = 5, R = 7 and S = 12. Which statement is correct?",
+   "answer": "C",
+   "explanation": "Lower pH = more H⁺, so P is the strongest acid; S is basic (pink with phenolphthalein). pH 5 is below 5.5, so Q can corrode enamel; R is neutral.",
+   "remediation": "Video part 2: Acids, Bases and Salts; then the worksheet practice for this part.",
+   "options": [
+    "Q is safe for tooth enamel because it is close to neutral",
+    "R turns methyl orange red",
+    "S turns phenolphthalein pink, and P has the highest H⁺ ion concentration",
+    "P turns phenolphthalein pink"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Which of these oxides reacts with both acids and bases?",
+   "answer": "C",
+   "explanation": "Aluminium oxide is amphoteric: Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O and Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O. Na₂O and CaO are basic, SO₂ is acidic.",
+   "remediation": "Video part 3: Metals and Non-metals; then the worksheet practice for this part.",
+   "options": [
+    "SO₂",
+    "Na₂O",
+    "Al₂O₃",
+    "CaO"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Heating zinc carbonate strongly in a limited supply of air is called:",
+   "answer": "A",
+   "explanation": "Calcination: carbonate ore in limited air, ZnCO₃ → ZnO + CO₂. Roasting is for sulphide ores in excess air.",
+   "remediation": "Video part 3: Metals and Non-metals; then the worksheet practice for this part.",
+   "options": [
+    "Calcination",
+    "Corrosion",
+    "Roasting",
+    "Electrolytic refining"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T8",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "D",
+   "explanation": "A is false: ionic compounds conduct only when molten or dissolved. R is true and is exactly why solid NaCl does not conduct.",
+   "remediation": "Video part 3: Metals and Non-metals; then the worksheet practice for this part.",
+   "assertion": "Solid sodium chloride conducts electricity.",
+   "reason": "In the solid state, the ions of an ionic compound are held in place and cannot move.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "numeric",
+   "question": "By how many units (u) does the molecular mass of butane, C₄H₁₀, exceed that of ethane, C₂H₆? (C = 12 u, H = 1 u)",
+   "answer": "28",
+   "explanation": "58 − 30 = 28 u: they are two members apart in the alkane series, and each step adds CH₂ = 14 u.",
+   "remediation": "Video part 4: Carbon and its Compounds; then the worksheet practice for this part."
+  },
+  {
+   "id": "q11",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "Compound X (C₂H₄O₂) turns blue litmus red and, when warmed with ethanol and a few drops of concentrated sulphuric acid, gives a sweet-smelling substance. X is:",
+   "answer": "B",
+   "explanation": "An acid that forms a sweet-smelling ester with ethanol is ethanoic acid, CH₃COOH: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O.",
+   "remediation": "Video part 4: Carbon and its Compounds; then the worksheet practice for this part.",
+   "options": [
+    "Ethanal",
+    "Ethanoic acid",
+    "Ethene",
+    "Propanone"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; the scum formation (R) is the reason soap fails to lather (A). Detergents still lather.",
+   "remediation": "Video part 4: Carbon and its Compounds; then the worksheet practice for this part.",
+   "assertion": "Soap does not lather well in hard water.",
+   "reason": "Calcium and magnesium ions in hard water react with soap to form an insoluble substance called scum.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T14",
+   "type": "mcq",
+   "question": "In human muscle cells during heavy exercise (shortage of oxygen), pyruvate is converted into:",
+   "answer": "C",
+   "explanation": "Without enough oxygen, muscle cells make lactic acid (causing cramps). Yeast makes ethanol + CO₂; mitochondria make CO₂ + water with oxygen.",
+   "remediation": "Video part 5: Life Processes; then the worksheet practice for this part.",
+   "options": [
+    "Carbon dioxide and water",
+    "Glucose",
+    "Lactic acid",
+    "Ethanol and carbon dioxide"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "What does bile from the liver do in the small intestine?",
+   "answer": "C",
+   "explanation": "Bile has no enzyme; it makes the medium alkaline for pancreatic enzymes and emulsifies fats.",
+   "remediation": "Video part 5: Life Processes; then the worksheet practice for this part.",
+   "options": [
+    "Kills bacteria with hydrochloric acid",
+    "Absorbs digested food through villi",
+    "Makes the food alkaline and breaks fats into small globules",
+    "Digests proteins using trypsin"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "Why do birds and mammals need a four-chambered heart with double circulation?",
+   "answer": "B",
+   "explanation": "Separation gives a highly efficient oxygen supply, which warm-blooded animals need. Fish have a two-chambered heart and single circulation.",
+   "remediation": "Video part 5: Life Processes; then the worksheet practice for this part.",
+   "options": [
+    "It lets blood pass through the heart only once per cycle, as in fish",
+    "It keeps oxygenated and deoxygenated blood apart, giving the efficient oxygen supply needed to keep a constant body temperature",
+    "It mixes oxygenated and deoxygenated blood to save energy",
+    "It is needed only to pump blood to the lungs"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S6",
+   "level": "L1",
+   "pattern": "T16",
+   "type": "mcq",
+   "question": "A pollen tube grows towards the ovule. This is an example of:",
+   "answer": "C",
+   "explanation": "Growth in response to a chemical stimulus is chemotropism.",
+   "remediation": "Video part 6: Control and Coordination; then the worksheet practice for this part.",
+   "options": [
+    "Hydrotropism",
+    "Phototropism",
+    "Chemotropism",
+    "Geotropism"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T15",
+   "type": "mcq",
+   "question": "Which is the correct path of a reflex arc?",
+   "answer": "D",
+   "explanation": "The impulse goes in through the sensory neuron, the spinal cord responds, and the motor neuron carries it to the muscle or gland.",
+   "remediation": "Video part 6: Control and Coordination; then the worksheet practice for this part.",
+   "options": [
+    "Effector → motor neuron → spinal cord → sensory neuron → receptor",
+    "Receptor → spinal cord → sensory neuron → effector → motor neuron",
+    "Receptor → motor neuron → brain → sensory neuron → effector",
+    "Receptor → sensory neuron → spinal cord → motor neuron → effector"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "T16",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "D",
+   "explanation": "A is false: no growth is involved. R is true: the leaves fold because water moves out of cells.",
+   "remediation": "Video part 6: Control and Coordination; then the worksheet practice for this part.",
+   "assertion": "The folding of touch-me-not leaves on touching is a growth movement.",
+   "reason": "The movement happens because the cells change their water content, which changes their shape.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S7",
+   "level": "L1",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "Which organism is correctly matched with its mode of asexual reproduction?",
+   "answer": "C",
+   "explanation": "Hydra buds; Planaria regenerates; Spirogyra fragments; Rhizopus forms spores.",
+   "remediation": "Video part 7: How do Organisms Reproduce?; then the worksheet practice for this part.",
+   "options": [
+    "Planaria: spore formation",
+    "Spirogyra: budding",
+    "Hydra: budding",
+    "Rhizopus: regeneration"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T18",
+   "type": "mcq",
+   "question": "After fertilisation in a flower, which change takes place?",
+   "answer": "A",
+   "explanation": "The ovary ripens into the fruit and each ovule develops into a seed; petals and sepals usually fall off.",
+   "remediation": "Video part 7: How do Organisms Reproduce?; then the worksheet practice for this part.",
+   "options": [
+    "The ovary becomes the fruit and the ovule becomes the seed",
+    "The stamen becomes the fruit",
+    "The ovule becomes the fruit and the ovary becomes the seed",
+    "The petals become the seed"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T19",
+   "type": "numeric",
+   "question": "In a dihybrid cross (round yellow × wrinkled green), 160 seeds are obtained in F₂. How many are expected to be wrinkled and yellow?",
+   "answer": "30",
+   "explanation": "F₂ ratio 9 : 3 : 3 : 1; wrinkled yellow is a '3' class: 3/16 × 160 = 30.",
+   "remediation": "Video part 8: Heredity; then the worksheet practice for this part."
+  },
+  {
+   "id": "q22",
+   "subtopic": "S8",
+   "level": "L4",
+   "pattern": "T19",
+   "type": "numeric",
+   "question": "In a monohybrid F₂ of 400 pea plants (from Tt × Tt), how many plants are expected to be tall AND pure-breeding (TT)?",
+   "answer": "100",
+   "explanation": "Genotypes are 1 TT : 2 Tt : 1 tt, so 1/4 of 400 = 100. Tall plants total 300, but only TT breed true.",
+   "remediation": "Video part 8: Heredity; then the worksheet practice for this part."
+  },
+  {
+   "id": "q23",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T20",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true, and R explains A: the father's chromosome (X or Y) decides girl (XX) or boy (XY).",
+   "remediation": "Video part 8: Heredity; then the worksheet practice for this part.",
+   "assertion": "The sex of a child in humans is decided by the father.",
+   "reason": "The mother always gives an X chromosome, while the father gives either an X or a Y.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "T21",
+   "type": "numeric",
+   "question": "Producers in a food chain hold 20,000 kJ of energy. Using the 10% law, how many kJ reach the third trophic level?",
+   "answer": "200",
+   "explanation": "Level 1 → 2: 2,000 kJ; level 2 → 3: 200 kJ.",
+   "remediation": "Video part 9: Our Environment; then the worksheet practice for this part."
+  },
+  {
+   "id": "q25",
+   "subtopic": "S9",
+   "level": "L1",
+   "pattern": "T22",
+   "type": "mcq",
+   "question": "In a food chain grass → grasshopper → frog → snake, a pesticide will be found in the highest concentration in:",
+   "answer": "A",
+   "explanation": "Non-biodegradable chemicals build up at each level (biological magnification), so the top consumer has the most.",
+   "remediation": "Video part 9: Our Environment; then the worksheet practice for this part.",
+   "options": [
+    "The snake",
+    "The grass",
+    "The frog",
+    "The grasshopper"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T23",
+   "type": "mcq",
+   "question": "How is ozone formed in the upper atmosphere?",
+   "answer": "B",
+   "explanation": "O₂ → O + O (UV); O + O₂ → O₃. CFCs destroy ozone rather than form it.",
+   "remediation": "Video part 9: Our Environment; then the worksheet practice for this part.",
+   "options": [
+    "Plants release O₃ during photosynthesis",
+    "UV radiation splits O₂ into free O atoms, which combine with O₂ to form O₃",
+    "CFCs combine with oxygen to form O₃",
+    "Lightning combines nitrogen with oxygen to form O₃"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S10",
+   "level": "L2",
+   "pattern": "T24",
+   "type": "numeric",
+   "question": "An object is placed 20 cm in front of a concave mirror of focal length 10 cm. How far from the mirror (in cm) is the image formed?",
+   "answer": "20",
+   "explanation": "u = −20 cm, f = −10 cm. 1/v = 1/f − 1/u = −1/10 + 1/20 = −1/20, so v = −20 cm: 20 cm in front (object at C, image at C).",
+   "remediation": "Video part 10: Light: Reflection and Refraction; then the worksheet practice for this part."
+  },
+  {
+   "id": "q28",
+   "subtopic": "S10",
+   "level": "L4",
+   "pattern": "T24",
+   "type": "numeric",
+   "question": "A 2 cm tall object is placed 30 cm in front of a convex lens of focal length 20 cm. Find the height of the image in cm, with its sign.",
+   "answer": "-4",
+   "explanation": "1/v = 1/f + 1/u = 1/20 − 1/30 = 1/60, so v = +60 cm. m = v/u = 60/(−30) = −2, h′ = −2 × 2 = −4 cm (real, inverted, twice the size).",
+   "remediation": "Video part 10: Light: Reflection and Refraction; then the worksheet practice for this part."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S10",
+   "level": "L2",
+   "pattern": "T25",
+   "type": "numeric",
+   "question": "Find the power (in dioptres, with sign) of a concave lens of focal length 25 cm.",
+   "answer": "-4",
+   "explanation": "f = −25 cm = −0.25 m. P = 1/f = 1/(−0.25) = −4 D.",
+   "remediation": "Video part 10: Light: Reflection and Refraction; then the worksheet practice for this part."
+  },
+  {
+   "id": "q30",
+   "subtopic": "S10",
+   "level": "L3",
+   "pattern": "T26",
+   "type": "mcq",
+   "question": "Light travels at 3 × 10⁸ m/s in air and 2 × 10⁸ m/s in a glass slab. The refractive index of the glass with respect to air is:",
+   "answer": "B",
+   "explanation": "n = speed in air ÷ speed in glass = 3 ÷ 2 = 1.5.",
+   "remediation": "Video part 10: Light: Reflection and Refraction; then the worksheet practice for this part.",
+   "options": [
+    "6",
+    "1.5",
+    "1.33",
+    "0.67"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S11",
+   "level": "L1",
+   "pattern": "T27",
+   "type": "mcq",
+   "question": "A person cannot see distant objects clearly. The defect and its correcting lens are:",
+   "answer": "A",
+   "explanation": "Short-sightedness (myopia): the image forms in front of the retina; a diverging (concave) lens corrects it.",
+   "remediation": "Video part 11: The Human Eye and the Colourful World; then the worksheet practice for this part.",
+   "options": [
+    "Myopia; concave lens",
+    "Myopia; convex lens",
+    "Hypermetropia; concave lens",
+    "Hypermetropia; convex lens"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "S11",
+   "level": "L2",
+   "pattern": "T28",
+   "type": "mcq",
+   "question": "When white light passes through a glass prism, which colour bends the least?",
+   "answer": "D",
+   "explanation": "VIBGYOR: violet deviates most, red least.",
+   "remediation": "Video part 11: The Human Eye and the Colourful World; then the worksheet practice for this part.",
+   "options": [
+    "Violet",
+    "Blue",
+    "Green",
+    "Red"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S11",
+   "level": "L3",
+   "pattern": "T28",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true, and R explains A: the blue sky is due to scattering by fine particles in the atmosphere.",
+   "remediation": "Video part 11: The Human Eye and the Colourful World; then the worksheet practice for this part.",
+   "assertion": "To an astronaut far above the atmosphere, the sky looks dark instead of blue.",
+   "reason": "Without an atmosphere, there are no particles to scatter sunlight.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "S12",
+   "level": "L2",
+   "pattern": "T29",
+   "type": "numeric",
+   "question": "Resistors of 2 Ω, 4 Ω and 6 Ω are joined in series to a 24 V battery. What current (in A) flows?",
+   "answer": "2",
+   "explanation": "Rₛ = 2 + 4 + 6 = 12 Ω; I = V/R = 24/12 = 2 A (same through each).",
+   "remediation": "Video part 12: Electricity; then the worksheet practice for this part."
+  },
+  {
+   "id": "q35",
+   "subtopic": "S12",
+   "level": "L3",
+   "pattern": "T29",
+   "type": "numeric",
+   "question": "A 6 Ω and a 3 Ω resistor are joined in parallel, and this combination is joined in series with a 4 Ω resistor. Find the total resistance in Ω.",
+   "answer": "6",
+   "explanation": "1/Rₚ = 1/6 + 1/3 = 1/2, so Rₚ = 2 Ω; total = 2 + 4 = 6 Ω.",
+   "remediation": "Video part 12: Electricity; then the worksheet practice for this part."
+  },
+  {
+   "id": "q36",
+   "subtopic": "S12",
+   "level": "L4",
+   "pattern": "T30",
+   "type": "numeric",
+   "question": "A wire of resistance 27 Ω is cut into three equal parts, and the parts are joined in parallel. Find the resistance (in Ω) of the combination.",
+   "answer": "3",
+   "explanation": "Each part is 9 Ω (R ∝ l). Three 9 Ω in parallel: 9/3 = 3 Ω, i.e. R/9.",
+   "remediation": "Video part 12: Electricity; then the worksheet practice for this part."
+  },
+  {
+   "id": "q37",
+   "subtopic": "S12",
+   "level": "L2",
+   "pattern": "T31",
+   "type": "numeric",
+   "question": "An electric heater is rated 1100 W, 220 V. What current (in A) does it draw?",
+   "answer": "5",
+   "explanation": "I = P/V = 1100/220 = 5 A.",
+   "remediation": "Video part 12: Electricity; then the worksheet practice for this part."
+  },
+  {
+   "id": "q38",
+   "subtopic": "S13",
+   "level": "L1",
+   "pattern": "T33",
+   "type": "mcq",
+   "question": "In Fleming's left-hand rule, the middle finger points in the direction of the:",
+   "answer": "A",
+   "explanation": "Forefinger: field; middle finger: current; thumb: force / motion of the conductor.",
+   "remediation": "Video part 13: Magnetic Effects of Electric Current; then the worksheet practice for this part.",
+   "options": [
+    "Current",
+    "Magnetic field",
+    "Force on the conductor",
+    "Motion of the magnet"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "S13",
+   "level": "L2",
+   "pattern": "T32",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true, and R is the standard reason for A.",
+   "remediation": "Video part 13: Magnetic Effects of Electric Current; then the worksheet practice for this part.",
+   "assertion": "Two magnetic field lines never intersect each other.",
+   "reason": "If they crossed, a compass needle at that point would have to point in two directions at once, which is impossible.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "S13",
+   "level": "L3",
+   "pattern": "T34",
+   "type": "mcq",
+   "question": "Why is the metal body of an electric iron connected to the earth wire?",
+   "answer": "B",
+   "explanation": "The earth wire gives leakage current a low-resistance path to the earth, keeping the body at earth potential. The fuse is still needed for overloading and short circuits.",
+   "remediation": "Video part 13: Magnetic Effects of Electric Current; then the worksheet practice for this part.",
+   "options": [
+    "So that the fuse is not needed",
+    "So that any leakage current flows to the earth and the user does not get a severe shock",
+    "So that the iron uses less power",
+    "So that the current through the element increases"
+   ]
+  }
+ ],
+ "class": "10",
+ "subject": "Science",
+ "board": "CBSE"
+}
