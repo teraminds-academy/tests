@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "tests": [
+  {
+   "id": "c10-maths-ch01",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 1 Real Numbers",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 1 Real Numbers (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "questions": 40,
+   "suggested_minutes": 45,
+   "version": 1
+  }
+ ]
+}
