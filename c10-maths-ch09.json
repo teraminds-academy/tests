@@ -1,0 +1,669 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch09",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 9 Some Applications of Trigonometry (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 9 Some Applications of Trigonometry",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2023-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number. No calculator.",
+ "suggested_minutes": 40,
+ "video_url": "https://youtu.be/p0xK8ReO3eA",
+ "worksheet_url": "https://drive.google.com/file/d/14cWxNaWRmCsNVXT22X6BGDZWQM8zi9Ue/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "One right triangle",
+  "T2": "Two angles, same side",
+  "T3": "Opposite sides",
+  "T4": "Two heights",
+  "T5": "Case study"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Elevation, depression, which ratio",
+   "tip": "Elevation: look up; depression: look down; both from the horizontal. Depression from the top = elevation from the bottom (alternate angles). Height + distance → tan; string/ladder → sin or cos.",
+   "ncert": "NCERT §9.1"
+  },
+  "S2": {
+   "name": "One triangle: height and distance",
+   "tip": "tan θ = height/distance: 15 m away at 60° → 15√3 m. Keep the answer in √3 form unless a value is given.",
+   "ncert": "NCERT Example 1; Exercise 9.1 Q4"
+  },
+  "S3": {
+   "name": "Shadows and the Sun's angle",
+   "tip": "Shadow = height → 45°; shadow = √3 × height → 30°; height = √3 × shadow → 60°. Same time → same height/shadow ratio.",
+   "ncert": "NCERT Example 5 (review)"
+  },
+  "S4": {
+   "name": "Strings, ladders and kites",
+   "tip": "The string, rope or ladder is the hypotenuse: sin θ = height/length, cos θ = ground/length. tan θ = 12/5 → sin θ = 12/13.",
+   "ncert": "NCERT Example 2; Exercise 9.1 Q1, Q3, Q5"
+  },
+  "S5": {
+   "name": "The observer's height",
+   "tip": "Work from the eyes: use (height − eye height), then add the eye height back at the end.",
+   "ncert": "NCERT Example 3; Exercise 9.1 Q6"
+  },
+  "S6": {
+   "name": "Two angles, same side",
+   "tip": "Same side: distances at 30° and 60° are h√3 and h/√3; they differ by 2h/√3. Speed = distance moved / time.",
+   "ncert": "NCERT Example 5; Exercise 9.1 Q11, Q13, Q14"
+  },
+  "S7": {
+   "name": "Opposite sides",
+   "tip": "Opposite sides: add the two horizontal distances (bridge over a river, ships on both sides, poles across a road).",
+   "ncert": "NCERT Example 7; Exercise 9.1 Q10"
+  },
+  "S8": {
+   "name": "Two heights: tower on a building, depression of top and bottom",
+   "tip": "Two heights share one base. Tower on a building: 45° to the bottom gives the base; 60° to the top gives the total. Depression of top and bottom: PD√3 = PD + (short height).",
+   "ncert": "NCERT Examples 4, 6; Exercise 9.1 Q7-Q9, Q12"
+  },
+  "S9": {
+   "name": "Time, speed and case studies",
+   "tip": "30° then 60° after t at uniform speed → t/2 more to the foot. Case studies: subtract the eye height first; angles are only 30°, 45°, 60°.",
+   "ncert": "NCERT Exercise 9.1 Q15"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The angle of elevation of an object is the angle between:",
+   "answer": "D",
+   "explanation": "Elevation and depression are both measured from the horizontal.",
+   "remediation": "Video part 1.",
+   "options": [
+    "the line of sight and the vertical",
+    "the object and the ground",
+    "two lines of sight",
+    "the line of sight and the horizontal"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Looking down from a balcony at a car on the road, the angle your line of sight makes with the horizontal is the:",
+   "answer": "A",
+   "explanation": "Below the horizontal → angle of depression.",
+   "remediation": "Video part 1.",
+   "options": [
+    "angle of depression",
+    "angle of elevation",
+    "right angle",
+    "angle of incidence"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; the horizontals at the top and at sea level are parallel, so the angles are alternate.",
+   "remediation": "Video part 1.",
+   "assertion": "The angle of depression of a boat from the top of a cliff equals the angle of elevation of the cliff top from the boat.",
+   "reason": "They are alternate angles between parallel horizontal lines.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A kite's height h and the angle θ of its string with the ground are known. The string length L is found from:",
+   "answer": "D",
+   "explanation": "The string is the hypotenuse; height is opposite θ → sin θ = h/L.",
+   "remediation": "Video part 1: string or ladder → sin or cos.",
+   "options": [
+    "tan θ = L/h",
+    "cos θ = h/L",
+    "tan θ = h/L",
+    "sin θ = h/L"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "From a point 20 m from the foot of a tower, the angle of elevation of the top is 45°. Find the height of the tower in metres.",
+   "answer": "20",
+   "explanation": "tan 45° = h/20 → h = 20.",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "From a point 12 m from a pole, the angle of elevation of its top is 60°. The height of the pole is:",
+   "answer": "A",
+   "explanation": "tan 60° = h/12 → h = 12√3.",
+   "remediation": "Video part 2: NCERT Example 1 type.",
+   "options": [
+    "12√3 m",
+    "6√3 m",
+    "4√3 m",
+    "12 m"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The angle of elevation of the top of a 50 m tower from a point on the ground is 30°. The distance of the point from the foot is:",
+   "answer": "C",
+   "explanation": "tan 30° = 50/d → d = 50√3.",
+   "remediation": "Video part 2.",
+   "options": [
+    "100 m",
+    "50/√3 m",
+    "50√3 m",
+    "25 m"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "A tower is 10√3 m high. From a point on the ground its top is seen at 60°. Find the distance of the point from the foot of the tower in metres.",
+   "answer": "10",
+   "explanation": "tan 60° = 10√3/d → d = 10.",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q09",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "If the shadow of a pole is equal to its height, the Sun's angle of elevation is:",
+   "answer": "B",
+   "explanation": "tan θ = 1 → 45° (a 2024 board type).",
+   "remediation": "Video part 2: shadows.",
+   "options": [
+    "60°",
+    "45°",
+    "30°",
+    "90°"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A 9 m pole casts a shadow 3√3 m long. The Sun's angle of elevation is:",
+   "answer": "C",
+   "explanation": "tan θ = 9/(3√3) = √3 → 60° (a 2023 board type, new numbers).",
+   "remediation": "Video part 2.",
+   "options": [
+    "90°",
+    "45°",
+    "60°",
+    "30°"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "A 6 m pole casts a 4 m shadow. At the same time a tower casts a 30 m shadow. Find the height of the tower in metres.",
+   "answer": "45",
+   "explanation": "Same Sun angle → height/shadow is the same: 6/4 = h/30 → h = 45 (a 2024 board type).",
+   "remediation": "Video part 2: same time, same angle."
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The ratio of the height of a pole to its shadow is 1 : √3. The Sun's angle of elevation is:",
+   "answer": "A",
+   "explanation": "tan θ = 1/√3 → 30° (a 2024 board type).",
+   "remediation": "Video part 2.",
+   "options": [
+    "30°",
+    "90°",
+    "60°",
+    "45°"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "A kite is flying at a height of 40 m. Its string makes an angle of 30° with the ground. Find the length of the string in metres.",
+   "answer": "80",
+   "explanation": "sin 30° = 40/L → L = 80.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q14",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A 20 m rope is tied from the top of a vertical pole to the ground and makes 30° with the ground. The height of the pole is:",
+   "answer": "C",
+   "explanation": "sin 30° = h/20 → h = 10 (NCERT Exercise 9.1 Q1).",
+   "remediation": "Video part 3.",
+   "options": [
+    "20 m",
+    "20√3 m",
+    "10 m",
+    "10√3 m"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A 10 m ladder leans against a wall making 60° with the ground. The height it reaches on the wall is:",
+   "answer": "B",
+   "explanation": "sin 60° = h/10 → h = 5√3.",
+   "remediation": "Video part 3.",
+   "options": [
+    "10√3 m",
+    "5√3 m",
+    "20 m",
+    "5 m"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "A kite string 26 m long makes an angle θ with the ground, where tan θ = 12/5. Find the height of the kite in metres.",
+   "answer": "24",
+   "explanation": "tan θ = 12/5 → sin θ = 12/13 → h = 26 × 12/13 = 24 (SQP 2026-27 Q17 type, new numbers).",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "√(36 + 64) = 10; the right angle at the wall is why Pythagoras applies (a 2025 board type).",
+   "remediation": "Video part 3.",
+   "assertion": "A ladder whose foot is 6 m from a wall and which reaches 8 m up the wall is 10 m long.",
+   "reason": "The ladder, the wall and the ground form a right triangle.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "An observer whose eyes are 2 m above the ground stands 28 m from a building. The angle of elevation of the top of the building from her eyes is 45°. Find the height of the building in metres.",
+   "answer": "30",
+   "explanation": "tan 45° = AE/28 → AE = 28; height = 28 + 2 = 30.",
+   "remediation": "Video part 4: add the eye height back."
+  },
+  {
+   "id": "q19",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A 1.5 m tall girl stands 30√3 m from a tower. The angle of elevation of its top from her eyes is 30°. The height of the tower is:",
+   "answer": "D",
+   "explanation": "tan 30° = AE/(30√3) → AE = 30 → 30 + 1.5 = 31.5.",
+   "remediation": "Video part 4.",
+   "options": [
+    "30 m",
+    "30√3 m",
+    "28.5 m",
+    "31.5 m"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A 1.6 m tall man walks towards a 31.6 m tall tower. The angle of elevation of its top from his eyes changes from 30° to 60°. The distance he walked is k√3 m. Find k.",
+   "answer": "20",
+   "explanation": "Above eye level: 30 m. Distances 30√3 and 30/√3 = 10√3 → walked 20√3 (NCERT Exercise 9.1 Q6 type).",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q21",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The shadow of a tower is 20 m longer when the Sun's altitude is 30° than when it is 60°. The height of the tower is:",
+   "answer": "B",
+   "explanation": "h√3 − h/√3 = 2h/√3 = 20 → h = 10√3 (NCERT Example 5 type).",
+   "remediation": "Video part 5.",
+   "options": [
+    "20√3 m",
+    "10√3 m",
+    "10 m",
+    "20 m"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "From the top of a 60 m tower, the angles of depression of two cars on the same side are 30° and 60°. The distance between the cars is k√3 m. Find k.",
+   "answer": "40",
+   "explanation": "Distances 60√3 and 60/√3 = 20√3 → 40√3 (a 2023 board type, new numbers).",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q23",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A TV tower stands on one bank of a canal. From the opposite bank its top is at 60°; from a point 20 m further back on the same line it is at 30°. Find the width of the canal in metres.",
+   "answer": "10",
+   "explanation": "h = x√3 = (x + 20)/√3 → 3x = x + 20 → x = 10 (NCERT Exercise 9.1 Q11).",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q24",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A plane flies horizontally at a height of 1500√3 m. Its angle of elevation from a point on the ground changes from 60° to 30° in 15 seconds. Find its speed in m/s.",
+   "answer": "200",
+   "explanation": "Distances 1500 and 4500 → 3000 m in 15 s = 200 m/s (a 2024 board type).",
+   "remediation": "Video part 5: speed = distance / time."
+  },
+  {
+   "id": "q25",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The angle of elevation of a tower's top is 30° from a point; after walking 40 m towards the tower it is 60°. The height of the tower is:",
+   "answer": "B",
+   "explanation": "2h/√3 = 40 → h = 20√3.",
+   "remediation": "Video part 5.",
+   "options": [
+    "40√3 m",
+    "20√3 m",
+    "20 m",
+    "40 m"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "From a point on a bridge 5 m above the water, the angles of depression of the two banks on opposite sides are both 45°. The width of the river is:",
+   "answer": "B",
+   "explanation": "Each part = 5 → 10.",
+   "remediation": "Video part 6: opposite sides add.",
+   "options": [
+    "10√3 m",
+    "10 m",
+    "5 m",
+    "5√2 m"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "From a point on a bridge 6 m above the banks, the angles of depression of the banks on opposite sides are 30° and 60°. The width of the river is k√3 m. Find k.",
+   "answer": "8",
+   "explanation": "6√3 + 6/√3 = 6√3 + 2√3 = 8√3 (a 2024 board type, new numbers).",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q28",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "Two poles of equal height stand on either side of a 40 m wide road. From a point on the road between them, the angles of elevation of their tops are 60° and 30°. The height of each pole is k√3 m. Find k.",
+   "answer": "10",
+   "explanation": "x√3 = (40 − x)/√3 → x = 10 → h = 10√3 (NCERT Exercise 9.1 Q10 type).",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S7",
+   "level": "L4",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "From the top of a 30 m lighthouse, the angles of depression of two ships on opposite sides are 30° and 60°. The distance between the ships is:",
+   "answer": "B",
+   "explanation": "30√3 + 30/√3 = 30√3 + 10√3 = 40√3 (a 2024 board type).",
+   "remediation": "Video part 6.",
+   "options": [
+    "30√3 m",
+    "40√3 m",
+    "20√3 m",
+    "40 m"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "From a point on the ground, the angles of elevation of the bottom and top of a flagstaff on a 10 m building are 45° and 60°. The height of the top of the flagstaff above the ground is k√3 m. Find k.",
+   "answer": "10",
+   "explanation": "45° → distance 10; tan 60° = H/10 → H = 10√3.",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q31",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "From a point P, the top of a 12 m building is at 30°, and the top of a flagstaff on it is at 45°. The length of the flagstaff is:",
+   "answer": "C",
+   "explanation": "AP = 12√3; 45° → total 12√3 → flagstaff 12√3 − 12 (NCERT Example 4 type).",
+   "remediation": "Video part 7.",
+   "options": [
+    "12 m",
+    "6(√3 − 1) m",
+    "12(√3 − 1) m",
+    "12√3 m"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "From the top of a 12 m building, the angle of elevation of the top of a tower is 60° and the angle of depression of its foot is 45°. The height of the tower is:",
+   "answer": "B",
+   "explanation": "45° → distance 12; above the roof 12√3 → 12 + 12√3 (NCERT Exercise 9.1 Q12 type).",
+   "remediation": "Video part 7.",
+   "options": [
+    "12(√3 − 1) m",
+    "12(√3 + 1) m",
+    "12√3 m",
+    "24 m"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "From the top of a tower, the angles of depression of the top and the bottom of a 10 m building are 30° and 60°. Find the height of the tower in metres.",
+   "answer": "15",
+   "explanation": "H = d√3 and H − 10 = d/√3 → 2d/√3 = 10 → d = 5√3 → H = 15.",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S8",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "d = 60/√3 = 20√3 → building = 20√3 × 1/√3 = 20; the shared base is the key step (NCERT Exercise 9.1 Q9 type).",
+   "remediation": "Video part 7.",
+   "assertion": "The angle of elevation of the top of a building from the foot of a 60 m tower is 30°, and of the top of the tower from the foot of the building is 60°. Then the building is 20 m high.",
+   "reason": "Both right triangles share the same horizontal distance between the feet.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S8",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A 2 m statue stands on a pedestal. From a point on the ground, the top of the statue is at 60° and the top of the pedestal at 45°. The height of the pedestal is a(√3 + 1) m. Find a.",
+   "answer": "1",
+   "explanation": "h√3 = h + 2 → h = 2/(√3 − 1) = √3 + 1 → a = 1 (NCERT Exercise 9.1 Q8 type).",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q36",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A car moves at a uniform speed towards a tower. From the top, its angle of depression is 30°, and 10 seconds later it is 60°. How many more seconds will it take to reach the foot of the tower?",
+   "answer": "5",
+   "explanation": "Covered 2h/√3 in 10 s; remaining h/√3 → 5 s (NCERT Exercise 9.1 Q15 type).",
+   "remediation": "Video part 9."
+  },
+  {
+   "id": "q37",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "A man on a cliff sees a boat approaching at an angle of depression of 30°; 4 minutes later it is 60°. At the same speed, the boat reaches the foot of the cliff in:",
+   "answer": "A",
+   "explanation": "Remaining distance is half of what was covered → 2 minutes (a 2024 board type).",
+   "remediation": "Video part 9.",
+   "options": [
+    "2 minutes",
+    "8 minutes",
+    "1 minute",
+    "4 minutes"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "Case study: a 37 m monument; a visitor whose eyes are 1 m above the ground stands 36 m from its base. Find the angle of elevation of the top from the visitor's eyes, in degrees.",
+   "answer": "45",
+   "explanation": "tan θ = (37 − 1)/36 = 1 → 45° (SQP 2025-26 Q38 type, new numbers).",
+   "remediation": "Video part 9: subtract the eye height first."
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Same monument (37 m, eyes 1 m up). If the angle of elevation is 60°, the visitor stands from the base at:",
+   "answer": "B",
+   "explanation": "tan 60° = 36/d → d = 36/√3 = 12√3.",
+   "remediation": "Video part 9.",
+   "options": [
+    "36√3 m",
+    "12√3 m",
+    "12 m",
+    "18 m"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A balloon moves horizontally at a constant height, 30√3 m above a girl's eyes. Its angle of elevation falls from 60° to 30° in 10 seconds. Find the balloon's speed in m/s.",
+   "answer": "6",
+   "explanation": "Distances 30 and 90 → 60 m in 10 s = 6 m/s (NCERT Exercise 9.1 Q14 / SQP 2024-25 Q34 type).",
+   "remediation": "Video part 5: two angles, same side."
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

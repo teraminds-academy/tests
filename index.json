@@ -499,6 +499,30 @@
    "suggested_minutes": 40
   },
   {
+   "id": "c10-maths-ch09",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 9 Some Applications of Trigonometry",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 9 Some Applications of Trigonometry (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch09",
+    "S2": "ch09",
+    "S3": "ch09",
+    "S4": "ch09",
+    "S5": "ch09",
+    "S6": "ch09",
+    "S7": "ch09",
+    "S8": "ch09",
+    "S9": "ch09"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
    "id": "c10-maths",
    "title": "Board-pattern readiness test — most-repeated question types",
    "short_title": "Class 10 Maths · Crash Revision 2027",
@@ -662,31 +686,46 @@
      "name": "Coordinate Geometry",
      "videos": [
       {
+       "label": "Chapter video: Coordinate Geometry",
+       "url": "https://youtu.be/j7xjqxDrQ5w"
+      },
+      {
        "label": "Crash revision from 5:18",
        "url": "https://youtu.be/Jg9raxKftdU?t=318"
       }
      ],
-     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+     "chapter_test": "c10-maths-ch07"
     },
     "ch08": {
      "name": "Introduction to Trigonometry",
      "videos": [
       {
+       "label": "Chapter video: Introduction to Trigonometry",
+       "url": "https://youtu.be/a2L3P_nUPYQ"
+      },
+      {
        "label": "Crash revision from 7:51",
        "url": "https://youtu.be/Jg9raxKftdU?t=471"
       }
      ],
-     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+     "chapter_test": "c10-maths-ch08"
     },
     "ch09": {
      "name": "Some Applications of Trigonometry",
      "videos": [
       {
+       "label": "Chapter video: Some Applications of Trigonometry",
+       "url": "https://youtu.be/p0xK8ReO3eA"
+      },
+      {
        "label": "Crash revision from 8:49",
        "url": "https://youtu.be/Jg9raxKftdU?t=529"
       }
      ],
-     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+     "chapter_test": "c10-maths-ch09"
     },
     "ch10": {
      "name": "Circles",
