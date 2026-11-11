@@ -1,0 +1,689 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch06",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 6 Triangles (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 6 Triangles",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2023-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number. No calculator.",
+ "suggested_minutes": 40,
+ "video_url": "https://youtu.be/nVK-d2k608I",
+ "worksheet_url": "https://drive.google.com/file/d/1XW2vhm1rBjZxGQ9p1H2BzQyMlPqmS_ft/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "DE ∥ BC: find a length",
+  "T2": "Prove BPT (+ apply)",
+  "T3": "Apply BPT in a figure",
+  "T4": "Sides / perimeters of similar triangles",
+  "T5": "Criteria and correspondence",
+  "T6": "Prove two triangles similar",
+  "T7": "Sides and medians proportional",
+  "T8": "Shadow / height",
+  "T9": "Similar figures concept"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Similar figures",
+   "tip": "Similar = same shape. Polygons need BOTH equal angles AND sides in one ratio (a square and a rhombus are not similar). Congruent figures are always similar.",
+   "ncert": "NCERT §6.2; Exercise 6.1"
+  },
+  "S2": {
+   "name": "BPT: statement and proof",
+   "tip": "BPT: DE ∥ BC → AD/DB = AE/EC. Proof: join BE, CD; heights EN and DM; ar(BDE) = ar(DEC) (same base DE, same parallels).",
+   "ncert": "NCERT §6.3, Theorem 6.1"
+  },
+  "S3": {
+   "name": "BPT with numbers (DE ∥ BC)",
+   "tip": "Use AD/DB = AE/EC or AD/AB = AE/AC. For DE itself use △ADE ~ △ABC: DE/BC = AD/AB, not AD/DB.",
+   "ncert": "NCERT Example 1; Exercise 6.2 Q1"
+  },
+  "S4": {
+   "name": "Converse of BPT",
+   "tip": "Converse: equal ratios on two sides → the line is parallel to the third side. Compute both ratios and compare.",
+   "ncert": "NCERT Theorem 6.2, Example 3; Exercise 6.2 Q2, Q8"
+  },
+  "S5": {
+   "name": "BPT in trapeziums and figures",
+   "tip": "In a trapezium, join a diagonal to get two triangles, apply BPT in each, then equate. Diagonals meeting at O: AO/BO = CO/DO.",
+   "ncert": "NCERT Example 2; Exercise 6.2 Q3, Q4, Q9, Q10"
+  },
+  "S6": {
+   "name": "Similarity criteria and correspondence",
+   "tip": "AA, SSS, SAS. The order of letters fixes the pairs: △ABC ~ △EDF means A ↔ E, B ↔ D, C ↔ F.",
+   "ncert": "NCERT §6.4, Theorems 6.3-6.5"
+  },
+  "S7": {
+   "name": "Sides and perimeters of similar triangles",
+   "tip": "Corresponding sides share one ratio, and so do the perimeters. Pair the sides by the correspondence before writing the ratio.",
+   "ncert": "NCERT §6.4; Exercise 6.3 Q1, Q2"
+  },
+  "S8": {
+   "name": "Similarity proofs and medians",
+   "tip": "Pick the criterion from the data (parallel lines → AA; a product → SAS). ∠ADC = ∠BAC → CA² = CB·CD. Medians are in the ratio of the sides.",
+   "ncert": "NCERT Examples 4, 6, 8; Exercise 6.3 Q3-Q14, Q16"
+  },
+  "S9": {
+   "name": "Shadows and heights",
+   "tip": "Same time → parallel sun rays → height/shadow is the same. Lamp-post: lamp/person = (distance + shadow)/shadow. Convert cm to m first.",
+   "ncert": "NCERT Example 7; Exercise 6.3 Q15"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Which pair of figures is always similar?",
+   "answer": "D",
+   "explanation": "All squares have equal angles (90°) and sides in one ratio.",
+   "remediation": "Video part 1.",
+   "options": [
+    "Any two rectangles",
+    "Any two rhombuses",
+    "Any two isosceles triangles",
+    "Any two squares"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Which statement is true?",
+   "answer": "A",
+   "explanation": "Congruent figures have the same shape and size, so they are similar; the converse fails.",
+   "remediation": "Video part 1.",
+   "options": [
+    "All congruent figures are similar",
+    "All similar figures are congruent",
+    "Two rhombuses with equal sides are always similar",
+    "Two triangles with equal areas are similar"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "D",
+   "explanation": "The sides are in ratio 1 : 1 but the angles (90° vs 60°) differ, so A is false; R is the correct rule.",
+   "remediation": "Video part 1: both conditions are needed.",
+   "assertion": "A square of side 4 cm and a rhombus of side 4 cm with an angle of 60° are similar.",
+   "reason": "Two polygons with the same number of sides are similar only if their corresponding angles are equal and their corresponding sides are in the same ratio.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Two quadrilaterals have all corresponding sides in the ratio 2 : 3, but their angles are not equal. The quadrilaterals are:",
+   "answer": "D",
+   "explanation": "For polygons, proportional sides alone are not enough; angles must also be equal.",
+   "remediation": "Video part 1.",
+   "options": [
+    "Similar only if they are squares",
+    "Always congruent",
+    "Always similar",
+    "Not necessarily similar"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "In △ABC, DE ∥ BC with D on AB and E on AC. By the Basic Proportionality Theorem:",
+   "answer": "A",
+   "explanation": "A line parallel to one side divides the other two sides in the same ratio.",
+   "remediation": "Video part 2.",
+   "options": [
+    "AD/DB = AE/EC",
+    "AD/DB = EC/AE",
+    "AD/AE = BC/DE",
+    "AB/DB = EC/AC"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "In the proof of BPT, why is ar(△BDE) = ar(△DEC)?",
+   "answer": "A",
+   "explanation": "Same base, same parallels → equal areas. This is the key step.",
+   "remediation": "Video part 2.",
+   "options": [
+    "They are on the same base DE and between the same parallels DE and BC",
+    "They have equal perimeters",
+    "They are congruent",
+    "D and E are mid-points"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "In the proof of BPT, ar(△ADE)/ar(△BDE) = AD/DB because:",
+   "answer": "C",
+   "explanation": "Area = ½ × base × height; with the same height EN the area ratio is the base ratio AD/DB.",
+   "remediation": "Video part 2: the construction EN ⊥ AB.",
+   "options": [
+    "The triangles are similar",
+    "Both triangles have the same base DE",
+    "Both triangles have the same height EN from E to AB",
+    "AD = DB"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The Basic Proportionality Theorem is also known as:",
+   "answer": "C",
+   "explanation": "NCERT names BPT the Thales theorem.",
+   "remediation": "Video part 2.",
+   "options": [
+    "Euclid's lemma",
+    "Pythagoras theorem",
+    "Thales theorem",
+    "Mid-point theorem"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "In △ABC, DE ∥ BC. AD = 2 cm, DB = 3 cm and AE = 4 cm. Find EC (in cm).",
+   "answer": "6",
+   "explanation": "AD/DB = AE/EC → 2/3 = 4/EC → EC = 6.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q10",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "In △ABC, DE ∥ BC. AD = 6 cm, AB = 15 cm and AC = 20 cm. Find AE (in cm).",
+   "answer": "8",
+   "explanation": "AD/AB = AE/AC → 6/15 = AE/20 → AE = 8.",
+   "remediation": "Video part 3: AD/AB = AE/AC."
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "In △ABC, DE ∥ BC. AD = 4 cm, DB = 8 cm and BC = 18 cm. Find DE (in cm).",
+   "answer": "6",
+   "explanation": "△ADE ~ △ABC, so DE/BC = AD/AB = 4/12 → DE = 6.",
+   "remediation": "Video part 3: DE uses AD/AB, not AD/DB."
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "In △ABC, DE ∥ BC. AD = x, DB = x − 2, AE = x + 2 and EC = x − 1. The value of x is:",
+   "answer": "A",
+   "explanation": "x/(x − 2) = (x + 2)/(x − 1) → x² − x = x² − 4 → x = 4.",
+   "remediation": "Video part 3: cross-multiply carefully.",
+   "options": [
+    "4",
+    "5",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "In △PQR, ST ∥ QR with S on PQ and T on PR. PS = 3 cm, SQ = 6 cm and PR = 12 cm. Find TR (in cm).",
+   "answer": "8",
+   "explanation": "PS/PQ = PT/PR → 3/9 = PT/12 → PT = 4, TR = 8.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q14",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "E and F are points on PQ and PR of △PQR. Which data shows EF ∥ QR?",
+   "answer": "C",
+   "explanation": "4/4.5 = 8/9 and 8/9: equal ratios → parallel (converse of BPT).",
+   "remediation": "Video part 4.",
+   "options": [
+    "PE = 3.9, EQ = 3, PF = 3.6, FR = 2.4",
+    "PE = 5, EQ = 2, PF = 4, FR = 3",
+    "PE = 4, EQ = 4.5, PF = 8, FR = 9",
+    "PE = 2, EQ = 3, PF = 3, FR = 2"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "3/6 = 4/8 = 1/2, so A is true, and R (the converse of BPT) is exactly why.",
+   "remediation": "Video part 4.",
+   "assertion": "In △PQR, PE = 3 cm, EQ = 6 cm, PF = 4 cm and FR = 8 cm, so EF ∥ QR.",
+   "reason": "If a line divides two sides of a triangle in the same ratio, it is parallel to the third side.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "In △PQR, PS/SQ = PT/TR (S on PQ, T on PR) and ∠PST = ∠PRQ. Then △PQR is:",
+   "answer": "A",
+   "explanation": "ST ∥ QR → ∠PST = ∠PQR; with ∠PST = ∠PRQ, ∠PQR = ∠PRQ → PQ = PR (NCERT Example 3).",
+   "remediation": "Video part 4.",
+   "options": [
+    "Isosceles with PQ = PR",
+    "Equilateral",
+    "Right-angled at P",
+    "Scalene"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "D and E are the mid-points of AB and AC of △ABC. Using the converse of BPT, DE is:",
+   "answer": "A",
+   "explanation": "AD/DB = 1 = AE/EC → DE ∥ BC (NCERT Exercise 6.2 Q8).",
+   "remediation": "Video part 4.",
+   "options": [
+    "Parallel to BC",
+    "Equal to BC",
+    "Perpendicular to BC",
+    "Parallel to AB"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "ABCD is a trapezium with AB ∥ DC, and its diagonals meet at O. Which is true?",
+   "answer": "B",
+   "explanation": "△AOB ~ △COD (alternate angles) → AO/CO = BO/DO → AO/BO = CO/DO.",
+   "remediation": "Video part 5; SQP 2026-27 Q22(A) type.",
+   "options": [
+    "AO = CO",
+    "AO/BO = CO/DO",
+    "AO/CO = DO/BO",
+    "AO/BO = DO/CO"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "ABCD is a trapezium with AB ∥ DC. E on AD and F on BC with EF ∥ AB. AE = 3 cm, ED = 6 cm and BF = 4 cm. Find FC (in cm).",
+   "answer": "8",
+   "explanation": "Join AC: AE/ED = BF/FC → 3/6 = 4/FC → FC = 8.",
+   "remediation": "Video part 5: join a diagonal."
+  },
+  {
+   "id": "q20",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "In a trapezium PQRS with PQ ∥ SR, XY ∥ PQ (X on PS, Y on QR). To prove PX/XS = QY/YR, the first step is to:",
+   "answer": "B",
+   "explanation": "The diagonal splits the trapezium into two triangles where BPT applies.",
+   "remediation": "Video part 5; SQP 2026-27 Q33.",
+   "options": [
+    "Draw an altitude from P",
+    "Join the diagonal PR (meeting XY at M)",
+    "Extend PS and QR to meet",
+    "Join the mid-points of PQ and SR"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "In △ABC, D is on AB, E is on BC and F is on BE. If DE ∥ AC and DF ∥ AE, then:",
+   "answer": "B",
+   "explanation": "In △BAC, DE ∥ AC → BD/DA = BE/EC; in △BAE, DF ∥ AE → BD/DA = BF/FE; so BF/FE = BE/EC (NCERT Exercise 6.2 Q4).",
+   "remediation": "Video part 5; a 2026 board type.",
+   "options": [
+    "BF/FE = EC/BE",
+    "BF/FE = BE/EC",
+    "BF = FE",
+    "BE = EC"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S6",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "If △ABC ~ △PQR, which is true?",
+   "answer": "B",
+   "explanation": "Order of letters fixes the pairs: A ↔ P, B ↔ Q, C ↔ R.",
+   "remediation": "Video part 6.",
+   "options": [
+    "∠A = ∠Q",
+    "∠B = ∠Q",
+    "∠B = ∠R",
+    "∠C = ∠P"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "If △ABC ~ △EDF, which statement is NOT true?",
+   "answer": "D",
+   "explanation": "A ↔ E, B ↔ D, C ↔ F, so ∠A = ∠E, not ∠D (2026 board type).",
+   "remediation": "Video part 6.",
+   "options": [
+    "∠C = ∠F",
+    "BC/DF = AB/ED",
+    "AB/ED = AC/EF",
+    "∠A = ∠D"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "In △ABC and △DEF, ∠B = ∠E, ∠F = ∠C and AB = 3 DE. The triangles are:",
+   "answer": "A",
+   "explanation": "Two angles equal → AA similar; AB ≠ DE so not congruent (2025 board type).",
+   "remediation": "Video part 6.",
+   "options": [
+    "Similar but not congruent",
+    "Neither",
+    "Congruent but not similar",
+    "Congruent and similar"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Sides of two triangles are 3, 4, 5 cm and 6, 8, 10 cm. They are similar by:",
+   "answer": "B",
+   "explanation": "3/6 = 4/8 = 5/10 = 1/2: all three side ratios equal → SSS.",
+   "remediation": "Video part 6.",
+   "options": [
+    "AA",
+    "SSS",
+    "SAS",
+    "They are not similar"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "In △ABC and △PQR, AB/PQ = AC/PR and ∠A = ∠P. Then:",
+   "answer": "B",
+   "explanation": "One equal angle with the including sides in ratio → SAS similarity.",
+   "remediation": "Video part 6.",
+   "options": [
+    "No conclusion",
+    "△ABC ~ △PQR by SAS",
+    "△ABC ~ △PQR by SSS",
+    "△ABC ≅ △PQR"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S7",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "△ABC ~ △DEF and AB/DE = 3/5. If the perimeter of △DEF is 40 cm, find the perimeter of △ABC (in cm).",
+   "answer": "24",
+   "explanation": "Perimeters are in the ratio of the sides: 40 × 3/5 = 24.",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q28",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "The perimeters of two similar triangles are 30 cm and 45 cm. A side of the first is 12 cm. Find the corresponding side of the second (in cm).",
+   "answer": "18",
+   "explanation": "12 × 45/30 = 18.",
+   "remediation": "Video part 7; SQP 2026-27 Q6 type."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "△ABC ~ △QPR. AC = 8 cm, BC = 6 cm and QR = 4 cm. Find PR (in cm).",
+   "answer": "3",
+   "explanation": "A ↔ Q, B ↔ P, C ↔ R: AC ↔ QR, BC ↔ PR → 8/4 = 6/PR → PR = 3.",
+   "remediation": "Video part 7: pair the sides by correspondence."
+  },
+  {
+   "id": "q30",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "△ABC ~ △DEF with AB = 4 cm, DE = 6 cm, EF = 9 cm and FD = 12 cm. Find the perimeter of △ABC (in cm).",
+   "answer": "18",
+   "explanation": "Ratio 4/6 = 2/3; perimeter of △DEF = 27 → 27 × 2/3 = 18.",
+   "remediation": "Video part 7; SQP 2025-26 Q14 type."
+  },
+  {
+   "id": "q31",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "In the figure, PQ ∥ RS and PS, QR meet at O. Then:",
+   "answer": "C",
+   "explanation": "Alternate angles ∠P = ∠S, ∠Q = ∠R and vertically opposite angles at O → △POQ ~ △SOR (NCERT Example 4).",
+   "remediation": "Video part 8.",
+   "options": [
+    "△POQ ≅ △SOR",
+    "△PQS ~ △QRS",
+    "△POQ ~ △SOR",
+    "△POQ ~ △ROS"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "D is a point on BC of △ABC such that ∠ADC = ∠BAC. If CA = 6 cm and CD = 4 cm, find CB (in cm).",
+   "answer": "9",
+   "explanation": "△ADC ~ △BAC → CA/CD = CB/CA → CA² = CB·CD → 36 = 4 CB → CB = 9.",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q33",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "In △PQR, S is a point on PR such that ∠PQR = ∠QSP. PQ = 8 cm and PS = 4 cm. Find PR (in cm).",
+   "answer": "16",
+   "explanation": "△PQR ~ △PSQ (∠P common, ∠PQR = ∠PSQ) → PQ/PS = PR/PQ → 8/4 = PR/8 → PR = 16.",
+   "remediation": "Video part 8; SQP 2026-27 Q22(B) type."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "In the figure, OA · OB = OC · OD, with AB and CD meeting at O. Which criterion proves △AOD ~ △COB?",
+   "answer": "D",
+   "explanation": "OA/OD = OC/OB with the vertically opposite angle at O between them → SAS (NCERT Example 6).",
+   "remediation": "Video part 8.",
+   "options": [
+    "SSS",
+    "AA",
+    "RHS",
+    "SAS"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "△ABC ~ △PQR with AB = 10 cm and PQ = 15 cm. The median from C of △ABC is 8 cm. Find the median from R of △PQR (in cm).",
+   "answer": "12",
+   "explanation": "Medians are in the ratio of the sides: 8 × 15/10 = 12 (NCERT Example 8).",
+   "remediation": "Video part 9."
+  },
+  {
+   "id": "q36",
+   "subtopic": "S8",
+   "level": "L4",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Sides AB, BC and median AD of △ABC are proportional to sides PQ, QR and median PM of △PQR. The proof that △ABC ~ △PQR first shows:",
+   "answer": "D",
+   "explanation": "BD = BC/2 and QM = QR/2 share the ratio, so △ABD ~ △PQM (SSS) → ∠B = ∠Q → SAS for the big triangles.",
+   "remediation": "Video part 9.",
+   "options": [
+    "BC = QR",
+    "AD = PM",
+    "△ABD ~ △PQM by AA",
+    "△ABD ~ △PQM by SSS"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "T8",
+   "type": "numeric",
+   "question": "A 4 m pole casts a 3 m shadow. At the same time a tower casts a 24 m shadow. Find the height of the tower (in m).",
+   "answer": "32",
+   "explanation": "h/24 = 4/3 → h = 32.",
+   "remediation": "Video part 10."
+  },
+  {
+   "id": "q38",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "T8",
+   "type": "numeric",
+   "question": "A 12 m tower casts a 9 m shadow. At the same time a pole casts a 6 m shadow. Find the height of the pole (in m).",
+   "answer": "8",
+   "explanation": "h/6 = 12/9 → h = 8.",
+   "remediation": "Video part 10."
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "A boy 1.5 m tall stands 6 m from a lamp-post 4.5 m high. The length of his shadow is:",
+   "answer": "B",
+   "explanation": "4.5/1.5 = (6 + x)/x → 3x = 6 + x → x = 3.",
+   "remediation": "Video part 10: NCERT Example 7 type.",
+   "options": [
+    "2 m",
+    "3 m",
+    "1.5 m",
+    "4 m"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T8",
+   "type": "numeric",
+   "question": "A girl 80 cm tall walks away from a lamp 4 m high at 1 m/s. Find the length of her shadow (in cm) after 4 seconds.",
+   "answer": "100",
+   "explanation": "She is 4 m away. 4/0.8 = (4 + x)/x → 5x = 4 + x → x = 1 m = 100 cm.",
+   "remediation": "Video part 10: change cm to m first."
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

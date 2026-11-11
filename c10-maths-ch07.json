@@ -1,0 +1,708 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch07",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 7 Coordinate Geometry (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 7 Coordinate Geometry",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2023-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (negative allowed). No calculator.",
+ "suggested_minutes": 40,
+ "video_url": null,
+ "worksheet_url": "https://drive.google.com/file/d/1Kii0FzFgrxM7hb8DhqNH9IxIRpBhdkyu/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Distance / from origin / from an axis",
+  "T2": "Distance with letters or surds",
+  "T3": "Type of figure / collinear",
+  "T4": "Equidistant point",
+  "T5": "Point in a given ratio",
+  "T6": "Find the ratio",
+  "T7": "Mid-point uses",
+  "T8": "Lines parallel to axes / A-R"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Distance formula; from the origin and the axes",
+   "tip": "PQ = √[(x2 − x1)² + (y2 − y1)²]. From the origin √(x² + y²). Distance from the x-axis is |y|, from the y-axis |x|.",
+   "ncert": "NCERT §7.2; Exercise 7.1 Q1-Q2"
+  },
+  "S2": {
+   "name": "Distance with letters, trig or surds",
+   "tip": "Square the differences, expand, and use sin²θ + cos²θ = 1; the cross terms usually cancel.",
+   "ncert": "NCERT Exercise 7.1 Q1(iii)"
+  },
+  "S3": {
+   "name": "Type of figure; collinear points",
+   "tip": "Right triangle: Pythagoras on the squared sides. Collinear: two distances add up to the third. Square: equal sides AND equal diagonals.",
+   "ncert": "NCERT Examples 1-3; Exercise 7.1 Q3-Q6"
+  },
+  "S4": {
+   "name": "Equidistant points",
+   "tip": "Equidistant: set PA² = PB² (no roots). A point on the x-axis is (x, 0), on the y-axis (0, y). Keep both roots unless a condition rules one out.",
+   "ncert": "NCERT Examples 4-5; Exercise 7.1 Q7-Q10"
+  },
+  "S5": {
+   "name": "Section formula: point in a given ratio",
+   "tip": "Section formula: ((m1x2 + m2x1)/(m1 + m2), (m1y2 + m2y1)/(m1 + m2)). m1 goes with the SECOND point. PR = 2RQ means 2 : 1.",
+   "ncert": "NCERT §7.3, Example 6; Exercise 7.2 Q1"
+  },
+  "S6": {
+   "name": "Find the ratio (axis shortcut)",
+   "tip": "Take the ratio k : 1 and use one coordinate. x-axis → y = 0 → ratio −y1 : y2; y-axis → x = 0 → ratio −x1 : x2.",
+   "ncert": "NCERT Examples 7, 9; Exercise 7.2 Q2-Q4"
+  },
+  "S7": {
+   "name": "Mid-point, trisection, four equal parts",
+   "tip": "Mid-point = average of the coordinates. Trisection: ratios 1 : 2 and 2 : 1. Four equal parts: mid-point, then mid-points of the halves.",
+   "ncert": "NCERT Example 8; Exercise 7.2 Q5, Q9"
+  },
+  "S8": {
+   "name": "Mid-point uses: parallelogram, median, circle",
+   "tip": "Parallelogram: diagonals share a mid-point → D = A + C − B. Median: mid-point of the opposite side, then distance. Circle centre = mid-point of a diameter.",
+   "ncert": "NCERT Example 10; Exercise 7.2 Q6-Q8"
+  },
+  "S9": {
+   "name": "Lines parallel to the axes; A-R checks",
+   "tip": "Parallel to the x-axis: y = constant; parallel to the y-axis: x = constant. A point on the x-axis is 0 from the x-axis.",
+   "ncert": "NCERT §7.1-7.2 (review)"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Find the distance between (1, 1) and (4, 5).",
+   "answer": "5",
+   "explanation": "√(3² + 4²) = √25 = 5.",
+   "remediation": "Video part 1."
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Find the distance of the point (−8, 15) from the origin.",
+   "answer": "17",
+   "explanation": "√(64 + 225) = √289 = 17.",
+   "remediation": "Video part 1: √(x² + y²)."
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "What is the distance of the point (−5, 9) from the x-axis?",
+   "answer": "9",
+   "explanation": "Distance from the x-axis = |y| = 9.",
+   "remediation": "Video part 1: from the x-axis use y."
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The distance of the point (3, −4) from the y-axis is:",
+   "answer": "D",
+   "explanation": "Distance from the y-axis = |x| = 3.",
+   "remediation": "Video part 1.",
+   "options": [
+    "−4",
+    "5",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "The distance between (2, 3) and (x, 3) is 7 and x > 2. Find x.",
+   "answer": "9",
+   "explanation": "Same y, so |x − 2| = 7 → x = 9.",
+   "remediation": "Video part 1."
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The distance between (a, b) and (−a, −b) is:",
+   "answer": "A",
+   "explanation": "√((2a)² + (2b)²) = 2√(a² + b²) (NCERT Exercise 7.1 Q1).",
+   "remediation": "Video part 2.",
+   "options": [
+    "2√(a² + b²)",
+    "0",
+    "√(a² + b²)",
+    "2(a + b)"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The distance between (0, 3√2) and (−3√2, 0) is:",
+   "answer": "C",
+   "explanation": "√(18 + 18) = √36 = 6.",
+   "remediation": "Video part 2.",
+   "options": [
+    "6√2",
+    "3√2",
+    "6",
+    "18"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The distance between (sin θ, cos θ) and (cos θ, −sin θ) is:",
+   "answer": "C",
+   "explanation": "(cos θ − sin θ)² + (sin θ + cos θ)² = 2 → √2.",
+   "remediation": "Video part 2: cross terms cancel.",
+   "options": [
+    "2",
+    "1",
+    "√2",
+    "0"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The distance between (a cos θ, 0) and (0, a sin θ), a > 0, is:",
+   "answer": "B",
+   "explanation": "√(a²cos²θ + a²sin²θ) = √(a²) = a.",
+   "remediation": "Video part 2.",
+   "options": [
+    "√2 a",
+    "a",
+    "a²",
+    "0"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The points (1, 1), (4, 4) and (6, 6) are:",
+   "answer": "C",
+   "explanation": "3√2 + 2√2 = 5√2: two distances add to the third.",
+   "remediation": "Video part 3.",
+   "options": [
+    "Vertices of an isosceles triangle",
+    "Vertices of an equilateral triangle",
+    "Collinear",
+    "Vertices of a right triangle"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "A(0, 0), B(3, 0) and C(0, 4) form a triangle that is:",
+   "answer": "D",
+   "explanation": "AB = 3, AC = 4, BC = 5 and 9 + 16 = 25 → right angle at A.",
+   "remediation": "Video part 3: check Pythagoras on the squared sides.",
+   "options": [
+    "Right-angled at B",
+    "Equilateral",
+    "Not a triangle",
+    "Right-angled at A"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "All sides √34 and both diagonals √68, so A is true, and R is the test used (NCERT Example 2).",
+   "remediation": "Video part 3.",
+   "assertion": "A(1, 7), B(4, 2), C(−1, −1) and D(−4, 4) are the vertices of a square.",
+   "reason": "A quadrilateral with four equal sides and equal diagonals is a square.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L4",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "To show four points form a square, it is enough to show:",
+   "answer": "C",
+   "explanation": "Equal sides alone give a rhombus; equal diagonals as well make it a square.",
+   "remediation": "Video part 3.",
+   "options": [
+    "Two equal diagonals",
+    "Four equal sides",
+    "Four equal sides and two equal diagonals",
+    "Opposite sides equal"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The relation between x and y if P(x, y) is equidistant from (2, 0) and (0, 2) is:",
+   "answer": "C",
+   "explanation": "(x − 2)² + y² = x² + (y − 2)² → −4x = −4y → x = y.",
+   "remediation": "Video part 4: square both distances.",
+   "options": [
+    "x + y = 2",
+    "x − y = 2",
+    "x = y",
+    "x = −y"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A point P(0, y) on the y-axis is equidistant from A(5, 0) and B(1, 4). Find y.",
+   "answer": "-1",
+   "explanation": "25 + y² = 1 + (4 − y)² → 25 = 17 − 8y → y = −1.",
+   "remediation": "Video part 4: a point on the y-axis is (0, y)."
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "Q(0, 2) is equidistant from P(3, −2) and R(x, 5), with x > 0. Find x.",
+   "answer": "4",
+   "explanation": "9 + 16 = x² + 9 → x² = 16 → x = 4.",
+   "remediation": "Video part 4: keep both roots, then apply the condition."
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The points on the x-axis at a distance 5 from (3, 4) are:",
+   "answer": "A",
+   "explanation": "(x − 3)² + 16 = 25 → x − 3 = ±3 → x = 0 or 6.",
+   "remediation": "Video part 4; SQP 2024-25 Q24 type.",
+   "options": [
+    "(0, 0) and (6, 0)",
+    "(0, 0) only",
+    "(3, 0) only",
+    "(8, 0) and (−2, 0)"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "The point dividing (2, 1) and (8, 7) internally in the ratio 1 : 2 is:",
+   "answer": "B",
+   "explanation": "((1·8 + 2·2)/3, (1·7 + 2·1)/3) = (4, 3).",
+   "remediation": "Video part 5: m1 goes with the second point.",
+   "options": [
+    "(5, 4)",
+    "(4, 3)",
+    "(6, 5)",
+    "(3, 2)"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "P divides A(−1, 3) and B(9, 8) in the ratio 3 : 2. Then P is:",
+   "answer": "D",
+   "explanation": "((27 − 2)/5, (24 + 6)/5) = (5, 6).",
+   "remediation": "Video part 5.",
+   "options": [
+    "(3, 5)",
+    "(6, 6)",
+    "(5, 5)",
+    "(5, 6)"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "R lies on PQ with P(1, 2), Q(7, 8) and PR = 2 RQ. Find the x-coordinate of R.",
+   "answer": "5",
+   "explanation": "PR : RQ = 2 : 1 → x = (14 + 1)/3 = 5.",
+   "remediation": "Video part 5: PR = 2RQ means 2 : 1."
+  },
+  {
+   "id": "q21",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "A point on the x-axis divides A(2, −4) and B(5, 8) in the ratio 1 : 2. The point is:",
+   "answer": "B",
+   "explanation": "((5 + 4)/3, (8 − 8)/3) = (3, 0).",
+   "remediation": "Video part 5; SQP 2024-25 Q17 type.",
+   "options": [
+    "(4, 0)",
+    "(3, 0)",
+    "(0, 3)",
+    "(3, 4)"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "The x-axis divides the segment joining (1, −3) and (4, 6) in the ratio:",
+   "answer": "B",
+   "explanation": "Ratio = −y1 : y2 = 3 : 6 = 1 : 2.",
+   "remediation": "Video part 6: x-axis shortcut.",
+   "options": [
+    "2 : 1",
+    "1 : 2",
+    "3 : 1",
+    "1 : 3"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "The y-axis divides the segment joining (−6, 2) and (3, 5) in the ratio:",
+   "answer": "D",
+   "explanation": "Ratio = −x1 : x2 = 6 : 3 = 2 : 1.",
+   "remediation": "Video part 6: y-axis uses x.",
+   "options": [
+    "6 : 5",
+    "3 : 2",
+    "1 : 2",
+    "2 : 1"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "In what ratio does (−1, 6) divide the segment joining (−3, 10) and (6, −8)?",
+   "answer": "A",
+   "explanation": "−1 = (6k − 3)/(k + 1) → −k − 1 = 6k − 3 → k = 2/7. Check y: (−16 + 70)/9 = 6.",
+   "remediation": "Video part 6: take k : 1.",
+   "options": [
+    "2 : 7",
+    "3 : 1",
+    "7 : 2",
+    "1 : 3"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "The x-axis divides the segment joining A(2, −5) and B(8, 10) at P. Find the x-coordinate of P.",
+   "answer": "4",
+   "explanation": "Ratio 5 : 10 = 1 : 2 → x = (1·8 + 2·2)/3 = 4.",
+   "remediation": "Video part 6; SQP 2026-27 Q30 type."
+  },
+  {
+   "id": "q26",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "The y-axis divides the segment joining (−4, −2) and (8, 4) at:",
+   "answer": "B",
+   "explanation": "Ratio 4 : 8 = 1 : 2 → y = (1·4 + 2·(−2))/3 = 0.",
+   "remediation": "Video part 6.",
+   "options": [
+    "(4, 0)",
+    "(0, 0)",
+    "(0, 2)",
+    "(0, −1)"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S7",
+   "level": "L1",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "The mid-point of (−3, 7) and (5, −1) is:",
+   "answer": "D",
+   "explanation": "((−3 + 5)/2, (7 − 1)/2) = (1, 3).",
+   "remediation": "Video part 7.",
+   "options": [
+    "(4, 4)",
+    "(2, 6)",
+    "(1, 4)",
+    "(1, 3)"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "The mid-point of (a, 4) and (6, 10) is (5, 7). Find a.",
+   "answer": "4",
+   "explanation": "(a + 6)/2 = 5 → a = 4.",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "The points of trisection of the segment joining (0, 0) and (9, 6) are:",
+   "answer": "B",
+   "explanation": "Ratios 1 : 2 and 2 : 1 → (3, 2) and (6, 4).",
+   "remediation": "Video part 7: trisection = 1 : 2 and 2 : 1.",
+   "options": [
+    "(4.5, 3) only",
+    "(3, 2) and (6, 4)",
+    "(3, 3) and (6, 6)",
+    "(2, 3) and (4, 6)"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "The three points that divide A(−4, 0) and B(4, 8) into four equal parts are:",
+   "answer": "A",
+   "explanation": "Mid-point (0, 4), then the mid-points of each half: (−2, 2) and (2, 6).",
+   "remediation": "Video part 7; NCERT Exercise 7.2 Q9 type.",
+   "options": [
+    "(−2, 2), (0, 4), (2, 6)",
+    "(−3, 1), (0, 4), (3, 7)",
+    "(−1, 2), (0, 4), (1, 6)",
+    "(−2, 4), (0, 4), (2, 4)"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "A(1, 2), B(4, 3), C(6, 6) and D(p, 5) are the vertices of a parallelogram taken in order. Find p.",
+   "answer": "3",
+   "explanation": "Mid-point of AC = (7/2, 4) = mid-point of BD = ((4 + p)/2, 4) → p = 3.",
+   "remediation": "Video part 8: diagonals bisect each other."
+  },
+  {
+   "id": "q32",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Three vertices of a parallelogram ABCD, taken in order, are A(1, 2), B(3, 5) and C(8, 6). The fourth vertex D is:",
+   "answer": "B",
+   "explanation": "D = A + C − B = (1 + 8 − 3, 2 + 6 − 5) = (6, 3).",
+   "remediation": "Video part 8; SQP 2026-27 Q19 type.",
+   "options": [
+    "(6, 9)",
+    "(6, 3)",
+    "(10, 9)",
+    "(4, 1)"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "In △ABC, A(6, 6), B(1, 1) and C(5, 3). Find the length of the median AD.",
+   "answer": "5",
+   "explanation": "D = mid-point of BC = (3, 2); AD = √((6 − 3)² + (6 − 2)²) = √25 = 5.",
+   "remediation": "Video part 8: median → mid-point first, then distance."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "The end points of a diameter of a circle are (2, 3) and (6, 7). The centre is:",
+   "answer": "D",
+   "explanation": "Centre = mid-point of the diameter = (4, 5).",
+   "remediation": "Video part 8.",
+   "options": [
+    "(2, 2)",
+    "(8, 10)",
+    "(4, 4)",
+    "(4, 5)"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Which point lies on the perpendicular bisector of the segment joining A(−2, −6) and B(2, 6)?",
+   "answer": "B",
+   "explanation": "The perpendicular bisector passes through the mid-point (0, 0).",
+   "remediation": "Video part 8; SQP 2026-27 Q7 type.",
+   "options": [
+    "(−2, 6)",
+    "(0, 0)",
+    "(2, 0)",
+    "(0, 6)"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "S9",
+   "level": "L1",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "The equation of the line parallel to the x-axis and 4 units above it is:",
+   "answer": "D",
+   "explanation": "Parallel to the x-axis → y is constant; 4 above → y = 4.",
+   "remediation": "Video part 9.",
+   "options": [
+    "x = −4",
+    "y = −4",
+    "x = 4",
+    "y = 4"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S9",
+   "level": "L1",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "The equation of the line parallel to the y-axis and 2 units to its left is:",
+   "answer": "A",
+   "explanation": "Parallel to the y-axis → x is constant; left → negative.",
+   "remediation": "Video part 9.",
+   "options": [
+    "x = −2",
+    "y = 2",
+    "y = −2",
+    "x = 2"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "T8",
+   "type": "numeric",
+   "question": "What is the distance of the point (7, 0) from the x-axis?",
+   "answer": "0",
+   "explanation": "The point is on the x-axis: |y| = 0.",
+   "remediation": "Video part 9."
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T8",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "(−3, 0) is the mid-point, so A is true and R explains it.",
+   "remediation": "Video part 9.",
+   "assertion": "The point (−3, 0) divides the segment joining (−6, 0) and (0, 0) in the ratio 1 : 1.",
+   "reason": "The mid-point of a segment divides it in the ratio 1 : 1.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T8",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "C",
+   "explanation": "OA = 2, so OB = 2 → (x − 2)² + 4 = 4 → x = 2: A true. R is false (only diameters).",
+   "remediation": "Video part 9: a 2023 board A-R.",
+   "assertion": "If A(4, 3) and B(x, 5) lie on the circle with centre O(2, 3), then x = 2.",
+   "reason": "The centre of a circle is the mid-point of every chord.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

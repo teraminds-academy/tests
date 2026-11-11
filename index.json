@@ -427,6 +427,54 @@
    "suggested_minutes": 40
   },
   {
+   "id": "c10-maths-ch06",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 6 Triangles",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 6 Triangles (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch06",
+    "S2": "ch06",
+    "S3": "ch06",
+    "S4": "ch06",
+    "S5": "ch06",
+    "S6": "ch06",
+    "S7": "ch06",
+    "S8": "ch06",
+    "S9": "ch06"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
+   "id": "c10-maths-ch07",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 7 Coordinate Geometry",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 7 Coordinate Geometry (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch07",
+    "S2": "ch07",
+    "S3": "ch07",
+    "S4": "ch07",
+    "S5": "ch07",
+    "S6": "ch07",
+    "S7": "ch07",
+    "S8": "ch07",
+    "S9": "ch07"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
    "id": "c10-maths",
    "title": "Board-pattern readiness test — most-repeated question types",
    "short_title": "Class 10 Maths · Crash Revision 2027",
@@ -575,11 +623,16 @@
      "name": "Triangles",
      "videos": [
       {
+       "label": "Chapter video: Triangles",
+       "url": "https://youtu.be/nVK-d2k608I"
+      },
+      {
        "label": "Crash revision from 6:12",
        "url": "https://youtu.be/Jg9raxKftdU?t=372"
       }
      ],
-     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+     "chapter_test": "c10-maths-ch06"
     },
     "ch07": {
      "name": "Coordinate Geometry",
