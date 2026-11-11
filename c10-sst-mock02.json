@@ -1,0 +1,1511 @@
+{
+ "schema": 2,
+ "kind": "mock",
+ "id": "c10-sst-mock02",
+ "version": 1,
+ "set": 2,
+ "title": "Board-pattern Mock Paper 2",
+ "short_title": "Class 10 Social Science · Board-pattern Mock Paper 2",
+ "subject": "Social Science (087)",
+ "subject_key": "sst",
+ "class": "10",
+ "board": "CBSE",
+ "duration_minutes": 180,
+ "max_marks": 80,
+ "tagline": "Original full-length practice paper in the CBSE 2026-27 sample-paper structure. Practice only: not a forecast of any exam.",
+ "disclaimer": "Original questions written by Teraminds Academy on the most-repeated / high-weightage question types seen in CBSE Sample Question Papers and past board papers. Structure follows the CBSE Sample Question Paper 2026-27. Practice for readiness only: no promise of marks. Independent revision aid, not an official CBSE resource.",
+ "instructions": [
+  "38 questions, 80 marks, 3 hours. Same sections, question types, marks and internal choices as the CBSE Sample Question Paper 2026-27.",
+  "Word limits as in CBSE: VSA 40 words, SA 60, case-based 100, LA 120.",
+  "Map questions appear here as place-identification items (the form CBSE uses for visually impaired candidates). Also practise them on a printed outline map of India.",
+  "Objective questions (MCQ, assertion-reason, numeric) are marked automatically.",
+  "Written answers: write on paper (or type in the box). After you submit, compare with the model answer and award your own marks point by point, the way a board examiner uses the marking scheme.",
+  "Internal choice: tap Option A or Option B and answer only that one.",
+  "The timer runs for the full 3 hours as a guide; nothing is cut off. Time spent in each section is shown in your report."
+ ],
+ "structure_source": {
+  "url": "https://cbseacademic.nic.in/web_material/SQP/ClassX_2026_27/SocialScience-SQP.pdf",
+  "label": "CBSE SQP Social Science 2026-27"
+ },
+ "sections": [
+  {
+   "id": "A",
+   "name": "Section A · History",
+   "title": "4 MCQ, VSA, SA, LA, case, map",
+   "marks": 20,
+   "minutes": 40
+  },
+  {
+   "id": "B",
+   "name": "Section B · Geography",
+   "title": "6 MCQ, VSA, LA, case, map",
+   "marks": 20,
+   "minutes": 40
+  },
+  {
+   "id": "C",
+   "name": "Section C · Political Science",
+   "title": "4 MCQ, 2 VSA, SA, LA, case",
+   "marks": 20,
+   "minutes": 40
+  },
+  {
+   "id": "D",
+   "name": "Section D · Economics",
+   "title": "6 MCQ, 3 SA, LA",
+   "marks": 20,
+   "minutes": 40
+  }
+ ],
+ "chapters": {
+  "h1": {
+   "name": "The Rise of Nationalism in Europe",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:11",
+     "url": "https://youtu.be/T_pqQVKFaKE?t=71"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "h2": {
+   "name": "Nationalism in India",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 3:46",
+     "url": "https://youtu.be/T_pqQVKFaKE?t=226"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "h3": {
+   "name": "The Making of a Global World",
+   "aliases": [
+    "The Making of a Global World (1 to 1.3)"
+   ],
+   "videos": [
+    {
+     "label": "Crash revision from 6:56",
+     "url": "https://youtu.be/T_pqQVKFaKE?t=416"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "h4": {
+   "name": "Print Culture and the Modern World",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 8:37",
+     "url": "https://youtu.be/T_pqQVKFaKE?t=517"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "hmap": {
+   "name": "History Map Work",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 11:06",
+     "url": "https://youtu.be/T_pqQVKFaKE?t=666"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g1": {
+   "name": "Resources and Development",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:17",
+     "url": "https://youtu.be/uccjuxg-qOE?t=77"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g2": {
+   "name": "Forest and Wildlife Resources",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 3:36",
+     "url": "https://youtu.be/uccjuxg-qOE?t=216"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g3": {
+   "name": "Water Resources",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 4:36",
+     "url": "https://youtu.be/uccjuxg-qOE?t=276"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g4": {
+   "name": "Agriculture",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 5:53",
+     "url": "https://youtu.be/uccjuxg-qOE?t=353"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g5": {
+   "name": "Minerals and Energy Resources",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 7:57",
+     "url": "https://youtu.be/uccjuxg-qOE?t=477"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g6": {
+   "name": "Manufacturing Industries",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 9:39",
+     "url": "https://youtu.be/uccjuxg-qOE?t=579"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "gmap": {
+   "name": "Geography Map Work",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 11:10",
+     "url": "https://youtu.be/uccjuxg-qOE?t=670"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "p1": {
+   "name": "Power Sharing",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:47",
+     "url": "https://youtu.be/M6GCszJvZSc?t=107"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "p2": {
+   "name": "Federalism",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 3:41",
+     "url": "https://youtu.be/M6GCszJvZSc?t=221"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "p3": {
+   "name": "Gender, Religion and Caste",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 5:50",
+     "url": "https://youtu.be/M6GCszJvZSc?t=350"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "p4": {
+   "name": "Political Parties",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 8:02",
+     "url": "https://youtu.be/M6GCszJvZSc?t=482"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "p5": {
+   "name": "Outcomes of Democracy",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 10:05",
+     "url": "https://youtu.be/M6GCszJvZSc?t=605"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "e1": {
+   "name": "Development",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:46",
+     "url": "https://youtu.be/h8kLRGoCYKE?t=106"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "e2": {
+   "name": "Sectors of the Indian Economy",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 4:04",
+     "url": "https://youtu.be/h8kLRGoCYKE?t=244"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "e3": {
+   "name": "Money and Credit",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 6:54",
+     "url": "https://youtu.be/h8kLRGoCYKE?t=414"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "e4": {
+   "name": "Globalisation and the Indian Economy",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 9:12",
+     "url": "https://youtu.be/h8kLRGoCYKE?t=552"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  }
+ },
+ "chapter_order": [
+  "h1",
+  "h2",
+  "h3",
+  "h4",
+  "hmap",
+  "g1",
+  "g2",
+  "g3",
+  "g4",
+  "g5",
+  "g6",
+  "gmap",
+  "p1",
+  "p2",
+  "p3",
+  "p4",
+  "p5",
+  "e1",
+  "e2",
+  "e3",
+  "e4"
+ ],
+ "video_url": null,
+ "worksheet_url": null,
+ "questions": [
+  {
+   "n": 1,
+   "id": "q01",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "h1",
+   "topic": "Nationalism in the Balkans and Greece",
+   "question": "The treaty that recognised Greece as an independent nation in 1832 was the:",
+   "options": [
+    "Treaty of Constantinople",
+    "Treaty of Versailles",
+    "Treaty of Vienna",
+    "Treaty of Paris"
+   ],
+   "answer": "A",
+   "explanation": "Greece's struggle for independence began in 1821 and ended with the Treaty of Constantinople, 1832.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 2,
+   "id": "q02",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "h2",
+   "topic": "Khilafat Movement",
+   "question": "The Khilafat Committee was formed in Bombay in:",
+   "options": [
+    "March 1919",
+    "December 1929",
+    "August 1920",
+    "April 1917"
+   ],
+   "answer": "A",
+   "explanation": "A Khilafat Committee was formed in Bombay in March 1919; Gandhiji saw it as a chance to bring Muslims into a unified national movement.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 3,
+   "id": "q03",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "h4",
+   "topic": "Print and social reform in India",
+   "question": "Who wrote 'Gulamgiri' (1871) about the injustices of the caste system?",
+   "options": [
+    "B.R. Ambedkar",
+    "Raja Rammohun Roy",
+    "E.V. Ramaswamy Naicker",
+    "Jyotiba Phule"
+   ],
+   "answer": "D",
+   "explanation": "Jyotiba Phule, the Maratha pioneer of 'low caste' protest movements, wrote Gulamgiri in 1871.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 4,
+   "id": "q04",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "h3",
+   "topic": "Silk routes",
+   "question": "The 'silk routes' are a good example of:",
+   "options": [
+    "railway networks built under colonial rule",
+    "sea routes discovered by European explorers in the 1500s",
+    "vibrant pre-modern trade and cultural links between distant parts of the world",
+    "routes used only to carry Chinese silk to India"
+   ],
+   "answer": "C",
+   "explanation": "Silk routes carried goods, people, ideas and religions (Buddhism, Christianity, Islam) between Asia, Europe and northern Africa.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 5,
+   "id": "q05",
+   "section": "A",
+   "type": "self",
+   "marks": 2,
+   "chapter": "h1",
+   "topic": "Napoleonic Code",
+   "question": "Explain any two features of the Civil Code of 1804 (the Napoleonic Code).",
+   "model_answer": "It did away with all privileges based on birth, established equality before the law and secured the right to property.\nIn the territories under French control it simplified administration, abolished the feudal system, freed peasants from serfdom and manorial dues, and removed guild restrictions in towns. (Any two.)",
+   "rubric": [
+    {
+     "p": "First feature",
+     "m": 1
+    },
+    {
+     "p": "Second feature",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 6,
+   "id": "q06",
+   "section": "A",
+   "marks": 3,
+   "alts": [
+    {
+     "id": "q06A",
+     "type": "self",
+     "marks": 3,
+     "chapter": "h2",
+     "topic": "Non-Cooperation in the towns",
+     "question": "Why did the Non-Cooperation Movement slow down in the cities?",
+     "model_answer": "Khadi cloth was often more expensive than mass-produced mill cloth, and poor people could not afford it.\nThe boycott of British institutions needed Indian alternatives, but these came up slowly, so students and teachers drifted back to government schools and lawyers to courts.\n(Also: the movement shifted its energy to the countryside.)",
+     "rubric": [
+      {
+       "p": "Khadi expensive",
+       "m": 1
+      },
+      {
+       "p": "Lack of alternative institutions",
+       "m": 1
+      },
+      {
+       "p": "Students/teachers/lawyers returned",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q06B",
+     "type": "self",
+     "marks": 3,
+     "chapter": "h4",
+     "topic": "Print and nationalism in India",
+     "question": "How did print help the growth of nationalism in nineteenth-century India?",
+     "model_answer": "Newspapers and journals in many Indian languages reported on colonial misrule and encouraged nationalist activities.\nPrint carried debates on social and religious reform to a wide public, connecting people across regions.\nWhen the government tried to control the press through the Vernacular Press Act (1878), nationalist newspapers protested, and the repression itself fuelled more criticism and solidarity.",
+     "rubric": [
+      {
+       "p": "Vernacular newspapers spread nationalist ideas",
+       "m": 1
+      },
+      {
+       "p": "Debates reached a wide public",
+       "m": 1
+      },
+      {
+       "p": "Vernacular Press Act (1878) and protests",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 7,
+   "id": "q07",
+   "section": "A",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q07A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "h1",
+     "topic": "Unification of Italy",
+     "question": "Describe the process of the unification of Italy.",
+     "model_answer": "In the mid-nineteenth century Italy was divided into seven states; only Sardinia-Piedmont was ruled by an Italian princely house.\nGiuseppe Mazzini formed the secret society Young Italy to spread the goal of a unitary Italian republic, but the revolutionary uprisings of 1831 and 1848 failed.\nSardinia-Piedmont under King Victor Emmanuel II then took the lead. Chief minister Cavour, through a tactful diplomatic alliance with France, defeated the Austrian forces in 1859.\nIn 1860 Giuseppe Garibaldi led armed volunteers (the Red Shirts) into South Italy and the Kingdom of the Two Sicilies and drove out the Spanish rulers.\nIn 1861 Victor Emmanuel II was proclaimed king of united Italy.",
+     "rubric": [
+      {
+       "p": "Divided Italy; Sardinia-Piedmont",
+       "m": 1
+      },
+      {
+       "p": "Mazzini and Young Italy",
+       "m": 1
+      },
+      {
+       "p": "Cavour's alliance with France; Austria defeated 1859",
+       "m": 1
+      },
+      {
+       "p": "Garibaldi and the Red Shirts, 1860",
+       "m": 1
+      },
+      {
+       "p": "Victor Emmanuel II king of united Italy, 1861",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q07B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "h2",
+     "topic": "First World War and India",
+     "question": "How did the First World War create a new economic and political situation in India?",
+     "model_answer": "Defence expenditure rose sharply; it was financed by war loans and higher taxes: customs duties were raised and income tax introduced.\nPrices increased: between 1913 and 1918 they doubled, causing extreme hardship for the common people.\nVillages were called upon to supply soldiers, and forced recruitment in rural areas caused widespread anger.\nIn 1918-19 and 1920-21 crops failed in many parts of India, causing acute food shortages, and an influenza epidemic followed; 12 to 13 million people died from famines and the epidemic.\nPeople hoped hardships would end after the war, but they did not; a new leader, Gandhiji, offered a new mode of struggle.",
+     "rubric": [
+      {
+       "p": "War expenditure: loans, taxes, customs, income tax",
+       "m": 1
+      },
+      {
+       "p": "Prices doubled 1913–1918",
+       "m": 1
+      },
+      {
+       "p": "Forced recruitment",
+       "m": 1
+      },
+      {
+       "p": "Crop failures and influenza; 12–13 million deaths",
+       "m": 1
+      },
+      {
+       "p": "Resulting discontent / new political situation",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 8,
+   "id": "q08",
+   "section": "A",
+   "marks": 4,
+   "stem": "Read the source.\nNationalism spreads when people begin to believe that they are all part of the same nation. In the twentieth century this sense of collective belonging came partly through cultural processes: history and fiction, folklore and songs, popular prints and symbols. The identity of India came to be visually associated with the image of Bharat Mata, and nationalists recorded folk tales and songs in villages. (Our summary, based on NCERT Class 10 History, Chapter 2.)",
+   "parts": [
+    {
+     "id": "q08a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "h2",
+     "topic": "Sense of collective belonging",
+     "question": "The famous image of Bharat Mata was painted by:",
+     "options": [
+      "Raja Ravi Varma",
+      "Bankim Chandra Chattopadhyay",
+      "Rabindranath Tagore",
+      "Abanindranath Tagore"
+     ],
+     "answer": "D",
+     "explanation": "Abanindranath Tagore painted Bharat Mata as an ascetic figure: calm, composed, divine and spiritual."
+    },
+    {
+     "id": "q08b",
+     "type": "self",
+     "marks": 1,
+     "chapter": "h2",
+     "topic": "Sense of collective belonging",
+     "question": "Who wrote 'Vande Mataram' as a hymn to the motherland?",
+     "model_answer": "Bankim Chandra Chattopadhyay (in the 1870s; later included in his novel Anandamath).",
+     "rubric": [
+      {
+       "p": "Bankim Chandra Chattopadhyay",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q08c",
+     "type": "self",
+     "marks": 2,
+     "chapter": "h2",
+     "topic": "Sense of collective belonging",
+     "question": "Explain two ways in which folklore and symbols created a sense of nationalism.",
+     "model_answer": "Folk tales and songs were seen as giving a true picture of traditional culture damaged by outside forces; preserving them helped people discover a national identity and a pride in the past.\nSymbols such as flags united people: the Swadeshi flag (red, green, yellow with eight lotuses) in Bengal, and by 1921 a tricolour with a spinning wheel; carrying the flag in marches was a symbol of defiance.",
+     "rubric": [
+      {
+       "p": "Folklore restores pride / national identity",
+       "m": 1
+      },
+      {
+       "p": "Symbols such as flags unite and inspire defiance",
+       "m": 1
+      }
+     ]
+    }
+   ],
+   "qtype": "Case-based (source)"
+  },
+  {
+   "n": 9,
+   "id": "q09",
+   "section": "A",
+   "marks": 2,
+   "stem": "Map skill (text form). Identify the places.",
+   "parts": [
+    {
+     "id": "q09a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "hmap",
+     "topic": "INC sessions",
+     "question": "The place where the special session of the Indian National Congress was held in September 1920:",
+     "options": [
+      "Nagpur",
+      "Lahore",
+      "Calcutta",
+      "Madras"
+     ],
+     "answer": "C",
+     "explanation": "The Calcutta special session (September 1920) decided to launch Non-Cooperation; Nagpur (December 1920) adopted it."
+    },
+    {
+     "id": "q09b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "hmap",
+     "topic": "Jallianwala Bagh",
+     "question": "The city where the Jallianwala Bagh incident took place on 13 April 1919:",
+     "options": [
+      "Amritsar",
+      "Chauri Chaura",
+      "Lahore",
+      "Ahmedabad"
+     ],
+     "answer": "A",
+     "explanation": "General Dyer's troops fired on a peaceful gathering at Jallianwala Bagh, Amritsar."
+    }
+   ],
+   "qtype": "Map (text form)"
+  },
+  {
+   "n": 10,
+   "id": "q10",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g1",
+   "topic": "Soil types",
+   "question": "Which soil develops in areas of high temperature and heavy rainfall as a result of intense leaching?",
+   "options": [
+    "Arid soil",
+    "Black soil",
+    "Alluvial soil",
+    "Laterite soil"
+   ],
+   "answer": "D",
+   "explanation": "Laterite soil forms under intense leaching in hot, wet areas.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 11,
+   "id": "q11",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g2",
+   "topic": "Forest classification",
+   "question": "More than half of India's total forest land has been declared:",
+   "options": [
+    "unclassed forests",
+    "community forests",
+    "reserved forests",
+    "protected forests"
+   ],
+   "answer": "C",
+   "explanation": "Reserved forests are the most valuable for conservation of forest and wildlife.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 12,
+   "id": "q12",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g3",
+   "topic": "Multipurpose river projects",
+   "question": "The Sardar Sarovar dam has been built across the river:",
+   "options": [
+    "Sabarmati",
+    "Narmada",
+    "Mahi",
+    "Tapi"
+   ],
+   "answer": "B",
+   "explanation": "Sardar Sarovar on the Narmada in Gujarat (the Narmada Bachao Andolan opposed it).",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 13,
+   "id": "q13",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g4",
+   "topic": "Types of farming",
+   "question": "'Slash and burn' agriculture (jhumming in the north-east) is a type of:",
+   "options": [
+    "intensive subsistence farming",
+    "primitive subsistence farming",
+    "commercial farming",
+    "plantation agriculture"
+   ],
+   "answer": "B",
+   "explanation": "Farmers clear a patch of land, grow crops for the family and move on when fertility falls.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 14,
+   "id": "q14",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g5",
+   "topic": "Coal",
+   "question": "The highest quality hard coal is:",
+   "options": [
+    "lignite",
+    "anthracite",
+    "peat",
+    "bituminous"
+   ],
+   "answer": "B",
+   "explanation": "Anthracite has the most carbon; lignite is low-grade brown coal, peat the lowest.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 15,
+   "id": "q15",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g6",
+   "topic": "Classification of industries",
+   "question": "Which of these is a mineral-based industry?",
+   "options": [
+    "Iron and steel",
+    "Sugar",
+    "Cotton textiles",
+    "Jute"
+   ],
+   "answer": "A",
+   "explanation": "Mineral-based industries use minerals and metals as raw material.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 16,
+   "id": "q16",
+   "section": "B",
+   "type": "self",
+   "marks": 2,
+   "chapter": "g1",
+   "topic": "Soil erosion and conservation",
+   "question": "Mention two methods of controlling soil erosion in hilly areas.",
+   "model_answer": "Contour ploughing (ploughing along contour lines) decelerates the flow of water down the slopes.\nTerrace farming (steps cut on slopes) restricts erosion; strip cropping and shelter belts also help. (Any two.)",
+   "rubric": [
+    {
+     "p": "First method",
+     "m": 1
+    },
+    {
+     "p": "Second method",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 17,
+   "id": "q17",
+   "section": "B",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q17A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "g6",
+     "topic": "Industrial pollution and control",
+     "question": "How do industries cause environmental degradation? Suggest measures to control it.",
+     "model_answer": "Air pollution: smoke from chemical and paper factories, brick kilns, refineries and smelting plants, burning fossil fuels; it harms health and causes acid rain.\nWater pollution: organic and inorganic industrial effluents (paper, pulp, chemical, textile, dyeing, petroleum, tanneries) discharged into rivers.\nThermal pollution: hot water from factories and thermal plants drained into rivers before cooling. Noise pollution: hearing problems and stress.\nMeasures: minimising use of water by reuse and recycling; rainwater harvesting; treating hot water and effluents before release (primary, secondary, tertiary treatment); fitting electrostatic precipitators, scrubbers and filters to smokestacks; using oil or gas instead of coal; machinery redesigned to reduce noise.",
+     "rubric": [
+      {
+       "p": "Air pollution",
+       "m": 1
+      },
+      {
+       "p": "Water pollution",
+       "m": 1
+      },
+      {
+       "p": "Thermal or noise pollution",
+       "m": 1
+      },
+      {
+       "p": "Two control measures",
+       "m": 1
+      },
+      {
+       "p": "Effluent treatment / smoke-control equipment",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q17B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "g3",
+     "topic": "Multipurpose river projects",
+     "question": "Why were multipurpose river projects called the 'temples of modern India'? Why have they faced opposition in recent years?",
+     "model_answer": "Jawaharlal Nehru called dams the 'temples of modern India' because they would integrate development of agriculture and the village economy with rapid industrialisation and growth of the urban economy.\nThey serve many purposes: irrigation, electricity generation, water supply, flood control, recreation, inland navigation and fish breeding.\nOpposition: they affect the natural flow of rivers, causing poor sediment flow and excessive sedimentation at the reservoir bed; they fragment rivers, making migration difficult for aquatic fauna; they submerge vegetation and soil; local people are displaced and lose their land and livelihood (e.g. Narmada Bachao Andolan, Tehri Dam Andolan); and they can cause floods, induce earthquakes and water-borne diseases.",
+     "rubric": [
+      {
+       "p": "Nehru's phrase and why",
+       "m": 1
+      },
+      {
+       "p": "Multiple purposes",
+       "m": 1
+      },
+      {
+       "p": "Effects on rivers / sediment / aquatic life",
+       "m": 1
+      },
+      {
+       "p": "Displacement of local people with example",
+       "m": 1
+      },
+      {
+       "p": "Other problems (floods, diseases, conflicts)",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 18,
+   "id": "q18",
+   "section": "B",
+   "marks": 4,
+   "stem": "Read the source.\nMinerals are a finite and non-renewable resource. The geological processes that form them are so slow that their rate of replenishment is infinitely small compared with the present rate of consumption. Continued extraction of ores leads to increasing costs as mineral extraction comes from greater depths, along with a decrease in quality. (Our summary, based on NCERT Class 10 Geography, Chapter 5.)",
+   "parts": [
+    {
+     "id": "q18a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "g5",
+     "topic": "Conservation of minerals",
+     "question": "Minerals are called non-renewable because:",
+     "options": [
+      "they cannot be used again once mined",
+      "they are found only in India",
+      "their formation takes millions of years",
+      "they are always found deep underground"
+     ],
+     "answer": "C",
+     "explanation": "Replenishment is extremely slow compared with how fast we use them."
+    },
+    {
+     "id": "q18b",
+     "type": "self",
+     "marks": 1,
+     "chapter": "g5",
+     "topic": "Conservation of minerals",
+     "question": "Suggest one way to conserve mineral resources.",
+     "model_answer": "Use improved technologies to use low-grade ores at lower cost, or recycle metals using scrap metals and other substitutes.",
+     "rubric": [
+      {
+       "p": "Recycling / low-grade ores / substitutes",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q18c",
+     "type": "self",
+     "marks": 2,
+     "chapter": "g5",
+     "topic": "Conservation of minerals",
+     "question": "Why is it necessary to conserve mineral resources? Give two reasons.",
+     "model_answer": "Minerals are finite and non-renewable; reserves can run out. Continued extraction makes it costlier, as mining goes deeper and ore quality falls.",
+     "rubric": [
+      {
+       "p": "Finite / non-renewable",
+       "m": 1
+      },
+      {
+       "p": "Rising cost and falling quality of extraction",
+       "m": 1
+      }
+     ]
+    }
+   ],
+   "qtype": "Case-based (source)"
+  },
+  {
+   "n": 19,
+   "id": "q19",
+   "section": "B",
+   "marks": 3,
+   "stem": "Map skill (text form). Identify the places.",
+   "parts": [
+    {
+     "id": "q19a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gmap",
+     "topic": "Iron and steel plants",
+     "question": "The iron and steel plant located in Chhattisgarh is:",
+     "options": [
+      "Bokaro",
+      "Bhilai",
+      "Durgapur",
+      "Salem"
+     ],
+     "answer": "B",
+     "explanation": "Durgapur is in West Bengal, Bokaro in Jharkhand, Salem in Tamil Nadu."
+    },
+    {
+     "id": "q19b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gmap",
+     "topic": "Software technology parks",
+     "question": "A software technology park located in Telangana is:",
+     "options": [
+      "Noida",
+      "Gandhinagar",
+      "Hyderabad",
+      "Thiruvananthapuram"
+     ],
+     "answer": "C",
+     "explanation": "Gandhinagar is in Gujarat, Noida in Uttar Pradesh, Thiruvananthapuram in Kerala."
+    },
+    {
+     "id": "q19c",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gmap",
+     "topic": "International airports",
+     "question": "The international airport located at Meenambakkam serves the city of:",
+     "options": [
+      "Chennai",
+      "Mumbai",
+      "Hyderabad",
+      "Kolkata"
+     ],
+     "answer": "A",
+     "explanation": "Meenambakkam is Chennai's airport (Tamil Nadu)."
+    }
+   ],
+   "qtype": "Map (text form)"
+  },
+  {
+   "n": 20,
+   "id": "q20",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "p1",
+   "topic": "Forms of power sharing",
+   "question": "Sharing of power between governments at different levels (union, state, local) is called:",
+   "options": [
+    "community government",
+    "horizontal division of power",
+    "checks and balances",
+    "vertical division of power"
+   ],
+   "answer": "D",
+   "explanation": "Horizontal division is among organs (legislature, executive, judiciary) at the same level.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 21,
+   "id": "q21",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "p2",
+   "topic": "Coming together vs holding together",
+   "question": "Which country is an example of a 'coming together' federation?",
+   "options": [
+    "Belgium",
+    "India",
+    "USA",
+    "Spain"
+   ],
+   "answer": "C",
+   "explanation": "Independent states came together to form a bigger unit (USA, Switzerland, Australia).",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 22,
+   "id": "q22",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "p3",
+   "topic": "Gender division",
+   "question": "The 'sexual division of labour' means:",
+   "options": [
+    "women are reserved one-third of seats",
+    "the belief that housework and bringing up children are women's work, while men work outside",
+    "men and women get equal wages",
+    "men and women work in separate factories"
+   ],
+   "answer": "B",
+   "explanation": "It is a social expectation, not biology.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 23,
+   "id": "q23",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "p4",
+   "topic": "Party systems",
+   "question": "Which country is an example of a one-party system?",
+   "options": [
+    "China",
+    "India",
+    "USA",
+    "United Kingdom"
+   ],
+   "answer": "A",
+   "explanation": "In China only the Communist Party is allowed to rule.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 24,
+   "id": "q24",
+   "section": "C",
+   "type": "self",
+   "marks": 2,
+   "chapter": "p1",
+   "topic": "Why power sharing is desirable",
+   "question": "Give two prudential reasons for power sharing.",
+   "model_answer": "Power sharing reduces the possibility of conflict between social groups.\nSince social conflict often leads to violence and political instability, power sharing ensures the stability of political order.",
+   "rubric": [
+    {
+     "p": "Reduces conflict between social groups",
+     "m": 1
+    },
+    {
+     "p": "Ensures political stability",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 25,
+   "id": "q25",
+   "section": "C",
+   "type": "self",
+   "marks": 2,
+   "chapter": "p5",
+   "topic": "Accountable and legitimate government",
+   "question": "Why is a democratic government called a legitimate government? Give two reasons.",
+   "model_answer": "It is the people's own government, chosen through free and fair elections.\nIt is accountable to citizens, and decisions are taken through proper norms and procedures, so people accept them.",
+   "rubric": [
+    {
+     "p": "People's own government, elected",
+     "m": 1
+    },
+    {
+     "p": "Accountable / follows procedures, so accepted",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 26,
+   "id": "q26",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "p4",
+   "topic": "Functions of political parties",
+   "question": "State three functions of political parties in a democracy.",
+   "model_answer": "Parties contest elections and put forward candidates.\nThey put forward policies and programmes for voters to choose from.\nThey make laws through debate in the legislature; they form and run governments, and those that lose play the role of opposition; they shape public opinion and give people access to government machinery and welfare schemes. (Any three.)",
+   "rubric": [
+    {
+     "p": "First function",
+     "m": 1
+    },
+    {
+     "p": "Second function",
+     "m": 1
+    },
+    {
+     "p": "Third function",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 27,
+   "id": "q27",
+   "section": "C",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q27A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "p3",
+     "topic": "Caste and politics",
+     "question": "How does caste influence politics in India? How does politics in turn influence caste?",
+     "model_answer": "Caste in politics: parties keep in mind the caste composition of the electorate when choosing candidates; they appeal to caste sentiment to win support; some parties are known to favour some castes; universal adult franchise and one-person-one-vote made leaders mobilise votes.\nBut caste alone does not decide elections: no constituency has a clear majority of one caste, no party wins all votes of a caste, and voters judge governments on performance.\nPolitics in caste: each caste tries to become bigger by including neighbouring sub-castes; caste groups ally with others; new kinds of caste groups such as 'backward' and 'forward' have emerged; politics has helped Dalits and OBCs gain better access to decision-making.",
+     "rubric": [
+      {
+       "p": "Candidates chosen with caste in mind",
+       "m": 1
+      },
+      {
+       "p": "Caste appeals / universal franchise",
+       "m": 1
+      },
+      {
+       "p": "Caste alone does not decide outcomes",
+       "m": 1
+      },
+      {
+       "p": "Castes enlarge and ally (politics in caste)",
+       "m": 1
+      },
+      {
+       "p": "New caste groupings / access for Dalits and OBCs",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q27B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "p2",
+     "topic": "Federalism in practice in India",
+     "question": "Explain how federalism has been practised in India through linguistic states, language policy and centre-state relations.",
+     "model_answer": "Linguistic states: after 1947 many old states were redrawn so that people speaking the same language lived in the same state; some were created on the basis of culture, ethnicity or geography. This made the country more united and administration easier.\nLanguage policy: the Constitution did not give any one language the status of national language; Hindi was identified as the official language, with English also used, and many other languages are recognised as Scheduled Languages. States have their own official languages. Leaders adopted a cautious attitude when spreading Hindi.\nCentre-state relations: for a long time the same party ruled at the centre and in most states, and the centre sometimes misused the Constitution to dismiss state governments. After 1990 the era of coalition governments at the centre led to a new culture of power sharing and respect for the autonomy of state governments; a Supreme Court judgment made it difficult to dismiss state governments arbitrarily.",
+     "rubric": [
+      {
+       "p": "Linguistic states",
+       "m": 1.5
+      },
+      {
+       "p": "Language policy",
+       "m": 1.5
+      },
+      {
+       "p": "Centre-state relations before and after 1990",
+       "m": 2
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 28,
+   "id": "q28",
+   "section": "C",
+   "marks": 4,
+   "stem": "Read the source.\nIs democracy good for economic growth? Considering all democracies and all dictatorships over fifty years between 1950 and 2000, dictatorships have a slightly higher rate of growth. But this cannot be the only reason to reject democracy: growth also depends on population size, global situation, cooperation from other countries and the economic priorities adopted. Within democracies, economic inequality remains high. (Our summary, based on NCERT Class 10 Political Science, Chapter 5.)",
+   "parts": [
+    {
+     "id": "q28a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "p5",
+     "topic": "Outcomes of democracy",
+     "question": "Which outcome is a democracy expected to produce above all?",
+     "options": [
+      "Complete economic equality",
+      "The highest rate of economic growth in the world",
+      "Quick decisions without discussion",
+      "A government that is accountable and responsive to citizens"
+     ],
+     "answer": "D",
+     "explanation": "Accountable, responsive and legitimate government is democracy's basic outcome."
+    },
+    {
+     "id": "q28b",
+     "type": "self",
+     "marks": 1,
+     "chapter": "p5",
+     "topic": "Economic outcomes of democracy",
+     "question": "Why does economic inequality pose a challenge to democracy?",
+     "model_answer": "The poor form a large share of voters, yet their needs often go unmet; this can reduce their faith in democratic governments.",
+     "rubric": [
+      {
+       "p": "Poor voters' needs unmet → loss of faith",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q28c",
+     "type": "self",
+     "marks": 2,
+     "chapter": "p5",
+     "topic": "Dignity and freedom",
+     "question": "Give two ways in which democracy promotes the dignity and freedom of individuals.",
+     "model_answer": "It has strengthened the claims of women for respect and equal treatment.\nIt has strengthened the claims of disadvantaged and discriminated castes for equal status and opportunity.",
+     "rubric": [
+      {
+       "p": "Dignity of women",
+       "m": 1
+      },
+      {
+       "p": "Equal status for disadvantaged castes",
+       "m": 1
+      }
+     ]
+    }
+   ],
+   "qtype": "Case-based (source)"
+  },
+  {
+   "n": 29,
+   "id": "q29",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e1",
+   "topic": "Different people, different goals",
+   "question": "A likely development goal of a landless rural labourer is:",
+   "options": [
+    "more electricity for industry",
+    "higher import duties on cars",
+    "freedom to sell crops abroad",
+    "more days of work and better wages"
+   ],
+   "answer": "D",
+   "explanation": "Different people have different developmental goals depending on their situation.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 30,
+   "id": "q30",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e1",
+   "topic": "Human Development Report",
+   "question": "The Human Development Report, which compares countries on health, education and income, is published by the:",
+   "options": [
+    "World Bank",
+    "UNDP",
+    "WTO",
+    "IMF"
+   ],
+   "answer": "B",
+   "explanation": "The United Nations Development Programme publishes the HDR.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 31,
+   "id": "q31",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e2",
+   "topic": "GDP",
+   "question": "Gross Domestic Product (GDP) is the value of:",
+   "options": [
+    "goods exported by a country",
+    "all goods, including intermediate goods, produced in a year",
+    "the income of the government",
+    "all final goods and services produced within a country during a particular year"
+   ],
+   "answer": "D",
+   "explanation": "Only final goods are counted to avoid double counting.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 32,
+   "id": "q32",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e3",
+   "topic": "Formal sources of credit",
+   "question": "Which of these is a formal source of credit?",
+   "options": [
+    "Cooperative society",
+    "Trader",
+    "Moneylender",
+    "Landlord"
+   ],
+   "answer": "A",
+   "explanation": "Banks and cooperatives are formal sources supervised by the RBI.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 33,
+   "id": "q33",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e4",
+   "topic": "MNCs",
+   "question": "A company that owns or controls production in more than one nation is called a:",
+   "options": [
+    "public sector unit",
+    "cooperative",
+    "multinational corporation",
+    "self-help group"
+   ],
+   "answer": "C",
+   "explanation": "MNCs set up offices and factories where they get cheap labour, resources and markets.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 34,
+   "id": "q34",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e3",
+   "topic": "Money as a medium of exchange",
+   "question": "'Double coincidence of wants' means:",
+   "options": [
+    "what one person wants to sell is exactly what the other wishes to buy, and the other way round",
+    "both people use the same currency",
+    "two banks lend to the same person",
+    "prices of two goods rise together"
+   ],
+   "answer": "A",
+   "explanation": "Barter needs this coincidence; money removes the need for it.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 35,
+   "id": "q35",
+   "section": "D",
+   "type": "self",
+   "marks": 3,
+   "chapter": "e2",
+   "topic": "Creating employment",
+   "question": "Suggest three ways in which more employment can be created in rural areas.",
+   "model_answer": "Government investment in irrigation (wells, check dams) lets farmers grow a second crop, employing more people.\nBetter roads, transport and storage (cold storage, godowns) create jobs and help farmers sell in markets.\nCheap credit from banks for farming; promoting agro-processing industries and small-scale units (e.g. a dal mill, honey collection, cold storage); jobs in tourism, education and health. (Any three.)",
+   "rubric": [
+    {
+     "p": "First way",
+     "m": 1
+    },
+    {
+     "p": "Second way",
+     "m": 1
+    },
+    {
+     "p": "Third way",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 36,
+   "id": "q36",
+   "section": "D",
+   "type": "self",
+   "marks": 3,
+   "chapter": "e3",
+   "topic": "RBI and formal credit",
+   "question": "How does the Reserve Bank of India supervise the functioning of formal sources of loans?",
+   "model_answer": "The RBI checks that banks actually maintain the cash balance it prescribes (a minimum share of deposits).\nIt sees that banks give loans not just to profit-making businesses and traders but also to small cultivators, small-scale industries and small borrowers.\nBanks must submit information periodically to the RBI on how much they lend, to whom and at what interest rate.",
+   "rubric": [
+    {
+     "p": "Minimum cash balance",
+     "m": 1
+    },
+    {
+     "p": "Loans to small borrowers, not only big business",
+     "m": 1
+    },
+    {
+     "p": "Periodic information on lending",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 37,
+   "id": "q37",
+   "section": "D",
+   "type": "self",
+   "marks": 3,
+   "chapter": "e4",
+   "topic": "Liberalisation",
+   "question": "What is meant by liberalisation of trade? Why did the Indian government remove barriers to foreign trade and investment around 1991?",
+   "model_answer": "Liberalisation means removing barriers or restrictions set by the government, e.g. on imports and foreign investment.\nAfter independence, India had restricted foreign trade and investment to protect domestic producers from foreign competition.\nAround 1991 the government decided Indian producers were ready to compete; competition would improve their quality, so barriers were removed to a large extent.",
+   "rubric": [
+    {
+     "p": "Meaning",
+     "m": 1
+    },
+    {
+     "p": "Earlier protection of domestic producers",
+     "m": 1
+    },
+    {
+     "p": "1991: time to compete / improve quality",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 38,
+   "id": "q38",
+   "section": "D",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q38A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "e4",
+     "topic": "Impact of globalisation",
+     "question": "Explain the impact of globalisation on India. Is it shared equally by all?",
+     "model_answer": "Consumers, especially the well-off in urban areas, have greater choice, better quality and lower prices.\nMNCs have increased investment in India, creating new jobs; local companies supplying them have prospered.\nSome large Indian companies have become multinationals themselves (e.g. Tata Motors, Infosys).\nNew opportunities have opened up in services, especially IT.\nNot shared equally: small producers (e.g. in batteries, capacitors, plastics, toys, tyres, dairy, edible oil) were hit hard by competition and many units shut down; workers face uncertain, flexible jobs with long hours and fewer benefits. Fair globalisation needs government policies that protect workers and small producers.",
+     "rubric": [
+      {
+       "p": "Consumers benefit",
+       "m": 1
+      },
+      {
+       "p": "Investment and jobs / suppliers prosper",
+       "m": 1
+      },
+      {
+       "p": "Indian MNCs and services",
+       "m": 1
+      },
+      {
+       "p": "Small producers hit",
+       "m": 1
+      },
+      {
+       "p": "Workers' insecurity / need for fair globalisation",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q38B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "e3",
+     "topic": "Terms of credit",
+     "question": "What are 'terms of credit'? Explain them with an example, and say why formal credit should be expanded.",
+     "model_answer": "Terms of credit are the conditions of a loan: the interest rate, collateral, documentation required and the mode of repayment.\nExample: a farmer borrows from a bank at a fixed interest rate, pledging land papers as collateral, submitting documents and repaying in instalments after harvest; terms vary by lender and borrower.\nInformal lenders charge much higher interest, so more of the borrower's income goes in repayment and debt can trap them.\nFormal credit is cheaper and safer, so banks and cooperatives should lend more, especially in rural areas, and credit should be shared more equally so the poor can benefit.",
+     "rubric": [
+      {
+       "p": "Definition with the four components",
+       "m": 2
+      },
+      {
+       "p": "Example",
+       "m": 1
+      },
+      {
+       "p": "Why informal credit harms",
+       "m": 1
+      },
+      {
+       "p": "Why formal credit should expand",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  }
+ ]
+}

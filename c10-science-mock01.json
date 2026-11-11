@@ -1,0 +1,1478 @@
+{
+ "schema": 2,
+ "kind": "mock",
+ "id": "c10-science-mock01",
+ "version": 1,
+ "set": 1,
+ "title": "Board-pattern Mock Paper 1",
+ "short_title": "Class 10 Science · Board-pattern Mock Paper 1",
+ "subject": "Science (086)",
+ "subject_key": "science",
+ "class": "10",
+ "board": "CBSE",
+ "duration_minutes": 180,
+ "max_marks": 80,
+ "tagline": "Original full-length practice paper in the CBSE 2026-27 sample-paper structure. Practice only: not a forecast of any exam.",
+ "disclaimer": "Original questions written by Teraminds Academy on the most-repeated / high-weightage question types seen in CBSE Sample Question Papers and past board papers. Structure follows the CBSE Sample Question Paper 2026-27. Practice for readiness only: no promise of marks. Independent revision aid, not an official CBSE resource.",
+ "instructions": [
+  "39 questions, 80 marks, 3 hours. Same sections, question types, marks and internal choices as the CBSE Sample Question Paper 2026-27.",
+  "Section A is Biology, Section B Chemistry, Section C Physics, as in the CBSE paper. Draw diagrams on paper where asked.",
+  "Objective questions (MCQ, assertion-reason, numeric) are marked automatically.",
+  "Written answers: write on paper (or type in the box). After you submit, compare with the model answer and award your own marks point by point, the way a board examiner uses the marking scheme.",
+  "Internal choice: tap Option A or Option B and answer only that one.",
+  "The timer runs for the full 3 hours as a guide; nothing is cut off. Time spent in each section is shown in your report."
+ ],
+ "structure_source": {
+  "url": "https://cbseacademic.nic.in/web_material/SQP/ClassX_2026_27/Science-SQP.pdf",
+  "label": "CBSE SQP Science 2026-27"
+ },
+ "sections": [
+  {
+   "id": "A",
+   "name": "Section A · Biology",
+   "title": "MCQ, A-R, 2-, 3-, 4- and 5-mark questions",
+   "marks": 30,
+   "minutes": 60
+  },
+  {
+   "id": "B",
+   "name": "Section B · Chemistry",
+   "title": "MCQ, A-R, 2-, 3-, 4- and 5-mark questions",
+   "marks": 25,
+   "minutes": 50
+  },
+  {
+   "id": "C",
+   "name": "Section C · Physics",
+   "title": "MCQ, A-R, 2-, 3-, 4- and 5-mark questions",
+   "marks": 25,
+   "minutes": 50
+  }
+ ],
+ "chapters": {
+  "ch01": {
+   "name": "Chemical Reactions and Equations",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 0:59",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=59"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch02": {
+   "name": "Acids, Bases and Salts",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:52",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=112"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch03": {
+   "name": "Metals and Non-metals",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 2:44",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=164"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch04": {
+   "name": "Carbon and its Compounds",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 3:36",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=216"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch05": {
+   "name": "Life Processes",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 4:35",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=275"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch06": {
+   "name": "Control and Coordination",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 5:35",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=335"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch07": {
+   "name": "How do Organisms Reproduce?",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 6:29",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=389"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch08": {
+   "name": "Heredity",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 7:22",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=442"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch09": {
+   "name": "Light: Reflection and Refraction",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 8:56",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=536"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch10": {
+   "name": "The Human Eye and the Colourful World",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 9:56",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=596"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch11": {
+   "name": "Electricity",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 10:45",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=645"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch12": {
+   "name": "Magnetic Effects of Electric Current",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 11:46",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=706"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch13": {
+   "name": "Our Environment",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 8:07",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=487"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  }
+ },
+ "chapter_order": [
+  "ch01",
+  "ch02",
+  "ch03",
+  "ch04",
+  "ch05",
+  "ch06",
+  "ch07",
+  "ch08",
+  "ch09",
+  "ch10",
+  "ch11",
+  "ch12",
+  "ch13"
+ ],
+ "video_url": "https://youtu.be/KwjpAEX8hRM",
+ "worksheet_url": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link",
+ "questions": [
+  {
+   "n": 1,
+   "id": "q01",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch05",
+   "topic": "Digestion in the small intestine",
+   "question": "In human beings, the complete digestion of carbohydrates, proteins and fats takes place in the:",
+   "options": [
+    "large intestine",
+    "small intestine",
+    "mouth",
+    "stomach"
+   ],
+   "answer": "B",
+   "explanation": "Pancreatic juice and intestinal juice finish the digestion of all three in the small intestine.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 2,
+   "id": "q02",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch05",
+   "topic": "Aerobic vs anaerobic respiration",
+   "question": "During vigorous exercise, when oxygen is short, pyruvate in our muscle cells is converted into:",
+   "options": [
+    "glucose",
+    "lactic acid",
+    "ethanol and carbon dioxide",
+    "carbon dioxide and water"
+   ],
+   "answer": "B",
+   "explanation": "Lack of oxygen in muscles gives lactic acid, which causes cramps.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 3,
+   "id": "q03",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch06",
+   "topic": "Plant hormones",
+   "question": "Which plant hormone promotes cell division?",
+   "options": [
+    "Auxin",
+    "Gibberellin",
+    "Abscisic acid",
+    "Cytokinin"
+   ],
+   "answer": "D",
+   "explanation": "Cytokinins promote cell division; auxin promotes cell elongation, gibberellins stem growth, abscisic acid inhibits growth.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 4,
+   "id": "q04",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch06",
+   "topic": "Parts of the brain",
+   "question": "The part of the human brain that maintains posture and balance of the body is the:",
+   "options": [
+    "hypothalamus",
+    "cerebrum",
+    "cerebellum",
+    "medulla"
+   ],
+   "answer": "C",
+   "explanation": "The cerebellum (hind-brain) controls precision of voluntary actions, posture and balance.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 5,
+   "id": "q05",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch07",
+   "topic": "Changes after fertilisation",
+   "question": "After fertilisation in a flower, the ovary develops into the:",
+   "options": [
+    "embryo",
+    "endosperm",
+    "fruit",
+    "seed"
+   ],
+   "answer": "C",
+   "explanation": "The ovule becomes the seed and the ovary ripens into the fruit.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 6,
+   "id": "q06",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch08",
+   "topic": "Monohybrid cross ratios",
+   "question": "A pure tall pea plant (TT) is crossed with a pure dwarf plant (tt). The fraction of dwarf plants in the F₂ generation is:",
+   "options": [
+    "1/4",
+    "1/2",
+    "0",
+    "3/4"
+   ],
+   "answer": "A",
+   "explanation": "F₁ Tt × Tt gives TT : Tt : tt = 1 : 2 : 1, so 1/4 are dwarf.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 7,
+   "id": "q07",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch13",
+   "topic": "Biodegradable vs non-biodegradable",
+   "question": "Which group contains only biodegradable materials?",
+   "options": [
+    "Polythene, glass, paper",
+    "Plastic cup, leaves, rubber tyre",
+    "Aluminium foil, wood, DDT",
+    "Fruit peels, paper, cotton cloth"
+   ],
+   "answer": "D",
+   "explanation": "Fruit peels, paper and cotton are broken down by microbes; polythene, glass, plastic, aluminium and DDT are not.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 8,
+   "id": "q08",
+   "section": "A",
+   "type": "ar",
+   "marks": 1,
+   "chapter": "ch05",
+   "topic": "Blood vessels and circulation",
+   "question": "Choose the correct option.",
+   "assertion": "Arteries have thick, elastic walls.",
+   "reason": "Blood in arteries flows under low pressure.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": "C",
+   "explanation": "Arteries carry blood away from the heart under high pressure, which is why their walls are thick and elastic. R is false.",
+   "qtype": "Assertion-Reason"
+  },
+  {
+   "n": 9,
+   "id": "q09",
+   "section": "A",
+   "type": "ar",
+   "marks": 1,
+   "chapter": "ch13",
+   "topic": "Energy flow in ecosystems",
+   "question": "Choose the correct option.",
+   "assertion": "The flow of energy in an ecosystem is unidirectional.",
+   "reason": "Energy captured by autotrophs does not revert to the solar input, and energy passed to herbivores does not come back to autotrophs.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": "A",
+   "explanation": "Energy moves one way through trophic levels and is lost as heat at each step; R gives exactly this reason.",
+   "qtype": "Assertion-Reason"
+  },
+  {
+   "n": 10,
+   "id": "q10",
+   "section": "A",
+   "type": "self",
+   "marks": 2,
+   "chapter": "ch05",
+   "topic": "Digestion: herbivores vs carnivores",
+   "question": "Why is the small intestine of a herbivore such as a cow longer than that of a carnivore such as a tiger?",
+   "model_answer": "Herbivores eat grass, which contains cellulose. Cellulose takes a long time to digest, so a longer small intestine allows more time for its digestion. Meat is easier to digest, so carnivores have a shorter small intestine.",
+   "rubric": [
+    {
+     "p": "Herbivores' food has cellulose, which takes longer to digest",
+     "m": 1
+    },
+    {
+     "p": "Longer intestine gives more time; meat is easier to digest",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 11,
+   "id": "q11",
+   "section": "A",
+   "marks": 2,
+   "alts": [
+    {
+     "id": "q11A",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch07",
+     "topic": "Vegetative propagation",
+     "question": "What is vegetative propagation? Give two advantages of it.",
+     "model_answer": "Vegetative propagation is the growth of new plants from vegetative parts such as the root, stem or leaf (e.g. Bryophyllum leaves, potato tubers).\nAdvantages (any two): plants that have lost the ability to produce seeds (banana, orange, rose, jasmine) can be grown; new plants are genetically like the parent, so desirable traits are kept; plants bear flowers and fruits earlier than those grown from seed.",
+     "rubric": [
+      {
+       "p": "Correct definition",
+       "m": 1
+      },
+      {
+       "p": "Any two advantages (½ each)",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q11B",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch07",
+     "topic": "Human reproduction: placenta",
+     "question": "State the role of the placenta in the development of the human embryo.",
+     "model_answer": "The placenta is a disc-like tissue embedded in the uterine wall, with villi on the embryo's side. It provides a large surface area through which glucose and oxygen pass from the mother's blood to the embryo, and wastes from the embryo are removed into the mother's blood.",
+     "rubric": [
+      {
+       "p": "Nutrition/oxygen pass from mother to embryo",
+       "m": 1
+      },
+      {
+       "p": "Wastes removed from embryo to mother (large surface, villi)",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 12,
+   "id": "q12",
+   "section": "A",
+   "type": "self",
+   "marks": 2,
+   "chapter": "ch08",
+   "topic": "Sex determination in humans",
+   "question": "How is the sex of a child determined in human beings?",
+   "model_answer": "Women have a perfect pair of sex chromosomes (XX); men have a mismatched pair (XY). All eggs carry an X chromosome, while sperms carry either X or Y.\nIf an X-carrying sperm fertilises the egg, the child is a girl (XX); if a Y-carrying sperm does, the child is a boy (XY). So the father's sperm decides the sex of the child.",
+   "rubric": [
+    {
+     "p": "Mother XX gives only X; father XY gives X or Y",
+     "m": 1
+    },
+    {
+     "p": "X sperm → girl, Y sperm → boy (father decides)",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 13,
+   "id": "q13",
+   "section": "A",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch06",
+   "topic": "Reflex arc",
+   "question": "What is a reflex action? Trace the path of the message (reflex arc) when you suddenly touch a hot object.",
+   "model_answer": "A reflex action is a sudden, automatic response to a stimulus, without conscious thought.\nPath: receptors in the skin detect heat → sensory neuron carries the message → spinal cord (relay neuron) → motor neuron → effector muscle in the arm contracts and the hand is pulled away.\nThe message also reaches the brain later, but the response is decided in the spinal cord, which saves time.",
+   "rubric": [
+    {
+     "p": "Definition of reflex action",
+     "m": 1
+    },
+    {
+     "p": "Receptor → sensory neuron → spinal cord",
+     "m": 1
+    },
+    {
+     "p": "Motor neuron → effector muscle (hand withdrawn)",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 14,
+   "id": "q14",
+   "section": "A",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch13",
+   "topic": "Ozone layer",
+   "question": "(a) How is ozone formed in the upper atmosphere? (b) Why is the depletion of the ozone layer a cause for concern? (c) State one step taken to limit this damage.",
+   "model_answer": "(a) High-energy ultraviolet radiation splits oxygen molecules (O₂) into free oxygen atoms (O); these combine with O₂ to form ozone (O₃).\n(b) The ozone layer shields the earth from the sun's harmful UV radiation, which can cause skin cancer and harm organisms; less ozone lets more UV reach the earth.\n(c) In 1987 the United Nations Environment Programme (UNEP) got an agreement to freeze CFC production at 1986 levels.",
+   "rubric": [
+    {
+     "p": "O₂ → O + O by UV; O + O₂ → O₃",
+     "m": 1
+    },
+    {
+     "p": "Ozone shields from UV; UV causes skin cancer/harm",
+     "m": 1
+    },
+    {
+     "p": "1987 UNEP agreement on CFCs (or limiting CFCs)",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 15,
+   "id": "q15",
+   "section": "A",
+   "marks": 4,
+   "stem": "A student crosses a pea plant with round, yellow seeds (RRYY) with a plant with wrinkled, green seeds (rryy). The F₁ plants are self-pollinated to get the F₂ generation.",
+   "parts": [
+    {
+     "id": "q15a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch08",
+     "topic": "Dihybrid cross",
+     "question": "The seeds of the F₁ plants are:",
+     "options": [
+      "all wrinkled and green",
+      "all round and yellow",
+      "half round, half wrinkled",
+      "round green and wrinkled yellow only"
+     ],
+     "answer": "B",
+     "explanation": "Round and yellow are dominant; F₁ is RrYy."
+    },
+    {
+     "id": "q15b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch08",
+     "topic": "Dihybrid cross",
+     "question": "The phenotypic ratio in F₂ is:",
+     "options": [
+      "1 : 2 : 1",
+      "3 : 1",
+      "1 : 1 : 1 : 1",
+      "9 : 3 : 3 : 1"
+     ],
+     "answer": "D",
+     "explanation": "Round-yellow : round-green : wrinkled-yellow : wrinkled-green = 9 : 3 : 3 : 1."
+    },
+    {
+     "id": "q15c",
+     "marks": 2,
+     "alts": [
+      {
+       "id": "q15cA",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch08",
+       "topic": "Dihybrid cross",
+       "question": "Out of 160 F₂ seeds, how many would be expected to be round and green? Show the working.",
+       "model_answer": "Round green = 3/16 of F₂. 3/16 × 160 = 30 seeds.",
+       "rubric": [
+        {
+         "p": "Fraction 3/16",
+         "m": 1
+        },
+        {
+         "p": "30 seeds",
+         "m": 1
+        }
+       ],
+       "label": "A"
+      },
+      {
+       "id": "q15cB",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch08",
+       "topic": "Independent inheritance",
+       "question": "Why do new combinations such as round-green and wrinkled-yellow appear in F₂?",
+       "model_answer": "The genes for seed shape and seed colour are inherited independently of each other. In F₂ these traits get separated and recombine, so new combinations appear.",
+       "rubric": [
+        {
+         "p": "Traits/genes for shape and colour are inherited independently",
+         "m": 1
+        },
+        {
+         "p": "They separate and recombine in F₂",
+         "m": 1
+        }
+       ],
+       "label": "B"
+      }
+     ]
+    }
+   ],
+   "qtype": "Case study"
+  },
+  {
+   "n": 16,
+   "id": "q16",
+   "section": "A",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q16A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch05",
+     "topic": "Heart and double circulation",
+     "question": "Describe double circulation in human beings. Why is it necessary to separate oxygenated and deoxygenated blood in birds and mammals?",
+     "model_answer": "Oxygen-rich blood from the lungs enters the left atrium, passes to the left ventricle and is pumped through the aorta to the body. Deoxygenated blood from the body returns through the vena cava to the right atrium, goes to the right ventricle and is pumped to the lungs through the pulmonary artery for oxygenation.\nBlood passes through the heart twice in one complete cycle: this is double circulation.\nSeparation stops oxygenated and deoxygenated blood from mixing, so the body gets a highly efficient supply of oxygen. Birds and mammals need this because they have high energy needs and must use energy constantly to maintain their body temperature.",
+     "rubric": [
+      {
+       "p": "Pulmonary path: right ventricle → lungs → left atrium",
+       "m": 1.5
+      },
+      {
+       "p": "Systemic path: left ventricle → body → right atrium",
+       "m": 1.5
+      },
+      {
+       "p": "Blood passes twice through the heart per cycle",
+       "m": 1
+      },
+      {
+       "p": "Separation gives efficient O₂ supply for high energy / body temperature",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q16B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch05",
+     "topic": "Photosynthesis events and stomata",
+     "question": "Write the balanced equation for photosynthesis. Describe the three events that occur during photosynthesis and state the role of stomata.",
+     "model_answer": "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O (in the presence of sunlight and chlorophyll).\nEvents: (i) absorption of light energy by chlorophyll; (ii) conversion of light energy to chemical energy and splitting of water into hydrogen and oxygen; (iii) reduction of carbon dioxide to carbohydrates.\nStomata are pores on leaves through which gases are exchanged (CO₂ in, O₂ out) and water is lost in transpiration; guard cells open or close them.",
+     "rubric": [
+      {
+       "p": "Balanced equation with conditions",
+       "m": 1
+      },
+      {
+       "p": "Light absorbed by chlorophyll",
+       "m": 1
+      },
+      {
+       "p": "Light → chemical energy; water split",
+       "m": 1
+      },
+      {
+       "p": "CO₂ reduced to carbohydrate",
+       "m": 1
+      },
+      {
+       "p": "Role of stomata (gas exchange, guard cells)",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 17,
+   "id": "q17",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch01",
+   "topic": "Types of chemical reactions",
+   "question": "Which of these is a decomposition reaction?",
+   "options": [
+    "Fe + CuSO₄ → FeSO₄ + Cu",
+    "2AgCl → 2Ag + Cl₂ (in sunlight)",
+    "CaO + H₂O → Ca(OH)₂",
+    "Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl"
+   ],
+   "answer": "B",
+   "explanation": "One reactant breaks into simpler products in light: photolytic decomposition.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 18,
+   "id": "q18",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch01",
+   "topic": "Oxidation and reduction",
+   "question": "In the reaction ZnO + C → Zn + CO, the substance oxidised is:",
+   "options": [
+    "ZnO",
+    "C",
+    "CO",
+    "Zn"
+   ],
+   "answer": "B",
+   "explanation": "Carbon gains oxygen to become CO, so it is oxidised; ZnO loses oxygen and is reduced.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 19,
+   "id": "q19",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch02",
+   "topic": "pH scale and indicators",
+   "question": "A solution turns red litmus blue. Its pH is most likely:",
+   "options": [
+    "10",
+    "4",
+    "1",
+    "7"
+   ],
+   "answer": "A",
+   "explanation": "Turning red litmus blue shows a base, so pH is above 7.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 20,
+   "id": "q20",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch02",
+   "topic": "Important salts",
+   "question": "The chemical formula of Plaster of Paris is:",
+   "options": [
+    "CaCO₃",
+    "CaSO₄·2H₂O",
+    "CaSO₄·½H₂O",
+    "CaSO₄"
+   ],
+   "answer": "C",
+   "explanation": "Heating gypsum (CaSO₄·2H₂O) at 373 K gives CaSO₄·½H₂O.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 21,
+   "id": "q21",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch03",
+   "topic": "Reactivity series",
+   "question": "Which metal does NOT give hydrogen gas with dilute hydrochloric acid?",
+   "options": [
+    "Copper",
+    "Magnesium",
+    "Iron",
+    "Zinc"
+   ],
+   "answer": "A",
+   "explanation": "Copper is below hydrogen in the reactivity series.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 22,
+   "id": "q22",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch04",
+   "topic": "Functional groups",
+   "question": "The functional group present in propanal is:",
+   "options": [
+    "carboxylic acid (–COOH)",
+    "aldehyde (–CHO)",
+    "alcohol (–OH)",
+    "ketone (>C=O)"
+   ],
+   "answer": "B",
+   "explanation": "The suffix -al shows an aldehyde.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 23,
+   "id": "q23",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch04",
+   "topic": "Homologous series",
+   "question": "The next higher homologue of ethanol (C₂H₅OH) is:",
+   "options": [
+    "C₂H₄OH",
+    "C₃H₈OH",
+    "CH₃OH",
+    "C₃H₇OH"
+   ],
+   "answer": "D",
+   "explanation": "Successive members differ by –CH₂–, so C₂H₅OH → C₃H₇OH (propanol).",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 24,
+   "id": "q24",
+   "section": "B",
+   "type": "ar",
+   "marks": 1,
+   "chapter": "ch03",
+   "topic": "Amphoteric oxides",
+   "question": "Choose the correct option.",
+   "assertion": "Zinc oxide is a purely basic oxide.",
+   "reason": "Metal oxides that react with both acids and bases to form salt and water are called amphoteric oxides.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": "D",
+   "explanation": "ZnO reacts with both acids and bases, so it is amphoteric, not purely basic. A is false; R is the correct definition.",
+   "qtype": "Assertion-Reason"
+  },
+  {
+   "n": 25,
+   "id": "q25",
+   "section": "B",
+   "type": "self",
+   "marks": 2,
+   "chapter": "ch01",
+   "topic": "Displacement reaction: equation and observation",
+   "question": "An iron nail is dipped in copper sulphate solution for 20 minutes. Write the balanced equation, name the type of reaction and state two observations.",
+   "model_answer": "Fe + CuSO₄ → FeSO₄ + Cu. Displacement reaction (iron is more reactive than copper).\nObservations: the blue colour of the solution fades to pale green; a brownish coating of copper forms on the nail.",
+   "rubric": [
+    {
+     "p": "Balanced equation and 'displacement'",
+     "m": 1
+    },
+    {
+     "p": "Both observations",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 26,
+   "id": "q26",
+   "section": "B",
+   "marks": 3,
+   "alts": [
+    {
+     "id": "q26A",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ch02",
+     "topic": "Baking soda: preparation and uses",
+     "question": "How is sodium hydrogencarbonate (baking soda) produced? Write the equation. Why does a cake rise when baking powder is used? Give one other use of baking soda.",
+     "model_answer": "NaCl + H₂O + CO₂ + NH₃ → NH₄Cl + NaHCO₃.\nOn heating, 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂; the carbon dioxide makes the cake rise and become soft and spongy (tartaric acid in baking powder neutralises the bitter sodium carbonate).\nOther use: antacid / soda-acid fire extinguisher.",
+     "rubric": [
+      {
+       "p": "Correct preparation equation",
+       "m": 1
+      },
+      {
+       "p": "CO₂ released on heating makes the cake rise",
+       "m": 1
+      },
+      {
+       "p": "One other use",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q26B",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ch02",
+     "topic": "Water of crystallisation",
+     "question": "What is meant by water of crystallisation? Name two salts that contain it, and state what happens when blue copper sulphate crystals are heated.",
+     "model_answer": "Water of crystallisation is the fixed number of water molecules present in one formula unit of a salt.\nExamples: CuSO₄·5H₂O (blue vitriol), Na₂CO₃·10H₂O (washing soda), CaSO₄·2H₂O (gypsum).\nOn heating, copper sulphate crystals lose their water and turn white (anhydrous CuSO₄); adding water brings back the blue colour.",
+     "rubric": [
+      {
+       "p": "Definition",
+       "m": 1
+      },
+      {
+       "p": "Two correct salts",
+       "m": 1
+      },
+      {
+       "p": "Blue crystals turn white on losing water",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 27,
+   "id": "q27",
+   "section": "B",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch03",
+   "topic": "Roasting vs calcination",
+   "question": "Differentiate between roasting and calcination with one balanced equation each. Then write the equation for the reduction of the oxide obtained with carbon.",
+   "model_answer": "Roasting: a sulphide ore is heated strongly in excess air. 2ZnS + 3O₂ → 2ZnO + 2SO₂.\nCalcination: a carbonate ore is heated strongly in limited air. ZnCO₃ → ZnO + CO₂.\nReduction: ZnO + C → Zn + CO.",
+   "rubric": [
+    {
+     "p": "Roasting with equation",
+     "m": 1
+    },
+    {
+     "p": "Calcination with equation",
+     "m": 1
+    },
+    {
+     "p": "Reduction of ZnO by carbon",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 28,
+   "id": "q28",
+   "section": "B",
+   "marks": 4,
+   "stem": "Soaps are sodium or potassium salts of long-chain carboxylic acids. A soap molecule has an ionic end and a long hydrocarbon tail. A student finds that soap forms little lather in water from a borewell but plenty in rain water.",
+   "parts": [
+    {
+     "id": "q28a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch04",
+     "topic": "Soaps and micelles",
+     "question": "Which end of a soap molecule dissolves in water?",
+     "options": [
+      "Neither end",
+      "Both ends equally",
+      "The ionic end",
+      "The hydrocarbon tail"
+     ],
+     "answer": "C",
+     "explanation": "The ionic end is hydrophilic; the hydrocarbon tail is hydrophobic."
+    },
+    {
+     "id": "q28b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch04",
+     "topic": "Soaps and hard water",
+     "question": "The borewell water is hard because it contains salts of:",
+     "options": [
+      "sodium and potassium",
+      "iron and aluminium only",
+      "calcium and magnesium",
+      "copper and zinc"
+     ],
+     "answer": "C",
+     "explanation": "Ca²⁺ and Mg²⁺ react with soap to form an insoluble scum."
+    },
+    {
+     "id": "q28c",
+     "marks": 2,
+     "alts": [
+      {
+       "id": "q28cA",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch04",
+       "topic": "Soaps and micelles",
+       "question": "Explain how soap removes oily dirt from clothes.",
+       "model_answer": "In water, soap molecules form micelles: the hydrocarbon tails point inwards into the oily dirt and the ionic ends face outwards into the water. The oily dirt collects in the centre of the micelle, which stays dispersed in water and is rinsed away.",
+       "rubric": [
+        {
+         "p": "Micelle with tails in oil and ionic ends in water",
+         "m": 1
+        },
+        {
+         "p": "Dirt trapped in the micelle is washed away",
+         "m": 1
+        }
+       ],
+       "label": "A"
+      },
+      {
+       "id": "q28cB",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch04",
+       "topic": "Soaps and hard water",
+       "question": "Why are detergents better than soaps for washing clothes in hard water?",
+       "model_answer": "Soap reacts with calcium and magnesium salts in hard water to form an insoluble scum, wasting soap. Detergents (usually ammonium or sulphonate salts) do not form insoluble precipitates with these ions, so they lather and clean in hard water.",
+       "rubric": [
+        {
+         "p": "Soap forms scum with Ca²⁺/Mg²⁺",
+         "m": 1
+        },
+        {
+         "p": "Detergents do not form insoluble precipitates",
+         "m": 1
+        }
+       ],
+       "label": "B"
+      }
+     ]
+    }
+   ],
+   "qtype": "Case study"
+  },
+  {
+   "n": 29,
+   "id": "q29",
+   "section": "B",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q29A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch03",
+     "topic": "Ionic compounds: formation and properties",
+     "question": "(a) Show the formation of sodium chloride from sodium and chlorine by the transfer of electrons (electron-dot structures). (b) Give three properties of ionic compounds with reasons.",
+     "model_answer": "(a) Na (2, 8, 1) loses one electron to become Na⁺ (2, 8); Cl (2, 8, 7) gains it to become Cl⁻ (2, 8, 8). Na· + ·Cl (7 dots) → Na⁺[:Cl:]⁻. The oppositely charged ions are held by strong electrostatic forces.\n(b) Solids and hard, because of strong attraction between ions; high melting and boiling points, because a lot of energy is needed to break the strong inter-ionic attraction; conduct electricity in molten state or in aqueous solution, because ions become free to move (not in the solid state); generally soluble in water, insoluble in kerosene/petrol.",
+     "rubric": [
+      {
+       "p": "Electronic configurations of Na and Cl",
+       "m": 1
+      },
+      {
+       "p": "Electron transfer shown with dot structures and ions",
+       "m": 1
+      },
+      {
+       "p": "Property 1 with reason",
+       "m": 1
+      },
+      {
+       "p": "Property 2 with reason",
+       "m": 1
+      },
+      {
+       "p": "Property 3 with reason",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q29B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch01",
+     "topic": "Types of chemical reactions",
+     "question": "With one balanced equation each, explain: (a) a double displacement (precipitation) reaction, (b) a combination reaction that is exothermic, (c) a redox reaction, identifying what is oxidised and reduced.",
+     "model_answer": "(a) Na₂SO₄ + BaCl₂ → BaSO₄↓ + 2NaCl: ions are exchanged and a white precipitate of barium sulphate forms.\n(b) CaO + H₂O → Ca(OH)₂ + heat: two substances combine to form one product and heat is released.\n(c) CuO + H₂ → Cu + H₂O: CuO loses oxygen and is reduced; H₂ gains oxygen and is oxidised.",
+     "rubric": [
+      {
+       "p": "Double displacement with equation",
+       "m": 1.5
+      },
+      {
+       "p": "Exothermic combination with equation",
+       "m": 1.5
+      },
+      {
+       "p": "Redox equation",
+       "m": 1
+      },
+      {
+       "p": "Correctly names substances oxidised and reduced",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 30,
+   "id": "q30",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch09",
+   "topic": "Image formation by a concave mirror",
+   "question": "A concave mirror forms a real, inverted image of the same size as the object when the object is placed:",
+   "options": [
+    "at the focus",
+    "at infinity",
+    "between the focus and the pole",
+    "at the centre of curvature"
+   ],
+   "answer": "D",
+   "explanation": "Object at C gives a real, inverted, same-size image at C.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 31,
+   "id": "q31",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch11",
+   "topic": "Resistance and resistivity",
+   "question": "A wire has resistance R. If its length is doubled and its area of cross-section is halved, its new resistance is:",
+   "options": [
+    "R/4",
+    "4R",
+    "R",
+    "2R"
+   ],
+   "answer": "B",
+   "explanation": "R = ρl/A, so (2l)/(A/2) = 4 × l/A.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 32,
+   "id": "q32",
+   "section": "C",
+   "type": "ar",
+   "marks": 1,
+   "chapter": "ch09",
+   "topic": "Uses of spherical mirrors",
+   "question": "Choose the correct option.",
+   "assertion": "Convex mirrors are used as rear-view mirrors in vehicles.",
+   "reason": "A convex mirror always forms an erect, diminished image and gives a wider field of view.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": "A",
+   "explanation": "Both true, and the erect, diminished image over a wide field of view is exactly why convex mirrors are chosen.",
+   "qtype": "Assertion-Reason"
+  },
+  {
+   "n": 33,
+   "id": "q33",
+   "section": "C",
+   "type": "self",
+   "marks": 2,
+   "chapter": "ch10",
+   "topic": "Dispersion by a prism",
+   "question": "What happens when a narrow beam of white light passes through a glass prism? Why does this happen?",
+   "model_answer": "The white light splits into its seven component colours (VIBGYOR); this is dispersion, and the band of colours is a spectrum.\nIt happens because different colours bend through different angles in the prism: red bends the least and violet the most.",
+   "rubric": [
+    {
+     "p": "Splits into seven colours (dispersion / spectrum)",
+     "m": 1
+    },
+    {
+     "p": "Different colours bend by different amounts; violet most, red least",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 34,
+   "id": "q34",
+   "section": "C",
+   "marks": 2,
+   "alts": [
+    {
+     "id": "q34A",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch11",
+     "topic": "Resistors in parallel",
+     "question": "Resistors of 4 Ω and 12 Ω are connected in parallel to a 6 V battery. Find the equivalent resistance and the total current drawn.",
+     "model_answer": "1/R = 1/4 + 1/12 = 4/12, so R = 3 Ω.\nI = V/R = 6/3 = 2 A.",
+     "rubric": [
+      {
+       "p": "R = 3 Ω",
+       "m": 1
+      },
+      {
+       "p": "I = 2 A",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q34B",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch11",
+     "topic": "Electric power and energy",
+     "question": "An electric iron is rated 1100 W, 220 V. Find the current it draws and the energy it uses in 2 hours, in kWh.",
+     "model_answer": "I = P/V = 1100/220 = 5 A.\nE = P × t = 1.1 kW × 2 h = 2.2 kWh.",
+     "rubric": [
+      {
+       "p": "I = 5 A",
+       "m": 1
+      },
+      {
+       "p": "E = 2.2 kWh",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 35,
+   "id": "q35",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch09",
+   "topic": "Lens formula numerical",
+   "question": "An object 2 cm high is placed 30 cm in front of a convex lens of focal length 20 cm. Find the position, size and nature of the image.",
+   "model_answer": "u = −30 cm, f = +20 cm. 1/v − 1/u = 1/f gives 1/v = 1/20 − 1/30 = 1/60, so v = +60 cm (60 cm behind the lens).\nm = v/u = 60/(−30) = −2, so h′ = −4 cm.\nThe image is real, inverted and magnified, 4 cm tall.",
+   "rubric": [
+    {
+     "p": "Correct sign convention and lens formula: v = +60 cm",
+     "m": 1
+    },
+    {
+     "p": "m = −2, image height 4 cm",
+     "m": 1
+    },
+    {
+     "p": "Real, inverted, magnified",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 36,
+   "id": "q36",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch11",
+   "topic": "Series circuit numerical",
+   "question": "Resistors of 2 Ω, 4 Ω and 6 Ω are connected in series to a 6 V battery. Find (a) the total resistance, (b) the current in the circuit, (c) the potential difference across the 4 Ω resistor.",
+   "model_answer": "(a) R = 2 + 4 + 6 = 12 Ω.\n(b) I = V/R = 6/12 = 0.5 A (the same current flows through each resistor).\n(c) V = IR = 0.5 × 4 = 2 V.",
+   "rubric": [
+    {
+     "p": "12 Ω",
+     "m": 1
+    },
+    {
+     "p": "0.5 A",
+     "m": 1
+    },
+    {
+     "p": "2 V",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 37,
+   "id": "q37",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch12",
+   "topic": "Domestic electric circuits",
+   "question": "Explain (a) the function of the earth wire, (b) why a fuse is used, (c) what is meant by overloading.",
+   "model_answer": "(a) The earth wire connects the metallic body of an appliance to the earth; if live wire touches the body, current flows to the earth and the user does not get a severe shock.\n(b) A fuse melts and breaks the circuit when excess current flows (short-circuit or overloading), protecting the circuit and appliances.\n(c) Overloading is when too many appliances draw current from one socket, or the voltage rises suddenly, so the current in the circuit becomes too high.",
+   "rubric": [
+    {
+     "p": "Earth wire: leaks current to earth, prevents shock",
+     "m": 1
+    },
+    {
+     "p": "Fuse melts on excess current, protects",
+     "m": 1
+    },
+    {
+     "p": "Overloading explained",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 38,
+   "id": "q38",
+   "section": "C",
+   "marks": 4,
+   "stem": "A scrapyard crane lifts iron objects using a large electromagnet: a long coil of insulated copper wire (a solenoid) wound on a soft-iron core. When current is switched on, iron pieces stick to it; when switched off, they drop.",
+   "parts": [
+    {
+     "id": "q38a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch12",
+     "topic": "Field of a solenoid",
+     "question": "The magnetic field inside a long current-carrying solenoid is:",
+     "options": [
+      "uniform, with parallel field lines",
+      "circular around the coil",
+      "zero",
+      "strongest near one end only"
+     ],
+     "answer": "A",
+     "explanation": "Inside a long solenoid the field lines are parallel straight lines: a uniform field."
+    },
+    {
+     "id": "q38b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch12",
+     "topic": "Electromagnets",
+     "question": "Which change makes this electromagnet stronger?",
+     "options": [
+      "Using thinner insulation only",
+      "Using a steel core instead of soft iron",
+      "Reducing the current",
+      "Increasing the number of turns in the coil"
+     ],
+     "answer": "D",
+     "explanation": "More turns (or more current) increases the field; soft iron, not steel, is used so it stops being magnetic when current is off."
+    },
+    {
+     "id": "q38c",
+     "marks": 2,
+     "alts": [
+      {
+       "id": "q38cA",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch12",
+       "topic": "Force on a current-carrying conductor",
+       "question": "State Fleming's left-hand rule and name one device that works on it.",
+       "model_answer": "Stretch the thumb, forefinger and middle finger of the left hand mutually perpendicular. If the forefinger points along the magnetic field and the middle finger along the current, the thumb gives the direction of motion (force) on the conductor.\nDevice: electric motor (or loudspeaker).",
+       "rubric": [
+        {
+         "p": "Correct statement of the rule",
+         "m": 1
+        },
+        {
+         "p": "Electric motor (or another correct device)",
+         "m": 1
+        }
+       ],
+       "label": "A"
+      },
+      {
+       "id": "q38cB",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch12",
+       "topic": "Right-hand thumb rule",
+       "question": "State the right-hand thumb rule and use it to describe the field lines around a straight current-carrying wire.",
+       "model_answer": "Hold the current-carrying straight conductor in the right hand with the thumb pointing in the direction of current; the curled fingers give the direction of the magnetic field lines.\nThe field lines are concentric circles around the wire, closer together near the wire (stronger field).",
+       "rubric": [
+        {
+         "p": "Correct statement of the rule",
+         "m": 1
+        },
+        {
+         "p": "Concentric circles around the wire",
+         "m": 1
+        }
+       ],
+       "label": "B"
+      }
+     ]
+    }
+   ],
+   "qtype": "Case study"
+  },
+  {
+   "n": 39,
+   "id": "q39",
+   "section": "C",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q39A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch09",
+     "topic": "Mirror formula numerical",
+     "question": "An object 10 cm tall is placed 20 cm in front of a concave mirror of focal length 15 cm.\n(a) State two rules of the New Cartesian sign convention.\n(b) Find the position, nature and size of the image.",
+     "model_answer": "(a) Distances are measured from the pole; distances in the direction of incident light are positive and against it negative; heights above the principal axis are positive (any two).\n(b) u = −20 cm, f = −15 cm. 1/v = 1/f − 1/u = −1/15 + 1/20 = −1/60, so v = −60 cm: the image is 60 cm in front of the mirror.\nm = −v/u = −(−60)/(−20) = −3, so h′ = −30 cm.\nThe image is real, inverted and magnified, 30 cm tall.",
+     "rubric": [
+      {
+       "p": "Two sign-convention rules",
+       "m": 1
+      },
+      {
+       "p": "Correct substitution with signs",
+       "m": 1
+      },
+      {
+       "p": "v = −60 cm",
+       "m": 1
+      },
+      {
+       "p": "m = −3, h′ = 30 cm (inverted)",
+       "m": 1
+      },
+      {
+       "p": "Real, inverted, magnified",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q39B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch10",
+     "topic": "Human eye and accommodation",
+     "question": "Explain the functions of the cornea, the iris and pupil, the eye lens with ciliary muscles, and the retina. What is meant by power of accommodation?",
+     "model_answer": "Cornea: transparent front bulge where most of the refraction of light entering the eye happens.\nIris and pupil: the iris is a dark muscular diaphragm that controls the size of the pupil, which regulates the light entering the eye.\nEye lens and ciliary muscles: the lens fine-tunes the focus; ciliary muscles change its curvature (and focal length) to focus near or far objects.\nRetina: light-sensitive screen where a real, inverted image forms; its cells send electrical signals through the optic nerve to the brain.\nPower of accommodation: the ability of the eye lens to adjust its focal length to see both near and distant objects clearly.",
+     "rubric": [
+      {
+       "p": "Cornea",
+       "m": 1
+      },
+      {
+       "p": "Iris and pupil",
+       "m": 1
+      },
+      {
+       "p": "Lens with ciliary muscles",
+       "m": 1
+      },
+      {
+       "p": "Retina and optic nerve",
+       "m": 1
+      },
+      {
+       "p": "Power of accommodation defined",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  }
+ ]
+}

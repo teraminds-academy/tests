@@ -1,0 +1,1511 @@
+{
+ "schema": 2,
+ "kind": "mock",
+ "id": "c10-sst-mock01",
+ "version": 1,
+ "set": 1,
+ "title": "Board-pattern Mock Paper 1",
+ "short_title": "Class 10 Social Science · Board-pattern Mock Paper 1",
+ "subject": "Social Science (087)",
+ "subject_key": "sst",
+ "class": "10",
+ "board": "CBSE",
+ "duration_minutes": 180,
+ "max_marks": 80,
+ "tagline": "Original full-length practice paper in the CBSE 2026-27 sample-paper structure. Practice only: not a forecast of any exam.",
+ "disclaimer": "Original questions written by Teraminds Academy on the most-repeated / high-weightage question types seen in CBSE Sample Question Papers and past board papers. Structure follows the CBSE Sample Question Paper 2026-27. Practice for readiness only: no promise of marks. Independent revision aid, not an official CBSE resource.",
+ "instructions": [
+  "38 questions, 80 marks, 3 hours. Same sections, question types, marks and internal choices as the CBSE Sample Question Paper 2026-27.",
+  "Word limits as in CBSE: VSA 40 words, SA 60, case-based 100, LA 120.",
+  "Map questions appear here as place-identification items (the form CBSE uses for visually impaired candidates). Also practise them on a printed outline map of India.",
+  "Objective questions (MCQ, assertion-reason, numeric) are marked automatically.",
+  "Written answers: write on paper (or type in the box). After you submit, compare with the model answer and award your own marks point by point, the way a board examiner uses the marking scheme.",
+  "Internal choice: tap Option A or Option B and answer only that one.",
+  "The timer runs for the full 3 hours as a guide; nothing is cut off. Time spent in each section is shown in your report."
+ ],
+ "structure_source": {
+  "url": "https://cbseacademic.nic.in/web_material/SQP/ClassX_2026_27/SocialScience-SQP.pdf",
+  "label": "CBSE SQP Social Science 2026-27"
+ },
+ "sections": [
+  {
+   "id": "A",
+   "name": "Section A · History",
+   "title": "4 MCQ, VSA, SA, LA, case, map",
+   "marks": 20,
+   "minutes": 40
+  },
+  {
+   "id": "B",
+   "name": "Section B · Geography",
+   "title": "6 MCQ, VSA, LA, case, map",
+   "marks": 20,
+   "minutes": 40
+  },
+  {
+   "id": "C",
+   "name": "Section C · Political Science",
+   "title": "4 MCQ, 2 VSA, SA, LA, case",
+   "marks": 20,
+   "minutes": 40
+  },
+  {
+   "id": "D",
+   "name": "Section D · Economics",
+   "title": "6 MCQ, 3 SA, LA",
+   "marks": 20,
+   "minutes": 40
+  }
+ ],
+ "chapters": {
+  "h1": {
+   "name": "The Rise of Nationalism in Europe",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:11",
+     "url": "https://youtu.be/T_pqQVKFaKE?t=71"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "h2": {
+   "name": "Nationalism in India",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 3:46",
+     "url": "https://youtu.be/T_pqQVKFaKE?t=226"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "h3": {
+   "name": "The Making of a Global World",
+   "aliases": [
+    "The Making of a Global World (1 to 1.3)"
+   ],
+   "videos": [
+    {
+     "label": "Crash revision from 6:56",
+     "url": "https://youtu.be/T_pqQVKFaKE?t=416"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "h4": {
+   "name": "Print Culture and the Modern World",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 8:37",
+     "url": "https://youtu.be/T_pqQVKFaKE?t=517"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "hmap": {
+   "name": "History Map Work",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 11:06",
+     "url": "https://youtu.be/T_pqQVKFaKE?t=666"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g1": {
+   "name": "Resources and Development",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:17",
+     "url": "https://youtu.be/uccjuxg-qOE?t=77"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g2": {
+   "name": "Forest and Wildlife Resources",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 3:36",
+     "url": "https://youtu.be/uccjuxg-qOE?t=216"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g3": {
+   "name": "Water Resources",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 4:36",
+     "url": "https://youtu.be/uccjuxg-qOE?t=276"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g4": {
+   "name": "Agriculture",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 5:53",
+     "url": "https://youtu.be/uccjuxg-qOE?t=353"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g5": {
+   "name": "Minerals and Energy Resources",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 7:57",
+     "url": "https://youtu.be/uccjuxg-qOE?t=477"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "g6": {
+   "name": "Manufacturing Industries",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 9:39",
+     "url": "https://youtu.be/uccjuxg-qOE?t=579"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "gmap": {
+   "name": "Geography Map Work",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 11:10",
+     "url": "https://youtu.be/uccjuxg-qOE?t=670"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "p1": {
+   "name": "Power Sharing",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:47",
+     "url": "https://youtu.be/M6GCszJvZSc?t=107"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "p2": {
+   "name": "Federalism",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 3:41",
+     "url": "https://youtu.be/M6GCszJvZSc?t=221"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "p3": {
+   "name": "Gender, Religion and Caste",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 5:50",
+     "url": "https://youtu.be/M6GCszJvZSc?t=350"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "p4": {
+   "name": "Political Parties",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 8:02",
+     "url": "https://youtu.be/M6GCszJvZSc?t=482"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "p5": {
+   "name": "Outcomes of Democracy",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 10:05",
+     "url": "https://youtu.be/M6GCszJvZSc?t=605"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "e1": {
+   "name": "Development",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:46",
+     "url": "https://youtu.be/h8kLRGoCYKE?t=106"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "e2": {
+   "name": "Sectors of the Indian Economy",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 4:04",
+     "url": "https://youtu.be/h8kLRGoCYKE?t=244"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "e3": {
+   "name": "Money and Credit",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 6:54",
+     "url": "https://youtu.be/h8kLRGoCYKE?t=414"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  },
+  "e4": {
+   "name": "Globalisation and the Indian Economy",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 9:12",
+     "url": "https://youtu.be/h8kLRGoCYKE?t=552"
+    }
+   ],
+   "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+  }
+ },
+ "chapter_order": [
+  "h1",
+  "h2",
+  "h3",
+  "h4",
+  "hmap",
+  "g1",
+  "g2",
+  "g3",
+  "g4",
+  "g5",
+  "g6",
+  "gmap",
+  "p1",
+  "p2",
+  "p3",
+  "p4",
+  "p5",
+  "e1",
+  "e2",
+  "e3",
+  "e4"
+ ],
+ "video_url": null,
+ "worksheet_url": null,
+ "questions": [
+  {
+   "n": 1,
+   "id": "q01",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "h1",
+   "topic": "Europe after 1815: Treaty of Vienna",
+   "question": "The main aim of the Treaty of Vienna (1815) was to:",
+   "options": [
+    "unify the German-speaking states into one nation",
+    "grant independence to Greece",
+    "undo most of the changes made in Europe during the Napoleonic wars",
+    "spread the ideas of liberty and equality across Europe"
+   ],
+   "answer": "C",
+   "explanation": "The conservative powers met to restore the monarchies and the old order that Napoleon had overthrown.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 2,
+   "id": "q02",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "h2",
+   "topic": "Rowlatt Act and Jallianwala Bagh",
+   "question": "The Rowlatt Act (1919) allowed the British government to:",
+   "options": [
+    "ban the import of foreign cloth",
+    "detain political prisoners without trial for two years",
+    "impose a tax on salt",
+    "conscript Indians into the army"
+   ],
+   "answer": "B",
+   "explanation": "It gave enormous powers to repress political activity, which Gandhiji opposed with a nationwide satyagraha.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 3,
+   "id": "q03",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "h4",
+   "topic": "Print comes to Europe",
+   "question": "Knowledge of woodblock printing reached Italy from China through:",
+   "options": [
+    "Martin Luther",
+    "Erasmus",
+    "Johann Gutenberg",
+    "Marco Polo"
+   ],
+   "answer": "D",
+   "explanation": "Marco Polo returned to Italy in 1295 after years in China and brought this knowledge back.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 4,
+   "id": "q04",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "h3",
+   "topic": "The pre-modern world: food travels",
+   "question": "Which food crop reached Europe and Asia from the Americas after Columbus, and later became a staple for Europe's poor?",
+   "options": [
+    "Sugarcane",
+    "Wheat",
+    "Potato",
+    "Rice"
+   ],
+   "answer": "C",
+   "explanation": "Potatoes, maize, soya, groundnuts, tomatoes and chillies came from the Americas; the potato changed diets of Europe's poor.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 5,
+   "id": "q05",
+   "section": "A",
+   "type": "self",
+   "marks": 2,
+   "chapter": "h2",
+   "topic": "Non-Cooperation Movement withdrawn",
+   "question": "Why did Gandhiji call off the Non-Cooperation Movement in February 1922?",
+   "model_answer": "The movement was turning violent in many places; at Chauri Chaura (Gorakhpur) a peaceful demonstration became a violent clash with the police.\nGandhiji felt satyagrahis needed proper training before they were ready for mass struggle.",
+   "rubric": [
+    {
+     "p": "Violence, e.g. Chauri Chaura",
+     "m": 1
+    },
+    {
+     "p": "Satyagrahis needed training / movement had to stay non-violent",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 6,
+   "id": "q06",
+   "section": "A",
+   "marks": 3,
+   "alts": [
+    {
+     "id": "q06A",
+     "type": "self",
+     "marks": 3,
+     "chapter": "h1",
+     "topic": "Romanticism and national feeling",
+     "question": "How did Romanticism help develop nationalist feeling in Europe?",
+     "model_answer": "Romantic artists and poets criticised the glorification of reason and science and focused on emotions, intuition and mystical feelings.\nThey tried to create a sense of a shared collective heritage and common cultural past as the basis of the nation.\nThe German philosopher Herder said true German culture was found among the common people (das volk); folk songs, folk poetry and folk dances were collected. Language, e.g. Polish in Russian-occupied Poland, became a weapon of national resistance.",
+     "rubric": [
+      {
+       "p": "Emphasis on emotion and a shared cultural past",
+       "m": 1
+      },
+      {
+       "p": "Folk culture: Herder / das volk",
+       "m": 1
+      },
+      {
+       "p": "Language as resistance (e.g. Polish)",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q06B",
+     "type": "self",
+     "marks": 3,
+     "chapter": "h4",
+     "topic": "Print and the Protestant Reformation",
+     "question": "How did print help spread Martin Luther's ideas?",
+     "model_answer": "In 1517 Martin Luther wrote Ninety-Five Theses criticising practices of the Roman Catholic Church.\nPrinted copies were made quickly and read widely, so his writings spread across a large area; his translation of the New Testament sold thousands of copies within weeks.\nThis led to division in the Church and the beginning of the Protestant Reformation. Luther himself called print 'the ultimate gift of God and the greatest one'.",
+     "rubric": [
+      {
+       "p": "Ninety-Five Theses (1517) criticising the Church",
+       "m": 1
+      },
+      {
+       "p": "Print made many copies quickly; wide readership",
+       "m": 1
+      },
+      {
+       "p": "Led to the Protestant Reformation",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 7,
+   "id": "q07",
+   "section": "A",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q07A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "h2",
+     "topic": "Civil Disobedience Movement",
+     "question": "Explain how the Civil Disobedience Movement began, and how different social groups took part in it.",
+     "model_answer": "Gandhiji sent a letter to Viceroy Irwin with eleven demands, including abolition of the salt tax. When they were not met, he began the Salt March from Sabarmati to Dandi (1930) and broke the salt law.\nRich peasant communities (Patidars of Gujarat, Jats of UP) joined because of falling prices and high revenue demands.\nPoor peasants wanted rents remitted and often joined radical movements.\nBusiness classes, through FICCI and leaders like G.D. Birla, supported it to get protection against foreign goods.\nWomen took part in large numbers in protest marches, salt-making and picketing of foreign cloth and liquor shops. (Limits: Dalit participation was limited, and many Muslims felt alienated.)",
+     "rubric": [
+      {
+       "p": "Eleven demands and the Salt March to Dandi",
+       "m": 1
+      },
+      {
+       "p": "Rich peasants and why",
+       "m": 1
+      },
+      {
+       "p": "Poor peasants and why",
+       "m": 1
+      },
+      {
+       "p": "Business classes and why",
+       "m": 1
+      },
+      {
+       "p": "Women's participation (or limits of the movement)",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q07B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "h1",
+     "topic": "Unification of Germany",
+     "question": "Describe the process of the unification of Germany.",
+     "model_answer": "After the failed liberal attempt of 1848, Prussia took the lead in German unification.\nIts chief minister, Otto von Bismarck, was the architect of the process, carried out with the help of the Prussian army and bureaucracy.\nThree wars over seven years, with Austria, Denmark and France, ended in Prussian victory.\nIn January 1871 the Prussian king, William I, was proclaimed German Emperor in a ceremony at Versailles.\nThe new state placed strong emphasis on modernising the currency, banking, legal and judicial systems.",
+     "rubric": [
+      {
+       "p": "Prussia takes the lead after 1848",
+       "m": 1
+      },
+      {
+       "p": "Bismarck with army and bureaucracy",
+       "m": 1
+      },
+      {
+       "p": "Three wars: Austria, Denmark, France",
+       "m": 1
+      },
+      {
+       "p": "William I proclaimed Emperor at Versailles, 1871",
+       "m": 1
+      },
+      {
+       "p": "Modernisation of the new state",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 8,
+   "id": "q08",
+   "section": "A",
+   "marks": 4,
+   "stem": "Read the source.\nGandhiji's idea of satyagraha stressed the power of truth and the need to search for it. If the cause was true and the struggle was against injustice, physical force was not needed to fight the oppressor. Without seeking revenge or being aggressive, a satyagrahi could win the battle through non-violence, by appealing to the conscience of the oppressor. People, including the oppressors, had to be persuaded to see the truth instead of being forced to accept it. (Our summary of the idea, based on NCERT Class 10 History, Chapter 2.)",
+   "parts": [
+    {
+     "id": "q08a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "h2",
+     "topic": "Satyagraha",
+     "question": "In 1917 Gandhiji organised a satyagraha for peasants struggling against the oppressive plantation system at:",
+     "options": [
+      "Kheda",
+      "Champaran",
+      "Dandi",
+      "Ahmedabad"
+     ],
+     "answer": "B",
+     "explanation": "Champaran in Bihar (indigo plantations); Kheda (1917) was about revenue, Ahmedabad (1918) mill workers."
+    },
+    {
+     "id": "q08b",
+     "type": "self",
+     "marks": 1,
+     "chapter": "h2",
+     "topic": "Satyagraha",
+     "question": "According to the source, how can a satyagrahi win a struggle without force?",
+     "model_answer": "By non-violence: appealing to the conscience of the oppressor and persuading them to see the truth.",
+     "rubric": [
+      {
+       "p": "Non-violence / appeal to the oppressor's conscience",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q08c",
+     "type": "self",
+     "marks": 2,
+     "chapter": "h2",
+     "topic": "Satyagraha",
+     "question": "Explain two features of satyagraha as described in the source.",
+     "model_answer": "It is based on the power of truth and the search for truth. It rejects physical force, revenge and aggression; the oppressor is persuaded, not forced.",
+     "rubric": [
+      {
+       "p": "Power of / search for truth",
+       "m": 1
+      },
+      {
+       "p": "No force or revenge; persuasion, not force",
+       "m": 1
+      }
+     ]
+    }
+   ],
+   "qtype": "Case-based (source)"
+  },
+  {
+   "n": 9,
+   "id": "q09",
+   "section": "A",
+   "marks": 2,
+   "stem": "Map skill (text form). Identify the places.",
+   "parts": [
+    {
+     "id": "q09a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "hmap",
+     "topic": "INC sessions",
+     "question": "The place where the Indian National Congress session of December 1920 was held:",
+     "options": [
+      "Madras",
+      "Lahore",
+      "Calcutta",
+      "Nagpur"
+     ],
+     "answer": "D",
+     "explanation": "The September 1920 special session was at Calcutta; the December 1920 session at Nagpur adopted the Non-Cooperation programme."
+    },
+    {
+     "id": "q09b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "hmap",
+     "topic": "Satyagraha movements",
+     "question": "The place associated with the satyagraha of cotton mill workers in 1918:",
+     "options": [
+      "Champaran",
+      "Ahmedabad",
+      "Kheda",
+      "Amritsar"
+     ],
+     "answer": "B",
+     "explanation": "Gandhiji organised the cotton mill workers' satyagraha in Ahmedabad in 1918."
+    }
+   ],
+   "qtype": "Map (text form)"
+  },
+  {
+   "n": 10,
+   "id": "q10",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g1",
+   "topic": "Soil types",
+   "question": "Which soil is best suited to the growth of cotton?",
+   "options": [
+    "Arid soil",
+    "Laterite soil",
+    "Forest soil",
+    "Black soil (regur)"
+   ],
+   "answer": "D",
+   "explanation": "Black soil retains moisture and is rich in calcium carbonate, magnesium, potash and lime.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 11,
+   "id": "q11",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g2",
+   "topic": "Forest classification",
+   "question": "Which state has the largest area under permanent forests?",
+   "options": [
+    "Madhya Pradesh",
+    "Arunachal Pradesh",
+    "Odisha",
+    "Kerala"
+   ],
+   "answer": "A",
+   "explanation": "NCERT: Madhya Pradesh has the largest area under permanent forests (about 75% of its forest area).",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 12,
+   "id": "q12",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g3",
+   "topic": "Multipurpose river projects",
+   "question": "The Hirakud dam is built across the river:",
+   "options": [
+    "Godavari",
+    "Narmada",
+    "Mahanadi",
+    "Krishna"
+   ],
+   "answer": "C",
+   "explanation": "Hirakud is in Odisha on the Mahanadi.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 13,
+   "id": "q13",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g4",
+   "topic": "Cropping seasons",
+   "question": "Which of these is a rabi crop?",
+   "options": [
+    "Paddy",
+    "Cotton",
+    "Maize",
+    "Wheat"
+   ],
+   "answer": "D",
+   "explanation": "Rabi crops are sown in winter and harvested in summer: wheat, barley, peas, gram, mustard.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 14,
+   "id": "q14",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g5",
+   "topic": "Modes of occurrence of minerals",
+   "question": "Minerals found as alluvial deposits in the sands of valley floors and at the base of hills ('placer deposits') include:",
+   "options": [
+    "petroleum",
+    "gold",
+    "bauxite",
+    "coal"
+   ],
+   "answer": "B",
+   "explanation": "Gold, silver, tin and platinum occur in placer deposits; they are not corroded by water.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 15,
+   "id": "q15",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "g6",
+   "topic": "Classification of industries",
+   "question": "Which of the following is an agro-based industry?",
+   "options": [
+    "Cement",
+    "Cotton textiles",
+    "Iron and steel",
+    "Aluminium smelting"
+   ],
+   "answer": "B",
+   "explanation": "Agro-based industries use agricultural raw materials: cotton, jute, silk, woollen textiles, sugar, edible oil.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 16,
+   "id": "q16",
+   "section": "B",
+   "type": "self",
+   "marks": 2,
+   "chapter": "g3",
+   "topic": "Rainwater harvesting",
+   "question": "Why is rainwater harvesting important? Give two traditional examples from different parts of India.",
+   "model_answer": "It conserves water, recharges groundwater and reduces dependence on overused rivers and aquifers.\nExamples (any two): rooftop harvesting stored in underground tanks (tankas) in Rajasthan; guls or kuls (diversion channels) in the western Himalayas; rooftop harvesting in Shillong (Meghalaya); bamboo drip irrigation in Meghalaya; inundation channels in West Bengal's flood plains; khadins and johads in arid Rajasthan.",
+   "rubric": [
+    {
+     "p": "Importance (conserve/recharge)",
+     "m": 1
+    },
+    {
+     "p": "Two correct examples (½ each)",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 17,
+   "id": "q17",
+   "section": "B",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q17A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "g4",
+     "topic": "Major crops: rice and wheat",
+     "question": "Compare the geographical conditions needed for the growth of rice and wheat, and name two major producing states for each.",
+     "model_answer": "Rice: kharif crop; needs high temperature (above 25 °C), high humidity and annual rainfall above 100 cm; grows in areas of less rainfall with irrigation. States (any two): West Bengal, Uttar Pradesh, Punjab, Andhra Pradesh, Tamil Nadu.\nWheat: rabi crop; needs a cool growing season and bright sunshine at ripening; 50–75 cm of annual rainfall evenly spread. Two important zones: the Ganga-Satluj plains in the north-west and the black soil region of the Deccan. States (any two): Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, Rajasthan.",
+     "rubric": [
+      {
+       "p": "Rice: season and temperature/humidity",
+       "m": 1
+      },
+      {
+       "p": "Rice: rainfall/irrigation and two states",
+       "m": 1.5
+      },
+      {
+       "p": "Wheat: cool season, sunshine at ripening, 50–75 cm rain",
+       "m": 1
+      },
+      {
+       "p": "Wheat: zones and two states",
+       "m": 1.5
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q17B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "g5",
+     "topic": "Conventional and non-conventional energy",
+     "question": "Distinguish between conventional and non-conventional sources of energy. Why is the use of non-conventional sources important for India? Describe any two non-conventional sources.",
+     "model_answer": "Conventional sources: firewood, cattle dung cake, coal, petroleum, natural gas and electricity (hydel and thermal); mostly exhaustible and polluting.\nNon-conventional: solar, wind, tidal, geothermal, biogas and atomic energy; renewable (except nuclear fuel) and cleaner.\nImportance: rising demand, fossil fuels are limited and import of oil is costly, and burning fossil fuels causes pollution.\nSolar: India is a tropical country with enormous potential; photovoltaic technology converts sunlight into electricity.\nWind: wind farms convert wind energy; Tamil Nadu (Nagarcoil to Madurai) has a large cluster; also Gujarat, Maharashtra, Rajasthan.\n(Others: tidal energy in the Gulf of Khambhat/Kachchh, geothermal in the Parvati valley and the Puga valley, biogas from shrubs, farm waste and dung.)",
+     "rubric": [
+      {
+       "p": "Meaning of both, with examples",
+       "m": 1.5
+      },
+      {
+       "p": "Why non-conventional sources matter (two reasons)",
+       "m": 1.5
+      },
+      {
+       "p": "First source described",
+       "m": 1
+      },
+      {
+       "p": "Second source described",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 18,
+   "id": "q18",
+   "section": "B",
+   "marks": 4,
+   "stem": "Read the source.\nIndia's forest policy recognises that local communities can protect forests. Under Joint Forest Management (JFM), village institutions take up protection activities, mostly on degraded forest land managed by the forest department. In return, members are entitled to intermediate benefits such as non-timber forest produce, and share in the timber harvested by successful protection. (Our summary, based on NCERT Class 10 Geography, Chapter 2.)",
+   "parts": [
+    {
+     "id": "q18a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "g2",
+     "topic": "Community conservation and JFM",
+     "question": "The first state to pass a resolution for Joint Forest Management (1988) was:",
+     "options": [
+      "Rajasthan",
+      "Uttarakhand",
+      "Kerala",
+      "Odisha"
+     ],
+     "answer": "D",
+     "explanation": "NCERT: the JFM programme began with Odisha's resolution in 1988."
+    },
+    {
+     "id": "q18b",
+     "type": "self",
+     "marks": 1,
+     "chapter": "g2",
+     "topic": "Community conservation and JFM",
+     "question": "What do village members get in return for protecting forests under JFM?",
+     "model_answer": "Non-timber forest produce, and a share of the timber harvested through successful protection.",
+     "rubric": [
+      {
+       "p": "Non-timber produce and share of timber",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q18c",
+     "type": "self",
+     "marks": 2,
+     "chapter": "g2",
+     "topic": "Community conservation and JFM",
+     "question": "Give two other examples of communities conserving forests or biodiversity in India.",
+     "model_answer": "Any two: the Chipko movement in the Himalayas against deforestation; Beej Bachao Andolan in Tehri and Navdanya, which promote diverse crops without chemicals; villagers of Sariska (Rajasthan) resisting mining; the Bhairodev Dakav 'Sonchuri' declared by villages of Alwar district; sacred groves protected by tribal communities; the Bishnois protecting blackbuck and khejri trees.",
+     "rubric": [
+      {
+       "p": "First correct example",
+       "m": 1
+      },
+      {
+       "p": "Second correct example",
+       "m": 1
+      }
+     ]
+    }
+   ],
+   "qtype": "Case-based (source)"
+  },
+  {
+   "n": 19,
+   "id": "q19",
+   "section": "B",
+   "marks": 3,
+   "stem": "Map skill (text form). Identify the places.",
+   "parts": [
+    {
+     "id": "q19a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gmap",
+     "topic": "Dams",
+     "question": "The Tehri dam is located in the state of:",
+     "options": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Jammu and Kashmir",
+      "Uttar Pradesh"
+     ],
+     "answer": "A",
+     "explanation": "Tehri dam is on the Bhagirathi in Uttarakhand."
+    },
+    {
+     "id": "q19b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gmap",
+     "topic": "Nuclear power plants",
+     "question": "The nuclear power plant located in Tamil Nadu is:",
+     "options": [
+      "Kalpakkam",
+      "Kakrapar",
+      "Tarapur",
+      "Narora"
+     ],
+     "answer": "A",
+     "explanation": "Tarapur is in Maharashtra, Narora in Uttar Pradesh, Kakrapar in Gujarat."
+    },
+    {
+     "id": "q19c",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gmap",
+     "topic": "Major sea ports",
+     "question": "The major sea port located in Odisha is:",
+     "options": [
+      "Visakhapatnam",
+      "Tuticorin",
+      "Haldia",
+      "Paradip"
+     ],
+     "answer": "D",
+     "explanation": "Haldia is in West Bengal, Visakhapatnam in Andhra Pradesh, Tuticorin in Tamil Nadu."
+    }
+   ],
+   "qtype": "Map (text form)"
+  },
+  {
+   "n": 20,
+   "id": "q20",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "p1",
+   "topic": "Power sharing in Belgium",
+   "question": "In Belgium, the 'community government' is elected by:",
+   "options": [
+    "members of the European Union",
+    "people belonging to one language community (Dutch, French or German-speaking)",
+    "the central government",
+    "all citizens of Brussels only"
+   ],
+   "answer": "B",
+   "explanation": "This third kind of government looks after cultural, educational and language-related issues.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 21,
+   "id": "q21",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "p2",
+   "topic": "Three lists",
+   "question": "Defence, foreign affairs, banking and currency are subjects in the:",
+   "options": [
+    "Concurrent List",
+    "Union List",
+    "State List",
+    "residuary subjects"
+   ],
+   "answer": "B",
+   "explanation": "Subjects of national importance are in the Union List; only the Union Government makes laws on them.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 22,
+   "id": "q22",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "p3",
+   "topic": "Secular state",
+   "question": "Which statement correctly describes India as a secular state?",
+   "options": [
+    "There is no official religion for the Indian state",
+    "Hinduism is the official religion",
+    "Religion cannot be practised in public",
+    "The state can never intervene in religious matters"
+   ],
+   "answer": "A",
+   "explanation": "The Constitution gives every individual freedom of religion and allows the state to intervene to ensure equality within religious communities.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 23,
+   "id": "q23",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "p4",
+   "topic": "Recognised parties",
+   "question": "A party that secures at least six per cent of the votes in Lok Sabha or Assembly elections in four States and wins at least four Lok Sabha seats is recognised as a:",
+   "options": [
+    "regional alliance",
+    "state party",
+    "national party",
+    "registered unrecognised party"
+   ],
+   "answer": "C",
+   "explanation": "This is the Election Commission's criterion for a national party, as given in NCERT.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 24,
+   "id": "q24",
+   "section": "C",
+   "type": "self",
+   "marks": 2,
+   "chapter": "p5",
+   "topic": "Accommodation of social diversity",
+   "question": "How does democracy accommodate social diversity? Give two points.",
+   "model_answer": "Democracy is not simply rule by majority opinion: the majority must always work with the minority so that governments represent the general view.\nRule by majority does not become rule by the majority community; every citizen should have a chance to be in the majority at some point, and no one is barred on the basis of birth.",
+   "rubric": [
+    {
+     "p": "Majority works with the minority",
+     "m": 1
+    },
+    {
+     "p": "Majority is not a religious/ethnic group; everyone can be in a majority",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 25,
+   "id": "q25",
+   "section": "C",
+   "type": "self",
+   "marks": 2,
+   "chapter": "p3",
+   "topic": "Women's representation",
+   "question": "Suggest two ways to improve the political representation of women in India.",
+   "model_answer": "One-third of seats in local government bodies (panchayats and municipalities) are reserved for women; such reservation could be extended to legislatures.\nPolitical parties could nominate more women candidates and give them leadership roles; awareness and education can increase participation.",
+   "rubric": [
+    {
+     "p": "Reservation of seats (local bodies / legislatures)",
+     "m": 1
+    },
+    {
+     "p": "Second valid way (party tickets, awareness…)",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 26,
+   "id": "q26",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "p2",
+   "topic": "Three lists",
+   "question": "Explain the three-fold distribution of legislative powers between the Union and the State governments.",
+   "model_answer": "Union List: subjects of national importance such as defence, foreign affairs, banking, communications and currency; only the Union Government legislates.\nState List: subjects of state and local importance such as police, trade, commerce, agriculture and irrigation; state governments legislate.\nConcurrent List: subjects of common interest such as education, forest, trade unions, marriage, adoption and succession; both can legislate, and if their laws conflict, the Union law prevails.\n(Residuary subjects, not in any list, go to the Union Government.)",
+   "rubric": [
+    {
+     "p": "Union List with examples",
+     "m": 1
+    },
+    {
+     "p": "State List with examples",
+     "m": 1
+    },
+    {
+     "p": "Concurrent List with examples and Union law prevails",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 27,
+   "id": "q27",
+   "section": "C",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q27A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "p4",
+     "topic": "Challenges to political parties",
+     "question": "Describe the major challenges faced by political parties in India and suggest two reforms.",
+     "model_answer": "Lack of internal democracy: power concentrated in a few top leaders; no regular membership registers or organisational elections.\nDynastic succession: top positions held by members of one family, unfair to other members.\nGrowing role of money and muscle power, especially during elections; rich people and criminals get tickets.\nLack of meaningful choice: ideological differences between parties have reduced.\nReforms (any two): the anti-defection law; affidavits by candidates on property and criminal cases; mandatory organisational elections and filing of income-tax returns by parties; a minimum share of tickets for women; state funding of elections.",
+     "rubric": [
+      {
+       "p": "Lack of internal democracy",
+       "m": 1
+      },
+      {
+       "p": "Dynastic succession",
+       "m": 1
+      },
+      {
+       "p": "Money and muscle power",
+       "m": 1
+      },
+      {
+       "p": "Lack of meaningful choice",
+       "m": 1
+      },
+      {
+       "p": "Two reforms",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q27B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "p1",
+     "topic": "Belgium and Sri Lanka compared",
+     "question": "Compare the ways in which Belgium and Sri Lanka dealt with the question of power sharing.",
+     "model_answer": "Belgium: amended its constitution four times between 1970 and 1993 to accommodate its communities. Dutch- and French-speaking ministers are equal in the central government; many powers are given to state governments; Brussels has a separate government with equal representation; a 'community government' handles cultural, educational and language issues. This prevented civic strife and a break-up on linguistic lines.\nSri Lanka: followed majoritarianism. An Act of 1956 recognised Sinhala as the only official language; governments favoured Sinhala applicants for university positions and government jobs, and the state protected and fostered Buddhism. Sri Lankan Tamils felt alienated, and the conflict turned into a civil war.\nLesson: accommodation and sharing power keep a country united; majoritarianism undermines unity.",
+     "rubric": [
+      {
+       "p": "Belgium: four amendments, equal ministers",
+       "m": 1
+      },
+      {
+       "p": "Belgium: state, Brussels and community governments",
+       "m": 1
+      },
+      {
+       "p": "Sri Lanka: 1956 Sinhala-only Act and preferential policies",
+       "m": 1
+      },
+      {
+       "p": "Result: Tamil alienation, civil war",
+       "m": 1
+      },
+      {
+       "p": "Conclusion on accommodation vs majoritarianism",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 28,
+   "id": "q28",
+   "section": "C",
+   "marks": 4,
+   "stem": "Read the source.\nIn 1992 the Constitution was amended to make the third tier of democracy more powerful and effective. It is now constitutionally mandatory to hold regular elections to local government bodies. Seats are reserved in the elected bodies and executive heads of these institutions for Scheduled Castes, Scheduled Tribes and Other Backward Classes, and at least one-third of all positions are reserved for women. (Our summary, based on NCERT Class 10 Political Science, Chapter 2.)",
+   "parts": [
+    {
+     "id": "q28a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "p2",
+     "topic": "Decentralisation: 1992 amendment",
+     "question": "Who conducts panchayat and municipal elections in each state?",
+     "options": [
+      "An independent State Election Commission",
+      "The Election Commission of India",
+      "The Chief Minister",
+      "The Governor"
+     ],
+     "answer": "A",
+     "explanation": "The 1992 amendment created a State Election Commission in each state for local body elections."
+    },
+    {
+     "id": "q28b",
+     "type": "self",
+     "marks": 1,
+     "chapter": "p2",
+     "topic": "Decentralisation: 1992 amendment",
+     "question": "Name the reservation made for women in local bodies.",
+     "model_answer": "At least one-third of all positions are reserved for women.",
+     "rubric": [
+      {
+       "p": "One-third of positions for women",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q28c",
+     "type": "self",
+     "marks": 2,
+     "chapter": "p2",
+     "topic": "Decentralisation: 1992 amendment",
+     "question": "Mention two difficulties local governments still face.",
+     "model_answer": "Gram sabhas are not held regularly; most state governments have not transferred significant powers to local governments, nor adequate resources.",
+     "rubric": [
+      {
+       "p": "Gram sabhas not held regularly",
+       "m": 1
+      },
+      {
+       "p": "Too few powers/resources transferred",
+       "m": 1
+      }
+     ]
+    }
+   ],
+   "qtype": "Case-based (source)"
+  },
+  {
+   "n": 29,
+   "id": "q29",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e1",
+   "topic": "Income and other criteria",
+   "question": "Per capita income of a country is calculated by dividing its total income by its:",
+   "options": [
+    "total population",
+    "number of families",
+    "area",
+    "number of workers"
+   ],
+   "answer": "A",
+   "explanation": "Average income = total income ÷ total population.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 30,
+   "id": "q30",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e1",
+   "topic": "Health and education indicators",
+   "question": "The Infant Mortality Rate (IMR) shows:",
+   "options": [
+    "the share of children enrolled in school",
+    "the number of children who die before the age of one year as a proportion of 1000 live children born in that year",
+    "the number of births per 1000 people",
+    "the number of children under 14 who work"
+   ],
+   "answer": "B",
+   "explanation": "NCERT definition of IMR.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 31,
+   "id": "q31",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e2",
+   "topic": "Sectors of economic activity",
+   "question": "Which activity belongs to the tertiary sector?",
+   "options": [
+    "Fishing",
+    "Mining",
+    "Brick-making",
+    "Banking"
+   ],
+   "answer": "D",
+   "explanation": "Tertiary activities provide services that support the primary and secondary sectors.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 32,
+   "id": "q32",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e3",
+   "topic": "Terms of credit: collateral",
+   "question": "Collateral is:",
+   "options": [
+    "money deposited in a bank",
+    "a loan given by a self-help group",
+    "an asset that the borrower owns and pledges to the lender as security until the loan is repaid",
+    "the interest charged on a loan"
+   ],
+   "answer": "C",
+   "explanation": "Land, buildings, vehicles, livestock or deposits can serve as collateral.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 33,
+   "id": "q33",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e4",
+   "topic": "WTO and trade barriers",
+   "question": "The main aim of the World Trade Organisation (WTO) is to:",
+   "options": [
+    "fix prices of goods worldwide",
+    "liberalise international trade",
+    "protect domestic producers by trade barriers",
+    "give loans to developing countries"
+   ],
+   "answer": "B",
+   "explanation": "The WTO sets rules for international trade and aims to liberalise it.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 34,
+   "id": "q34",
+   "section": "D",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "e2",
+   "topic": "Underemployment",
+   "question": "Disguised unemployment means:",
+   "options": [
+    "workers are paid below the minimum wage",
+    "people refuse to work",
+    "people are unemployed for part of the year",
+    "more people are working than needed, so the contribution of some is effectively zero"
+   ],
+   "answer": "D",
+   "explanation": "If some workers left the farm, production would not fall: their work is not really needed.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 35,
+   "id": "q35",
+   "section": "D",
+   "type": "self",
+   "marks": 3,
+   "chapter": "e2",
+   "topic": "Organised vs unorganised sector",
+   "question": "Distinguish between the organised and the unorganised sectors of the economy on three points.",
+   "model_answer": "Organised: enterprises are registered with the government and follow its rules (Factories Act, Minimum Wages Act…). Unorganised: small, scattered units, largely outside government control.\nOrganised: regular jobs with assured work and fixed hours; overtime paid. Unorganised: jobs are low-paid, often not regular, with no overtime.\nOrganised: benefits such as paid leave, provident fund, medical benefits, pension. Unorganised: no paid leave or security; workers can be dismissed at any time.",
+   "rubric": [
+    {
+     "p": "Registration / rules",
+     "m": 1
+    },
+    {
+     "p": "Job security and hours",
+     "m": 1
+    },
+    {
+     "p": "Benefits (leave, PF, pension)",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 36,
+   "id": "q36",
+   "section": "D",
+   "type": "self",
+   "marks": 3,
+   "chapter": "e3",
+   "topic": "Formal vs informal credit",
+   "question": "Why is cheap and affordable credit important for a country's development? Why do many poor households still borrow from informal sources?",
+   "model_answer": "Cheap credit lets people invest in crops, business and small-scale industries, raising incomes and output; high-cost credit means much of the earning goes to repay the loan.\nPoor households still use moneylenders, traders and relatives because banks need collateral and documentation they cannot provide, banks are absent in many rural areas, and informal lenders know them personally and lend quickly.",
+   "rubric": [
+    {
+     "p": "Cheap credit helps productive investment / higher incomes",
+     "m": 1
+    },
+    {
+     "p": "High-cost informal credit causes debt trap",
+     "m": 1
+    },
+    {
+     "p": "Reasons poor use informal sources (collateral, documents, access)",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 37,
+   "id": "q37",
+   "section": "D",
+   "type": "self",
+   "marks": 3,
+   "chapter": "e4",
+   "topic": "Technology and globalisation",
+   "question": "How has technology helped globalisation? Explain three points.",
+   "model_answer": "Faster and cheaper transport (containers, air transport) has lowered the cost of moving goods across long distances.\nTelecommunication (telephones, mobile phones, fax) lets people contact each other around the world instantly.\nInformation technology and the internet let companies share information, send designs and provide services across countries (e.g. a magazine designed in Delhi, printed in Mumbai, for a London publisher).",
+   "rubric": [
+    {
+     "p": "Transport technology",
+     "m": 1
+    },
+    {
+     "p": "Telecommunications",
+     "m": 1
+    },
+    {
+     "p": "IT/internet with example",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 38,
+   "id": "q38",
+   "section": "D",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q38A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "e1",
+     "topic": "Income and other criteria",
+     "question": "Why is per capita income alone not an adequate indicator of development? Explain with examples.",
+     "model_answer": "Average income hides the distribution of income: two countries with the same average may have very different equality.\nMoney cannot buy all the goods and services we need: a pollution-free environment, protection from infectious diseases, unadulterated medicines are usually best provided collectively.\nHealth and education indicators matter: in NCERT's comparison, Kerala has a lower per capita income than Haryana but a lower infant mortality rate and a higher literacy rate, because of adequate basic health and education facilities and a well-run public distribution system.\nSo other criteria such as IMR, literacy rate, net attendance ratio and the Human Development Index (UNDP), which combines health, education and income, are also used.",
+     "rubric": [
+      {
+       "p": "Averages hide distribution",
+       "m": 1
+      },
+      {
+       "p": "Money cannot buy all goods (collective provision)",
+       "m": 1
+      },
+      {
+       "p": "Kerala vs Haryana example",
+       "m": 1.5
+      },
+      {
+       "p": "Other indicators / HDI",
+       "m": 1.5
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q38B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "e2",
+     "topic": "Public and private sector",
+     "question": "What is the role of the public sector? Why is it necessary for the government to spend on some activities?",
+     "model_answer": "In the public sector the government owns most assets and provides services (e.g. Indian Railways, post offices).\nSome activities need large spending beyond the capacity of private firms: roads, bridges, railways, harbours, electricity, irrigation through dams.\nPrivate firms may not provide some services at reasonable cost, so the government supplies them cheaply (e.g. electricity at subsidised rates to small industries).\nThe government buys wheat and rice from farmers at a 'fair price' and sells them at lower prices through ration shops.\nIt must spend on health and education for all, and on nutrition and sanitation, which private firms will not do for profit.",
+     "rubric": [
+      {
+       "p": "Meaning of public sector with example",
+       "m": 1
+      },
+      {
+       "p": "Large investment in infrastructure",
+       "m": 1
+      },
+      {
+       "p": "Services at reasonable cost / subsidies",
+       "m": 1
+      },
+      {
+       "p": "Fair price and ration shops",
+       "m": 1
+      },
+      {
+       "p": "Health and education for all",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  }
+ ]
+}

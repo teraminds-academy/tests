@@ -1,0 +1,661 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch03",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 3 Pair of Linear Equations in Two Variables (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 3 Pair of Linear Equations",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2023-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (negative allowed). No calculator.",
+ "suggested_minutes": 40,
+ "video_url": null,
+ "worksheet_url": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "L1": "Nature of solutions from the ratios / lines",
+  "L2": "Find k for a number of solutions",
+  "L3": "Solve graphically",
+  "L4": "Solve algebraically",
+  "L5": "Word problem: form and solve",
+  "L6": "Case study: two-item cost",
+  "L7": "Given a solution / line"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Consistent, inconsistent, dependent pairs",
+   "tip": "Intersecting lines: one solution (consistent). Parallel: no solution (inconsistent). Coincident: infinitely many (dependent, still consistent).",
+   "ncert": "NCERT §3.2"
+  },
+  "S2": {
+   "name": "The ratio test",
+   "tip": "Write both equations as ax + by + c = 0 first. a1/a2 ≠ b1/b2 → unique; all three ratios equal → infinitely many; first two equal, third different → none.",
+   "ncert": "NCERT §3.2; Exercise 3.1 Q2, Q3"
+  },
+  "S3": {
+   "name": "Find k (or a, b) for a number of solutions",
+   "tip": "Set the ratios the condition needs equal, solve for k, then always check the third ratio (c1/c2) for 'no solution' or 'infinitely many'.",
+   "ncert": "Exercise 3.1 Q3; past-paper type"
+  },
+  "S4": {
+   "name": "Graphical method",
+   "tip": "Plot two points per line (use x = 0 and y = 0), read the meeting point, and use y = 0 for points on the x-axis when a triangle is asked.",
+   "ncert": "NCERT §3.2; Exercise 3.1 Q1, Q4"
+  },
+  "S5": {
+   "name": "Substitution method",
+   "tip": "Make one variable the subject of one equation, put it into the other, solve, then substitute back. Verify in both equations.",
+   "ncert": "NCERT §3.3.1; Exercise 3.2"
+  },
+  "S6": {
+   "name": "Elimination method",
+   "tip": "Multiply to make one coefficient equal, then add or subtract. If both variables vanish: a false statement → no solution, a true one → infinitely many.",
+   "ncert": "NCERT §3.3.2; Exercise 3.3"
+  },
+  "S7": {
+   "name": "Word problems: ages, fractions, digits",
+   "tip": "Name the unknowns, turn each sentence into one equation (ages: add or subtract the same years from both), solve and check the story.",
+   "ncert": "Exercise 3.2 Q2, Exercise 3.3 Q2 types"
+  },
+  "S8": {
+   "name": "Word problems: money, marks, charges",
+   "tip": "Fixed charge + rate × quantity: write one equation per given case and subtract to remove the fixed charge.",
+   "ncert": "Exercise 3.2, Exercise 3.3 word problems"
+  },
+  "S9": {
+   "name": "Case study and given-solution questions",
+   "tip": "Given a solution: substitute it into both equations. Case studies: define x and y in words, form both equations, then answer each part.",
+   "ncert": "Case-study type (SQP 2026-27 Q36); past-paper one-mark type"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "L1",
+   "type": "mcq",
+   "question": "A pair of linear equations whose lines are parallel has:",
+   "answer": "D",
+   "explanation": "Parallel lines never meet.",
+   "remediation": "Video part 1.",
+   "options": [
+    "exactly one solution",
+    "exactly two solutions",
+    "infinitely many solutions",
+    "no solution"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "L1",
+   "type": "mcq",
+   "question": "A pair of linear equations is called consistent when it has:",
+   "answer": "A",
+   "explanation": "Consistent = one solution or infinitely many.",
+   "remediation": "Video part 1.",
+   "options": [
+    "at least one solution",
+    "no solution",
+    "exactly two solutions",
+    "only negative solutions"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "L1",
+   "type": "mcq",
+   "question": "If the lines of a pair coincide, the pair is:",
+   "answer": "B",
+   "explanation": "Coincident lines: every point common, so dependent; a dependent pair is always consistent.",
+   "remediation": "Video part 1.",
+   "options": [
+    "consistent with a unique solution",
+    "dependent and consistent",
+    "inconsistent",
+    "dependent and inconsistent"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "L1",
+   "type": "mcq",
+   "question": "The pair y = 0 and y = −7 has:",
+   "answer": "D",
+   "explanation": "Both lines are horizontal and parallel.",
+   "remediation": "Video part 10.",
+   "options": [
+    "infinitely many solutions",
+    "two solutions",
+    "one solution",
+    "no solution"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "L7",
+   "type": "mcq",
+   "question": "The lines x = 3 and y = −2 meet at:",
+   "answer": "A",
+   "explanation": "x = 3 is vertical, y = −2 horizontal: they meet once, at (3, −2).",
+   "remediation": "Video part 10.",
+   "options": [
+    "(3, −2)",
+    "(−2, 3)",
+    "(0, 0)",
+    "they do not meet"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "L1",
+   "type": "mcq",
+   "question": "For a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0, a unique solution exists when:",
+   "answer": "A",
+   "explanation": "Different slopes → the lines intersect once.",
+   "remediation": "Video part 2.",
+   "options": [
+    "a1/a2 ≠ b1/b2",
+    "c1/c2 = 0",
+    "a1/a2 = b1/b2 = c1/c2",
+    "a1/a2 = b1/b2 ≠ c1/c2"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "L1",
+   "type": "mcq",
+   "question": "The lines 4x − 3y + 7 = 0 and 2x + 5y − 1 = 0 are:",
+   "answer": "C",
+   "explanation": "4/2 = 2 but −3/5 is different → intersecting.",
+   "remediation": "Video part 2.",
+   "options": [
+    "perpendicular",
+    "parallel",
+    "intersecting",
+    "coincident"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "L1",
+   "type": "mcq",
+   "question": "The lines 3x + 6y − 9 = 0 and x + 2y − 3 = 0 are:",
+   "answer": "C",
+   "explanation": "3/1 = 6/2 = −9/−3 = 3: all ratios equal.",
+   "remediation": "Video part 2.",
+   "options": [
+    "intersecting",
+    "parallel",
+    "coincident",
+    "none of these"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "L1",
+   "type": "mcq",
+   "question": "The pair 2x − 4y = 5 and x − 2y = 3 has:",
+   "answer": "B",
+   "explanation": "2/1 = −4/−2 = 2 but 5/3 ≠ 2 → parallel.",
+   "remediation": "Video part 2.",
+   "options": [
+    "infinitely many solutions",
+    "no solution",
+    "a unique solution",
+    "exactly two solutions"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "L1",
+   "type": "mcq",
+   "question": "The pair 3x = 2y + 4 and 6y = 9x − 12 represents:",
+   "answer": "C",
+   "explanation": "Rewrite: 3x − 2y − 4 = 0 and 9x − 6y − 12 = 0: every ratio is 1/3.",
+   "remediation": "Video part 2: write both in the same form first.",
+   "options": [
+    "no lines",
+    "intersecting lines",
+    "coincident lines",
+    "parallel lines"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "L1",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "5/−10 = −2/4 = −1/2, but 3/6 = 1/2. So the lines are parallel; R states exactly this condition.",
+   "remediation": "Video part 2.",
+   "assertion": "The pair 5x − 2y + 3 = 0 and −10x + 4y + 6 = 0 is inconsistent.",
+   "reason": "For an inconsistent pair, a1/a2 = b1/b2 ≠ c1/c2.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "L2",
+   "type": "numeric",
+   "question": "Find k so that 3x − y + 8 = 0 and 6x − ky + 16 = 0 have infinitely many solutions.",
+   "answer": "2",
+   "explanation": "3/6 = −1/−k = 8/16 → 1/k = 1/2 → k = 2.",
+   "remediation": "Video part 3 (2024 board item)."
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "L2",
+   "type": "numeric",
+   "question": "Find k so that 2x + 3y = 7 and 4x + ky = 10 have no solution.",
+   "answer": "6",
+   "explanation": "2/4 = 3/k → k = 6, and 7/10 ≠ 1/2, so no solution.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q14",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "L2",
+   "type": "mcq",
+   "question": "For a unique solution of 4x + py + 8 = 0 and 2x + 2y + 2 = 0:",
+   "answer": "C",
+   "explanation": "Unique needs 4/2 ≠ p/2 → p ≠ 4.",
+   "remediation": "Video part 3.",
+   "options": [
+    "p = 4",
+    "p ≠ 2",
+    "p ≠ 4",
+    "p = 2"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "L2",
+   "type": "numeric",
+   "question": "For infinitely many solutions of 2x + 3y = 7 and (a − 1)x + (a + 1)y = 3a − 1, find a.",
+   "answer": "5",
+   "explanation": "2/(a − 1) = 3/(a + 1) → 2a + 2 = 3a − 3 → a = 5. Check the third ratio: 7/(3a − 1) = 7/14 = 1/2, the same as 2/4 and 3/6.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q16",
+   "subtopic": "S3",
+   "level": "L4",
+   "pattern": "L2",
+   "type": "mcq",
+   "question": "For what value of k do kx − y − 2 = 0 and 6x − 2y − 3 = 0 have infinitely many solutions?",
+   "answer": "A",
+   "explanation": "k = 3 matches a1/a2 = b1/b2 = 1/2, but c1/c2 = 2/3. All three can never be equal.",
+   "remediation": "Video part 3: always check the third ratio (2026 board item).",
+   "options": [
+    "No such k exists",
+    "k = 3",
+    "k = 1/2",
+    "k = 4"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "L3",
+   "type": "mcq",
+   "question": "In the graphical method, the solution of the pair is:",
+   "answer": "A",
+   "explanation": "A solution lies on both lines.",
+   "remediation": "Video part 4.",
+   "options": [
+    "the point where the two lines meet",
+    "the origin",
+    "the y-intercept of the first line",
+    "the slope of each line"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "L3",
+   "type": "mcq",
+   "question": "The lines x + 3y = 6 and 2x − 3y = 12 meet at:",
+   "answer": "B",
+   "explanation": "Both pass through (6, 0): 6 + 0 = 6 and 12 − 0 = 12. (NCERT Example 1.)",
+   "remediation": "Video part 4.",
+   "options": [
+    "(3, −2)",
+    "(6, 0)",
+    "(0, 2)",
+    "(0, −4)"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "L3",
+   "type": "numeric",
+   "question": "The lines x − y + 1 = 0 and 3x + 2y − 12 = 0 form a triangle with the x-axis. Find the x-coordinate of the vertex that is not on the x-axis.",
+   "answer": "2",
+   "explanation": "Solving: x = y − 1 → 3y − 3 + 2y = 12 → y = 3, x = 2. Vertex (2, 3).",
+   "remediation": "Video part 4 (NCERT Ex 3.1 Q7)."
+  },
+  {
+   "id": "q20",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "L3",
+   "type": "numeric",
+   "question": "Find the area (in square units) of the triangle formed by x − y = −2, 3x + y = 6 and the x-axis.",
+   "answer": "6",
+   "explanation": "Meet at (1, 3); x-axis points (−2, 0) and (2, 0); area = ½ × 4 × 3 = 6.",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q21",
+   "subtopic": "S4",
+   "level": "L4",
+   "pattern": "L3",
+   "type": "mcq",
+   "question": "The lines 2x + y = 6 and 2x − y = 2 cut the x-axis at:",
+   "answer": "B",
+   "explanation": "Put y = 0: 2x = 6 → 3; 2x = 2 → 1. (SQP 2025-26 Q31 pattern.)",
+   "remediation": "Video part 4.",
+   "options": [
+    "(6, 0) and (2, 0)",
+    "(3, 0) and (1, 0)",
+    "(0, 6) and (0, −2)",
+    "(2, 2) only"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "L4",
+   "type": "numeric",
+   "question": "Solve x + y = 14 and x − y = 4 by substitution. What is x?",
+   "answer": "9",
+   "explanation": "x = 14 − y → 14 − 2y = 4 → y = 5, x = 9.",
+   "remediation": "Video part 5 (NCERT Ex 3.2 Q1(i))."
+  },
+  {
+   "id": "q23",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "L4",
+   "type": "numeric",
+   "question": "Solve 2x + 3y = 11 and 2x − 4y = −24. Then find m if y = mx + 3.",
+   "answer": "-1",
+   "explanation": "y = 5, x = −2; 5 = −2m + 3 → m = −1.",
+   "remediation": "Video part 5 (NCERT Ex 3.2 Q2)."
+  },
+  {
+   "id": "q24",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "L4",
+   "type": "mcq",
+   "question": "Using substitution on x + 2y = 4 and 2x + 4y = 12, you get −4 = 0. This means the pair has:",
+   "answer": "A",
+   "explanation": "A false statement with no variable → parallel lines → no solution. (NCERT Example 7, the rails.)",
+   "remediation": "Video part 6.",
+   "options": [
+    "no solution",
+    "x = 0, y = 0",
+    "infinitely many solutions",
+    "a unique solution"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "L4",
+   "type": "numeric",
+   "question": "Solve by elimination: 3x + 2y = 16 and 3x − 2y = 8. What is y?",
+   "answer": "2",
+   "explanation": "Add: 6x = 24 → x = 4; 12 + 2y = 16 → y = 2.",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q26",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "L4",
+   "type": "numeric",
+   "question": "If 2x + y = 13 and 4x − y = 17, find x − y.",
+   "answer": "2",
+   "explanation": "Add: 6x = 30 → x = 5, y = 3, so x − y = 2. (2024 board item.)",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q27",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "L4",
+   "type": "numeric",
+   "question": "If 217x + 131y = 913 and 131x + 217y = 827, find x.",
+   "answer": "3",
+   "explanation": "Add: x + y = 5. Subtract: x − y = 1. So x = 3, y = 2. (2023 board item.)",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q28",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "L4",
+   "type": "numeric",
+   "question": "Incomes of two people are in the ratio 9 : 7 and their expenditures 4 : 3. Each saves ₹2000 a month. Find the first person's monthly income (in ₹).",
+   "answer": "18000",
+   "explanation": "9x − 4y = 2000, 7x − 3y = 2000 → x = 2000 → income 9x = 18000.",
+   "remediation": "Video part 6 (NCERT Example 8)."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "L5",
+   "type": "numeric",
+   "question": "Five years hence, a father will be three times as old as his son. Five years ago, he was seven times as old. Find the father's present age.",
+   "answer": "40",
+   "explanation": "x + 5 = 3(y + 5), x − 5 = 7(y − 5) → y = 10, x = 40.",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q30",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "L5",
+   "type": "mcq",
+   "question": "A fraction becomes 1 if 1 is added to the numerator and 1 is subtracted from the denominator. It becomes 1/2 if only 1 is added to the denominator. The fraction is:",
+   "answer": "A",
+   "explanation": "x + 1 = y − 1, 2x = y + 1 → x = 3, y = 5.",
+   "remediation": "Video part 7 (NCERT Ex 3.3 Q2(i)).",
+   "options": [
+    "3/5",
+    "4/5",
+    "1/2",
+    "2/3"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "L5",
+   "type": "numeric",
+   "question": "The digits of a two-digit number add up to 9, and nine times the number is twice the number with its digits reversed. Find the number.",
+   "answer": "18",
+   "explanation": "x + y = 9 and 9(10x + y) = 2(10y + x) → y = 8x → x = 1, y = 8.",
+   "remediation": "Video part 7 (NCERT Ex 3.3 Q2(iii))."
+  },
+  {
+   "id": "q32",
+   "subtopic": "S7",
+   "level": "L4",
+   "pattern": "L5",
+   "type": "numeric",
+   "question": "The digits of a two-digit number add up to 11. Reversing the digits gives a number 27 more than the original. Find the original number.",
+   "answer": "47",
+   "explanation": "x + y = 11, 9(y − x) = 27 → y − x = 3 → x = 4, y = 7.",
+   "remediation": "Video part 7; worksheet Hard."
+  },
+  {
+   "id": "q33",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "L5",
+   "type": "numeric",
+   "question": "₹2000 is made up of ₹50 and ₹100 notes, 25 notes in all. How many ₹100 notes are there?",
+   "answer": "15",
+   "explanation": "x + y = 25, 50x + 100y = 2000 → x + 2y = 40 → y = 15.",
+   "remediation": "Video part 8 (2024 board item)."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "L5",
+   "type": "numeric",
+   "question": "Veer scored 6 more than twice Kevin's marks. Had one of them scored 4 more, their total would have been 40. Find Veer's marks.",
+   "answer": "26",
+   "explanation": "V = 2K + 6, V + K = 36 → 3K = 30 → K = 10, V = 26.",
+   "remediation": "Video part 8 (2026 board item)."
+  },
+  {
+   "id": "q35",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "L5",
+   "type": "numeric",
+   "question": "A taxi charges ₹105 for 10 km and ₹155 for 15 km (fixed charge + rate per km). How much (in ₹) is a 25 km ride?",
+   "answer": "255",
+   "explanation": "x + 10y = 105, x + 15y = 155 → y = 10, x = 5 → 5 + 250 = 255.",
+   "remediation": "Video part 8 (NCERT Ex 3.2 Q3(iv))."
+  },
+  {
+   "id": "q36",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "L6",
+   "type": "mcq",
+   "question": "A shop sold 1000 bottles, small at ₹10 and large at ₹15, for ₹12,750. With x small and y large, which pair models this?",
+   "answer": "D",
+   "explanation": "Count equation and money equation.",
+   "remediation": "Video part 9 (SQP 2026-27 Q36).",
+   "options": [
+    "x − y = 1000, 10x − 15y = 12750",
+    "10x + y = 1000, x + 15y = 12750",
+    "x + y = 12750, 10x + 15y = 1000",
+    "x + y = 1000, 10x + 15y = 12750"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "L6",
+   "type": "numeric",
+   "question": "In the same case, how many small bottles were sold?",
+   "answer": "450",
+   "explanation": "10x + 15(1000 − x) = 12750 → 15000 − 5x = 12750 → x = 450.",
+   "remediation": "Video part 9."
+  },
+  {
+   "id": "q38",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "L6",
+   "type": "numeric",
+   "question": "A park sold 300 tickets at ₹150 per child and ₹250 per adult for ₹55,000. How many children visited?",
+   "answer": "200",
+   "explanation": "x + y = 300, 150x + 250y = 55000 → 75000 − 100x = 55000 → x = 200.",
+   "remediation": "Video part 9 (2024 board item)."
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "L7",
+   "type": "mcq",
+   "question": "x = 1, y = 2 is a solution of 2x − 3y + a = 0 and 2x + 3y − b = 0. Then:",
+   "answer": "B",
+   "explanation": "2 − 6 + a = 0 → a = 4; 2 + 6 − b = 0 → b = 8 = 2a.",
+   "remediation": "Video part 10 (2025 board item).",
+   "options": [
+    "a = 2b",
+    "b = 2a",
+    "2a + b = 0",
+    "a + 2b = 0"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "L7",
+   "type": "mcq",
+   "question": "Two lines meet only at (5, −1). One of them is x − y = 6. The other could be:",
+   "answer": "C",
+   "explanation": "3x − 3y = 18 is the same line; 2x − 3y = 16 and x − y = 4 miss (5, −1); 2x − 3y = 13 passes through it with different ratios.",
+   "remediation": "Video part 10 (SQP 2026-27 Q3).",
+   "options": [
+    "2x − 3y = 16",
+    "3x − 3y = 18",
+    "2x − 3y = 13",
+    "x − y = 4"
+   ]
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

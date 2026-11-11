@@ -1,0 +1,1461 @@
+{
+ "schema": 2,
+ "kind": "mock",
+ "id": "c10-maths-mock01",
+ "version": 1,
+ "set": 1,
+ "title": "Board-pattern Mock Paper 1",
+ "short_title": "Class 10 Maths (Standard) · Board-pattern Mock Paper 1",
+ "subject": "Mathematics (Standard, 041)",
+ "subject_key": "maths",
+ "class": "10",
+ "board": "CBSE",
+ "duration_minutes": 180,
+ "max_marks": 80,
+ "tagline": "Original full-length practice paper in the CBSE 2026-27 sample-paper structure. Practice only: not a forecast of any exam.",
+ "disclaimer": "Original questions written by Teraminds Academy on the most-repeated / high-weightage question types seen in CBSE Sample Question Papers and past board papers. Structure follows the CBSE Sample Question Paper 2026-27. Practice for readiness only: no promise of marks. Independent revision aid, not an official CBSE resource.",
+ "instructions": [
+  "38 questions, 80 marks, 3 hours. Same sections, question types, marks and internal choices as the CBSE Sample Question Paper 2026-27.",
+  "Take π = 22/7 unless stated. No calculator. Draw neat figures where needed (on paper).",
+  "Objective questions (MCQ, assertion-reason, numeric) are marked automatically.",
+  "Written answers: write on paper (or type in the box). After you submit, compare with the model answer and award your own marks point by point, the way a board examiner uses the marking scheme.",
+  "Internal choice: tap Option A or Option B and answer only that one.",
+  "The timer runs for the full 3 hours as a guide; nothing is cut off. Time spent in each section is shown in your report."
+ ],
+ "structure_source": {
+  "url": "https://cbseacademic.nic.in/web_material/SQP/ClassX_2026_27/MathsStandard-SQP.pdf",
+  "label": "CBSE SQP Mathematics Standard 2026-27"
+ },
+ "sections": [
+  {
+   "id": "A",
+   "name": "Section A",
+   "title": "18 MCQ + 2 assertion-reason, 1 mark each",
+   "marks": 20,
+   "minutes": 40
+  },
+  {
+   "id": "B",
+   "name": "Section B",
+   "title": "5 very short answer, 2 marks each",
+   "marks": 10,
+   "minutes": 20
+  },
+  {
+   "id": "C",
+   "name": "Section C",
+   "title": "6 short answer, 3 marks each",
+   "marks": 18,
+   "minutes": 35
+  },
+  {
+   "id": "D",
+   "name": "Section D",
+   "title": "4 long answer, 5 marks each",
+   "marks": 20,
+   "minutes": 40
+  },
+  {
+   "id": "E",
+   "name": "Section E",
+   "title": "3 case studies, 4 marks each",
+   "marks": 12,
+   "minutes": 25
+  }
+ ],
+ "chapters": {
+  "ch01": {
+   "name": "Real Numbers",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Chapter video: Real Numbers",
+     "url": "https://youtu.be/hEvi18einFA"
+    },
+    {
+     "label": "Crash revision from 1:04",
+     "url": "https://youtu.be/Jg9raxKftdU?t=64"
+    },
+    {
+     "label": "Short: Irrationality proof",
+     "url": "https://youtube.com/shorts/A48YeeUBVfQ"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+   "chapter_test": "c10-maths-ch01"
+  },
+  "ch02": {
+   "name": "Polynomials",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:58",
+     "url": "https://youtu.be/Jg9raxKftdU?t=118"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch03": {
+   "name": "Pair of Linear Equations in Two Variables",
+   "aliases": [
+    "Pair of Linear Equations"
+   ],
+   "videos": [
+    {
+     "label": "Crash revision from 2:47",
+     "url": "https://youtu.be/Jg9raxKftdU?t=167"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch04": {
+   "name": "Quadratic Equations",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 3:34",
+     "url": "https://youtu.be/Jg9raxKftdU?t=214"
+    },
+    {
+     "label": "Short: Quadratic formula",
+     "url": "https://youtube.com/shorts/BtLGe4P-pJ8"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch05": {
+   "name": "Arithmetic Progressions",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 4:27",
+     "url": "https://youtu.be/Jg9raxKftdU?t=267"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch06": {
+   "name": "Triangles",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 6:12",
+     "url": "https://youtu.be/Jg9raxKftdU?t=372"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch07": {
+   "name": "Coordinate Geometry",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 5:18",
+     "url": "https://youtu.be/Jg9raxKftdU?t=318"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch08": {
+   "name": "Introduction to Trigonometry",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 7:51",
+     "url": "https://youtu.be/Jg9raxKftdU?t=471"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch09": {
+   "name": "Some Applications of Trigonometry",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 8:49",
+     "url": "https://youtu.be/Jg9raxKftdU?t=529"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch10": {
+   "name": "Circles",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 7:01",
+     "url": "https://youtu.be/Jg9raxKftdU?t=421"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch11": {
+   "name": "Areas Related to Circles",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 9:40",
+     "url": "https://youtu.be/Jg9raxKftdU?t=580"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch12": {
+   "name": "Surface Areas and Volumes",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 10:36",
+     "url": "https://youtu.be/Jg9raxKftdU?t=636"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch13": {
+   "name": "Statistics",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 11:34",
+     "url": "https://youtu.be/Jg9raxKftdU?t=694"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  },
+  "ch14": {
+   "name": "Probability",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 12:25",
+     "url": "https://youtu.be/Jg9raxKftdU?t=745"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+  }
+ },
+ "chapter_order": [
+  "ch01",
+  "ch02",
+  "ch03",
+  "ch04",
+  "ch05",
+  "ch06",
+  "ch07",
+  "ch08",
+  "ch09",
+  "ch10",
+  "ch11",
+  "ch12",
+  "ch13",
+  "ch14"
+ ],
+ "video_url": "https://youtu.be/Jg9raxKftdU",
+ "worksheet_url": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+ "questions": [
+  {
+   "n": 1,
+   "id": "q01",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch01",
+   "topic": "HCF word problem (remainders)",
+   "question": "The greatest number that divides 245 and 1029 leaving remainder 5 in each case is:",
+   "options": [
+    "8",
+    "32",
+    "24",
+    "16"
+   ],
+   "answer": "D",
+   "explanation": "Subtract the remainder: HCF(240, 1024). 240 = 2⁴ × 3 × 5, 1024 = 2¹⁰, so HCF = 2⁴ = 16.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 2,
+   "id": "q02",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch02",
+   "topic": "Relation between zeroes and coefficients",
+   "question": "If α and β are the zeroes of 2x² − 5x + 3, then α + β − αβ equals:",
+   "options": [
+    "−1",
+    "4",
+    "1",
+    "5/2"
+   ],
+   "answer": "C",
+   "explanation": "α + β = 5/2 and αβ = 3/2, so α + β − αβ = 1.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 3,
+   "id": "q03",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch03",
+   "topic": "Condition for no solution",
+   "question": "For what value of k does the pair kx + 3y = 5 and 6x + 9y = 7 have no solution?",
+   "options": [
+    "k = 18",
+    "k = 2",
+    "k = 3",
+    "k = −2"
+   ],
+   "answer": "B",
+   "explanation": "No solution needs k/6 = 3/9 ≠ 5/7, so k = 2.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 4,
+   "id": "q04",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch04",
+   "topic": "Nature of roots (discriminant)",
+   "question": "The roots of 2x² − 4x + 3 = 0 are:",
+   "options": [
+    "rational and distinct",
+    "not real",
+    "real and distinct",
+    "real and equal"
+   ],
+   "answer": "B",
+   "explanation": "D = (−4)² − 4 × 2 × 3 = 16 − 24 = −8 < 0, so there are no real roots.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 5,
+   "id": "q05",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch05",
+   "topic": "nth term of an AP",
+   "question": "The 20th term of the AP 3, 8, 13, … is:",
+   "options": [
+    "93",
+    "100",
+    "103",
+    "98"
+   ],
+   "answer": "D",
+   "explanation": "aₙ = a + (n − 1)d = 3 + 19 × 5 = 98.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 6,
+   "id": "q06",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch06",
+   "topic": "Basic Proportionality Theorem",
+   "question": "In ΔABC, DE ∥ BC with D on AB and E on AC. If AD = 2 cm, DB = 3 cm and AE = 3 cm, then EC is:",
+   "options": [
+    "6 cm",
+    "4.5 cm",
+    "2 cm",
+    "4 cm"
+   ],
+   "answer": "B",
+   "explanation": "By BPT, AD/DB = AE/EC, so 2/3 = 3/EC and EC = 4.5 cm.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 7,
+   "id": "q07",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch07",
+   "topic": "Distance formula",
+   "question": "The distance between the points (−3, 4) and (5, −2) is:",
+   "options": [
+    "10 units",
+    "8 units",
+    "14 units",
+    "√28 units"
+   ],
+   "answer": "A",
+   "explanation": "√[(5 + 3)² + (−2 − 4)²] = √(64 + 36) = √100 = 10.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 8,
+   "id": "q08",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch07",
+   "topic": "Mid-point formula",
+   "question": "The mid-point of the segment joining (2, −6) and (8, 4) is:",
+   "options": [
+    "(5, 1)",
+    "(3, 5)",
+    "(5, −1)",
+    "(10, −2)"
+   ],
+   "answer": "C",
+   "explanation": "((2 + 8)/2, (−6 + 4)/2) = (5, −1).",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 9,
+   "id": "q09",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch08",
+   "topic": "Trigonometric ratios from one ratio",
+   "question": "If sin A = 3/5 and A is acute, then tan A is:",
+   "options": [
+    "4/3",
+    "3/4",
+    "4/5",
+    "5/4"
+   ],
+   "answer": "B",
+   "explanation": "Opposite 3, hypotenuse 5, so adjacent 4 and tan A = 3/4.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 10,
+   "id": "q10",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch08",
+   "topic": "Trigonometric identities (value)",
+   "question": "(1 + tan²θ)(1 − sin θ)(1 + sin θ) equals:",
+   "options": [
+    "1",
+    "sec²θ",
+    "2",
+    "0"
+   ],
+   "answer": "A",
+   "explanation": "(1 + tan²θ)(1 − sin²θ) = sec²θ × cos²θ = 1.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 11,
+   "id": "q11",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch06",
+   "topic": "Similar triangles: ratio of perimeters",
+   "question": "ΔABC ~ ΔPQR and AB/PQ = 2/3. If the perimeter of ΔPQR is 45 cm, the perimeter of ΔABC is:",
+   "options": [
+    "67.5 cm",
+    "40 cm",
+    "20 cm",
+    "30 cm"
+   ],
+   "answer": "D",
+   "explanation": "Perimeters of similar triangles are in the ratio of corresponding sides: 2/3 × 45 = 30 cm.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 12,
+   "id": "q12",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch10",
+   "topic": "Angle between tangents",
+   "question": "PA and PB are tangents from an external point P to a circle with centre O. If ∠APB = 70°, then ∠AOB is:",
+   "options": [
+    "140°",
+    "110°",
+    "70°",
+    "35°"
+   ],
+   "answer": "B",
+   "explanation": "In quadrilateral OAPB the angles at A and B are 90°, so ∠AOB = 180° − 70° = 110°.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 13,
+   "id": "q13",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch07",
+   "topic": "Section formula",
+   "question": "The point that divides the segment joining (1, 3) and (7, 9) internally in the ratio 1 : 2 is:",
+   "options": [
+    "(3, 5)",
+    "(5, 7)",
+    "(3, 6)",
+    "(4, 6)"
+   ],
+   "answer": "A",
+   "explanation": "x = (1 × 7 + 2 × 1)/3 = 3, y = (1 × 9 + 2 × 3)/3 = 5.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 14,
+   "id": "q14",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch12",
+   "topic": "Curved surface area of a cone",
+   "question": "The curved surface area of a cone of radius 7 cm and height 24 cm is (π = 22/7):",
+   "options": [
+    "704 cm²",
+    "1232 cm²",
+    "550 cm²",
+    "528 cm²"
+   ],
+   "answer": "C",
+   "explanation": "l = √(7² + 24²) = 25 cm, so πrl = 22/7 × 7 × 25 = 550 cm².",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 15,
+   "id": "q15",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch13",
+   "topic": "Empirical relation",
+   "question": "For a distribution, mean = 24 and median = 26. Using the empirical relation, the mode is:",
+   "options": [
+    "28",
+    "22",
+    "30",
+    "25"
+   ],
+   "answer": "C",
+   "explanation": "Mode = 3 × median − 2 × mean = 78 − 48 = 30.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 16,
+   "id": "q16",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch10",
+   "topic": "Tangent perpendicular to radius",
+   "question": "A tangent at P to a circle of radius 5 cm meets a line through the centre O at Q, with OQ = 13 cm. PQ is:",
+   "options": [
+    "√194 cm",
+    "12 cm",
+    "18 cm",
+    "8 cm"
+   ],
+   "answer": "B",
+   "explanation": "OP ⟂ PQ, so PQ = √(13² − 5²) = √144 = 12 cm.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 17,
+   "id": "q17",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch14",
+   "topic": "Probability with playing cards",
+   "question": "A card is drawn at random from a well-shuffled deck of 52 cards. The probability that it is a red face card is:",
+   "options": [
+    "3/26",
+    "6/13",
+    "1/26",
+    "3/13"
+   ],
+   "answer": "A",
+   "explanation": "There are 6 red face cards (J, Q, K of hearts and diamonds): 6/52 = 3/26.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 18,
+   "id": "q18",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch02",
+   "topic": "Polynomial from its zeroes",
+   "question": "A quadratic polynomial whose zeroes are 3 and −5 is:",
+   "options": [
+    "x² − 8x + 15",
+    "x² + 2x + 15",
+    "x² + 2x − 15",
+    "x² − 2x − 15"
+   ],
+   "answer": "C",
+   "explanation": "Sum = −2, product = −15, so x² − (sum)x + product = x² + 2x − 15.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 19,
+   "id": "q19",
+   "section": "A",
+   "type": "ar",
+   "marks": 1,
+   "chapter": "ch04",
+   "topic": "Nature of roots (discriminant)",
+   "question": "Choose the correct option.",
+   "assertion": "The equation x² + 4x + 5 = 0 has no real roots.",
+   "reason": "A quadratic equation ax² + bx + c = 0 has no real roots when b² − 4ac < 0.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": "A",
+   "explanation": "D = 16 − 20 = −4 < 0, so A is true, and R is exactly the rule that explains it.",
+   "qtype": "Assertion-Reason"
+  },
+  {
+   "n": 20,
+   "id": "q20",
+   "section": "A",
+   "type": "ar",
+   "marks": 1,
+   "chapter": "ch06",
+   "topic": "Similarity criteria",
+   "question": "Choose the correct option.",
+   "assertion": "All rectangles are similar to each other.",
+   "reason": "All the angles of every rectangle are equal to 90°.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": "D",
+   "explanation": "Equal angles are not enough for quadrilaterals: a 1 × 2 and a 1 × 3 rectangle are not similar because their sides are not proportional. A is false, R is true.",
+   "qtype": "Assertion-Reason"
+  },
+  {
+   "n": 21,
+   "id": "q21",
+   "section": "B",
+   "marks": 2,
+   "alts": [
+    {
+     "id": "q21A",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch01",
+     "topic": "HCF and LCM by prime factorisation",
+     "question": "Find the HCF and LCM of 96 and 404 by the prime factorisation method.",
+     "model_answer": "96 = 2⁵ × 3 and 404 = 2² × 101.\nHCF = product of the smallest powers of common primes = 2² = 4.\nLCM = product of the greatest powers of all primes = 2⁵ × 3 × 101 = 9696.",
+     "rubric": [
+      {
+       "p": "Correct prime factorisation of both numbers",
+       "m": 1
+      },
+      {
+       "p": "HCF = 4 and LCM = 9696",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q21B",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch01",
+     "topic": "kⁿ ending in 0 (FTA)",
+     "question": "Check whether 6ⁿ can end with the digit 0 for any natural number n. Give a reason.",
+     "model_answer": "For a number to end in 0 it must be divisible by 10, i.e. its prime factorisation must contain both 2 and 5.\n6ⁿ = (2 × 3)ⁿ = 2ⁿ × 3ⁿ, which has no factor 5. By the uniqueness of prime factorisation (Fundamental Theorem of Arithmetic), 6ⁿ can never end with 0.",
+     "rubric": [
+      {
+       "p": "Ending in 0 needs prime factors 2 and 5",
+       "m": 1
+      },
+      {
+       "p": "6ⁿ = 2ⁿ × 3ⁿ has no 5, so it never ends in 0 (uniqueness of factorisation)",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 22,
+   "id": "q22",
+   "section": "B",
+   "type": "self",
+   "marks": 2,
+   "chapter": "ch03",
+   "topic": "Solving a pair of linear equations",
+   "question": "Solve: 2x + 3y = 11 and 2x − 4y = −24.",
+   "model_answer": "Subtracting the second equation from the first: 7y = 35, so y = 5.\nSubstituting in 2x + 3y = 11: 2x + 15 = 11, so x = −2.\nSolution: x = −2, y = 5.",
+   "rubric": [
+    {
+     "p": "Eliminates one variable correctly and finds y = 5",
+     "m": 1
+    },
+    {
+     "p": "Finds x = −2",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 23,
+   "id": "q23",
+   "section": "B",
+   "type": "self",
+   "marks": 2,
+   "chapter": "ch10",
+   "topic": "Tangents from an external point are equal (theorem)",
+   "question": "Prove that the lengths of the two tangents drawn from an external point to a circle are equal.",
+   "model_answer": "Let PA and PB be tangents from P to a circle with centre O. Join OA, OB and OP.\nOA ⟂ PA and OB ⟂ PB (radius ⟂ tangent), so ∠OAP = ∠OBP = 90°.\nIn right triangles OAP and OBP: OA = OB (radii) and OP is common, so ΔOAP ≅ ΔOBP (RHS).\nHence PA = PB (CPCT).",
+   "rubric": [
+    {
+     "p": "Figure/joins with ∠OAP = ∠OBP = 90° stated",
+     "m": 1
+    },
+    {
+     "p": "RHS congruence and conclusion PA = PB",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 24,
+   "id": "q24",
+   "section": "B",
+   "marks": 2,
+   "alts": [
+    {
+     "id": "q24A",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch08",
+     "topic": "Values of standard angles",
+     "question": "Evaluate: 2 tan²45° + cos²30° − sin²60°.",
+     "model_answer": "tan 45° = 1, cos 30° = √3/2, sin 60° = √3/2.\n2(1)² + 3/4 − 3/4 = 2.",
+     "rubric": [
+      {
+       "p": "Correct standard values",
+       "m": 1
+      },
+      {
+       "p": "Final value 2",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q24B",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch08",
+     "topic": "Values of standard angles",
+     "question": "If sin θ = cos θ, where 0° < θ < 90°, find the value of 2 tan θ + cos²θ.",
+     "model_answer": "sin θ = cos θ gives tan θ = 1, so θ = 45°.\n2 tan 45° + cos²45° = 2 + (1/√2)² = 2 + 1/2 = 5/2.",
+     "rubric": [
+      {
+       "p": "tan θ = 1, so θ = 45°",
+       "m": 1
+      },
+      {
+       "p": "Value 5/2",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 25,
+   "id": "q25",
+   "section": "B",
+   "type": "self",
+   "marks": 2,
+   "chapter": "ch14",
+   "topic": "Probability: balls in a bag",
+   "question": "A bag has 5 red, 8 green and 7 white balls. One ball is drawn at random. Find the probability that it is (i) green (ii) not white.",
+   "model_answer": "Total balls = 20.\n(i) P(green) = 8/20 = 2/5.\n(ii) P(not white) = 1 − 7/20 = 13/20.",
+   "rubric": [
+    {
+     "p": "P(green) = 2/5",
+     "m": 1
+    },
+    {
+     "p": "P(not white) = 13/20",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 26,
+   "id": "q26",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch01",
+   "topic": "Proof that √p is irrational",
+   "question": "Prove that √5 is irrational.",
+   "model_answer": "Assume √5 is rational: √5 = a/b where a, b are co-prime integers, b ≠ 0.\nThen 5b² = a², so 5 divides a², hence 5 divides a (5 is prime). Write a = 5c.\nThen 5b² = 25c², so b² = 5c², so 5 divides b² and hence b.\nSo 5 divides both a and b, contradicting that they are co-prime. Hence √5 is irrational.",
+   "rubric": [
+    {
+     "p": "Assumes √5 = a/b with a, b co-prime",
+     "m": 1
+    },
+    {
+     "p": "Shows 5 divides a (a = 5c) and then 5 divides b",
+     "m": 1
+    },
+    {
+     "p": "States the contradiction and concludes",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 27,
+   "id": "q27",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch02",
+   "topic": "Zeroes of a quadratic and verification",
+   "question": "Find the zeroes of 6x² − 3 − 7x and verify the relationship between the zeroes and the coefficients.",
+   "model_answer": "6x² − 7x − 3 = 6x² − 9x + 2x − 3 = 3x(2x − 3) + 1(2x − 3) = (3x + 1)(2x − 3).\nZeroes: −1/3 and 3/2.\nSum = −1/3 + 3/2 = 7/6 = −b/a = 7/6 ✓. Product = −1/2 = c/a = −3/6 ✓.",
+   "rubric": [
+    {
+     "p": "Correct factorisation (splitting the middle term)",
+     "m": 1
+    },
+    {
+     "p": "Zeroes −1/3 and 3/2",
+     "m": 1
+    },
+    {
+     "p": "Both relations verified",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 28,
+   "id": "q28",
+   "section": "C",
+   "marks": 3,
+   "alts": [
+    {
+     "id": "q28A",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ch07",
+     "topic": "Ratio in which an axis divides a segment",
+     "question": "Find the ratio in which the y-axis divides the segment joining (5, −6) and (−1, −4). Also find the point of division.",
+     "model_answer": "Let the ratio be k : 1. x-coordinate of the point = (−k + 5)/(k + 1) = 0, so k = 5. Ratio 5 : 1.\ny = (5 × (−4) + 1 × (−6))/6 = −26/6 = −13/3.\nPoint: (0, −13/3).",
+     "rubric": [
+      {
+       "p": "Takes ratio k : 1 and sets x = 0",
+       "m": 1
+      },
+      {
+       "p": "Ratio 5 : 1",
+       "m": 1
+      },
+      {
+       "p": "Point (0, −13/3)",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q28B",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ch07",
+     "topic": "Point equidistant from two points",
+     "question": "Find the point on the x-axis which is equidistant from (2, −5) and (−2, 9).",
+     "model_answer": "Let the point be (x, 0). (x − 2)² + 25 = (x + 2)² + 81.\nx² − 4x + 29 = x² + 4x + 85, so −8x = 56 and x = −7.\nThe point is (−7, 0).",
+     "rubric": [
+      {
+       "p": "Takes (x, 0) and equates the squared distances",
+       "m": 1
+      },
+      {
+       "p": "Simplifies correctly",
+       "m": 1
+      },
+      {
+       "p": "Point (−7, 0)",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 29,
+   "id": "q29",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch10",
+   "topic": "Angle between tangents is supplementary to the angle at the centre",
+   "question": "Prove that the angle between the two tangents drawn from an external point to a circle is supplementary to the angle subtended by the line segment joining the points of contact at the centre.",
+   "model_answer": "Let PA, PB be tangents from P; O the centre. OA ⟂ PA and OB ⟂ PB, so ∠OAP = ∠OBP = 90°.\nIn quadrilateral OAPB, the angle sum is 360°: ∠AOB + ∠OAP + ∠APB + ∠OBP = 360°.\nSo ∠AOB + ∠APB = 360° − 180° = 180°: the angles are supplementary.",
+   "rubric": [
+    {
+     "p": "Figure with radii ⟂ tangents (90° each)",
+     "m": 1
+    },
+    {
+     "p": "Angle sum of quadrilateral OAPB = 360°",
+     "m": 1
+    },
+    {
+     "p": "Concludes ∠AOB + ∠APB = 180°",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 30,
+   "id": "q30",
+   "section": "C",
+   "marks": 3,
+   "alts": [
+    {
+     "id": "q30A",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ch08",
+     "topic": "Proving trigonometric identities",
+     "question": "Prove that (sin θ − cos θ + 1)/(sin θ + cos θ − 1) = 1/(sec θ − tan θ).",
+     "model_answer": "Divide numerator and denominator by cos θ: LHS = (tan θ − 1 + sec θ)/(tan θ + 1 − sec θ).\nWrite 1 = sec²θ − tan²θ in the numerator: tan θ + sec θ − (sec²θ − tan²θ) = (sec θ + tan θ)(1 − sec θ + tan θ).\nSo LHS = (sec θ + tan θ)(tan θ − sec θ + 1)/(tan θ − sec θ + 1) = sec θ + tan θ = 1/(sec θ − tan θ), since (sec θ + tan θ)(sec θ − tan θ) = 1.",
+     "rubric": [
+      {
+       "p": "Divides by cos θ to get tan/sec form",
+       "m": 1
+      },
+      {
+       "p": "Uses sec²θ − tan²θ = 1 to factor",
+       "m": 1
+      },
+      {
+       "p": "Reaches sec θ + tan θ = 1/(sec θ − tan θ)",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q30B",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ch08",
+     "topic": "Proving trigonometric identities",
+     "question": "Prove that (1 + cot A − cosec A)(1 + tan A + sec A) = 2.",
+     "model_answer": "Write in sin and cos: (1 + cos A/sin A − 1/sin A)(1 + sin A/cos A + 1/cos A)\n= [(sin A + cos A − 1)/sin A] × [(cos A + sin A + 1)/cos A]\n= [(sin A + cos A)² − 1]/(sin A cos A) = (1 + 2 sin A cos A − 1)/(sin A cos A) = 2.",
+     "rubric": [
+      {
+       "p": "Converts to sin and cos with common denominators",
+       "m": 1
+      },
+      {
+       "p": "Uses (a − 1)(a + 1) = a² − 1 with a = sin A + cos A",
+       "m": 1
+      },
+      {
+       "p": "Simplifies to 2",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 31,
+   "id": "q31",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch13",
+   "topic": "Mode of grouped data",
+   "question": "Find the mode of the data:\nClass: 0–10, 10–20, 20–30, 30–40, 40–50\nFrequency: 5, 8, 12, 7, 3",
+   "model_answer": "Modal class = 20–30 (highest frequency 12). l = 20, f₁ = 12, f₀ = 8, f₂ = 7, h = 10.\nMode = l + (f₁ − f₀)/(2f₁ − f₀ − f₂) × h = 20 + 4/9 × 10 = 20 + 4.44 = 24.44 (approx.).",
+   "rubric": [
+    {
+     "p": "Identifies the modal class and l, f₀, f₁, f₂, h",
+     "m": 1
+    },
+    {
+     "p": "Correct substitution in the formula",
+     "m": 1
+    },
+    {
+     "p": "Mode ≈ 24.44",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 32,
+   "id": "q32",
+   "section": "D",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q32A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch04",
+     "topic": "Quadratic word problem (speed–time)",
+     "question": "A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. Find the speed of the train.",
+     "model_answer": "Let the speed be x km/h. 360/x − 360/(x + 5) = 1.\n360(x + 5 − x) = x(x + 5), so x² + 5x − 1800 = 0.\n(x + 45)(x − 40) = 0, so x = 40 or x = −45.\nSpeed cannot be negative, so the speed is 40 km/h.",
+     "rubric": [
+      {
+       "p": "Forms 360/x − 360/(x + 5) = 1",
+       "m": 1
+      },
+      {
+       "p": "Reduces to x² + 5x − 1800 = 0",
+       "m": 1
+      },
+      {
+       "p": "Solves (factorisation or formula)",
+       "m": 2
+      },
+      {
+       "p": "Rejects −45; speed 40 km/h",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q32B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch04",
+     "topic": "Quadratic word problem (ages)",
+     "question": "The sum of the reciprocals of a child's ages (in years) 2 years ago and 4 years from now is 1/4. Find the child's present age.",
+     "model_answer": "Let the present age be x. 1/(x − 2) + 1/(x + 4) = 1/4.\n4(2x + 2) = (x − 2)(x + 4), so 8x + 8 = x² + 2x − 8.\nx² − 6x − 16 = 0, so (x − 8)(x + 2) = 0.\nx = 8 (age cannot be −2). The child is 8 years old.",
+     "rubric": [
+      {
+       "p": "Forms the equation in x",
+       "m": 1
+      },
+      {
+       "p": "Reduces to x² − 6x − 16 = 0",
+       "m": 1
+      },
+      {
+       "p": "Solves (factorisation or formula)",
+       "m": 2
+      },
+      {
+       "p": "Rejects −2; age 8 years",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 33,
+   "id": "q33",
+   "section": "D",
+   "type": "self",
+   "marks": 5,
+   "chapter": "ch06",
+   "topic": "BPT proof + application",
+   "question": "State and prove the Basic Proportionality Theorem. Using it, find PT if in ΔPQR a line ST ∥ QR meets PQ at S and PR at T, with PS/SQ = 3/5 and PR = 28 cm.",
+   "model_answer": "Statement: a line drawn parallel to one side of a triangle, cutting the other two sides at distinct points, divides those sides in the same ratio.\nProof (ΔABC, DE ∥ BC): join BE and CD, draw EN ⟂ AB and DM ⟂ AC. ar(ADE) = ½·AD·EN, ar(BDE) = ½·DB·EN, so ar(ADE)/ar(BDE) = AD/DB. Similarly ar(ADE)/ar(DEC) = AE/EC. ΔBDE and ΔDEC are on the same base DE between the same parallels DE and BC, so ar(BDE) = ar(DEC). Hence AD/DB = AE/EC.\nApplication: PT/TR = PS/SQ = 3/5, so PT = 3/8 × 28 = 10.5 cm.",
+   "rubric": [
+    {
+     "p": "Correct statement with figure",
+     "m": 1
+    },
+    {
+     "p": "Area ratios ar(ADE)/ar(BDE) = AD/DB and ar(ADE)/ar(DEC) = AE/EC",
+     "m": 1
+    },
+    {
+     "p": "ar(BDE) = ar(DEC) (same base, same parallels) and conclusion",
+     "m": 1
+    },
+    {
+     "p": "PT/TR = 3/5 used",
+     "m": 1
+    },
+    {
+     "p": "PT = 10.5 cm",
+     "m": 1
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 34,
+   "id": "q34",
+   "section": "D",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q34A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch12",
+     "topic": "Surface area of a combined solid",
+     "question": "A solid toy is a hemisphere surmounted by a right circular cone of the same radius. The radius is 3.5 cm and the total height of the toy is 15.5 cm. Find the total surface area of the toy (π = 22/7).",
+     "model_answer": "Height of cone h = 15.5 − 3.5 = 12 cm. Slant height l = √(12² + 3.5²) = √156.25 = 12.5 cm.\nTSA = CSA of hemisphere + CSA of cone = 2πr² + πrl = πr(2r + l)\n= 22/7 × 3.5 × (7 + 12.5) = 11 × 19.5 = 214.5 cm².",
+     "rubric": [
+      {
+       "p": "Cone height 12 cm",
+       "m": 1
+      },
+      {
+       "p": "Slant height 12.5 cm",
+       "m": 1
+      },
+      {
+       "p": "TSA = 2πr² + πrl (no base areas)",
+       "m": 1
+      },
+      {
+       "p": "Correct substitution",
+       "m": 1
+      },
+      {
+       "p": "214.5 cm²",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q34B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch12",
+     "topic": "Volume of a hollowed solid",
+     "question": "From a solid cylinder of height 15 cm and diameter 14 cm, a conical cavity of the same radius and height 9 cm is hollowed out. Find the volume of the remaining solid (π = 22/7).",
+     "model_answer": "r = 7 cm. Volume of cylinder = πr²H = 22/7 × 49 × 15 = 2310 cm³.\nVolume of cone = ⅓πr²h = ⅓ × 22/7 × 49 × 9 = 462 cm³.\nRemaining volume = 2310 − 462 = 1848 cm³.",
+     "rubric": [
+      {
+       "p": "Radius 7 cm and the subtraction idea",
+       "m": 1
+      },
+      {
+       "p": "Cylinder volume 2310 cm³",
+       "m": 1.5
+      },
+      {
+       "p": "Cone volume 462 cm³",
+       "m": 1.5
+      },
+      {
+       "p": "Remaining 1848 cm³",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 35,
+   "id": "q35",
+   "section": "D",
+   "type": "self",
+   "marks": 5,
+   "chapter": "ch09",
+   "topic": "Heights and distances (two angles of depression)",
+   "question": "From the top of a 60 m high building, the angles of depression of the top and the bottom of a tower are 30° and 60° respectively. Find the height of the tower and the distance between the building and the tower.",
+   "model_answer": "Let the distance be d and the tower height h. From the bottom of the tower: tan 60° = 60/d, so d = 60/√3 = 20√3 m.\nFrom the top of the tower: tan 30° = (60 − h)/d, so 60 − h = 20√3 × 1/√3 = 20, so h = 40 m.\nDistance = 20√3 m ≈ 34.64 m; tower height = 40 m.",
+   "rubric": [
+    {
+     "p": "Correct figure with both angles",
+     "m": 1
+    },
+    {
+     "p": "tan 60° = 60/d gives d = 20√3 m",
+     "m": 1.5
+    },
+    {
+     "p": "tan 30° = (60 − h)/d",
+     "m": 1.5
+    },
+    {
+     "p": "h = 40 m (and d stated)",
+     "m": 1
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 36,
+   "id": "q36",
+   "section": "E",
+   "marks": 4,
+   "stem": "A school hall has seats in rows. The first row has 20 seats and each row after it has 2 more seats than the row in front. There are 25 rows.",
+   "parts": [
+    {
+     "id": "q36a",
+     "type": "numeric",
+     "marks": 1,
+     "chapter": "ch05",
+     "topic": "nth term of an AP",
+     "question": "How many seats are there in the 10th row?",
+     "answer": "38",
+     "explanation": "a₁₀ = 20 + 9 × 2 = 38."
+    },
+    {
+     "id": "q36b",
+     "type": "numeric",
+     "marks": 1,
+     "chapter": "ch05",
+     "topic": "nth term of an AP",
+     "question": "Which row has 50 seats? (Type the row number.)",
+     "answer": "16",
+     "explanation": "20 + (n − 1) × 2 = 50 gives n = 16."
+    },
+    {
+     "id": "q36c",
+     "marks": 2,
+     "alts": [
+      {
+       "id": "q36cA",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch05",
+       "topic": "Sum of n terms of an AP",
+       "question": "Find the total number of seats in the hall.",
+       "model_answer": "S₂₅ = 25/2 [2 × 20 + 24 × 2] = 25/2 × 88 = 1100 seats.",
+       "rubric": [
+        {
+         "p": "Correct formula with a = 20, d = 2, n = 25",
+         "m": 1
+        },
+        {
+         "p": "1100 seats",
+         "m": 1
+        }
+       ],
+       "label": "A"
+      },
+      {
+       "id": "q36cB",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch05",
+       "topic": "Sum of n terms of an AP",
+       "question": "The first 15 rows are reserved for students. How many seats are reserved?",
+       "model_answer": "S₁₅ = 15/2 [40 + 14 × 2] = 15/2 × 68 = 510 seats.",
+       "rubric": [
+        {
+         "p": "Correct formula with n = 15",
+         "m": 1
+        },
+        {
+         "p": "510 seats",
+         "m": 1
+        }
+       ],
+       "label": "B"
+      }
+     ]
+    }
+   ],
+   "qtype": "Case study"
+  },
+  {
+   "n": 37,
+   "id": "q37",
+   "section": "E",
+   "marks": 4,
+   "stem": "A circular lawn has radius 14 m. A rotating sprinkler at the centre waters a sector of angle 90° at a time. (π = 22/7)",
+   "parts": [
+    {
+     "id": "q37a",
+     "type": "numeric",
+     "marks": 1,
+     "chapter": "ch11",
+     "topic": "Area of a sector",
+     "question": "Find the area (in m²) watered in one position.",
+     "answer": "154",
+     "explanation": "θ/360 × πr² = 1/4 × 22/7 × 196 = 154 m²."
+    },
+    {
+     "id": "q37b",
+     "type": "numeric",
+     "marks": 1,
+     "chapter": "ch11",
+     "topic": "Length of an arc",
+     "question": "Find the length (in m) of the arc of this sector.",
+     "answer": "22",
+     "explanation": "θ/360 × 2πr = 1/4 × 2 × 22/7 × 14 = 22 m."
+    },
+    {
+     "id": "q37c",
+     "marks": 2,
+     "alts": [
+      {
+       "id": "q37cA",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch11",
+       "topic": "Area of a segment",
+       "question": "Find the area of the minor segment cut off by the chord joining the ends of this arc.",
+       "model_answer": "Area of segment = area of sector − area of right triangle = 154 − ½ × 14 × 14 = 154 − 98 = 56 m².",
+       "rubric": [
+        {
+         "p": "Segment = sector − triangle",
+         "m": 1
+        },
+        {
+         "p": "56 m²",
+         "m": 1
+        }
+       ],
+       "label": "A"
+      },
+      {
+       "id": "q37cB",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch11",
+       "topic": "Perimeter of a sector",
+       "question": "Find the perimeter of the watered sector.",
+       "model_answer": "Perimeter = arc + 2 radii = 22 + 2 × 14 = 50 m.",
+       "rubric": [
+        {
+         "p": "Arc + 2r",
+         "m": 1
+        },
+        {
+         "p": "50 m",
+         "m": 1
+        }
+       ],
+       "label": "B"
+      }
+     ]
+    }
+   ],
+   "qtype": "Case study"
+  },
+  {
+   "n": 38,
+   "id": "q38",
+   "section": "E",
+   "marks": 4,
+   "stem": "A survey recorded the weekly pocket expenses (₹) of 40 students:\nExpense (₹): 0–20, 20–40, 40–60, 60–80, 80–100\nStudents: 6, 10, 14, 7, 3",
+   "parts": [
+    {
+     "id": "q38a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch13",
+     "topic": "Modal class",
+     "question": "The modal class is:",
+     "options": [
+      "20–40",
+      "40–60",
+      "0–20",
+      "60–80"
+     ],
+     "answer": "B",
+     "explanation": "Highest frequency (14) is in 40–60."
+    },
+    {
+     "id": "q38b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch13",
+     "topic": "Median class",
+     "question": "The median class is:",
+     "options": [
+      "20–40",
+      "40–60",
+      "60–80",
+      "80–100"
+     ],
+     "answer": "B",
+     "explanation": "N/2 = 20; cumulative frequencies 6, 16, 30, …, so the 20th value lies in 40–60."
+    },
+    {
+     "id": "q38c",
+     "marks": 2,
+     "alts": [
+      {
+       "id": "q38cA",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch13",
+       "topic": "Median of grouped data",
+       "question": "Find the median expense.",
+       "model_answer": "l = 40, cf = 16, f = 14, h = 20. Median = 40 + (20 − 16)/14 × 20 = 40 + 5.71 = ₹45.71 (approx.).",
+       "rubric": [
+        {
+         "p": "Correct l, cf, f, h",
+         "m": 1
+        },
+        {
+         "p": "Median ≈ ₹45.71",
+         "m": 1
+        }
+       ],
+       "label": "A"
+      },
+      {
+       "id": "q38cB",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch13",
+       "topic": "Mean of grouped data",
+       "question": "Find the mean expense.",
+       "model_answer": "Class marks 10, 30, 50, 70, 90. Σfx = 60 + 300 + 700 + 490 + 270 = 1820. Mean = 1820/40 = ₹45.50.",
+       "rubric": [
+        {
+         "p": "Σfx = 1820",
+         "m": 1
+        },
+        {
+         "p": "Mean = ₹45.50",
+         "m": 1
+        }
+       ],
+       "label": "B"
+      }
+     ]
+    }
+   ],
+   "qtype": "Case study"
+  }
+ ]
+}

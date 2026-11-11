@@ -1,0 +1,708 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch02",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 2 Polynomials (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 2 Polynomials",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2023-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (negative allowed). No calculator.",
+ "suggested_minutes": 40,
+ "video_url": null,
+ "worksheet_url": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "P1": "Find the zeroes and verify",
+  "P2": "Form a polynomial from zeroes / sum and product",
+  "P3": "Value of an α, β expression",
+  "P4": "Find k from a condition on the zeroes",
+  "P5": "Zeroes from a graph",
+  "P7": "Case study: height polynomial",
+  "P8": "Value p(k), degree facts"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Degree, value p(k) and zeroes",
+   "tip": "Degree = highest power. k is a zero when p(k) = 0: substitute carefully with brackets for negatives. Zero of ax + b is −b/a.",
+   "ncert": "NCERT §2.1"
+  },
+  "S2": {
+   "name": "Zeroes on a graph (geometric meaning)",
+   "tip": "Zeroes are where the graph meets the x-axis. A touching point counts once; the y-axis crossing never counts. Degree n → at most n zeroes.",
+   "ncert": "NCERT §2.2, Example 1; Exercise 2.1"
+  },
+  "S3": {
+   "name": "Sum and product of zeroes",
+   "tip": "Sum = −b/a, product = c/a. Put the polynomial in standard form ax² + bx + c before reading a, b, c.",
+   "ncert": "NCERT §2.3; Summary point 5"
+  },
+  "S4": {
+   "name": "Find the zeroes and verify",
+   "tip": "Rearrange, split the middle term, set each factor to 0, then verify sum and product against −b/a and c/a.",
+   "ncert": "NCERT Examples 2, 3; Exercise 2.2 Q1"
+  },
+  "S5": {
+   "name": "Form a quadratic polynomial",
+   "tip": "Use k[x² − (sum)x + product] and choose k to clear fractions. From zeroes: add and multiply them first. Infinitely many polynomials share two zeroes.",
+   "ncert": "NCERT Example 4; Exercise 2.2 Q2"
+  },
+  "S6": {
+   "name": "Expressions in α and β",
+   "tip": "Rewrite every expression with α + β and αβ: α² + β² = (α + β)² − 2αβ, (α − β)² = (α + β)² − 4αβ, 1/α + 1/β = (α + β)/αβ.",
+   "ncert": "Past-paper type built on NCERT §2.3 (no direct NCERT exercise)"
+  },
+  "S7": {
+   "name": "Find k from a condition on the zeroes",
+   "tip": "Translate the condition: reciprocal → c = a; given zero r → p(r) = 0; sum = product → −b/a = c/a; one zero m times the other → α and mα.",
+   "ncert": "Past-paper type built on NCERT §2.3"
+  },
+  "S8": {
+   "name": "Case study: height polynomial",
+   "tip": "For h(t) = bt − at², the zeroes are the start and landing times; the highest point is midway between them.",
+   "ncert": "Case-study type (2023, 2024 papers); revise NCERT §2.2 graphs"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "P8",
+   "type": "mcq",
+   "question": "What is the degree of the polynomial 7x − 4x³ + 2?",
+   "answer": "D",
+   "explanation": "The highest power of x is 3.",
+   "remediation": "Video part 1.",
+   "options": [
+    "1",
+    "7",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "P8",
+   "type": "mcq",
+   "question": "Which of these is a quadratic polynomial?",
+   "answer": "A",
+   "explanation": "Degree 2 with whole-number powers only. 1/x and √x are not polynomials.",
+   "remediation": "Video part 1.",
+   "options": [
+    "3x² − x + 2",
+    "x³ + 2x",
+    "1/x + 2",
+    "√x + 1"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "P8",
+   "type": "numeric",
+   "question": "If p(x) = x² − 4x + 1, find p(3).",
+   "answer": "-2",
+   "explanation": "p(3) = 9 − 12 + 1 = −2.",
+   "remediation": "Video part 1: put 3 in place of x."
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "P8",
+   "type": "mcq",
+   "question": "Which number is a zero of x² + x − 6?",
+   "answer": "D",
+   "explanation": "x² + x − 6 = (x + 3)(x − 2), so the zeroes are 2 and −3. Check: p(2) = 4 + 2 − 6 = 0.",
+   "remediation": "Video part 1: k is a zero when p(k) = 0.",
+   "options": [
+    "6",
+    "3",
+    "−2",
+    "2"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "P8",
+   "type": "mcq",
+   "question": "The zero of the linear polynomial 3x + 7 is:",
+   "answer": "A",
+   "explanation": "Zero of ax + b is −b/a = −7/3.",
+   "remediation": "Video part 1.",
+   "options": [
+    "−7/3",
+    "7/3",
+    "−3/7",
+    "3/7"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "P8",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "B",
+   "explanation": "Both statements are true, but the degree of a non-zero constant does not explain why the zero polynomial has no degree.",
+   "remediation": "Video part 9.",
+   "assertion": "The degree of the zero polynomial is not defined.",
+   "reason": "The degree of a non-zero constant polynomial is 0.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "P5",
+   "type": "mcq",
+   "question": "The zeroes of p(x) are the x-coordinates of the points where the graph of y = p(x):",
+   "answer": "C",
+   "explanation": "Zeroes make y = p(x) = 0, i.e. points on the x-axis.",
+   "remediation": "Video part 2.",
+   "options": [
+    "meets the line y = x",
+    "meets the y-axis",
+    "meets the x-axis",
+    "reaches its highest point"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "P5",
+   "type": "mcq",
+   "question": "At most how many zeroes can a cubic polynomial have?",
+   "answer": "C",
+   "explanation": "Degree n → at most n zeroes.",
+   "remediation": "Video part 2.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "P5",
+   "type": "numeric",
+   "question": "The graph of y = p(x) crosses the x-axis at x = −3 and x = 1, touches it at x = 4, and crosses the y-axis at y = 5. It meets the x-axis nowhere else. How many zeroes does p(x) have?",
+   "answer": "3",
+   "explanation": "−3, 1 and 4 (a touch counts). The y-axis crossing is not a zero.",
+   "remediation": "Video part 2: the two traps."
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "P5",
+   "type": "mcq",
+   "question": "The graph of y = ax² + bx + c opens downwards. Then:",
+   "answer": "C",
+   "explanation": "A parabola opens down when a is negative.",
+   "remediation": "Video part 2.",
+   "options": [
+    "b < 0",
+    "c < 0",
+    "a < 0",
+    "a > 0"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "P5",
+   "type": "mcq",
+   "question": "The graph of a quadratic polynomial passes through (−4, 0), (0, −8), (2, 0) and (3, 7). Its zeroes are:",
+   "answer": "D",
+   "explanation": "Zeroes are where y = 0: x = −4 and x = 2. (The polynomial is x² + 2x − 8.)",
+   "remediation": "Video part 2; past-paper type (SQP 2024-25 Q1).",
+   "options": [
+    "0 and −8",
+    "−4 and 3",
+    "2 and 7",
+    "−4 and 2"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S2",
+   "level": "L4",
+   "pattern": "P5",
+   "type": "mcq",
+   "question": "The graph of y = x² + 2x + 3 meets the x-axis at:",
+   "answer": "A",
+   "explanation": "x² + 2x + 3 = (x + 1)² + 2 is always at least 2, so it never equals 0: no zeroes.",
+   "remediation": "Video part 2: a quadratic can have 0 zeroes.",
+   "options": [
+    "no point",
+    "three points",
+    "exactly one point",
+    "two points"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "The sum of the zeroes of 2x² − 7x + 3 is:",
+   "answer": "C",
+   "explanation": "Sum = −b/a = −(−7)/2 = 7/2.",
+   "remediation": "Video part 3.",
+   "options": [
+    "3/2",
+    "−7/2",
+    "7/2",
+    "−3/2"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "The product of the zeroes of 4x² + 9x − 5 is:",
+   "answer": "C",
+   "explanation": "Product = c/a = −5/4.",
+   "remediation": "Video part 3.",
+   "options": [
+    "5/4",
+    "9/4",
+    "−5/4",
+    "−9/4"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "The sum of the zeroes of 3 − 2x + 5x² is:",
+   "answer": "B",
+   "explanation": "Rearrange: 5x² − 2x + 3, so a = 5, b = −2: sum = 2/5.",
+   "remediation": "Video part 4: rearrange before reading a, b, c.",
+   "options": [
+    "2/3",
+    "2/5",
+    "3/5",
+    "−2/5"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "P1",
+   "type": "mcq",
+   "question": "The zeroes of x² − 2x − 15 are:",
+   "answer": "A",
+   "explanation": "x² − 2x − 15 = (x − 5)(x + 3).",
+   "remediation": "Video part 4.",
+   "options": [
+    "5 and −3",
+    "−5 and 3",
+    "5 and 3",
+    "−5 and −3"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "P1",
+   "type": "mcq",
+   "question": "The zeroes of 6x² − 5x − 6 are:",
+   "answer": "A",
+   "explanation": "6x² − 9x + 4x − 6 = (2x − 3)(3x + 2).",
+   "remediation": "Video part 4.",
+   "options": [
+    "3/2 and −2/3",
+    "3/2 and 2/3",
+    "−3/2 and 2/3",
+    "−3/2 and −2/3"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "P1",
+   "type": "mcq",
+   "question": "The zeroes of 4x² − 4x + 1 are:",
+   "answer": "B",
+   "explanation": "4x² − 4x + 1 = (2x − 1)²: two equal zeroes.",
+   "remediation": "Video part 4; NCERT Exercise 2.2 Q1(ii) type.",
+   "options": [
+    "1/2 and −1/2",
+    "1/2 and 1/2",
+    "−1/2 and −1/2",
+    "1 and 1/4"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "P1",
+   "type": "mcq",
+   "question": "For x² − 11, which is correct?",
+   "answer": "D",
+   "explanation": "x² − 11 = (x − √11)(x + √11). Sum 0 = −0/1, product −11 = −11/1.",
+   "remediation": "Video part 4 (t² − 15 example).",
+   "options": [
+    "Zeroes ±11; sum 0; product −121",
+    "Zeroes ±√11; sum 0; product 11",
+    "Zero √11 only; sum √11; product 11",
+    "Zeroes ±√11; sum 0; product −11"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "P1",
+   "type": "mcq",
+   "question": "The zeroes of 5x² + 10x are 0 and −2. Which verification is correct?",
+   "answer": "B",
+   "explanation": "a = 5, b = 10, c = 0: −b/a = −2, c/a = 0.",
+   "remediation": "Video part 4.",
+   "options": [
+    "sum 2 = 10/5 and product 0 = 0/5",
+    "sum −2 = −10/5 and product 0 = 0/5",
+    "sum −2 = 10/5 and product −2",
+    "sum 0 and product −2"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "P1",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Rearranged: 2x² − 5x − 7, so the sum is 5/2 (zeroes 7/2 and −1). R is the rule used.",
+   "remediation": "Video parts 3 and 4.",
+   "assertion": "The sum of the zeroes of 2x² − 7 − 5x is 5/2.",
+   "reason": "The sum of the zeroes of ax² + bx + c is −b/a.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "P2",
+   "type": "mcq",
+   "question": "A quadratic polynomial whose zeroes have sum 4 and product 3 is:",
+   "answer": "B",
+   "explanation": "x² − (sum)x + product.",
+   "remediation": "Video part 5.",
+   "options": [
+    "x² + 4x + 3",
+    "x² − 4x + 3",
+    "x² − 3x + 4",
+    "x² + 4x − 3"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "P2",
+   "type": "mcq",
+   "question": "A quadratic polynomial whose zeroes are −4 and 6 is:",
+   "answer": "D",
+   "explanation": "Sum 2, product −24.",
+   "remediation": "Video part 5.",
+   "options": [
+    "x² − 2x + 24",
+    "x² + 10x − 24",
+    "x² + 2x − 24",
+    "x² − 2x − 24"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "P2",
+   "type": "mcq",
+   "question": "A quadratic polynomial whose zeroes have sum −1/2 and product 3 is:",
+   "answer": "A",
+   "explanation": "x² + (1/2)x + 3, multiplied by 2.",
+   "remediation": "Video part 5: clear fractions with k.",
+   "options": [
+    "2x² + x + 6",
+    "2x² + x − 6",
+    "2x² − x + 6",
+    "x² + 2x + 3"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "P2",
+   "type": "mcq",
+   "question": "A quadratic polynomial whose zeroes are 2 + √3 and 2 − √3 is:",
+   "answer": "B",
+   "explanation": "Sum 4, product 4 − 3 = 1.",
+   "remediation": "Video part 5.",
+   "options": [
+    "x² + 4x + 1",
+    "x² − 4x + 1",
+    "x² − 4x − 1",
+    "x² − 4x + 7"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "P2",
+   "type": "mcq",
+   "question": "How many quadratic polynomials have 5 and −1 as their zeroes?",
+   "answer": "B",
+   "explanation": "k(x² − 4x − 5) works for every non-zero k.",
+   "remediation": "Video part 5 (2023 board item type).",
+   "options": [
+    "None",
+    "Infinitely many",
+    "Exactly one",
+    "Exactly two"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "P3",
+   "type": "numeric",
+   "question": "If α and β are the zeroes of x² − 7x + 10, find α² + β².",
+   "answer": "29",
+   "explanation": "(α + β)² − 2αβ = 49 − 20 = 29. Check: zeroes 2 and 5 → 4 + 25 = 29.",
+   "remediation": "Video part 6: both methods."
+  },
+  {
+   "id": "q28",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "If α and β are the zeroes of x² + 5x + 4, then 1/α + 1/β equals:",
+   "answer": "B",
+   "explanation": "(α + β)/αβ = −5/4.",
+   "remediation": "Video part 6.",
+   "options": [
+    "5/4",
+    "−5/4",
+    "4/5",
+    "−4/5"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "P3",
+   "type": "numeric",
+   "question": "If α and β (α > β) are the zeroes of x² − 8x + 12, find α − β.",
+   "answer": "4",
+   "explanation": "(α − β)² = 64 − 48 = 16, so α − β = 4 (zeroes 6 and 2).",
+   "remediation": "Video part 7: (α − β)² = (α + β)² − 4αβ."
+  },
+  {
+   "id": "q30",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "P3",
+   "type": "numeric",
+   "question": "If α and β are the zeroes of 2x² − 6x + 3, find α/β + β/α.",
+   "answer": "4",
+   "explanation": "α + β = 3, αβ = 3/2; α² + β² = 9 − 3 = 6; 6 ÷ 3/2 = 4.",
+   "remediation": "Video parts 6 and 7."
+  },
+  {
+   "id": "q31",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "If α and β are the zeroes of x² − 4x + 2, then (α + 1/β)(β + 1/α) equals:",
+   "answer": "C",
+   "explanation": "(αβ + 1)²/αβ = 3²/2 = 9/2.",
+   "remediation": "Video part 7 (SQP 2026-27 Q27 pattern).",
+   "options": [
+    "9",
+    "3/2",
+    "9/2",
+    "2/9"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "P3",
+   "type": "numeric",
+   "question": "If α and β are the zeroes of x² − 3x − 2, find α³β + αβ³.",
+   "answer": "-26",
+   "explanation": "αβ[(α + β)² − 2αβ] = −2 × (9 + 4) = −26.",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q33",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "P4",
+   "type": "numeric",
+   "question": "One zero of 3x² − 8x + k is the reciprocal of the other. Find k.",
+   "answer": "3",
+   "explanation": "αβ = 1 → k/3 = 1 → k = 3.",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "P4",
+   "type": "numeric",
+   "question": "If 2 is a zero of x² + kx − 10, find k.",
+   "answer": "3",
+   "explanation": "4 + 2k − 10 = 0 → k = 3.",
+   "remediation": "Video part 8: given zero → p(r) = 0."
+  },
+  {
+   "id": "q35",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "P4",
+   "type": "mcq",
+   "question": "The sum of the zeroes of kx² − 12x + 8k equals their product. The value of k is:",
+   "answer": "B",
+   "explanation": "12/k = 8k/k = 8 → k = 3/2.",
+   "remediation": "Video part 8.",
+   "options": [
+    "12",
+    "3/2",
+    "2/3",
+    "−3/2"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "P4",
+   "type": "numeric",
+   "question": "One zero of x² − 12x + k is three times the other. Find k.",
+   "answer": "27",
+   "explanation": "Zeroes α, 3α: 4α = 12 → α = 3; k = 3 × 9 = 27.",
+   "remediation": "Video part 8; worksheet Hard/HOTS."
+  },
+  {
+   "id": "q37",
+   "subtopic": "S7",
+   "level": "L4",
+   "pattern": "P4",
+   "type": "mcq",
+   "question": "For f(x) = 2x² + 7x + 5, note that 2 + 5 = 7. Which number is certainly a zero of f(x)?",
+   "answer": "A",
+   "explanation": "a + c = b ⇒ f(−1) = 2 − 7 + 5 = 0. The other zero is −c/a = −5/2.",
+   "remediation": "Video part 9 (SQP 2026-27 Q2 pattern).",
+   "options": [
+    "−1",
+    "−7",
+    "5/2",
+    "1"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S7",
+   "level": "L4",
+   "pattern": "P4",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Reciprocal zeroes ⇒ product 1 ⇒ 4/(k + 2) = 1 ⇒ k = 2. R is exactly the reason.",
+   "remediation": "Video part 9 (SQP 2026-27 Q20 pattern).",
+   "assertion": "If the zeroes of (k + 2)x² + 5x + 4 are reciprocals of each other, then k = 2.",
+   "reason": "The zeroes of ax² + bx + c are reciprocals of each other when a = c.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "P7",
+   "type": "numeric",
+   "question": "A ball's height after t seconds is h(t) = 20t − 5t² metres. After how many seconds does it come back to the ground?",
+   "answer": "4",
+   "explanation": "5t(4 − t) = 0 → t = 0 or 4; it lands at t = 4.",
+   "remediation": "Video part 10."
+  },
+  {
+   "id": "q40",
+   "subtopic": "S8",
+   "level": "L4",
+   "pattern": "P7",
+   "type": "numeric",
+   "question": "For the same ball, h(t) = 20t − 5t² metres, what is the greatest height (in metres)?",
+   "answer": "20",
+   "explanation": "The top is midway between the zeroes 0 and 4, at t = 2: h = 40 − 20 = 20 m.",
+   "remediation": "Video part 10: parabola symmetry."
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

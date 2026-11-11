@@ -1,6 +1,126 @@
 {
- "schema": 1,
+ "schema": 2,
  "tests": [
+  {
+   "id": "c10-maths-mock01",
+   "title": "Board-pattern Mock Paper 1",
+   "short_title": "Class 10 Maths (Standard) · Board-pattern Mock Paper 1",
+   "chapter": "",
+   "class": "10",
+   "subject": "Mathematics (Standard, 041)",
+   "version": 1,
+   "kind": "mock",
+   "subject_key": "maths",
+   "set": 1,
+   "max_marks": 80,
+   "duration_minutes": 180,
+   "questions": 38
+  },
+  {
+   "id": "c10-maths-mock02",
+   "title": "Board-pattern Mock Paper 2",
+   "short_title": "Class 10 Maths (Standard) · Board-pattern Mock Paper 2",
+   "chapter": "",
+   "class": "10",
+   "subject": "Mathematics (Standard, 041)",
+   "version": 1,
+   "kind": "mock",
+   "subject_key": "maths",
+   "set": 2,
+   "max_marks": 80,
+   "duration_minutes": 180,
+   "questions": 38
+  },
+  {
+   "id": "c10-science-mock01",
+   "title": "Board-pattern Mock Paper 1",
+   "short_title": "Class 10 Science · Board-pattern Mock Paper 1",
+   "chapter": "",
+   "class": "10",
+   "subject": "Science (086)",
+   "version": 1,
+   "kind": "mock",
+   "subject_key": "science",
+   "set": 1,
+   "max_marks": 80,
+   "duration_minutes": 180,
+   "questions": 39
+  },
+  {
+   "id": "c10-science-mock02",
+   "title": "Board-pattern Mock Paper 2",
+   "short_title": "Class 10 Science · Board-pattern Mock Paper 2",
+   "chapter": "",
+   "class": "10",
+   "subject": "Science (086)",
+   "version": 1,
+   "kind": "mock",
+   "subject_key": "science",
+   "set": 2,
+   "max_marks": 80,
+   "duration_minutes": 180,
+   "questions": 39
+  },
+  {
+   "id": "c10-sst-mock01",
+   "title": "Board-pattern Mock Paper 1",
+   "short_title": "Class 10 Social Science · Board-pattern Mock Paper 1",
+   "chapter": "",
+   "class": "10",
+   "subject": "Social Science (087)",
+   "version": 1,
+   "kind": "mock",
+   "subject_key": "sst",
+   "set": 1,
+   "max_marks": 80,
+   "duration_minutes": 180,
+   "questions": 38
+  },
+  {
+   "id": "c10-sst-mock02",
+   "title": "Board-pattern Mock Paper 2",
+   "short_title": "Class 10 Social Science · Board-pattern Mock Paper 2",
+   "chapter": "",
+   "class": "10",
+   "subject": "Social Science (087)",
+   "version": 1,
+   "kind": "mock",
+   "subject_key": "sst",
+   "set": 2,
+   "max_marks": 80,
+   "duration_minutes": 180,
+   "questions": 38
+  },
+  {
+   "id": "c10-english-mock01",
+   "title": "Board-pattern Mock Paper 1",
+   "short_title": "Class 10 English · Board-pattern Mock Paper 1",
+   "chapter": "",
+   "class": "10",
+   "subject": "English Language and Literature (184)",
+   "version": 1,
+   "kind": "mock",
+   "subject_key": "english",
+   "set": 1,
+   "max_marks": 80,
+   "duration_minutes": 180,
+   "questions": 11
+  },
+  {
+   "id": "c10-hindi-mock01",
+   "title": "Board-pattern Mock Paper 1",
+   "short_title": "Class 10 Hindi A · Board-pattern Mock Paper 1",
+   "chapter": "",
+   "class": "10",
+   "subject": "Hindi Course A (002)",
+   "version": 1,
+   "kind": "mock",
+   "subject_key": "hindi",
+   "set": 1,
+   "max_marks": 80,
+   "duration_minutes": 180,
+   "questions": 15
+  },
   {
    "id": "c10-ai",
    "title": "Board-pattern readiness test — most-repeated question types",
@@ -8,9 +128,12 @@
    "chapter": "CBSE Class 10 Artificial Intelligence (417) · Crash revision of the theory units (2026-27)",
    "class": "10",
    "subject": "Artificial Intelligence",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "ai",
+   "sub_chapter": {},
    "questions": 39,
-   "suggested_minutes": 40,
-   "version": 1
+   "suggested_minutes": 40
   },
   {
    "id": "c10-civics",
@@ -19,9 +142,18 @@
    "chapter": "CBSE Class 10 Social Science (087) · Political Science: Democratic Politics II · Crash revision (2026-27)",
    "class": "10",
    "subject": "Social Science: Political Science",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "sst",
+   "sub_chapter": {
+    "S1": "p1",
+    "S2": "p2",
+    "S3": "p3",
+    "S4": "p4",
+    "S5": "p5"
+   },
    "questions": 39,
-   "suggested_minutes": 35,
-   "version": 1
+   "suggested_minutes": 35
   },
   {
    "id": "c10-economics",
@@ -30,9 +162,17 @@
    "chapter": "CBSE Class 10 Social Science (087) · Economics: Understanding Economic Development · Crash revision (2026-27)",
    "class": "10",
    "subject": "Social Science: Economics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "sst",
+   "sub_chapter": {
+    "S1": "e1",
+    "S2": "e2",
+    "S3": "e3",
+    "S4": "e4"
+   },
    "questions": 35,
-   "suggested_minutes": 35,
-   "version": 1
+   "suggested_minutes": 35
   },
   {
    "id": "c10-english",
@@ -41,9 +181,23 @@
    "chapter": "CBSE Class 10 English Language and Literature (184) · Crash revision of reading, grammar, writing and literature (2026-27)",
    "class": "10",
    "subject": "English Language and Literature",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "english",
+   "sub_chapter": {
+    "S1": "read",
+    "S2": "gram",
+    "S3": "letter",
+    "S4": "para",
+    "S5": "ffprose",
+    "S6": "ffprose",
+    "S7": "ffpoem",
+    "S8": "ffpoem",
+    "S9": "fwf",
+    "S10": "fwf"
+   },
    "questions": 40,
-   "suggested_minutes": 40,
-   "version": 1
+   "suggested_minutes": 40
   },
   {
    "id": "c10-geography",
@@ -52,9 +206,20 @@
    "chapter": "CBSE Class 10 Social Science (087) · Geography: Contemporary India II · Crash revision (2026-27)",
    "class": "10",
    "subject": "Social Science: Geography",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "sst",
+   "sub_chapter": {
+    "S1": "g1",
+    "S2": "g2",
+    "S3": "g3",
+    "S4": "g4",
+    "S5": "g5",
+    "S6": "g6",
+    "S7": "gmap"
+   },
    "questions": 39,
-   "suggested_minutes": 35,
-   "version": 1
+   "suggested_minutes": 35
   },
   {
    "id": "c10-hindi",
@@ -63,9 +228,32 @@
    "chapter": "CBSE कक्षा 10 हिंदी कोर्स A (002) · क्रैश रिवीज़न (पाठ्यक्रम 2026-27)",
    "class": "10",
    "subject": "Hindi Course A",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "hindi",
+   "sub_chapter": {
+    "S1": "apathit",
+    "S2": "vakya",
+    "S3": "vachya",
+    "S4": "pad",
+    "S5": "alankar",
+    "S6": "surdas",
+    "S7": "ramlakshman",
+    "S8": "atmakathya",
+    "S9": "utsah",
+    "S10": "danturit",
+    "S11": "sangatkar",
+    "S12": "netaji",
+    "S13": "balgobin",
+    "S14": "lakhnavi",
+    "S15": "ekkahani",
+    "S16": "naubat",
+    "S17": "sanskriti",
+    "S18": "kritika",
+    "S19": "lekhan"
+   },
    "questions": 40,
-   "suggested_minutes": 40,
-   "version": 1
+   "suggested_minutes": 40
   },
   {
    "id": "c10-history",
@@ -74,9 +262,18 @@
    "chapter": "CBSE Class 10 Social Science (087) · History: India and the Contemporary World II · Crash revision (2026-27)",
    "class": "10",
    "subject": "Social Science: History",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "sst",
+   "sub_chapter": {
+    "S1": "h1",
+    "S2": "h2",
+    "S3": "h3",
+    "S4": "h4",
+    "S5": "hmap"
+   },
    "questions": 39,
-   "suggested_minutes": 35,
-   "version": 1
+   "suggested_minutes": 35
   },
   {
    "id": "c10-marathi",
@@ -85,9 +282,28 @@
    "chapter": "CBSE इयत्ता दहावी मराठी (009) · अक्षरभारती · क्रॅश रिव्हिजन (अभ्यासक्रम 2026-27)",
    "class": "10",
    "subject": "Marathi",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "marathi",
+   "sub_chapter": {
+    "S1": "vachan",
+    "S2": "jati",
+    "S3": "kal",
+    "S4": "vakya",
+    "S5": "lingvachan",
+    "S6": "samas",
+    "S7": "shal",
+    "S8": "chudi",
+    "S9": "foot",
+    "S10": "gadyalekhan",
+    "S11": "santvani",
+    "S12": "aukshan",
+    "S13": "sthul",
+    "S14": "nibandh",
+    "S15": "patra"
+   },
    "questions": 40,
-   "suggested_minutes": 40,
-   "version": 1
+   "suggested_minutes": 40
   },
   {
    "id": "c10-maths-ch01",
@@ -96,9 +312,71 @@
    "chapter": "CBSE Class 10 Mathematics · Chapter 1 Real Numbers (NCERT reprint 2026-27)",
    "class": "10",
    "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch01",
+    "S2": "ch01",
+    "S3": "ch01",
+    "S4": "ch01",
+    "S5": "ch01",
+    "S6": "ch01",
+    "S7": "ch01",
+    "S8": "ch01",
+    "S9": "ch01",
+    "S10": "ch01",
+    "S11": "ch01"
+   },
    "questions": 40,
-   "suggested_minutes": 45,
-   "version": 1
+   "suggested_minutes": 45
+  },
+  {
+   "id": "c10-maths-ch02",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 2 Polynomials",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 2 Polynomials (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch02",
+    "S2": "ch02",
+    "S3": "ch02",
+    "S4": "ch02",
+    "S5": "ch02",
+    "S6": "ch02",
+    "S7": "ch02",
+    "S8": "ch02"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
+   "id": "c10-maths-ch03",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 3 Pair of Linear Equations",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 3 Pair of Linear Equations in Two Variables (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch03",
+    "S2": "ch03",
+    "S3": "ch03",
+    "S4": "ch03",
+    "S5": "ch03",
+    "S6": "ch03",
+    "S7": "ch03",
+    "S8": "ch03",
+    "S9": "ch03"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
   },
   {
    "id": "c10-maths",
@@ -107,9 +385,27 @@
    "chapter": "CBSE Class 10 Mathematics Standard (041) · Crash revision of all chapters (2026-27 syllabus)",
    "class": "10",
    "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch01",
+    "S2": "ch02",
+    "S3": "ch03",
+    "S4": "ch04",
+    "S5": "ch05",
+    "S6": "ch07",
+    "S7": "ch06",
+    "S8": "ch10",
+    "S9": "ch08",
+    "S10": "ch09",
+    "S11": "ch11",
+    "S12": "ch12",
+    "S13": "ch13",
+    "S14": "ch14"
+   },
    "questions": 40,
-   "suggested_minutes": 50,
-   "version": 1
+   "suggested_minutes": 50
   },
   {
    "id": "c10-science",
@@ -118,9 +414,965 @@
    "chapter": "CBSE Class 10 Science (086) · Crash revision of all assessed chapters (2026-27 syllabus)",
    "class": "10",
    "subject": "Science",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "science",
+   "sub_chapter": {
+    "S1": "ch01",
+    "S2": "ch02",
+    "S3": "ch03",
+    "S4": "ch04",
+    "S5": "ch05",
+    "S6": "ch06",
+    "S7": "ch07",
+    "S8": "ch08",
+    "S9": "ch13",
+    "S10": "ch09",
+    "S11": "ch10",
+    "S12": "ch11",
+    "S13": "ch12"
+   },
    "questions": 40,
-   "suggested_minutes": 45,
-   "version": 1
+   "suggested_minutes": 45
   }
- ]
+ ],
+ "subjects": {
+  "maths": {
+   "name": "Mathematics",
+   "chapters": {
+    "ch01": {
+     "name": "Real Numbers",
+     "videos": [
+      {
+       "label": "Chapter video: Real Numbers",
+       "url": "https://youtu.be/hEvi18einFA"
+      },
+      {
+       "label": "Crash revision from 1:04",
+       "url": "https://youtu.be/Jg9raxKftdU?t=64"
+      },
+      {
+       "label": "Short: Irrationality proof",
+       "url": "https://youtube.com/shorts/A48YeeUBVfQ"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+     "chapter_test": "c10-maths-ch01"
+    },
+    "ch02": {
+     "name": "Polynomials",
+     "videos": [
+      {
+       "label": "Crash revision from 1:58",
+       "url": "https://youtu.be/Jg9raxKftdU?t=118"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch03": {
+     "name": "Pair of Linear Equations in Two Variables",
+     "videos": [
+      {
+       "label": "Crash revision from 2:47",
+       "url": "https://youtu.be/Jg9raxKftdU?t=167"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch04": {
+     "name": "Quadratic Equations",
+     "videos": [
+      {
+       "label": "Crash revision from 3:34",
+       "url": "https://youtu.be/Jg9raxKftdU?t=214"
+      },
+      {
+       "label": "Short: Quadratic formula",
+       "url": "https://youtube.com/shorts/BtLGe4P-pJ8"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch05": {
+     "name": "Arithmetic Progressions",
+     "videos": [
+      {
+       "label": "Crash revision from 4:27",
+       "url": "https://youtu.be/Jg9raxKftdU?t=267"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch06": {
+     "name": "Triangles",
+     "videos": [
+      {
+       "label": "Crash revision from 6:12",
+       "url": "https://youtu.be/Jg9raxKftdU?t=372"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch07": {
+     "name": "Coordinate Geometry",
+     "videos": [
+      {
+       "label": "Crash revision from 5:18",
+       "url": "https://youtu.be/Jg9raxKftdU?t=318"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch08": {
+     "name": "Introduction to Trigonometry",
+     "videos": [
+      {
+       "label": "Crash revision from 7:51",
+       "url": "https://youtu.be/Jg9raxKftdU?t=471"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch09": {
+     "name": "Some Applications of Trigonometry",
+     "videos": [
+      {
+       "label": "Crash revision from 8:49",
+       "url": "https://youtu.be/Jg9raxKftdU?t=529"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch10": {
+     "name": "Circles",
+     "videos": [
+      {
+       "label": "Crash revision from 7:01",
+       "url": "https://youtu.be/Jg9raxKftdU?t=421"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch11": {
+     "name": "Areas Related to Circles",
+     "videos": [
+      {
+       "label": "Crash revision from 9:40",
+       "url": "https://youtu.be/Jg9raxKftdU?t=580"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch12": {
+     "name": "Surface Areas and Volumes",
+     "videos": [
+      {
+       "label": "Crash revision from 10:36",
+       "url": "https://youtu.be/Jg9raxKftdU?t=636"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch13": {
+     "name": "Statistics",
+     "videos": [
+      {
+       "label": "Crash revision from 11:34",
+       "url": "https://youtu.be/Jg9raxKftdU?t=694"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    },
+    "ch14": {
+     "name": "Probability",
+     "videos": [
+      {
+       "label": "Crash revision from 12:25",
+       "url": "https://youtu.be/Jg9raxKftdU?t=745"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+    }
+   }
+  },
+  "science": {
+   "name": "Science",
+   "chapters": {
+    "ch01": {
+     "name": "Chemical Reactions and Equations",
+     "videos": [
+      {
+       "label": "Crash revision from 0:59",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=59"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch02": {
+     "name": "Acids, Bases and Salts",
+     "videos": [
+      {
+       "label": "Crash revision from 1:52",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=112"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch03": {
+     "name": "Metals and Non-metals",
+     "videos": [
+      {
+       "label": "Crash revision from 2:44",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=164"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch04": {
+     "name": "Carbon and its Compounds",
+     "videos": [
+      {
+       "label": "Crash revision from 3:36",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=216"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch05": {
+     "name": "Life Processes",
+     "videos": [
+      {
+       "label": "Crash revision from 4:35",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=275"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch06": {
+     "name": "Control and Coordination",
+     "videos": [
+      {
+       "label": "Crash revision from 5:35",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=335"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch07": {
+     "name": "How do Organisms Reproduce?",
+     "videos": [
+      {
+       "label": "Crash revision from 6:29",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=389"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch08": {
+     "name": "Heredity",
+     "videos": [
+      {
+       "label": "Crash revision from 7:22",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=442"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch09": {
+     "name": "Light: Reflection and Refraction",
+     "videos": [
+      {
+       "label": "Crash revision from 8:56",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=536"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch10": {
+     "name": "The Human Eye and the Colourful World",
+     "videos": [
+      {
+       "label": "Crash revision from 9:56",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=596"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch11": {
+     "name": "Electricity",
+     "videos": [
+      {
+       "label": "Crash revision from 10:45",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=645"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch12": {
+     "name": "Magnetic Effects of Electric Current",
+     "videos": [
+      {
+       "label": "Crash revision from 11:46",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=706"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    },
+    "ch13": {
+     "name": "Our Environment",
+     "videos": [
+      {
+       "label": "Crash revision from 8:07",
+       "url": "https://youtu.be/KwjpAEX8hRM?t=487"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+    }
+   }
+  },
+  "sst": {
+   "name": "Social Science",
+   "chapters": {
+    "h1": {
+     "name": "The Rise of Nationalism in Europe",
+     "videos": [
+      {
+       "label": "Crash revision from 1:11",
+       "url": "https://youtu.be/T_pqQVKFaKE?t=71"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "h2": {
+     "name": "Nationalism in India",
+     "videos": [
+      {
+       "label": "Crash revision from 3:46",
+       "url": "https://youtu.be/T_pqQVKFaKE?t=226"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "h3": {
+     "name": "The Making of a Global World",
+     "videos": [
+      {
+       "label": "Crash revision from 6:56",
+       "url": "https://youtu.be/T_pqQVKFaKE?t=416"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "h4": {
+     "name": "Print Culture and the Modern World",
+     "videos": [
+      {
+       "label": "Crash revision from 8:37",
+       "url": "https://youtu.be/T_pqQVKFaKE?t=517"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "hmap": {
+     "name": "History Map Work",
+     "videos": [
+      {
+       "label": "Crash revision from 11:06",
+       "url": "https://youtu.be/T_pqQVKFaKE?t=666"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "g1": {
+     "name": "Resources and Development",
+     "videos": [
+      {
+       "label": "Crash revision from 1:17",
+       "url": "https://youtu.be/uccjuxg-qOE?t=77"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "g2": {
+     "name": "Forest and Wildlife Resources",
+     "videos": [
+      {
+       "label": "Crash revision from 3:36",
+       "url": "https://youtu.be/uccjuxg-qOE?t=216"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "g3": {
+     "name": "Water Resources",
+     "videos": [
+      {
+       "label": "Crash revision from 4:36",
+       "url": "https://youtu.be/uccjuxg-qOE?t=276"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "g4": {
+     "name": "Agriculture",
+     "videos": [
+      {
+       "label": "Crash revision from 5:53",
+       "url": "https://youtu.be/uccjuxg-qOE?t=353"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "g5": {
+     "name": "Minerals and Energy Resources",
+     "videos": [
+      {
+       "label": "Crash revision from 7:57",
+       "url": "https://youtu.be/uccjuxg-qOE?t=477"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "g6": {
+     "name": "Manufacturing Industries",
+     "videos": [
+      {
+       "label": "Crash revision from 9:39",
+       "url": "https://youtu.be/uccjuxg-qOE?t=579"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "gmap": {
+     "name": "Geography Map Work",
+     "videos": [
+      {
+       "label": "Crash revision from 11:10",
+       "url": "https://youtu.be/uccjuxg-qOE?t=670"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "p1": {
+     "name": "Power Sharing",
+     "videos": [
+      {
+       "label": "Crash revision from 1:47",
+       "url": "https://youtu.be/M6GCszJvZSc?t=107"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "p2": {
+     "name": "Federalism",
+     "videos": [
+      {
+       "label": "Crash revision from 3:41",
+       "url": "https://youtu.be/M6GCszJvZSc?t=221"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "p3": {
+     "name": "Gender, Religion and Caste",
+     "videos": [
+      {
+       "label": "Crash revision from 5:50",
+       "url": "https://youtu.be/M6GCszJvZSc?t=350"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "p4": {
+     "name": "Political Parties",
+     "videos": [
+      {
+       "label": "Crash revision from 8:02",
+       "url": "https://youtu.be/M6GCszJvZSc?t=482"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "p5": {
+     "name": "Outcomes of Democracy",
+     "videos": [
+      {
+       "label": "Crash revision from 10:05",
+       "url": "https://youtu.be/M6GCszJvZSc?t=605"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "e1": {
+     "name": "Development",
+     "videos": [
+      {
+       "label": "Crash revision from 1:46",
+       "url": "https://youtu.be/h8kLRGoCYKE?t=106"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "e2": {
+     "name": "Sectors of the Indian Economy",
+     "videos": [
+      {
+       "label": "Crash revision from 4:04",
+       "url": "https://youtu.be/h8kLRGoCYKE?t=244"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "e3": {
+     "name": "Money and Credit",
+     "videos": [
+      {
+       "label": "Crash revision from 6:54",
+       "url": "https://youtu.be/h8kLRGoCYKE?t=414"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "e4": {
+     "name": "Globalisation and the Indian Economy",
+     "videos": [
+      {
+       "label": "Crash revision from 9:12",
+       "url": "https://youtu.be/h8kLRGoCYKE?t=552"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    }
+   }
+  },
+  "english": {
+   "name": "English Language and Literature",
+   "chapters": {
+    "read": {
+     "name": "Reading Skills",
+     "videos": [
+      {
+       "label": "Crash revision from 0:54",
+       "url": "https://youtu.be/R57ILRkldJo?t=54"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+    },
+    "gram": {
+     "name": "Grammar",
+     "videos": [
+      {
+       "label": "Crash revision from 1:40",
+       "url": "https://youtu.be/R57ILRkldJo?t=100"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+    },
+    "letter": {
+     "name": "Formal Letter",
+     "videos": [
+      {
+       "label": "Crash revision from 2:29",
+       "url": "https://youtu.be/R57ILRkldJo?t=149"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+    },
+    "para": {
+     "name": "Analytical Paragraph",
+     "videos": [
+      {
+       "label": "Crash revision from 3:25",
+       "url": "https://youtu.be/R57ILRkldJo?t=205"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+    },
+    "ffprose": {
+     "name": "First Flight Prose",
+     "videos": [
+      {
+       "label": "Crash revision from 4:15",
+       "url": "https://youtu.be/R57ILRkldJo?t=255"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+    },
+    "ffpoem": {
+     "name": "First Flight Poems",
+     "videos": [
+      {
+       "label": "Crash revision from 6:30",
+       "url": "https://youtu.be/R57ILRkldJo?t=390"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+    },
+    "fwf": {
+     "name": "Footprints Without Feet",
+     "videos": [
+      {
+       "label": "Crash revision from 8:31",
+       "url": "https://youtu.be/R57ILRkldJo?t=511"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+    }
+   }
+  },
+  "hindi": {
+   "name": "Hindi Course A",
+   "chapters": {
+    "apathit": {
+     "name": "अपठित बोध",
+     "videos": [
+      {
+       "label": "Crash revision from 1:09",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=69"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "vakya": {
+     "name": "रचना के आधार पर वाक्य भेद",
+     "videos": [
+      {
+       "label": "Crash revision from 1:45",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=105"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "vachya": {
+     "name": "वाच्य",
+     "videos": [
+      {
+       "label": "Crash revision from 2:37",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=157"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "pad": {
+     "name": "पद परिचय",
+     "videos": [
+      {
+       "label": "Crash revision from 3:21",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=201"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "alankar": {
+     "name": "अलंकार (अर्थालंकार)",
+     "videos": [
+      {
+       "label": "Crash revision from 4:04",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=244"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "surdas": {
+     "name": "सूरदास के पद",
+     "videos": [
+      {
+       "label": "Crash revision from 4:53",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=293"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "ramlakshman": {
+     "name": "राम-लक्ष्मण-परशुराम संवाद",
+     "videos": [
+      {
+       "label": "Crash revision from 5:19",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=319"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "atmakathya": {
+     "name": "आत्मकथ्य",
+     "videos": [
+      {
+       "label": "Crash revision from 5:45",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=345"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "utsah": {
+     "name": "उत्साह और अट नहीं रही है",
+     "videos": [
+      {
+       "label": "Crash revision from 6:12",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=372"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "danturit": {
+     "name": "यह दंतुरित मुसकान और फसल",
+     "videos": [
+      {
+       "label": "Crash revision from 6:37",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=397"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "sangatkar": {
+     "name": "संगतकार",
+     "videos": [
+      {
+       "label": "Crash revision from 7:02",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=422"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "netaji": {
+     "name": "नेताजी का चश्मा",
+     "videos": [
+      {
+       "label": "Crash revision from 7:29",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=449"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "balgobin": {
+     "name": "बालगोबिन भगत",
+     "videos": [
+      {
+       "label": "Crash revision from 8:01",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=481"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "lakhnavi": {
+     "name": "लखनवी अंदाज़",
+     "videos": [
+      {
+       "label": "Crash revision from 8:28",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=508"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "ekkahani": {
+     "name": "एक कहानी यह भी",
+     "videos": [
+      {
+       "label": "Crash revision from 8:52",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=532"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "naubat": {
+     "name": "नौबतखाने में इबादत",
+     "videos": [
+      {
+       "label": "Crash revision from 9:17",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=557"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "sanskriti": {
+     "name": "संस्कृति",
+     "videos": [
+      {
+       "label": "Crash revision from 9:42",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=582"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "kritika": {
+     "name": "कृतिका भाग 2",
+     "videos": [
+      {
+       "label": "Crash revision from 10:08",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=608"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    },
+    "lekhan": {
+     "name": "रचनात्मक लेखन",
+     "videos": [
+      {
+       "label": "Crash revision from 10:48",
+       "url": "https://youtu.be/ip_NkT1Bg_8?t=648"
+      }
+     ],
+     "worksheet": "https://drive.google.com/file/d/19SNRDfNYDOVEh_Ruz1-5ok_CpO0JhNGJ/view?usp=drive_link"
+    }
+   }
+  },
+  "marathi": {
+   "name": "Marathi",
+   "chapters": {
+    "vachan": {
+     "name": "वाचन व आकलन (अपठित)",
+     "videos": [
+      {
+       "label": "Crash revision from 1:28",
+       "url": "https://youtu.be/V-sybNVPi10?t=88"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "jati": {
+     "name": "शब्दांच्या जाती",
+     "videos": [
+      {
+       "label": "Crash revision from 2:18",
+       "url": "https://youtu.be/V-sybNVPi10?t=138"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "kal": {
+     "name": "काळ",
+     "videos": [
+      {
+       "label": "Crash revision from 3:19",
+       "url": "https://youtu.be/V-sybNVPi10?t=199"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "vakya": {
+     "name": "वाक्यांचे प्रकार",
+     "videos": [
+      {
+       "label": "Crash revision from 4:08",
+       "url": "https://youtu.be/V-sybNVPi10?t=248"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "lingvachan": {
+     "name": "लिंग, वचन, समानार्थी, विरुद्धार्थी",
+     "videos": [
+      {
+       "label": "Crash revision from 4:58",
+       "url": "https://youtu.be/V-sybNVPi10?t=298"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "samas": {
+     "name": "समास",
+     "videos": [
+      {
+       "label": "Crash revision from 5:50",
+       "url": "https://youtu.be/V-sybNVPi10?t=350"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "shal": {
+     "name": "शाल आणि उपास",
+     "videos": [
+      {
+       "label": "Crash revision from 6:38",
+       "url": "https://youtu.be/V-sybNVPi10?t=398"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "chudi": {
+     "name": "चुडीवाला आणि खरा नागरिक",
+     "videos": [
+      {
+       "label": "Crash revision from 7:16",
+       "url": "https://youtu.be/V-sybNVPi10?t=436"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "foot": {
+     "name": "फूटप्रिंट्स, ऊर्जाशक्तीचा जागर, रंग साहित्याचे",
+     "videos": [
+      {
+       "label": "Crash revision from 7:54",
+       "url": "https://youtu.be/V-sybNVPi10?t=474"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "gadyalekhan": {
+     "name": "गद्य उत्तरलेखन आणि वाक्प्रचार",
+     "videos": [
+      {
+       "label": "Crash revision from 8:41",
+       "url": "https://youtu.be/V-sybNVPi10?t=521"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "santvani": {
+     "name": "संतवाणी आणि दोन दिवस",
+     "videos": [
+      {
+       "label": "Crash revision from 9:23",
+       "url": "https://youtu.be/V-sybNVPi10?t=563"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "aukshan": {
+     "name": "औक्षण आणि स्वप्न करू साकार",
+     "videos": [
+      {
+       "label": "Crash revision from 10:06",
+       "url": "https://youtu.be/V-sybNVPi10?t=606"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "sthul": {
+     "name": "स्थूलवाचन",
+     "videos": [
+      {
+       "label": "Crash revision from 10:47",
+       "url": "https://youtu.be/V-sybNVPi10?t=647"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "nibandh": {
+     "name": "निबंध किंवा कथालेखन",
+     "videos": [
+      {
+       "label": "Crash revision from 11:27",
+       "url": "https://youtu.be/V-sybNVPi10?t=687"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    },
+    "patra": {
+     "name": "औपचारिक पत्र आणि जाहिरात",
+     "videos": [
+      {
+       "label": "Crash revision from 12:13",
+       "url": "https://youtu.be/V-sybNVPi10?t=733"
+      }
+     ],
+     "worksheet": "https://drive.google.com/drive/folders/1fHevoVaogsYQGLGq00K5iakx-DyG2SFS"
+    }
+   }
+  },
+  "ai": {
+   "name": "Artificial Intelligence (417)",
+   "chapters": {}
+  }
+ }
 }

@@ -1,0 +1,1451 @@
+{
+ "schema": 2,
+ "kind": "mock",
+ "id": "c10-english-mock01",
+ "version": 1,
+ "set": 1,
+ "title": "Board-pattern Mock Paper 1",
+ "short_title": "Class 10 English · Board-pattern Mock Paper 1",
+ "subject": "English Language and Literature (184)",
+ "subject_key": "english",
+ "class": "10",
+ "board": "CBSE",
+ "duration_minutes": 180,
+ "max_marks": 80,
+ "tagline": "Original full-length practice paper in the CBSE 2026-27 sample-paper structure. Practice only: not a forecast of any exam.",
+ "disclaimer": "Original questions written by Teraminds Academy on the most-repeated / high-weightage question types seen in CBSE Sample Question Papers and past board papers. Structure follows the CBSE Sample Question Paper 2026-27. Practice for readiness only: no promise of marks. Independent revision aid, not an official CBSE resource.",
+ "instructions": [
+  "11 questions, 80 marks, 3 hours. Same sections, question types, marks and internal choices as the CBSE Sample Question Paper 2026-27.",
+  "All passages are original and written for this practice paper. In Q6 and Q7 a short summary of the scene replaces the textbook extract: answer from your knowledge of the lesson.",
+  "Writing tasks: details are imaginary and created for practice.",
+  "Objective questions (MCQ, assertion-reason, numeric) are marked automatically.",
+  "Written answers: write on paper (or type in the box). After you submit, compare with the model answer and award your own marks point by point, the way a board examiner uses the marking scheme.",
+  "Internal choice: tap Option A or Option B and answer only that one.",
+  "The timer runs for the full 3 hours as a guide; nothing is cut off. Time spent in each section is shown in your report."
+ ],
+ "structure_source": {
+  "url": "https://cbseacademic.nic.in/web_material/SQP/ClassX_2026_27/EnglishL-SQP.pdf",
+  "label": "CBSE SQP English Language and Literature 2026-27"
+ },
+ "sections": [
+  {
+   "id": "A",
+   "name": "Section A · Reading",
+   "title": "Discursive passage 10 + case-based passage 10",
+   "marks": 20,
+   "minutes": 40
+  },
+  {
+   "id": "B",
+   "name": "Section B · Grammar and Writing",
+   "title": "Grammar 10 (any 10 of 12), letter 5, analytical paragraph 5",
+   "marks": 20,
+   "minutes": 40
+  },
+  {
+   "id": "C",
+   "name": "Section C · Literature",
+   "title": "Extracts 5 + 5, short answers 12 + 6, long answers 6 + 6",
+   "marks": 40,
+   "minutes": 80
+  }
+ ],
+ "chapters": {
+  "read": {
+   "name": "Reading Skills",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 0:54",
+     "url": "https://youtu.be/R57ILRkldJo?t=54"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+  },
+  "gram": {
+   "name": "Grammar",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:40",
+     "url": "https://youtu.be/R57ILRkldJo?t=100"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+  },
+  "letter": {
+   "name": "Formal Letter",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 2:29",
+     "url": "https://youtu.be/R57ILRkldJo?t=149"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+  },
+  "para": {
+   "name": "Analytical Paragraph",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 3:25",
+     "url": "https://youtu.be/R57ILRkldJo?t=205"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+  },
+  "ffprose": {
+   "name": "First Flight Prose",
+   "aliases": [
+    "First Flight Prose 1",
+    "First Flight Prose 2"
+   ],
+   "videos": [
+    {
+     "label": "Crash revision from 4:15",
+     "url": "https://youtu.be/R57ILRkldJo?t=255"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+  },
+  "ffpoem": {
+   "name": "First Flight Poems",
+   "aliases": [
+    "First Flight Poems 1",
+    "First Flight Poems 2"
+   ],
+   "videos": [
+    {
+     "label": "Crash revision from 6:30",
+     "url": "https://youtu.be/R57ILRkldJo?t=390"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+  },
+  "fwf": {
+   "name": "Footprints Without Feet",
+   "aliases": [
+    "Footprints Without Feet 1",
+    "Footprints Without Feet 2"
+   ],
+   "videos": [
+    {
+     "label": "Crash revision from 8:31",
+     "url": "https://youtu.be/R57ILRkldJo?t=511"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link"
+  }
+ },
+ "chapter_order": [
+  "read",
+  "gram",
+  "letter",
+  "para",
+  "ffprose",
+  "ffpoem",
+  "fwf"
+ ],
+ "video_url": "https://youtu.be/R57ILRkldJo",
+ "worksheet_url": "https://drive.google.com/file/d/1JLlKmNtDC0SJAbr3akJhq6uEoykglcvB/view?usp=drive_link",
+ "questions": [
+  {
+   "n": 1,
+   "id": "q01",
+   "section": "A",
+   "marks": 10,
+   "stem": "Read the following passage and answer the questions.\n\n(1) Walk into any school corridor at the end of the day and you will hear it: \"I'm so bored.\" We treat boredom like a small illness, something to be cured at once with a phone, a game or a snack. But what if boredom is not the enemy at all? What if it is a quiet signal that the mind is ready for something new?\n\n(2) Psychologists who study attention describe boredom as the feeling of wanting to be engaged but not finding anything engaging. In that gap, something interesting happens. With no screen to fill it, the mind begins to wander. It replays a conversation, imagines a story, or puzzles over a problem left unsolved. Many people report that their best ideas arrive in the shower or on a long bus ride, exactly the moments when nothing else is asking for attention. Researchers call this mind-wandering, and far from being wasted time, it is linked with planning, creativity and solving problems that once seemed stuck.\n\n(3) The trouble is that we rarely allow the gap to open. A teenager today can fill every spare minute with short videos that last fifteen seconds each. Each one gives a tiny reward, and then the next one arrives. Over time, ordinary activities such as reading a chapter, practising a sum or simply sitting with a thought begin to feel unbearably slow.\n\n(4) This does not mean screens are villains. A documentary can open a window on the world, and a video call can keep a family together across cities. Music can calm us before an exam, and a well-made explainer can make a hard topic suddenly clear. Used with intention, technology is a tool rather than a trap. The point is balance. When every pause is filled automatically, we lose the chance to notice what we actually feel like doing.\n\n(5) Some families now try small experiments: a phone-free dinner, a walk without earphones, a Sunday afternoon with nothing planned. At first the silence feels awkward. Then, often, someone picks up a sketchbook, starts a conversation, or remembers a hobby they had forgotten. One family found that their twelve-year-old, left without a tablet for an afternoon, built a cardboard model of the solar system and proudly explained it at dinner.\n\n(6) So the next time you hear yourself say \"I'm bored\", pause before you reach for a device. Ask a different question: what is my mind trying to tell me? The answer may surprise you. Boredom, given a little room, can turn into curiosity, and curiosity is where learning begins.\n(Original passage, 429 words, written for this practice paper.)",
+   "parts": [
+    {
+     "id": "q01a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Discursive passage: inference",
+     "question": "In paragraph 1, the writer compares boredom to 'a small illness' to show that people:",
+     "options": [
+      "enjoy feeling bored after school",
+      "rush to get rid of boredom instead of examining it",
+      "think boredom is a serious medical problem",
+      "are often unwell when they feel bored"
+     ],
+     "answer": "B",
+     "explanation": "People 'cure it at once' with a phone, game or snack."
+    },
+    {
+     "id": "q01b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Discursive passage: inference",
+     "question": "Complete with the correct option. In paragraph 2, the writer mentions the shower and long bus rides because these are moments when _____.",
+     "options": [
+      "(a) nothing else is asking for our attention, so ideas can surface",
+      "(b) people are usually in a hurry and cannot think"
+     ],
+     "answer": "A",
+     "explanation": "The paragraph links free, unoccupied moments to good ideas."
+    },
+    {
+     "id": "q01c",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Discursive passage: vocabulary in context",
+     "question": "Which word in paragraph 3 means 'impossible to put up with'?",
+     "options": [
+      "unbearably",
+      "spare",
+      "tiny",
+      "ordinary"
+     ],
+     "answer": "A",
+     "explanation": "'Unbearably slow' = too slow to tolerate."
+    },
+    {
+     "id": "q01d",
+     "type": "self",
+     "marks": 2,
+     "chapter": "read",
+     "topic": "Discursive passage: writer's perspective",
+     "question": "In paragraphs 3 and 4, the writer contrasts short videos with documentaries and video calls. What does this reveal about the writer's attitude to screens?",
+     "model_answer": "The writer is not against screens: documentaries and video calls are shown as valuable. The concern is with endless short, rewarding clips that fill every pause. The writer argues for balance and conscious choice rather than a ban.",
+     "rubric": [
+      {
+       "p": "Writer is not against screens as such",
+       "m": 1
+      },
+      {
+       "p": "Concern is constant filling of pauses; argues for balance",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q01e",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Discursive passage: true/false",
+     "question": "True or False? According to paragraph 5, phone-free family time feels comfortable right from the start.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": "B",
+     "explanation": "The passage says 'At first the silence feels awkward'."
+    },
+    {
+     "id": "q01f",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Discursive passage: analogy",
+     "question": "Complete the analogy: short videos : tiny reward :: ______ : ______",
+     "options": [
+      "(a) boredom : curiosity",
+      "(b) documentary : awkward silence"
+     ],
+     "answer": "A",
+     "explanation": "The passage links short videos to tiny rewards, and boredom (given room) to curiosity."
+    },
+    {
+     "id": "q01g",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Discursive passage: fact or opinion",
+     "question": "Classify as Fact (F) or Opinion (O): (i) Short videos can last fifteen seconds each. (ii) Boredom is where learning begins. (iii) A video call can keep a family in touch across cities. (iv) Screens are villains.",
+     "options": [
+      "(i) F (ii) O (iii) F (iv) O",
+      "(i) F (ii) O (iii) O (iv) F",
+      "(i) F (ii) F (iii) O (iv) O",
+      "(i) O (ii) F (iii) F (iv) O"
+     ],
+     "answer": "A",
+     "explanation": "(i) and (iii) can be checked; (ii) and (iv) are judgements."
+    },
+    {
+     "id": "q01h",
+     "type": "self",
+     "marks": 2,
+     "chapter": "read",
+     "topic": "Discursive passage: purpose and tone",
+     "question": "Why does the writer end the passage with a question addressed to the reader? (paragraph 6)",
+     "model_answer": "The question ('what is my mind trying to tell me?') makes the reader reflect personally instead of just receiving advice. It turns the argument into an invitation to act differently next time they feel bored, and leaves the reader thinking.",
+     "rubric": [
+      {
+       "p": "Makes the reader reflect personally",
+       "m": 1
+      },
+      {
+       "p": "Invites a change in behaviour / engages the reader",
+       "m": 1
+      }
+     ]
+    }
+   ],
+   "qtype": "Discursive passage"
+  },
+  {
+   "n": 2,
+   "id": "q02",
+   "section": "A",
+   "marks": 10,
+   "stem": "Read the following passage and answer the questions.\n\n(1) A school in a large Indian city surveyed 1,200 of its students from Classes 6 to 12 about how they travel to school. The results were shared at a parents' meeting. (All figures are imaginary and created for this practice paper.)\n\n(2) The largest group, 38%, came by school bus. Private cars brought 24% and two-wheelers 14%. Only 16% walked or cycled, and the remaining 8% used public transport such as the metro or city buses.\n\n(3) Students who walked or cycled reported the highest satisfaction with their journey: 81% of them said they 'enjoyed' it, compared with 46% of car users. Those living within two kilometres of the school were most likely to walk or cycle, yet nearly half of the students living that close still came by car.\n\n(4) When asked what stopped them from cycling, students named three main concerns: heavy traffic near the school gate (57%), no safe parking for cycles (22%) and heavy school bags (15%).\n\n(5) The school has since marked a 'safe route' with volunteers at two busy crossings, built a covered cycle stand and started a timetable that reduces the number of books carried each day. A follow-up survey is planned after one term.",
+   "parts": [
+    {
+     "id": "q02a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Case-based passage: data reading",
+     "question": "Which mode of travel was used by the largest share of students?",
+     "options": [
+      "Private car",
+      "Two-wheeler",
+      "Walking or cycling",
+      "School bus"
+     ],
+     "answer": "D",
+     "explanation": "School bus: 38%."
+    },
+    {
+     "id": "q02b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Case-based passage: data reading",
+     "question": "What percentage of students travelled by private car or two-wheeler together?",
+     "options": [
+      "24%",
+      "38%",
+      "14%",
+      "62%"
+     ],
+     "answer": "B",
+     "explanation": "24% + 14% = 38%."
+    },
+    {
+     "id": "q02c",
+     "type": "ar",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Case-based passage: assertion-reason",
+     "question": "Choose the correct option.",
+     "assertion": "Students who walked or cycled were the most satisfied with their journey.",
+     "reason": "Nearly half of the students living within two kilometres still came by car.",
+     "options": [
+      "Both assertion and reason are true, and the reason is the correct explanation.",
+      "Both are true, but the reason is not the correct explanation.",
+      "The assertion is true, but the reason is false.",
+      "The assertion is false, but the reason is true."
+     ],
+     "answer": "B",
+     "explanation": "Both statements are true (paragraph 3), but the second does not explain the first."
+    },
+    {
+     "id": "q02d",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Case-based passage: detail",
+     "question": "All of the following are mentioned as concerns about cycling EXCEPT:",
+     "options": [
+      "no safe parking for cycles",
+      "the high price of cycles",
+      "heavy traffic near the school gate",
+      "heavy school bags"
+     ],
+     "answer": "B",
+     "explanation": "Price is not mentioned."
+    },
+    {
+     "id": "q02e",
+     "type": "self",
+     "marks": 2,
+     "chapter": "read",
+     "topic": "Case-based passage: interpretation",
+     "question": "What does the comparison between walkers/cyclists (81%) and car users (46%) suggest about the experience of travelling to school?",
+     "model_answer": "It suggests that active travel is more enjoyable: students who walk or cycle like the journey far more than those driven by car, perhaps because of exercise, independence and time with friends, while car journeys may involve traffic and waiting.",
+     "rubric": [
+      {
+       "p": "Active travel is far more enjoyable",
+       "m": 1
+      },
+      {
+       "p": "A sensible reason (exercise, independence, no traffic jams…)",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q02f",
+     "type": "self",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Case-based passage: completion",
+     "question": "Complete the sentence: Many students living within two kilometres still came by car although ______.",
+     "model_answer": "...that distance is easy to walk or cycle (and walkers/cyclists enjoyed their journey most).",
+     "rubric": [
+      {
+       "p": "Sensible completion based on paragraph 3",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q02g",
+     "type": "self",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Case-based passage: phrase",
+     "question": "Identify the phrase from paragraph 5 that shows the school is protecting students at busy crossings.",
+     "model_answer": "'with volunteers at two busy crossings' (a marked 'safe route').",
+     "rubric": [
+      {
+       "p": "Correct phrase",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q02h",
+     "type": "self",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Case-based passage: application",
+     "question": "Which step taken by the school responds to the concern named by 15% of students? (paragraph 5)",
+     "model_answer": "The new timetable that reduces the number of books carried each day (it answers the concern about heavy bags).",
+     "rubric": [
+      {
+       "p": "Timetable reducing books / bags",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q02i",
+     "type": "self",
+     "marks": 1,
+     "chapter": "read",
+     "topic": "Case-based passage: title",
+     "question": "Suggest a suitable title for the passage and give one reason.",
+     "model_answer": "e.g. 'Getting to School: What Students Chose', because the passage reports a survey of travel modes and the school's response.",
+     "rubric": [
+      {
+       "p": "Suitable title with a reason",
+       "m": 1
+      }
+     ]
+    }
+   ],
+   "qtype": "Case-based passage"
+  },
+  {
+   "n": 3,
+   "id": "q03",
+   "section": "B",
+   "marks": 10,
+   "stem": "Grammar. Complete any ten of the following twelve tasks, as directed.",
+   "parts": [
+    {
+     "id": "q03a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Tenses (present perfect passive)",
+     "question": "Fill in the blank (formal notice): The annual sports day ______ because of heavy rain.",
+     "options": [
+      "has been postponed",
+      "has postponed",
+      "was postponing",
+      "is postpone"
+     ],
+     "answer": "A",
+     "explanation": "Passive present perfect for a recent action with present effect."
+    },
+    {
+     "id": "q03b",
+     "type": "self",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Reported speech: commands/requests",
+     "question": "Report the coach's instruction: Coach: \"Warm up for ten minutes before you run.\"\nThe coach told the players ______.",
+     "model_answer": "The coach told the players to warm up for ten minutes before they ran.",
+     "rubric": [
+      {
+       "p": "'to warm up…' with the tense/pronoun change",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q03c",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Determiners",
+     "question": "Choose the correct option: There are ______ seats left for the evening show, so book quickly.",
+     "options": [
+      "much",
+      "few",
+      "less",
+      "little"
+     ],
+     "answer": "B",
+     "explanation": "'Few' is used with countable nouns (seats) and means 'not many'."
+    },
+    {
+     "id": "q03d",
+     "type": "self",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Reported speech: statements",
+     "question": "Report the statement: Riya said, \"I am preparing a model for the science exhibition.\"\nRiya said that ______.",
+     "model_answer": "Riya said that she was preparing a model for the science exhibition.",
+     "rubric": [
+      {
+       "p": "'she was preparing' (pronoun and tense change)",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q03e",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Subject–verb concord",
+     "question": "Identify the error and correction: 'The quality of these mangoes are excellent this year.'",
+     "options": [
+      "quality → qualities",
+      "these → this",
+      "excellent → excellently",
+      "are → is"
+     ],
+     "answer": "D",
+     "explanation": "The subject is 'the quality' (singular), so the verb is 'is'."
+    },
+    {
+     "id": "q03f",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Modals",
+     "question": "Choose the correct modal (rule in a library): Students ______ not eat inside the reading room.",
+     "options": [
+      "would",
+      "must",
+      "might",
+      "could"
+     ],
+     "answer": "B",
+     "explanation": "'Must not' expresses a prohibition."
+    },
+    {
+     "id": "q03g",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Editing: prepositions",
+     "question": "Identify the error and correction: 'She has been living in Pune since five years.'",
+     "options": [
+      "in → at",
+      "since → for",
+      "has → have",
+      "living → lived"
+     ],
+     "answer": "B",
+     "explanation": "'For' is used with a period of time; 'since' with a point in time."
+    },
+    {
+     "id": "q03h",
+     "type": "self",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Reported speech: questions",
+     "question": "Report the question: Aman asked his sister, \"Have you seen my calculator?\"\nAman asked his sister ______.",
+     "model_answer": "Aman asked his sister if/whether she had seen his calculator.",
+     "rubric": [
+      {
+       "p": "if/whether + 'she had seen his'",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q03i",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Determiners",
+     "question": "Choose the correct option: ______ of the two answers is correct, so please check both again.",
+     "options": [
+      "Every",
+      "None",
+      "Both",
+      "Neither"
+     ],
+     "answer": "D",
+     "explanation": "With exactly two items, 'neither' means 'not one and not the other'."
+    },
+    {
+     "id": "q03j",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Subject–verb concord",
+     "question": "Identify the error and correction: 'Each of the students have submitted the project.'",
+     "options": [
+      "students → student",
+      "have → has",
+      "Each → All",
+      "submitted → submit"
+     ],
+     "answer": "B",
+     "explanation": "'Each of' takes a singular verb."
+    },
+    {
+     "id": "q03k",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Modals",
+     "question": "Fill in the blank (advice): You look tired; you ______ take a short break.",
+     "options": [
+      "would rather",
+      "can't",
+      "should",
+      "must not"
+     ],
+     "answer": "C",
+     "explanation": "'Should' gives advice."
+    },
+    {
+     "id": "q03l",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "gram",
+     "topic": "Tenses",
+     "question": "Fill in the blank with the correct form of the verb (blog): By the time we reached the station, the train ______ (leave).",
+     "options": [
+      "left",
+      "was leaving",
+      "has left",
+      "had left"
+     ],
+     "answer": "D",
+     "explanation": "Past perfect for the earlier of two past actions."
+    }
+   ],
+   "best_of": 10,
+   "qtype": "Grammar (any 10 of 12)"
+  },
+  {
+   "n": 4,
+   "id": "q04",
+   "section": "B",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q04A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "letter",
+     "topic": "Formal letter: complaint to authority",
+     "question": "You are Kavya/Karan of 14 Lake View Road, Bhopal. Stray cattle on the main road near your colony cause traffic jams and accidents. Write a letter in about 120 words to the Municipal Commissioner, Bhopal, describing the problem and suggesting solutions.",
+     "model_answer": "14 Lake View Road, Bhopal | (date) | The Municipal Commissioner, Bhopal Municipal Corporation, Bhopal | Subject: Stray cattle causing accidents on Lake View main road\nSir/Madam,\nI wish to draw your attention to the serious problem of stray cattle on the main road near our colony. Every morning and evening, cows and bulls sit in the middle of the road, causing long traffic jams. Last week two scooter riders were injured trying to avoid them, and school buses are often delayed.\nI request you to arrange for the animals to be shifted to a gaushala, to fine owners who let cattle loose, and to install signboards and street lights at the crossing.\nI hope prompt action will be taken.\nYours faithfully,\nKavya/Karan",
+     "rubric": [
+      {
+       "p": "Format: address, date, receiver, subject, salutation, closing",
+       "m": 1
+      },
+      {
+       "p": "Content: problem described with effects",
+       "m": 1
+      },
+      {
+       "p": "Content: practical suggestions and request",
+       "m": 1
+      },
+      {
+       "p": "Organisation: logical paragraphs",
+       "m": 1
+      },
+      {
+       "p": "Accuracy: grammar and spelling",
+       "m": 1
+      }
+     ],
+     "words": "120",
+     "label": "A"
+    },
+    {
+     "id": "q04B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "letter",
+     "topic": "Formal letter: letter to the editor",
+     "question": "You are Nisha/Nikhil, a resident of Jaipur. Write a letter in about 120 words to the Editor of a national daily about the need for more public libraries and reading rooms in your city.",
+     "model_answer": "(Sender's address) | (date) | The Editor, (newspaper), Jaipur | Subject: Need for more public libraries and reading rooms\nSir/Madam,\nThrough your esteemed newspaper I wish to highlight the shortage of public libraries in our city. Many students, especially those who cannot afford books or a quiet space at home, have nowhere to study. Senior citizens also lack a place to read newspapers and books.\nThe municipal corporation could open reading rooms in community halls, keep them open in the evenings, and stock them with textbooks, newspapers and digital resources. Local businesses could donate books.\nI hope the authorities will take note.\nYours faithfully,\nNisha/Nikhil",
+     "rubric": [
+      {
+       "p": "Format",
+       "m": 1
+      },
+      {
+       "p": "Content: need explained",
+       "m": 1
+      },
+      {
+       "p": "Content: suggestions",
+       "m": 1
+      },
+      {
+       "p": "Organisation",
+       "m": 1
+      },
+      {
+       "p": "Accuracy",
+       "m": 1
+      }
+     ],
+     "words": "120",
+     "label": "B"
+    }
+   ],
+   "qtype": "Letter writing"
+  },
+  {
+   "n": 5,
+   "id": "q05",
+   "section": "B",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q05A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "para",
+     "topic": "Analytical paragraph: chart/data",
+     "question": "The data below shows the average daily screen time (hours) of students in a city, by class, in 2023 and 2025:\nClass 6: 2.0 → 2.5 | Class 8: 2.5 → 3.5 | Class 10: 3.0 → 4.5 | Class 12: 3.5 → 4.0\nWrite an analytical paragraph of about 120 words describing and analysing the data. (Imaginary data.)",
+     "model_answer": "The data compares students' average daily screen time in 2023 and 2025 across four classes. Screen time rose in every class over the two years. The steepest increase was in Class 10, from 3 to 4.5 hours (an extra 1.5 hours), followed by Class 8, which rose by one hour. Class 6 and Class 12 grew more slowly, by half an hour each. In 2023 screen time rose steadily with class, but by 2025 Class 10 students had overtaken Class 12. Overall, older students use screens more, and the sharp rise in the board-exam year is a concern worth discussing with students and parents.",
+     "rubric": [
+      {
+       "p": "Content: key trends with figures",
+       "m": 1
+      },
+      {
+       "p": "Content: comparison and conclusion",
+       "m": 1
+      },
+      {
+       "p": "Organisation: introduction, body, conclusion",
+       "m": 1
+      },
+      {
+       "p": "Organisation: linkers and logical order",
+       "m": 1
+      },
+      {
+       "p": "Accuracy",
+       "m": 1
+      }
+     ],
+     "words": "120",
+     "label": "A"
+    },
+    {
+     "id": "q05B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "para",
+     "topic": "Analytical paragraph: cue-based",
+     "question": "Your school is deciding whether to start a weekly 'no-homework day'. Using the cues below, write an analytical paragraph of about 120 words.\nFor: more family and play time, less stress, time for hobbies, better sleep\nAgainst: less practice, revision may pile up, some students prefer daily work\nSuggestion: a trial for one term with feedback",
+     "model_answer": "A weekly no-homework day has clear benefits and some risks. On the positive side, students would get more time with family, for play and for hobbies, which can reduce stress and improve sleep. However, removing a day of practice could make revision pile up, and some students learn best with steady daily work. Weighing both sides, the idea seems worth testing rather than adopting at once. The school could run a one-term trial, collect feedback from students, parents and teachers, and compare marks and well-being before deciding.",
+     "rubric": [
+      {
+       "p": "Content: both sides covered",
+       "m": 1
+      },
+      {
+       "p": "Content: reasoned conclusion/suggestion",
+       "m": 1
+      },
+      {
+       "p": "Organisation: clear structure",
+       "m": 1
+      },
+      {
+       "p": "Organisation: linkers",
+       "m": 1
+      },
+      {
+       "p": "Accuracy",
+       "m": 1
+      }
+     ],
+     "words": "120",
+     "label": "B"
+    }
+   ],
+   "qtype": "Analytical paragraph"
+  },
+  {
+   "n": 6,
+   "id": "q06",
+   "section": "C",
+   "marks": 5,
+   "galts": [
+    {
+     "stem": "Extract A (our summary of the scene): In 'A Letter to God', the postmaster finds Lencho's letter addressed to God. He first laughs, then becomes serious, and decides not to shake the writer's faith. He collects money from his employees and friends, gives part of his own salary, and manages to send a little more than half of what Lencho asked for, signing the reply only 'God'.",
+     "parts": [
+      {
+       "id": "q06Xa",
+       "type": "self",
+       "marks": 1,
+       "chapter": "ffprose",
+       "topic": "A Letter to God",
+       "question": "Complete the sentence: The postmaster decides to reply because he does not want to ______.",
+       "model_answer": "...shake/disappoint Lencho's faith in God.",
+       "rubric": [
+        {
+         "p": "Not shake Lencho's faith",
+         "m": 1
+        }
+       ]
+      },
+      {
+       "id": "q06Xb",
+       "type": "mcq",
+       "marks": 1,
+       "chapter": "ffprose",
+       "topic": "A Letter to God",
+       "question": "Why did the postmaster first laugh?",
+       "options": [
+        "The letter had no stamp",
+        "The letter asked for very little money",
+        "He found a letter addressed to God amusing",
+        "He knew Lencho personally"
+       ],
+       "answer": "C",
+       "explanation": "A letter to God seemed funny at first."
+      },
+      {
+       "id": "q06Xc",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ffprose",
+       "topic": "A Letter to God",
+       "question": "The postmaster signs only 'God'. What does this reveal about him?",
+       "model_answer": "He is kind and generous and does not want credit for his good deed; he wants Lencho to keep believing that God has answered him.",
+       "rubric": [
+        {
+         "p": "Kind/generous",
+         "m": 1
+        },
+        {
+         "p": "Wants no credit; protects Lencho's belief",
+         "m": 1
+        }
+       ]
+      },
+      {
+       "id": "q06Xd",
+       "type": "mcq",
+       "marks": 1,
+       "chapter": "ffprose",
+       "topic": "A Letter to God",
+       "question": "Choose the correct word: Lencho's later anger at the post office employees shows his ______. (faith and ingratitude / doubt and humility)",
+       "options": [
+        "faith and ingratitude",
+        "doubt and humility"
+       ],
+       "answer": "A",
+       "explanation": "He trusts God completely but suspects the very people who helped him."
+      }
+     ],
+     "label": "Extract A"
+    },
+    {
+     "stem": "Extract B (our summary of the scene): In 'The Thief's Story', Hari Singh steals the money Anil had kept under his mattress and goes to the railway station. As the train starts he does not board it. In the rain he thinks of what he would lose: Anil's trust and the chance to learn to read and write. He returns and puts the money back.",
+     "parts": [
+      {
+       "id": "q06Ya",
+       "type": "self",
+       "marks": 1,
+       "chapter": "fwf",
+       "topic": "The Thief's Story",
+       "question": "Complete the sentence: Hari did not board the train because ______.",
+       "model_answer": "...he realised he would lose Anil's trust and the chance to become educated.",
+       "rubric": [
+        {
+         "p": "Trust / chance to learn",
+         "m": 1
+        }
+       ]
+      },
+      {
+       "id": "q06Yb",
+       "type": "mcq",
+       "marks": 1,
+       "chapter": "fwf",
+       "topic": "The Thief's Story",
+       "question": "What does Hari value most by the end of the scene?",
+       "options": [
+        "The stolen money",
+        "A new job in Lucknow",
+        "Anil's praise for his cooking",
+        "Anil's trust and the chance to learn"
+       ],
+       "answer": "D",
+       "explanation": "He gives up the money to keep trust and education."
+      },
+      {
+       "id": "q06Yc",
+       "type": "self",
+       "marks": 2,
+       "chapter": "fwf",
+       "topic": "The Thief's Story",
+       "question": "How does the rain at the station reflect Hari's state of mind?",
+       "model_answer": "The rain matches his confused and troubled feelings; standing in it, he reflects on his life and feels the pull of a better future, which leads to his change of heart.",
+       "rubric": [
+        {
+         "p": "Rain mirrors his inner turmoil",
+         "m": 1
+        },
+        {
+         "p": "Leads to reflection and change of heart",
+         "m": 1
+        }
+       ]
+      },
+      {
+       "id": "q06Yd",
+       "type": "mcq",
+       "marks": 1,
+       "chapter": "fwf",
+       "topic": "The Thief's Story",
+       "question": "Choose the correct option: Anil's silence the next morning shows ______. (quiet forgiveness / complete ignorance)",
+       "options": [
+        "quiet forgiveness",
+        "complete ignorance"
+       ],
+       "answer": "A",
+       "explanation": "Anil realises what happened but gives Hari a fresh chance."
+      }
+     ],
+     "label": "Extract B"
+    }
+   ],
+   "qtype": "Extract (prose/drama)"
+  },
+  {
+   "n": 7,
+   "id": "q07",
+   "section": "C",
+   "marks": 5,
+   "galts": [
+    {
+     "stem": "Extract A (our summary): In 'Dust of Snow', the poet is in a sad mood when a crow sitting on a hemlock tree shakes down a dust of snow on him. This small moment changes his mood and saves some part of a day he had regretted.",
+     "parts": [
+      {
+       "id": "q07Xa",
+       "type": "self",
+       "marks": 1,
+       "chapter": "ffpoem",
+       "topic": "Dust of Snow",
+       "question": "Complete the sentence: The poet's mood changes because ______.",
+       "model_answer": "...a crow shook down a dust of snow on him from a hemlock tree.",
+       "rubric": [
+        {
+         "p": "Crow / dust of snow",
+         "m": 1
+        }
+       ]
+      },
+      {
+       "id": "q07Xb",
+       "type": "mcq",
+       "marks": 1,
+       "chapter": "ffpoem",
+       "topic": "Dust of Snow",
+       "question": "The crow and the hemlock are usually seen as symbols of:",
+       "options": [
+        "friendship and trust",
+        "joy and hope",
+        "wealth and power",
+        "gloom and sorrow"
+       ],
+       "answer": "D",
+       "explanation": "The poet uses unusual, gloomy images to bring a positive change."
+      },
+      {
+       "id": "q07Xc",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ffpoem",
+       "topic": "Dust of Snow",
+       "question": "What message does the poem convey about small moments?",
+       "model_answer": "Even small, ordinary incidents of nature can lift a sad mood and make a day worthwhile; we should be open to such moments.",
+       "rubric": [
+        {
+         "p": "Small moments of nature can change mood",
+         "m": 1
+        },
+        {
+         "p": "Be open to them / a day can be saved",
+         "m": 1
+        }
+       ]
+      },
+      {
+       "id": "q07Xd",
+       "type": "mcq",
+       "marks": 1,
+       "chapter": "ffpoem",
+       "topic": "Dust of Snow",
+       "question": "Choose the correct word: The poet had 'rued' the day, meaning he ______ it. (regretted / celebrated)",
+       "options": [
+        "regretted",
+        "celebrated"
+       ],
+       "answer": "A",
+       "explanation": "'Rue' means to regret."
+      }
+     ],
+     "label": "Extract A"
+    },
+    {
+     "stem": "Extract B (our summary): In 'Fire and Ice', the poet says some people think the world will end in fire, others in ice. From his experience of desire he holds with those who favour fire, but he feels that hate is also great enough to destroy the world.",
+     "parts": [
+      {
+       "id": "q07Ya",
+       "type": "self",
+       "marks": 1,
+       "chapter": "ffpoem",
+       "topic": "Fire and Ice",
+       "question": "Complete the sentence: In the poem, fire stands for ______ and ice for ______.",
+       "model_answer": "...desire (greed, passion) ... hatred (coldness, indifference).",
+       "rubric": [
+        {
+         "p": "Fire = desire, ice = hatred",
+         "m": 1
+        }
+       ]
+      },
+      {
+       "id": "q07Yb",
+       "type": "mcq",
+       "marks": 1,
+       "chapter": "ffpoem",
+       "topic": "Fire and Ice",
+       "question": "The poet's tone in the poem is best described as:",
+       "options": [
+        "calm and reflective, with irony",
+        "angry and violent",
+        "confused and fearful",
+        "joyful and excited"
+       ],
+       "answer": "A",
+       "explanation": "He discusses the end of the world in a quiet, ironic manner."
+      },
+      {
+       "id": "q07Yc",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ffpoem",
+       "topic": "Fire and Ice",
+       "question": "Why does the poet feel that both fire and ice are sufficient to destroy the world?",
+       "model_answer": "Unchecked desire makes people greedy and leads to conflict, while hatred makes them cold and cruel; either emotion in excess can destroy human relationships and the world.",
+       "rubric": [
+        {
+         "p": "Desire leads to greed/conflict",
+         "m": 1
+        },
+        {
+         "p": "Hatred leads to cruelty/destruction",
+         "m": 1
+        }
+       ]
+      },
+      {
+       "id": "q07Yd",
+       "type": "mcq",
+       "marks": 1,
+       "chapter": "ffpoem",
+       "topic": "Fire and Ice",
+       "question": "Choose the correct option: The poem's central idea is about ______. (human emotions / natural disasters)",
+       "options": [
+        "human emotions",
+        "natural disasters"
+       ],
+       "answer": "A",
+       "explanation": "Fire and ice are symbols of desire and hatred."
+      }
+     ],
+     "label": "Extract B"
+    }
+   ],
+   "qtype": "Extract (poetry)"
+  },
+  {
+   "n": 8,
+   "id": "q08",
+   "section": "C",
+   "marks": 12,
+   "stem": "Answer any four of the following five questions in about 40–50 words each.",
+   "parts": [
+    {
+     "id": "q08a",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ffprose",
+     "topic": "Two Stories about Flying: His First Flight",
+     "question": "How did the young seagull finally manage to fly?",
+     "model_answer": "Weak with hunger, he saw his mother holding a piece of fish just out of his reach. Maddened by hunger, he dived at the fish, fell outwards, then spread his wings in fear; the wind caught them and he found himself flying.",
+     "rubric": [
+      {
+       "p": "Hunger and mother with the fish",
+       "m": 1
+      },
+      {
+       "p": "Dived, spread wings in fear, began to fly",
+       "m": 1
+      },
+      {
+       "p": "Expression: clear, accurate sentences within about 40–50 words",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q08b",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ffprose",
+     "topic": "Nelson Mandela: Long Walk to Freedom",
+     "question": "What 'twin obligations' does Mandela say every man has?",
+     "model_answer": "Every man has obligations to his family, parents, wife and children, and to his people, community and country. In South Africa a man of colour who tried to fulfil his duty to his people was punished, which made it hard to meet both.",
+     "rubric": [
+      {
+       "p": "Obligations to family",
+       "m": 1
+      },
+      {
+       "p": "Obligations to people/country; hard under apartheid",
+       "m": 1
+      },
+      {
+       "p": "Expression: clear, accurate sentences within about 40–50 words",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q08c",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ffprose",
+     "topic": "Tea from Assam",
+     "question": "Narrate one legend about the discovery of tea mentioned in 'Tea from Assam'.",
+     "model_answer": "One legend says a Chinese emperor always boiled water before drinking; some leaves from twigs burning under the pot fell into it, giving a delicious flavour, which was tea. Another legend is about Bodhidharma, who cut off his eyelids to stay awake while meditating, and ten tea plants grew from them.",
+     "rubric": [
+      {
+       "p": "Chinese emperor and leaves in boiling water",
+       "m": 1
+      },
+      {
+       "p": "or the Bodhidharma legend, told clearly",
+       "m": 1
+      },
+      {
+       "p": "Expression: clear, accurate sentences within about 40–50 words",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q08d",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ffpoem",
+     "topic": "Fog",
+     "question": "How does Carl Sandburg compare the fog to a cat in 'Fog'?",
+     "model_answer": "Like a cat, the fog arrives silently 'on little cat feet', sits quietly looking over the harbour and city on its haunches, and then moves on. The metaphor captures the fog's silent, unhurried arrival and departure.",
+     "rubric": [
+      {
+       "p": "Silent arrival like a cat",
+       "m": 1
+      },
+      {
+       "p": "Sits, watches and moves on; metaphor",
+       "m": 1
+      },
+      {
+       "p": "Expression: clear, accurate sentences within about 40–50 words",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q08e",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ffpoem",
+     "topic": "The Tale of Custard the Dragon",
+     "question": "How is Custard different from Belinda's other pets?",
+     "model_answer": "Ink, Blink and Mustard boast of their bravery, while Custard is teased as a coward who cries for a safe cage. But when the pirate attacks, the others run away and Custard fights and gobbles him up, proving to be the bravest.",
+     "rubric": [
+      {
+       "p": "Others boast; Custard called a coward",
+       "m": 1
+      },
+      {
+       "p": "Custard alone fights the pirate",
+       "m": 1
+      },
+      {
+       "p": "Expression: clear, accurate sentences within about 40–50 words",
+       "m": 1
+      }
+     ]
+    }
+   ],
+   "best_of": 4,
+   "qtype": "Short answers (First Flight)"
+  },
+  {
+   "n": 9,
+   "id": "q09",
+   "section": "C",
+   "marks": 6,
+   "stem": "Answer any two of the following three questions in about 40–50 words each.",
+   "parts": [
+    {
+     "id": "q09a",
+     "type": "self",
+     "marks": 3,
+     "chapter": "fwf",
+     "topic": "A Question of Trust",
+     "question": "How was Horace Danby, a professional thief, tricked by the lady in red?",
+     "model_answer": "She pretended to be the lady of the house and made him open the safe, saying she had forgotten the combination. Horace trusted her and opened it with his gloves off. She was actually a thief who took the jewels, leaving his fingerprints, and he was arrested.",
+     "rubric": [
+      {
+       "p": "Posed as owner; made him open the safe",
+       "m": 1
+      },
+      {
+       "p": "She was a thief; his fingerprints got him caught",
+       "m": 1
+      },
+      {
+       "p": "Expression: clear, accurate sentences within about 40–50 words",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q09b",
+     "type": "self",
+     "marks": 3,
+     "chapter": "fwf",
+     "topic": "The Necklace",
+     "question": "Why did Matilda Loisel have to spend ten years in hardship?",
+     "model_answer": "She lost the diamond necklace she had borrowed from Mme Forestier for a ball. To replace it, the Loisels bought a similar one for 36,000 francs, borrowing heavily, and spent ten years working hard to repay the debt, only to learn the original was imitation.",
+     "rubric": [
+      {
+       "p": "Lost the borrowed necklace; replaced it on loans",
+       "m": 1
+      },
+      {
+       "p": "Ten years of hard work; original was fake",
+       "m": 1
+      },
+      {
+       "p": "Expression: clear, accurate sentences within about 40–50 words",
+       "m": 1
+      }
+     ]
+    },
+    {
+     "id": "q09c",
+     "type": "self",
+     "marks": 3,
+     "chapter": "fwf",
+     "topic": "The Midnight Visitor",
+     "question": "How did Ausable outwit Max, who threatened him with a pistol?",
+     "model_answer": "Ausable calmly invented a story that a balcony below his window had let a thief in, and warned that the police were coming. Max, alarmed by a knock (a waiter with drinks), jumped out of the window towards the 'balcony', which did not exist.",
+     "rubric": [
+      {
+       "p": "Invented the balcony story",
+       "m": 1
+      },
+      {
+       "p": "Max jumped out; no balcony",
+       "m": 1
+      },
+      {
+       "p": "Expression: clear, accurate sentences within about 40–50 words",
+       "m": 1
+      }
+     ]
+    }
+   ],
+   "best_of": 2,
+   "qtype": "Short answers (Footprints)"
+  },
+  {
+   "n": 10,
+   "id": "q10",
+   "section": "C",
+   "marks": 6,
+   "alts": [
+    {
+     "id": "q10A",
+     "type": "self",
+     "marks": 6,
+     "chapter": "ffprose",
+     "topic": "Madam Rides the Bus",
+     "question": "Valli's first bus ride taught her about the joys and sorrows of life. Describe her experience and what she learnt, in about 100–120 words.",
+     "model_answer": "Eight-year-old Valli watched the bus from her doorway and longed to ride it. She secretly saved her coins, found out the fare and timings, and one afternoon took the trip to town, refusing to be treated as a child. She enjoyed the sights: the canal, palm trees, green fields and the bustling town. On the way back she saw a young cow that had been playful earlier lying dead on the road after being hit by a vehicle. The sight shocked her and she lost interest in looking outside. Valli learnt that life holds joy and sorrow together, and that death is a part of life.",
+     "rubric": [
+      {
+       "p": "Her longing and careful planning",
+       "m": 1
+      },
+      {
+       "p": "The joyful sights on the trip",
+       "m": 1
+      },
+      {
+       "p": "The dead cow and her realisation about life and death",
+       "m": 1
+      },
+      {
+       "p": "Expression: well organised, fluent and relevant (100–120 words)",
+       "m": 2
+      },
+      {
+       "p": "Accuracy: grammar, spelling, punctuation",
+       "m": 1
+      }
+     ],
+     "words": "100–120",
+     "label": "A"
+    },
+    {
+     "id": "q10B",
+     "type": "self",
+     "marks": 6,
+     "chapter": "ffprose",
+     "topic": "A Letter to God",
+     "question": "Lencho's faith in God was unshakeable. Discuss with reference to the story, in about 100–120 words.",
+     "model_answer": "Lencho, a farmer, lost his entire corn crop to a hailstorm. Yet he did not despair; he believed God sees everything and would help him. He wrote a letter asking God for a hundred pesos to sow his field again. When the reply came with only seventy, he was not surprised at receiving money at all, as he never doubted God; he was angry only that some was missing and blamed the post office employees as 'a bunch of crooks'. His simple, unshakeable faith is admirable, even though it made him ungrateful to the people who actually helped him.",
+     "rubric": [
+      {
+       "p": "Crop destroyed; no despair",
+       "m": 1
+      },
+      {
+       "p": "Letter to God showing complete faith",
+       "m": 1
+      },
+      {
+       "p": "Reaction to 70 pesos: no doubt in God, suspicion of people",
+       "m": 1
+      },
+      {
+       "p": "Expression: well organised, fluent and relevant (100–120 words)",
+       "m": 2
+      },
+      {
+       "p": "Accuracy: grammar, spelling, punctuation",
+       "m": 1
+      }
+     ],
+     "words": "100–120",
+     "label": "B"
+    }
+   ],
+   "qtype": "Long answer (First Flight)"
+  },
+  {
+   "n": 11,
+   "id": "q11",
+   "section": "C",
+   "marks": 6,
+   "alts": [
+    {
+     "id": "q11A",
+     "type": "self",
+     "marks": 6,
+     "chapter": "fwf",
+     "topic": "The Book that Saved the Earth",
+     "question": "How did a book of nursery rhymes save the Earth from a Martian invasion? Answer in about 100–120 words.",
+     "model_answer": "In the play, Martians led by Think-Tank plan to invade Earth and send a team that finds books in a library. Think-Tank, who believes he is a genius, orders Noodle to read a book of Mother Goose nursery rhymes. He interprets the rhymes literally and wrongly: he thinks Humpty Dumpty is a warning about a great wall and that earthlings can jump over the moon. Terrified that Earth people are far more advanced, he calls off the invasion and flees. Ironically, a children's book saved the Earth because of the Martians' foolish arrogance.",
+     "rubric": [
+      {
+       "p": "Martians' invasion plan and the library",
+       "m": 1
+      },
+      {
+       "p": "Think-Tank's literal reading of the rhymes",
+       "m": 1
+      },
+      {
+       "p": "Fear leads to calling off the invasion; irony",
+       "m": 1
+      },
+      {
+       "p": "Expression: well organised, fluent and relevant (100–120 words)",
+       "m": 2
+      },
+      {
+       "p": "Accuracy: grammar, spelling, punctuation",
+       "m": 1
+      }
+     ],
+     "words": "100–120",
+     "label": "A"
+    },
+    {
+     "id": "q11B",
+     "type": "self",
+     "marks": 6,
+     "chapter": "fwf",
+     "topic": "Bholi",
+     "question": "How did Bholi change from a timid girl into a confident young woman? Answer in about 100–120 words.",
+     "model_answer": "Bholi (Sulekha) was neglected as a child; a fall and smallpox left her with a stammer and a scarred face, and others mocked her. At school a kind teacher encouraged her, told her to put fear out of her heart, and taught her to read and speak. When her parents agreed to marry her to Bishamber, an older lame man who then demanded a dowry, Bholi refused to marry such a greedy man. She chose to stay with her parents and teach at the school. Education and encouragement turned her into a confident, self-respecting woman.",
+     "rubric": [
+      {
+       "p": "Neglect, stammer and mockery",
+       "m": 1
+      },
+      {
+       "p": "Teacher's encouragement and education",
+       "m": 1
+      },
+      {
+       "p": "Refuses the greedy Bishamber; becomes confident teacher",
+       "m": 1
+      },
+      {
+       "p": "Expression: well organised, fluent and relevant (100–120 words)",
+       "m": 2
+      },
+      {
+       "p": "Accuracy: grammar, spelling, punctuation",
+       "m": 1
+      }
+     ],
+     "words": "100–120",
+     "label": "B"
+    }
+   ],
+   "qtype": "Long answer (Footprints)"
+  }
+ ]
+}

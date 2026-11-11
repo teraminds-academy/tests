@@ -1,0 +1,1486 @@
+{
+ "schema": 2,
+ "kind": "mock",
+ "id": "c10-science-mock02",
+ "version": 1,
+ "set": 2,
+ "title": "Board-pattern Mock Paper 2",
+ "short_title": "Class 10 Science · Board-pattern Mock Paper 2",
+ "subject": "Science (086)",
+ "subject_key": "science",
+ "class": "10",
+ "board": "CBSE",
+ "duration_minutes": 180,
+ "max_marks": 80,
+ "tagline": "Original full-length practice paper in the CBSE 2026-27 sample-paper structure. Practice only: not a forecast of any exam.",
+ "disclaimer": "Original questions written by Teraminds Academy on the most-repeated / high-weightage question types seen in CBSE Sample Question Papers and past board papers. Structure follows the CBSE Sample Question Paper 2026-27. Practice for readiness only: no promise of marks. Independent revision aid, not an official CBSE resource.",
+ "instructions": [
+  "39 questions, 80 marks, 3 hours. Same sections, question types, marks and internal choices as the CBSE Sample Question Paper 2026-27.",
+  "Section A is Biology, Section B Chemistry, Section C Physics, as in the CBSE paper. Draw diagrams on paper where asked.",
+  "Objective questions (MCQ, assertion-reason, numeric) are marked automatically.",
+  "Written answers: write on paper (or type in the box). After you submit, compare with the model answer and award your own marks point by point, the way a board examiner uses the marking scheme.",
+  "Internal choice: tap Option A or Option B and answer only that one.",
+  "The timer runs for the full 3 hours as a guide; nothing is cut off. Time spent in each section is shown in your report."
+ ],
+ "structure_source": {
+  "url": "https://cbseacademic.nic.in/web_material/SQP/ClassX_2026_27/Science-SQP.pdf",
+  "label": "CBSE SQP Science 2026-27"
+ },
+ "sections": [
+  {
+   "id": "A",
+   "name": "Section A · Biology",
+   "title": "MCQ, A-R, 2-, 3-, 4- and 5-mark questions",
+   "marks": 30,
+   "minutes": 60
+  },
+  {
+   "id": "B",
+   "name": "Section B · Chemistry",
+   "title": "MCQ, A-R, 2-, 3-, 4- and 5-mark questions",
+   "marks": 25,
+   "minutes": 50
+  },
+  {
+   "id": "C",
+   "name": "Section C · Physics",
+   "title": "MCQ, A-R, 2-, 3-, 4- and 5-mark questions",
+   "marks": 25,
+   "minutes": 50
+  }
+ ],
+ "chapters": {
+  "ch01": {
+   "name": "Chemical Reactions and Equations",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 0:59",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=59"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch02": {
+   "name": "Acids, Bases and Salts",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 1:52",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=112"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch03": {
+   "name": "Metals and Non-metals",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 2:44",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=164"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch04": {
+   "name": "Carbon and its Compounds",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 3:36",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=216"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch05": {
+   "name": "Life Processes",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 4:35",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=275"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch06": {
+   "name": "Control and Coordination",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 5:35",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=335"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch07": {
+   "name": "How do Organisms Reproduce?",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 6:29",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=389"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch08": {
+   "name": "Heredity",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 7:22",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=442"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch09": {
+   "name": "Light: Reflection and Refraction",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 8:56",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=536"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch10": {
+   "name": "The Human Eye and the Colourful World",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 9:56",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=596"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch11": {
+   "name": "Electricity",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 10:45",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=645"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch12": {
+   "name": "Magnetic Effects of Electric Current",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 11:46",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=706"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  },
+  "ch13": {
+   "name": "Our Environment",
+   "aliases": [],
+   "videos": [
+    {
+     "label": "Crash revision from 8:07",
+     "url": "https://youtu.be/KwjpAEX8hRM?t=487"
+    }
+   ],
+   "worksheet": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link"
+  }
+ },
+ "chapter_order": [
+  "ch01",
+  "ch02",
+  "ch03",
+  "ch04",
+  "ch05",
+  "ch06",
+  "ch07",
+  "ch08",
+  "ch09",
+  "ch10",
+  "ch11",
+  "ch12",
+  "ch13"
+ ],
+ "video_url": "https://youtu.be/KwjpAEX8hRM",
+ "worksheet_url": "https://drive.google.com/file/d/1ufp8RXBtPQXItIGPj5N0PCPctU3eo04Y/view?usp=drive_link",
+ "questions": [
+  {
+   "n": 1,
+   "id": "q01",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch05",
+   "topic": "Transportation in plants",
+   "question": "In plants, food made in the leaves is transported to other parts through the:",
+   "options": [
+    "root hairs",
+    "xylem",
+    "phloem",
+    "stomata"
+   ],
+   "answer": "C",
+   "explanation": "Translocation of food (sucrose) takes place in phloem; xylem carries water and minerals.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 2,
+   "id": "q02",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch05",
+   "topic": "Respiration in humans",
+   "question": "The respiratory pigment in human blood that carries oxygen is:",
+   "options": [
+    "haemoglobin",
+    "platelets",
+    "chlorophyll",
+    "plasma"
+   ],
+   "answer": "A",
+   "explanation": "Haemoglobin in red blood cells has a high affinity for oxygen.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 3,
+   "id": "q03",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch06",
+   "topic": "Hormones and glands",
+   "question": "Insulin, which regulates blood sugar, is secreted by the:",
+   "options": [
+    "pituitary gland",
+    "adrenal gland",
+    "pancreas",
+    "thyroid"
+   ],
+   "answer": "C",
+   "explanation": "Insulin is produced by the pancreas; its deficiency causes diabetes.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 4,
+   "id": "q04",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch06",
+   "topic": "Tropic movements",
+   "question": "The growth of a pollen tube towards the ovule is an example of:",
+   "options": [
+    "hydrotropism",
+    "geotropism",
+    "phototropism",
+    "chemotropism"
+   ],
+   "answer": "D",
+   "explanation": "The pollen tube grows in response to chemicals: chemotropism.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 5,
+   "id": "q05",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch07",
+   "topic": "Asexual reproduction",
+   "question": "Which organism commonly reproduces by budding?",
+   "options": [
+    "Plasmodium",
+    "Amoeba",
+    "Planaria",
+    "Hydra"
+   ],
+   "answer": "D",
+   "explanation": "Hydra forms buds; Planaria regenerates, Amoeba shows binary fission, Plasmodium multiple fission.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 6,
+   "id": "q06",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch08",
+   "topic": "Sex determination in humans",
+   "question": "The number of chromosomes in a human sperm or egg cell is:",
+   "options": [
+    "46",
+    "44",
+    "22",
+    "23"
+   ],
+   "answer": "D",
+   "explanation": "Gametes have half the 46 chromosomes of body cells.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 7,
+   "id": "q07",
+   "section": "A",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch13",
+   "topic": "10% law of energy transfer",
+   "question": "In the food chain grass → grasshopper → frog → snake, the grass traps 10,000 J. The energy available to the snake is about:",
+   "options": [
+    "1 J",
+    "1000 J",
+    "10 J",
+    "100 J"
+   ],
+   "answer": "C",
+   "explanation": "About 10% passes on at each step: 10,000 → 1,000 → 100 → 10 J.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 8,
+   "id": "q08",
+   "section": "A",
+   "type": "ar",
+   "marks": 1,
+   "chapter": "ch06",
+   "topic": "Hormones and glands",
+   "question": "Choose the correct option.",
+   "assertion": "Adrenaline is secreted by the thyroid gland.",
+   "reason": "Adrenaline prepares the body to deal with an emergency, for example by increasing the heart rate.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": "D",
+   "explanation": "Adrenaline is secreted by the adrenal glands, so A is false; R correctly describes what adrenaline does.",
+   "qtype": "Assertion-Reason"
+  },
+  {
+   "n": 9,
+   "id": "q09",
+   "section": "A",
+   "type": "ar",
+   "marks": 1,
+   "chapter": "ch13",
+   "topic": "Biological magnification",
+   "question": "Choose the correct option.",
+   "assertion": "The concentration of pesticides such as DDT is highest in the top carnivores of a food chain.",
+   "reason": "Non-biodegradable chemicals are not broken down and accumulate progressively at each trophic level.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": "A",
+   "explanation": "Both true; progressive accumulation (biological magnification) is the reason top carnivores carry the most.",
+   "qtype": "Assertion-Reason"
+  },
+  {
+   "n": 10,
+   "id": "q10",
+   "section": "A",
+   "type": "self",
+   "marks": 2,
+   "chapter": "ch06",
+   "topic": "Plant hormones and phototropism",
+   "question": "Name the plant hormone that (i) inhibits growth and causes wilting of leaves, (ii) helps a shoot bend towards light. Explain how the shoot bends.",
+   "model_answer": "(i) Abscisic acid. (ii) Auxin.\nAuxin is made at the shoot tip. When light falls from one side, auxin diffuses to the shaded side, where cells grow longer, so the shoot bends towards the light.",
+   "rubric": [
+    {
+     "p": "Abscisic acid and auxin named",
+     "m": 1
+    },
+    {
+     "p": "Auxin moves to the shaded side; those cells elongate, shoot bends to light",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 11,
+   "id": "q11",
+   "section": "A",
+   "marks": 2,
+   "alts": [
+    {
+     "id": "q11A",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch07",
+     "topic": "DNA copying and variation",
+     "question": "What is the importance of DNA copying in reproduction?",
+     "model_answer": "DNA carries the information for making proteins, which decides the body design. Copying DNA lets the basic body design pass on to the offspring.\nThe copying is not perfectly accurate; the small variations that arise help species survive changing conditions over time.",
+     "rubric": [
+      {
+       "p": "Passes body design / information to offspring",
+       "m": 1
+      },
+      {
+       "p": "Copying errors give variations useful for survival",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q11B",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch07",
+     "topic": "Sexual reproduction in flowering plants",
+     "question": "Distinguish between unisexual and bisexual flowers with one example of each.",
+     "model_answer": "Unisexual flowers contain either stamens or a pistil (e.g. papaya, watermelon).\nBisexual flowers contain both stamens and a pistil (e.g. hibiscus, mustard).",
+     "rubric": [
+      {
+       "p": "Unisexual with example",
+       "m": 1
+      },
+      {
+       "p": "Bisexual with example",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 12,
+   "id": "q12",
+   "section": "A",
+   "type": "self",
+   "marks": 2,
+   "chapter": "ch05",
+   "topic": "Respiration in humans",
+   "question": "How are the lungs designed in human beings to maximise the area for the exchange of gases?",
+   "model_answer": "Inside the lungs the air passages divide into smaller and smaller tubes ending in balloon-like alveoli. Alveoli provide a very large surface for gas exchange, and their walls carry an extensive network of blood vessels, so oxygen diffuses into the blood and CO₂ out of it.",
+   "rubric": [
+    {
+     "p": "Branching tubes ending in alveoli give a huge surface area",
+     "m": 1
+    },
+    {
+     "p": "Thin walls with dense blood capillaries for exchange",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 13,
+   "id": "q13",
+   "section": "A",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch05",
+   "topic": "Excretion: nephron",
+   "question": "Describe how a nephron forms urine.",
+   "model_answer": "Blood enters the glomerulus, a cluster of capillaries inside Bowman's capsule, where it is filtered: water, glucose, amino acids, salts and nitrogenous wastes such as urea pass into the tubule.\nAs the filtrate moves along the tubule, useful substances (glucose, amino acids, salts and a major amount of water) are selectively reabsorbed into the blood.\nThe remaining fluid, urine, passes to the collecting duct, then through the ureter to the urinary bladder.",
+   "rubric": [
+    {
+     "p": "Filtration in glomerulus/Bowman's capsule",
+     "m": 1
+    },
+    {
+     "p": "Selective reabsorption of glucose, amino acids, salts, water",
+     "m": 1
+    },
+    {
+     "p": "Urine to collecting duct → ureter → bladder",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 14,
+   "id": "q14",
+   "section": "A",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch13",
+   "topic": "Food chains and trophic levels",
+   "question": "What are trophic levels? Give an example of a food chain with four trophic levels. Why do food chains rarely have more than four or five trophic levels?",
+   "model_answer": "Trophic levels are the steps of a food chain at which energy is transferred (producers, herbivores, carnivores…).\nExample: grass → grasshopper → frog → snake.\nOnly about 10% of energy passes to the next level and the rest is lost (mostly as heat), so after four or five levels too little energy is left to support another level.",
+   "rubric": [
+    {
+     "p": "Definition",
+     "m": 1
+    },
+    {
+     "p": "Correct four-level chain",
+     "m": 1
+    },
+    {
+     "p": "10% transfer, energy loss limits levels",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 15,
+   "id": "q15",
+   "section": "A",
+   "marks": 4,
+   "stem": "In an experiment, pea plants with violet flowers (VV) were crossed with plants with white flowers (vv). The F₁ plants were self-pollinated.",
+   "parts": [
+    {
+     "id": "q15a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch08",
+     "topic": "Monohybrid cross ratios",
+     "question": "The flowers of all F₁ plants are:",
+     "options": [
+      "violet",
+      "half violet, half white",
+      "light violet",
+      "white"
+     ],
+     "answer": "A",
+     "explanation": "Violet is dominant; F₁ is Vv. There is no blending."
+    },
+    {
+     "id": "q15b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch08",
+     "topic": "Monohybrid cross ratios",
+     "question": "The genotypic ratio in F₂ is:",
+     "options": [
+      "1 : 1",
+      "VV : Vv : vv = 1 : 2 : 1",
+      "9 : 3 : 3 : 1",
+      "3 : 1"
+     ],
+     "answer": "B",
+     "explanation": "Vv × Vv gives VV, Vv, Vv, vv."
+    },
+    {
+     "id": "q15c",
+     "marks": 2,
+     "alts": [
+      {
+       "id": "q15cA",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch08",
+       "topic": "Monohybrid cross ratios",
+       "question": "If 800 F₂ plants are obtained, how many would have white flowers? Show your working.",
+       "model_answer": "White flowers need vv, which is 1/4 of F₂. 1/4 × 800 = 200 plants.",
+       "rubric": [
+        {
+         "p": "vv = 1/4 of F₂",
+         "m": 1
+        },
+        {
+         "p": "200 plants",
+         "m": 1
+        }
+       ],
+       "label": "A"
+      },
+      {
+       "id": "q15cB",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch08",
+       "topic": "Dominant and recessive traits",
+       "question": "How can you find out whether an F₂ violet-flowered plant is VV or Vv?",
+       "model_answer": "Cross it with a white-flowered (vv) plant. If all offspring are violet, the plant is VV; if about half are white, it is Vv.",
+       "rubric": [
+        {
+         "p": "Cross with vv (white) plant",
+         "m": 1
+        },
+        {
+         "p": "All violet → VV; some white → Vv",
+         "m": 1
+        }
+       ],
+       "label": "B"
+      }
+     ]
+    }
+   ],
+   "qtype": "Case study"
+  },
+  {
+   "n": 16,
+   "id": "q16",
+   "section": "A",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q16A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch07",
+     "topic": "Sexual reproduction in flowering plants",
+     "question": "Describe sexual reproduction in a flowering plant: pollination, growth of the pollen tube, fertilisation and the changes after fertilisation.",
+     "model_answer": "Pollination: pollen grains are transferred from the anther to the stigma (self- or cross-pollination by wind, water or animals).\nThe pollen grain grows a pollen tube through the style to reach the ovule in the ovary.\nFertilisation: the male germ-cell fuses with the female germ-cell (egg) in the ovule, forming a zygote.\nAfter fertilisation the zygote divides to form the embryo, the ovule becomes the seed with a tough coat, the ovary ripens into the fruit, and petals, sepals, stamens, style and stigma usually shrivel and fall off.",
+     "rubric": [
+      {
+       "p": "Pollination",
+       "m": 1
+      },
+      {
+       "p": "Pollen tube to the ovule",
+       "m": 1
+      },
+      {
+       "p": "Fusion of gametes, zygote",
+       "m": 1
+      },
+      {
+       "p": "Zygote → embryo, ovule → seed",
+       "m": 1
+      },
+      {
+       "p": "Ovary → fruit; other parts fall off",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q16B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch05",
+     "topic": "Nutrition in human beings",
+     "question": "Describe the digestion of food along the human alimentary canal: mouth, stomach, small intestine and large intestine.",
+     "model_answer": "Mouth: teeth break food; saliva has salivary amylase, which breaks starch into sugar.\nStomach: gastric glands release hydrochloric acid (acidic medium, kills germs), pepsin (digests proteins) and mucus (protects the lining).\nSmall intestine: bile from the liver emulsifies fats and makes the medium alkaline; pancreatic juice has trypsin (proteins) and lipase (fats); intestinal juice completes digestion. Villi absorb digested food into the blood.\nLarge intestine: absorbs excess water; the rest is removed through the anus.",
+     "rubric": [
+      {
+       "p": "Mouth: salivary amylase",
+       "m": 1
+      },
+      {
+       "p": "Stomach: HCl, pepsin, mucus",
+       "m": 1
+      },
+      {
+       "p": "Bile emulsifies fats",
+       "m": 1
+      },
+      {
+       "p": "Pancreatic/intestinal enzymes and villi absorption",
+       "m": 1
+      },
+      {
+       "p": "Large intestine absorbs water",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 17,
+   "id": "q17",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch01",
+   "topic": "Electrolysis of water",
+   "question": "When water is electrolysed, the ratio of the volumes of hydrogen and oxygen collected is:",
+   "options": [
+    "2 : 1",
+    "1 : 1",
+    "8 : 1",
+    "1 : 2"
+   ],
+   "answer": "A",
+   "explanation": "2H₂O → 2H₂ + O₂: twice as much hydrogen by volume.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 18,
+   "id": "q18",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch01",
+   "topic": "Thermal decomposition",
+   "question": "On heating lead nitrate, the brown fumes given off are of:",
+   "options": [
+    "nitrogen dioxide",
+    "oxygen",
+    "nitrogen",
+    "lead oxide"
+   ],
+   "answer": "A",
+   "explanation": "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂; NO₂ is brown.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 19,
+   "id": "q19",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch02",
+   "topic": "pH in everyday life",
+   "question": "Tooth decay starts when the pH in the mouth falls below:",
+   "options": [
+    "8.5",
+    "7",
+    "2",
+    "5.5"
+   ],
+   "answer": "D",
+   "explanation": "Enamel (calcium hydroxyapatite) corrodes below pH 5.5.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 20,
+   "id": "q20",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch02",
+   "topic": "Reactions of bases",
+   "question": "Zinc reacts with sodium hydroxide solution on heating. The gas evolved is:",
+   "options": [
+    "carbon dioxide",
+    "chlorine",
+    "oxygen",
+    "hydrogen"
+   ],
+   "answer": "D",
+   "explanation": "2NaOH + Zn → Na₂ZnO₂ + H₂.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 21,
+   "id": "q21",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch03",
+   "topic": "Metals and non-metals: oxides",
+   "question": "An element burns to form an oxide whose solution turns blue litmus red. The element is most likely:",
+   "options": [
+    "calcium",
+    "sodium",
+    "magnesium",
+    "sulphur"
+   ],
+   "answer": "D",
+   "explanation": "Non-metal oxides are acidic; SO₂ dissolves to give an acidic solution.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 22,
+   "id": "q22",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch04",
+   "topic": "Homologous series",
+   "question": "The general formula of alkynes is:",
+   "options": [
+    "CₙH₂ₙ",
+    "CₙH₂ₙ₊₁OH",
+    "CₙH₂ₙ₊₂",
+    "CₙH₂ₙ₋₂"
+   ],
+   "answer": "D",
+   "explanation": "Alkynes have a triple bond: CₙH₂ₙ₋₂ (e.g. C₂H₂).",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 23,
+   "id": "q23",
+   "section": "B",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch04",
+   "topic": "Chemical properties of carbon compounds",
+   "question": "Ethanol is converted into ethanoic acid by alkaline potassium permanganate. This reaction is an example of:",
+   "options": [
+    "reduction",
+    "oxidation",
+    "substitution",
+    "esterification"
+   ],
+   "answer": "B",
+   "explanation": "Alkaline KMnO₄ is an oxidising agent: it adds oxygen to ethanol.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 24,
+   "id": "q24",
+   "section": "B",
+   "type": "ar",
+   "marks": 1,
+   "chapter": "ch02",
+   "topic": "Dilution of acids",
+   "question": "Choose the correct option.",
+   "assertion": "Concentrated sulphuric acid should be diluted by adding the acid slowly to water, with constant stirring.",
+   "reason": "Dissolving an acid in water is a highly exothermic process.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": "A",
+   "explanation": "Adding water to concentrated acid can make the mixture splash and the glass break from local heating; R is the reason.",
+   "qtype": "Assertion-Reason"
+  },
+  {
+   "n": 25,
+   "id": "q25",
+   "section": "B",
+   "type": "self",
+   "marks": 2,
+   "chapter": "ch02",
+   "topic": "Bleaching powder: preparation and uses",
+   "question": "How is bleaching powder prepared? Write the equation and give two uses.",
+   "model_answer": "Chlorine is passed over dry slaked lime: Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O.\nUses (any two): bleaching cotton and linen, and wood pulp; disinfecting drinking water; as an oxidising agent in industry.",
+   "rubric": [
+    {
+     "p": "Correct equation",
+     "m": 1
+    },
+    {
+     "p": "Two uses",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 26,
+   "id": "q26",
+   "section": "B",
+   "marks": 3,
+   "alts": [
+    {
+     "id": "q26A",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ch03",
+     "topic": "Corrosion",
+     "question": "What is corrosion? Name the coating formed on copper and on silver when they corrode. Give two methods to prevent rusting of iron.",
+     "model_answer": "Corrosion: a metal is slowly attacked by substances around it such as moisture and gases, and its surface wears away.\nCopper gets a green coat of basic copper carbonate; silver turns black with silver sulphide.\nPrevent rusting by painting, oiling or greasing, galvanising (zinc coating), chrome plating, anodising or making alloys (e.g. stainless steel). Any two.",
+     "rubric": [
+      {
+       "p": "Definition",
+       "m": 1
+      },
+      {
+       "p": "Copper: green basic copper carbonate; silver: black silver sulphide",
+       "m": 1
+      },
+      {
+       "p": "Two methods",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q26B",
+     "type": "self",
+     "marks": 3,
+     "chapter": "ch03",
+     "topic": "Reactions of metals with water",
+     "question": "Write balanced equations for the reaction of (a) sodium with cold water, (b) magnesium with hot water, (c) aluminium with steam. Why is sodium stored under kerosene?",
+     "model_answer": "(a) 2Na + 2H₂O → 2NaOH + H₂ + heat.\n(b) Mg + 2H₂O → Mg(OH)₂ + H₂.\n(c) 2Al + 3H₂O → Al₂O₃ + 3H₂.\nSodium reacts so vigorously with oxygen and moisture that it can catch fire, so it is kept under kerosene.",
+     "rubric": [
+      {
+       "p": "(a) correct",
+       "m": 1
+      },
+      {
+       "p": "(b) and (c) correct (½ each)",
+       "m": 1
+      },
+      {
+       "p": "Reason for kerosene",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 27,
+   "id": "q27",
+   "section": "B",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch01",
+   "topic": "Balancing equations and types",
+   "question": "Balance the following and name the type of each reaction:\n(a) Fe + H₂O → Fe₃O₄ + H₂ (steam)\n(b) Pb(NO₃)₂ + KI → PbI₂ + KNO₃\n(c) CaCO₃ → CaO + CO₂ (on heating)",
+   "model_answer": "(a) 3Fe + 4H₂O → Fe₃O₄ + 4H₂ (redox: iron oxidised).\n(b) Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃: double displacement (yellow precipitate of PbI₂).\n(c) CaCO₃ → CaO + CO₂: thermal decomposition.",
+   "rubric": [
+    {
+     "p": "(a) balanced and named",
+     "m": 1
+    },
+    {
+     "p": "(b) balanced, double displacement / precipitation",
+     "m": 1
+    },
+    {
+     "p": "(c) thermal decomposition",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 28,
+   "id": "q28",
+   "section": "B",
+   "marks": 4,
+   "stem": "Vinegar is a 5–8% solution of a compound X (C₂H₄O₂) in water. Pure X freezes in cold weather. X reacts with ethanol in the presence of an acid to give a sweet-smelling compound.",
+   "parts": [
+    {
+     "id": "q28a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch04",
+     "topic": "Ethanoic acid",
+     "question": "The functional group in X is:",
+     "options": [
+      "ketone (>C=O)",
+      "carboxylic acid (–COOH)",
+      "alcohol (–OH)",
+      "aldehyde (–CHO)"
+     ],
+     "answer": "B",
+     "explanation": "X is ethanoic acid, CH₃COOH."
+    },
+    {
+     "id": "q28b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch04",
+     "topic": "Ethanoic acid",
+     "question": "X reacts with sodium hydrogencarbonate to give a gas that turns lime water milky. The gas is:",
+     "options": [
+      "hydrogen",
+      "oxygen",
+      "carbon dioxide",
+      "sulphur dioxide"
+     ],
+     "answer": "C",
+     "explanation": "Acid + hydrogencarbonate → salt + water + CO₂."
+    },
+    {
+     "id": "q28c",
+     "marks": 2,
+     "alts": [
+      {
+       "id": "q28cA",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch04",
+       "topic": "Esterification",
+       "question": "Write the equation for the reaction of X with ethanol and give one use of the product.",
+       "model_answer": "CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O (in the presence of an acid catalyst): ethyl ethanoate, an ester.\nUse: in perfumes and flavouring agents (esters with alkali give soap: saponification).",
+       "rubric": [
+        {
+         "p": "Correct equation with acid catalyst",
+         "m": 1
+        },
+        {
+         "p": "Product named with one use",
+         "m": 1
+        }
+       ],
+       "label": "A"
+      },
+      {
+       "id": "q28cB",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch04",
+       "topic": "Ethanoic acid",
+       "question": "Why is pure X called glacial acetic acid? Is X a strong or a weak acid?",
+       "model_answer": "Pure ethanoic acid has a melting point of 290 K, so it often freezes in cold climates, looking like ice: hence 'glacial'.\nIt is a weak acid (it ionises only partly in water).",
+       "rubric": [
+        {
+         "p": "Freezes (m.p. 290 K) in cold weather",
+         "m": 1
+        },
+        {
+         "p": "Weak acid",
+         "m": 1
+        }
+       ],
+       "label": "B"
+      }
+     ]
+    }
+   ],
+   "qtype": "Case study"
+  },
+  {
+   "n": 29,
+   "id": "q29",
+   "section": "B",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q29A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch04",
+     "topic": "Bonding in carbon",
+     "question": "(a) Give two reasons why carbon forms a very large number of compounds. (b) Explain why carbon forms covalent bonds rather than ions. (c) Describe the bonding in ethane (C₂H₆) using electron dots, and state why covalent compounds are poor conductors of electricity.",
+     "model_answer": "(a) Catenation: carbon links with other carbon atoms to form long chains, branches and rings. Tetravalency: carbon has four valence electrons and bonds with four other atoms (C, H, O, N, S, Cl…). Strong C–C and C–H bonds (small atom) make the compounds stable.\n(b) Gaining or losing four electrons would need too much energy, so carbon shares its valence electrons.\n(c) Each carbon shares one pair with the other carbon and one pair with each of three hydrogens (7 shared pairs in all).\nCovalent compounds have no free ions, so they are poor conductors.",
+     "rubric": [
+      {
+       "p": "Catenation",
+       "m": 1
+      },
+      {
+       "p": "Tetravalency (and stable bonds)",
+       "m": 1
+      },
+      {
+       "p": "Why sharing, not ions",
+       "m": 1
+      },
+      {
+       "p": "Ethane dot structure: one C–C and six C–H shared pairs",
+       "m": 1
+      },
+      {
+       "p": "No ions, so poor conductors",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q29B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch03",
+     "topic": "Extraction and refining of metals",
+     "question": "Explain, with equations, how mercury is obtained from its sulphide ore (cinnabar, HgS). Then describe the electrolytic refining of copper.",
+     "model_answer": "Mercury is low in the reactivity series, so heating alone works. Roasting: 2HgS + 3O₂ → 2HgO + 2SO₂. Further heating reduces the oxide: 2HgO → 2Hg + O₂.\nElectrolytic refining: impure copper is the anode, a thin strip of pure copper the cathode, and acidified copper sulphate solution the electrolyte. On passing current, copper dissolves from the anode into the solution and pure copper deposits on the cathode; insoluble impurities settle below the anode as anode mud.",
+     "rubric": [
+      {
+       "p": "Roasting equation",
+       "m": 1
+      },
+      {
+       "p": "Reduction of HgO by heating",
+       "m": 1
+      },
+      {
+       "p": "Anode impure, cathode pure",
+       "m": 1
+      },
+      {
+       "p": "CuSO₄ electrolyte and what happens on passing current",
+       "m": 1
+      },
+      {
+       "p": "Anode mud",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  },
+  {
+   "n": 30,
+   "id": "q30",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch09",
+   "topic": "Power of a lens",
+   "question": "The power of a lens of focal length −50 cm is:",
+   "options": [
+    "+2 D",
+    "−2 D",
+    "−50 D",
+    "−0.5 D"
+   ],
+   "answer": "B",
+   "explanation": "P = 1/f (in m) = 1/(−0.5) = −2 D: a concave lens.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 31,
+   "id": "q31",
+   "section": "C",
+   "type": "mcq",
+   "marks": 1,
+   "chapter": "ch09",
+   "topic": "Reflection by plane mirrors",
+   "question": "The magnification produced by a plane mirror is:",
+   "options": [
+    "0",
+    "−1",
+    "+1",
+    "more than 1"
+   ],
+   "answer": "C",
+   "explanation": "A plane mirror forms an erect image of the same size.",
+   "qtype": "MCQ"
+  },
+  {
+   "n": 32,
+   "id": "q32",
+   "section": "C",
+   "type": "ar",
+   "marks": 1,
+   "chapter": "ch10",
+   "topic": "Scattering of light",
+   "question": "Choose the correct option.",
+   "assertion": "The sky appears dark to an astronaut in space.",
+   "reason": "There is no atmosphere in space to scatter sunlight.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": "A",
+   "explanation": "Scattering by the atmosphere makes the sky look blue; without an atmosphere there is no scattering, so the sky looks dark.",
+   "qtype": "Assertion-Reason"
+  },
+  {
+   "n": 33,
+   "id": "q33",
+   "section": "C",
+   "type": "self",
+   "marks": 2,
+   "chapter": "ch09",
+   "topic": "Refractive index",
+   "question": "The refractive index of glass is 1.5. What does this mean? Find the speed of light in glass (speed in air = 3 × 10⁸ m/s).",
+   "model_answer": "n = speed of light in air / speed of light in glass = 1.5: light travels 1.5 times faster in air than in glass.\nv = c/n = 3 × 10⁸ / 1.5 = 2 × 10⁸ m/s.",
+   "rubric": [
+    {
+     "p": "Meaning of n = 1.5",
+     "m": 1
+    },
+    {
+     "p": "2 × 10⁸ m/s",
+     "m": 1
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 34,
+   "id": "q34",
+   "section": "C",
+   "marks": 2,
+   "alts": [
+    {
+     "id": "q34A",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch11",
+     "topic": "Ohm's law",
+     "question": "State Ohm's law. A bulb draws a current of 0.5 A from a 220 V supply. Find its resistance.",
+     "model_answer": "At constant temperature, the current through a conductor is directly proportional to the potential difference across its ends (V = IR).\nR = V/I = 220/0.5 = 440 Ω.",
+     "rubric": [
+      {
+       "p": "Correct statement",
+       "m": 1
+      },
+      {
+       "p": "440 Ω",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q34B",
+     "type": "self",
+     "marks": 2,
+     "chapter": "ch12",
+     "topic": "Magnetic field lines",
+     "question": "Give two properties of magnetic field lines. Why do two field lines never intersect?",
+     "model_answer": "Field lines emerge from the north pole and merge at the south pole (closed curves); they are closer where the field is stronger.\nIf two lines crossed, the compass needle at that point would point in two directions at once, which is impossible.",
+     "rubric": [
+      {
+       "p": "Two properties",
+       "m": 1
+      },
+      {
+       "p": "Reason for no intersection",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "VSA"
+  },
+  {
+   "n": 35,
+   "id": "q35",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch10",
+   "topic": "Defects of vision",
+   "question": "What is hypermetropia? State two possible causes and how it is corrected.",
+   "model_answer": "Hypermetropia (far-sightedness): a person sees distant objects clearly but not nearby ones; the near point is farther than 25 cm and the image of a near object forms behind the retina.\nCauses: the focal length of the eye lens is too long, or the eyeball has become too small.\nCorrection: a convex lens of suitable power, which gives extra focusing.",
+   "rubric": [
+    {
+     "p": "Definition (near point beyond 25 cm, image behind retina)",
+     "m": 1
+    },
+    {
+     "p": "Two causes",
+     "m": 1
+    },
+    {
+     "p": "Convex lens",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 36,
+   "id": "q36",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch11",
+   "topic": "Resistivity numerical",
+   "question": "A copper wire is 2 m long with an area of cross-section 1.7 × 10⁻⁶ m². The resistivity of copper is 1.7 × 10⁻⁸ Ω m.\n(a) Find its resistance. (b) How will the resistance change if the length is halved? (c) How will it change if the diameter is doubled?",
+   "model_answer": "(a) R = ρl/A = (1.7 × 10⁻⁸ × 2)/(1.7 × 10⁻⁶) = 0.02 Ω.\n(b) R ∝ l, so it is halved (0.01 Ω).\n(c) Doubling the diameter makes the area four times, so R becomes one-fourth (0.005 Ω).",
+   "rubric": [
+    {
+     "p": "0.02 Ω",
+     "m": 1
+    },
+    {
+     "p": "Halved",
+     "m": 1
+    },
+    {
+     "p": "One-fourth",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 37,
+   "id": "q37",
+   "section": "C",
+   "type": "self",
+   "marks": 3,
+   "chapter": "ch12",
+   "topic": "Field due to a circular loop",
+   "question": "Describe the magnetic field pattern of a current-carrying circular loop. How does the field at the centre change if (a) the current is increased, (b) the coil has n turns?",
+   "model_answer": "Near the wire, the field lines are concentric circles; as we move towards the centre the arcs become larger, and at the centre the lines are nearly straight and perpendicular to the plane of the loop.\n(a) The field increases with current.\n(b) With n turns the fields add up, so the field becomes n times that of a single turn.",
+   "rubric": [
+    {
+     "p": "Pattern: circles near wire, straight at centre",
+     "m": 1
+    },
+    {
+     "p": "Increases with current",
+     "m": 1
+    },
+    {
+     "p": "n turns → n times the field",
+     "m": 1
+    }
+   ],
+   "qtype": "SA"
+  },
+  {
+   "n": 38,
+   "id": "q38",
+   "section": "C",
+   "marks": 4,
+   "stem": "In the school lab, a student uses a convex lens of focal length 12 cm and places a candle at different distances from it.",
+   "parts": [
+    {
+     "id": "q38a",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch09",
+     "topic": "Image formation by a convex lens",
+     "question": "When the candle is 24 cm from the lens, the image is:",
+     "options": [
+      "real, diminished, at the focus",
+      "real, inverted, same size, 24 cm behind the lens",
+      "at infinity",
+      "virtual, erect, magnified"
+     ],
+     "answer": "B",
+     "explanation": "24 cm = 2F, so the image is at 2F on the other side, same size."
+    },
+    {
+     "id": "q38b",
+     "type": "mcq",
+     "marks": 1,
+     "chapter": "ch09",
+     "topic": "Image formation by a convex lens",
+     "question": "To get a virtual, erect and magnified image, the candle must be placed:",
+     "options": [
+      "at the focus",
+      "at 2F",
+      "between the lens and its focus",
+      "beyond 2F"
+     ],
+     "answer": "C",
+     "explanation": "Only an object within F gives a virtual, erect, magnified image (magnifying glass)."
+    },
+    {
+     "id": "q38c",
+     "marks": 2,
+     "alts": [
+      {
+       "id": "q38cA",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch09",
+       "topic": "Power of a lens",
+       "question": "Find the power of this lens.",
+       "model_answer": "f = +12 cm = +0.12 m. P = 1/f = 1/0.12 ≈ +8.3 D.",
+       "rubric": [
+        {
+         "p": "f in metres with sign",
+         "m": 1
+        },
+        {
+         "p": "≈ +8.3 D",
+         "m": 1
+        }
+       ],
+       "label": "A"
+      },
+      {
+       "id": "q38cB",
+       "type": "self",
+       "marks": 2,
+       "chapter": "ch09",
+       "topic": "Lens formula numerical",
+       "question": "Find the image distance when the candle is 36 cm from the lens.",
+       "model_answer": "u = −36 cm, f = +12 cm. 1/v = 1/f + 1/u = 1/12 − 1/36 = 2/36, so v = +18 cm (real image behind the lens).",
+       "rubric": [
+        {
+         "p": "Lens formula with signs",
+         "m": 1
+        },
+        {
+         "p": "v = +18 cm",
+         "m": 1
+        }
+       ],
+       "label": "B"
+      }
+     ]
+    }
+   ],
+   "qtype": "Case study"
+  },
+  {
+   "n": 39,
+   "id": "q39",
+   "section": "C",
+   "marks": 5,
+   "alts": [
+    {
+     "id": "q39A",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch11",
+     "topic": "Heating effect of current (Joule's law)",
+     "question": "State Joule's law of heating. Find the heat produced in 5 minutes in a 4 Ω resistor carrying a current of 2 A. Give two applications of the heating effect and explain why the filament of a bulb is made of tungsten.",
+     "model_answer": "Joule's law: heat produced H = I²Rt; heat is directly proportional to the square of the current, the resistance and the time for which current flows.\nH = 2² × 4 × 300 = 4800 J.\nApplications: electric iron, toaster, heater, kettle, fuse, electric bulb (any two).\nTungsten has a very high melting point (3380 °C), so it can glow white-hot without melting.",
+     "rubric": [
+      {
+       "p": "Statement H = I²Rt",
+       "m": 1
+      },
+      {
+       "p": "t = 300 s used",
+       "m": 1
+      },
+      {
+       "p": "4800 J",
+       "m": 1
+      },
+      {
+       "p": "Two applications",
+       "m": 1
+      },
+      {
+       "p": "Tungsten: very high melting point",
+       "m": 1
+      }
+     ],
+     "label": "A"
+    },
+    {
+     "id": "q39B",
+     "type": "self",
+     "marks": 5,
+     "chapter": "ch11",
+     "topic": "Series and parallel combinations",
+     "question": "Three resistors of 6 Ω each are connected to a 12 V source. Find the equivalent resistance and the current drawn when they are connected (a) in series, (b) in parallel. Give two reasons why household appliances are connected in parallel.",
+     "model_answer": "(a) Series: R = 18 Ω, I = 12/18 = 0.67 A (approx.).\n(b) Parallel: 1/R = 3/6, R = 2 Ω, I = 12/2 = 6 A.\nParallel: each appliance gets the full supply voltage; each can be switched on or off independently, and if one fails the others keep working; the total resistance is less.",
+     "rubric": [
+      {
+       "p": "Series 18 Ω",
+       "m": 1
+      },
+      {
+       "p": "Series current ≈ 0.67 A",
+       "m": 1
+      },
+      {
+       "p": "Parallel 2 Ω",
+       "m": 1
+      },
+      {
+       "p": "Parallel current 6 A",
+       "m": 1
+      },
+      {
+       "p": "Two reasons for parallel wiring",
+       "m": 1
+      }
+     ],
+     "label": "B"
+    }
+   ],
+   "qtype": "LA"
+  }
+ ]
+}
