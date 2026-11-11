@@ -475,6 +475,30 @@
    "suggested_minutes": 40
   },
   {
+   "id": "c10-maths-ch08",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 8 Introduction to Trigonometry",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 8 Introduction to Trigonometry (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch08",
+    "S2": "ch08",
+    "S3": "ch08",
+    "S4": "ch08",
+    "S5": "ch08",
+    "S6": "ch08",
+    "S7": "ch08",
+    "S8": "ch08",
+    "S9": "ch08"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
    "id": "c10-maths",
    "title": "Board-pattern readiness test — most-repeated question types",
    "short_title": "Class 10 Maths · Crash Revision 2027",

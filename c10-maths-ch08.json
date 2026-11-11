@@ -1,0 +1,717 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch08",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 8 Introduction to Trigonometry (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 8 Introduction to Trigonometry",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2023-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number. No calculator.",
+ "suggested_minutes": 40,
+ "video_url": "https://youtu.be/a2L3P_nUPYQ",
+ "worksheet_url": "https://drive.google.com/file/d/1eCW_e3Or6E1YP-oHclXtyMLRHxjeqRyU/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "One ratio given",
+  "T2": "Standard angles: evaluate",
+  "T3": "Find angles from equations",
+  "T4": "Prove an identity",
+  "T5": "Use identities for a value",
+  "T6": "Substitution identities",
+  "T7": "Ratios from a right triangle"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "The six ratios and their limits",
+   "tip": "sin = opp/hyp, cos = adj/hyp, tan = opp/adj; cosec, sec, cot are reciprocals. For an acute angle sin and cos are below 1; sec and cosec are at least 1.",
+   "ncert": "NCERT §8.2; Exercise 8.1 Q1, Q11"
+  },
+  "S2": {
+   "name": "One ratio given: find the rest",
+   "tip": "Draw the triangle, write the known sides as multiples of k, find the third by Pythagoras. For an expression in sin and cos with tan given, divide top and bottom by cos A.",
+   "ncert": "NCERT Example 1; Exercise 8.1 Q2-Q10"
+  },
+  "S3": {
+   "name": "Standard angles table",
+   "tip": "sin: 0, 1/2, 1/√2, √3/2, 1 (0° to 90°); cos is the same list backwards; tan: 0, 1/√3, 1, √3, not defined.",
+   "ncert": "NCERT §8.3, Example 6; Exercise 8.2 Q3"
+  },
+  "S4": {
+   "name": "Evaluate expressions",
+   "tip": "Substitute, then square: sin²60° = (sin 60°)² = 3/4. Simplify fractions last.",
+   "ncert": "NCERT Exercise 8.2 Q1, Q2"
+  },
+  "S5": {
+   "name": "Find the angles",
+   "tip": "Turn each value into an angle, then add and subtract: A − B = 30°, A + B = 60° → A = 45°, B = 15°.",
+   "ncert": "NCERT Example 8; Exercise 8.2 Q3"
+  },
+  "S6": {
+   "name": "The three identities",
+   "tip": "sin²A + cos²A = 1, 1 + tan²A = sec²A, 1 + cot²A = cosec²A. (sec θ + tan θ)(sec θ − tan θ) = 1.",
+   "ncert": "NCERT §8.4; Exercise 8.3 Q3"
+  },
+  "S7": {
+   "name": "Use identities to find values",
+   "tip": "From one ratio get the squares (tan θ = 1/√5 → sec²θ = 6/5). Square a sum: (tan A + cot A)² = tan²A + cot²A + 2.",
+   "ncert": "NCERT Example 9; Exercise 8.3 Q1, Q2"
+  },
+  "S8": {
+   "name": "Proving identities",
+   "tip": "Start from the harder side, write everything in sin and cos, rationalise roots, aim for the other side.",
+   "ncert": "NCERT Examples 10-12; Exercise 8.3 Q4"
+  },
+  "S9": {
+   "name": "Substitution and spot-the-error",
+   "tip": "Square and add when two relations are given; (1 − sin θ)² = 1 − 2 sin θ + sin²θ, not cos²θ.",
+   "ncert": "NCERT Exercise 8.3 Q4 (review)"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "In △ABC right-angled at B, sin A equals:",
+   "answer": "D",
+   "explanation": "sin A = opposite/hypotenuse = BC/AC.",
+   "remediation": "Video part 1.",
+   "options": [
+    "AB/AC",
+    "BC/AB",
+    "AC/BC",
+    "BC/AC"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "In △PQR right-angled at Q, PQ = 3 cm, QR = 4 cm and PR = 5 cm. tan R equals:",
+   "answer": "A",
+   "explanation": "tan R = opposite/adjacent = PQ/QR = 3/4.",
+   "remediation": "Video part 1: name the sides from the angle you are using.",
+   "options": [
+    "3/4",
+    "4/3",
+    "3/5",
+    "4/5"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Which value is impossible for an acute angle θ?",
+   "answer": "B",
+   "explanation": "sin θ < 1 for an acute angle; tan and cot can be any positive value; sec ≥ 1.",
+   "remediation": "Video part 1.",
+   "options": [
+    "sec θ = 5/4",
+    "sin θ = 5/4",
+    "tan θ = 5/4",
+    "cot θ = 4"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "12/5 > 1, so A is true, and R explains why sec A ≥ 1.",
+   "remediation": "Video part 1.",
+   "assertion": "For an acute angle A, sec A = 12/5 is possible.",
+   "reason": "sec A = hypotenuse/adjacent, and the hypotenuse is the longest side.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "If sin A = 3/5 (A acute), then cos A is:",
+   "answer": "A",
+   "explanation": "Sides 3, 4, 5 → cos A = 4/5.",
+   "remediation": "Video part 2: draw the triangle.",
+   "options": [
+    "4/5",
+    "3/4",
+    "5/4",
+    "5/3"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "If 3 tan θ = 4 (θ acute), then cos θ is:",
+   "answer": "A",
+   "explanation": "tan θ = 4/3 → sides 4, 3, 5 → cos θ = 3/5.",
+   "remediation": "Video part 2.",
+   "options": [
+    "3/5",
+    "5/3",
+    "4/5",
+    "3/4"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "If 13 sin θ = 5 (θ acute), then tan θ is:",
+   "answer": "C",
+   "explanation": "Sides 5, 12, 13 → tan θ = 5/12.",
+   "remediation": "Video part 2.",
+   "options": [
+    "12/13",
+    "12/5",
+    "5/12",
+    "5/13"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "If 3 sec θ − 5 = 0 (θ acute), then cot θ is:",
+   "answer": "C",
+   "explanation": "sec θ = 5/3 → hyp 5, adj 3, opp 4 → cot θ = 3/4.",
+   "remediation": "Video part 2: a 2024 board type.",
+   "options": [
+    "3/5",
+    "4/3",
+    "3/4",
+    "5/4"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "If tan A = 2, find the value of (2 sin A + cos A)/(sin A − cos A).",
+   "answer": "5",
+   "explanation": "Divide numerator and denominator by cos A: (2 tan A + 1)/(tan A − 1) = (2·2 + 1)/(2 − 1) = 5.",
+   "remediation": "Video part 2: divide top and bottom by cos A."
+  },
+  {
+   "id": "q10",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The value of tan 60° is:",
+   "answer": "C",
+   "explanation": "tan: 0, 1/√3, 1, √3 (0°, 30°, 45°, 60°).",
+   "remediation": "Video part 3.",
+   "options": [
+    "√3/2",
+    "1",
+    "√3",
+    "1/√3"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Which ratio is NOT defined?",
+   "answer": "D",
+   "explanation": "tan 90° = sin 90°/cos 90° = 1/0, not defined; cot 90° = 0.",
+   "remediation": "Video part 3.",
+   "options": [
+    "sin 90°",
+    "cos 90°",
+    "cot 90°",
+    "tan 90°"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "cosec 30° + sec 60° equals:",
+   "answer": "A",
+   "explanation": "2 + 2 = 4.",
+   "remediation": "Video part 3.",
+   "options": [
+    "4",
+    "2√3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "In △ABC right-angled at B, BC = 6 cm and ∠A = 30°. Find AC (in cm).",
+   "answer": "12",
+   "explanation": "sin 30° = BC/AC → 1/2 = 6/AC → AC = 12.",
+   "remediation": "Video part 3: NCERT Example 6 type."
+  },
+  {
+   "id": "q14",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Evaluate sin 30° cos 60° + cos 30° sin 60° (enter the value).",
+   "answer": "1",
+   "explanation": "1/4 + 3/4 = 1.",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q15",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Evaluate 4 sin²30° + 3 tan²60° − 2 cos²45°.",
+   "answer": "9",
+   "explanation": "4·1/4 + 3·3 − 2·1/2 = 1 + 9 − 1 = 9.",
+   "remediation": "Video part 4: square the value, not the angle."
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "If sin θ = cos θ (θ acute), then 2 tan θ + cos²θ equals:",
+   "answer": "A",
+   "explanation": "θ = 45°: 2·1 + 1/2 = 5/2.",
+   "remediation": "Video part 4.",
+   "options": [
+    "5/2",
+    "3/2",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Evaluate (5 cos²60° + 4 sec²30° − tan²45°)/(sin²30° + cos²30°) and multiply the answer by 12. Enter the result.",
+   "answer": "67",
+   "explanation": "(5/4 + 16/3 − 1)/1 = 67/12 → × 12 = 67.",
+   "remediation": "Video part 4; NCERT Exercise 8.2 Q1(v)."
+  },
+  {
+   "id": "q18",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "If 2 cos 3θ = 1 (3θ acute), find θ in degrees.",
+   "answer": "20",
+   "explanation": "cos 3θ = 1/2 → 3θ = 60° → θ = 20°.",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q19",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "If sin(A − B) = 1/2 and cos(A + B) = 1/2, with 0° < A + B ≤ 90° and A > B, then A and B are:",
+   "answer": "D",
+   "explanation": "A − B = 30°, A + B = 60° → A = 45°, B = 15°.",
+   "remediation": "Video part 5: NCERT Example 8.",
+   "options": [
+    "60°, 30°",
+    "45°, 30°",
+    "30°, 15°",
+    "45°, 15°"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "If tan(A + B) = √3 and tan(A − B) = 1/√3 (0° < A + B < 90°, A > B), then A and B are:",
+   "answer": "B",
+   "explanation": "A + B = 60°, A − B = 30°.",
+   "remediation": "Video part 5; SQP 2026-27 Q8 type.",
+   "options": [
+    "60°, 30°",
+    "45°, 15°",
+    "30°, 30°",
+    "45°, 30°"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "If sin(A + B) = 1 and cos(A − B) = √3/2 (A > B, all acute or right as needed), find A in degrees.",
+   "answer": "60",
+   "explanation": "A + B = 90°, A − B = 30° → A = 60°, B = 30°.",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q22",
+   "subtopic": "S5",
+   "level": "L4",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "If √3 tan 2θ − 3 = 0 (2θ acute), find θ in degrees.",
+   "answer": "30",
+   "explanation": "tan 2θ = √3 → 2θ = 60° → θ = 30°.",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q23",
+   "subtopic": "S6",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "For any acute angle A, sin²A + cos²A equals:",
+   "answer": "D",
+   "explanation": "The basic identity.",
+   "remediation": "Video part 6.",
+   "options": [
+    "2",
+    "sin 2A",
+    "0",
+    "1"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S6",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "sec²θ − tan²θ equals:",
+   "answer": "A",
+   "explanation": "1 + tan²θ = sec²θ.",
+   "remediation": "Video part 6.",
+   "options": [
+    "1",
+    "sec θ − tan θ",
+    "0",
+    "−1"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "9 sec²A − 9 tan²A equals:",
+   "answer": "B",
+   "explanation": "9(sec²A − tan²A) = 9 (NCERT Exercise 8.3 Q3(i)).",
+   "remediation": "Video part 6.",
+   "options": [
+    "1",
+    "9",
+    "8",
+    "0"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "(1 + tan²A)/(1 + cot²A) equals:",
+   "answer": "B",
+   "explanation": "sec²A/cosec²A = sin²A/cos²A = tan²A (a 2026 board type).",
+   "remediation": "Video part 6.",
+   "options": [
+    "1",
+    "tan²A",
+    "cot²A",
+    "sec²A"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "If sec θ − tan θ = 1/3, then sec θ + tan θ equals:",
+   "answer": "D",
+   "explanation": "(sec θ + tan θ)(sec θ − tan θ) = 1 → 3.",
+   "remediation": "Video part 6.",
+   "options": [
+    "2/3",
+    "1/3",
+    "−3",
+    "3"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "(tan A cosec A)² − (sin A sec A)² equals:",
+   "answer": "B",
+   "explanation": "(1/cos A)² − (tan A)² = sec²A − tan²A = 1 (a 2025 board type).",
+   "remediation": "Video part 7.",
+   "options": [
+    "0",
+    "1",
+    "tan²A",
+    "−1"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "If tan A + cot A = 4, find tan²A + cot²A.",
+   "answer": "14",
+   "explanation": "Square: tan²A + cot²A + 2 = 16 → 14.",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q30",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "If tan θ = 1/√7, then (cosec²θ − sec²θ)/(cosec²θ + sec²θ) equals:",
+   "answer": "A",
+   "explanation": "cosec²θ = 1 + 7 = 8, sec²θ = 1 + 1/7 = 8/7 → (48/7)/(64/7) = 3/4 (SQP 2026-27 Q23 type, new numbers).",
+   "remediation": "Video part 7.",
+   "options": [
+    "3/4",
+    "2/3",
+    "1/2",
+    "4/3"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S7",
+   "level": "L4",
+   "pattern": "T5",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "cos A = sin²A, so sin²A + sin⁴A = cos A + cos²A = 1; R is the step used.",
+   "remediation": "Video part 7; SQP 2025-26 Q20 type.",
+   "assertion": "If cos A + cos²A = 1, then sin²A + sin⁴A = 1.",
+   "reason": "sin²A + cos²A = 1.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "sec A (1 − sin A)(sec A + tan A) simplifies to:",
+   "answer": "B",
+   "explanation": "= (1 − sin A)(1 + sin A)/cos²A = cos²A/cos²A = 1 (NCERT Example 10).",
+   "remediation": "Video part 8.",
+   "options": [
+    "cos A",
+    "1",
+    "0",
+    "sec A"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "√[(1 + sin A)/(1 − sin A)] equals:",
+   "answer": "A",
+   "explanation": "Multiply by (1 + sin A)/(1 + sin A): (1 + sin A)/cos A = sec A + tan A.",
+   "remediation": "Video part 8: rationalise.",
+   "options": [
+    "sec A + tan A",
+    "1 + tan A",
+    "sec A − tan A",
+    "cosec A + cot A"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "(1 + cot²A) sin²A equals:",
+   "answer": "D",
+   "explanation": "cosec²A · sin²A = 1.",
+   "remediation": "Video part 8.",
+   "options": [
+    "cos²A",
+    "sin²A",
+    "cot²A",
+    "1"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "(1 − cos²A) cosec²A − 1 equals:",
+   "answer": "B",
+   "explanation": "sin²A · cosec²A − 1 = 1 − 1 = 0.",
+   "remediation": "Video part 8.",
+   "options": [
+    "−1",
+    "0",
+    "1",
+    "sin²A"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "S8",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "(sin A + cosec A)² + (cos A + sec A)² equals:",
+   "answer": "D",
+   "explanation": "1 + 2 + 2 + cosec²A + sec²A = 5 + (1 + cot²A) + (1 + tan²A) = 7 + tan²A + cot²A.",
+   "remediation": "Video part 8.",
+   "options": [
+    "9 + tan²A",
+    "7",
+    "5 + tan²A + cot²A",
+    "7 + tan²A + cot²A"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "If x = 3 cos θ and y = 3 sin θ, then x² + y² equals:",
+   "answer": "A",
+   "explanation": "9(cos²θ + sin²θ) = 9.",
+   "remediation": "Video part 9.",
+   "options": [
+    "9",
+    "6",
+    "1",
+    "3"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "If x = a sec θ and y = b tan θ, then x²/a² − y²/b² equals:",
+   "answer": "A",
+   "explanation": "sec²θ − tan²θ = 1.",
+   "remediation": "Video part 9.",
+   "options": [
+    "1",
+    "0",
+    "−1",
+    "a² − b²"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "A student wrote cos θ/(1 − sin θ) + (1 − sin θ)/cos θ = [cos²θ + cos²θ]/[(1 − sin θ) cos θ]. The error is:",
+   "answer": "B",
+   "explanation": "(1 − sin θ)² = 1 − 2 sin θ + sin²θ, not cos²θ; the correct answer is 2 sec θ (SQP 2026-27 Q31 type).",
+   "remediation": "Video part 9.",
+   "options": [
+    "the common denominator is wrong",
+    "(1 − sin θ)² was replaced by cos²θ",
+    "no error",
+    "cos²θ was added twice correctly"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "If sec θ + tan θ = 3 (θ acute), find the value of 10 sin θ.",
+   "answer": "8",
+   "explanation": "(sec θ + tan θ)(sec θ − tan θ) = 1 → sec θ − tan θ = 1/3. Adding: sec θ = 5/3; subtracting: tan θ = 4/3. sin θ = tan θ/sec θ = 4/5 → 10 sin θ = 8 (a 2026 board type).",
+   "remediation": "Video part 9: use sec²θ − tan²θ = 1 to get sec θ − tan θ."
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}
