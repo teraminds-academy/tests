@@ -1,0 +1,612 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch12",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 12 Surface Areas and Volumes (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 12 Surface Areas and Volumes",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2023-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number. Use the value of π given in the question. No calculator.",
+ "suggested_minutes": 40,
+ "video_url": null,
+ "worksheet_url": "https://drive.google.com/file/d/1erFRu-7T60HlOABy-jbb-ZC8mDXUYh9X/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Formula recall / single solid",
+  "T2": "Surface area of a combined solid",
+  "T3": "Volume of a combined solid",
+  "T4": "Hollow or cavity",
+  "T5": "Counting pieces, mass, ratio",
+  "T6": "Case study"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "The six solids: formulas",
+   "tip": "Know the six solids: cone l = √(r² + h²); hemisphere CSA 2πr², TSA 3πr².",
+   "ncert": "NCERT §12.1"
+  },
+  "S2": {
+   "name": "Surface area of joined solids",
+   "tip": "Joined faces disappear from the surface area: two cubes of side a → 10a².",
+   "ncert": "NCERT §12.2, Example 2"
+  },
+  "S3": {
+   "name": "Toys: cone on a hemisphere",
+   "tip": "Toy (cone on hemisphere): TSA = 2πr² + πrl; cone height = total − r.",
+   "ncert": "NCERT Exercise 12.1"
+  },
+  "S4": {
+   "name": "Tents and capsules",
+   "tip": "Tent canvas = cylinder CSA + cone CSA (no floor). Capsule = cylinder + one sphere.",
+   "ncert": "NCERT Exercise 12.1"
+  },
+  "S5": {
+   "name": "Volume of joined solids (add)",
+   "tip": "Joined solids: volumes add.",
+   "ncert": "NCERT §12.3"
+  },
+  "S6": {
+   "name": "Volume with a cavity (subtract)",
+   "tip": "Cavities and raised bottoms: subtract volumes.",
+   "ncert": "NCERT Exercise 12.2"
+  },
+  "S7": {
+   "name": "Surface area with hollows",
+   "tip": "A scooped hollow adds its curved surface and removes a flat face.",
+   "ncert": "NCERT Exercise 12.1"
+  },
+  "S8": {
+   "name": "Counting pieces, mass, ratios",
+   "tip": "Pieces = available volume ÷ one piece; mass = volume × density; cancel π in ratios.",
+   "ncert": "NCERT Exercise 12.2"
+  },
+  "S9": {
+   "name": "Case studies",
+   "tip": "Case studies: identify the two solids first, then decide add or subtract.",
+   "ncert": "NCERT §12.2, §12.3"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The curved surface area of a cone of radius r and slant height l is:",
+   "answer": "D",
+   "explanation": "CSA of a cone = πrl.",
+   "remediation": "Video part 1.",
+   "options": [
+    "2πrh",
+    "⅓πr²h",
+    "4πr²",
+    "πrl"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The total surface area of a solid hemisphere of radius r is:",
+   "answer": "A",
+   "explanation": "Curved 2πr² + flat base πr² (a 2024 board type).",
+   "remediation": "Video part 1.",
+   "options": [
+    "3πr²",
+    "2πr²",
+    "4πr²",
+    "πr²"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Find the slant height (in cm) of a cone of radius 6 cm and height 8 cm.",
+   "answer": "10",
+   "explanation": "√(36 + 64) = 10.",
+   "remediation": "Video part 1."
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "The base area of a cone is 30 cm² and its volume is 60 cm³. Find its height in cm.",
+   "answer": "6",
+   "explanation": "60 = ⅓ × 30 × h (SQP 2025-26 Q11 type, new numbers).",
+   "remediation": "Video part 1."
+  },
+  {
+   "id": "q05",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "C",
+   "explanation": "A is true; a sphere's surface area is 4πr², so R is false (a 2025 board type).",
+   "remediation": "Video part 1.",
+   "assertion": "Two solid hemispheres of the same radius joined along their bases form a sphere.",
+   "reason": "The total surface area of a sphere of radius r is 3πr².",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Two identical cubes of side a are joined end to end. The total surface area of the cuboid formed is:",
+   "answer": "A",
+   "explanation": "12a² − 2a² for the two joined faces (a 2024 board type).",
+   "remediation": "Video part 2.",
+   "options": [
+    "10a²",
+    "8a²",
+    "12a²",
+    "6a²"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Two cubes, each of volume 125 cm³, are joined end to end. Find the surface area of the cuboid formed, in cm².",
+   "answer": "250",
+   "explanation": "a = 5; 10a² = 250 (SQP 2026-27 Q11 type, new numbers).",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Three cubes of side 4 cm are joined end to end in a row. Find the surface area of the cuboid formed, in cm².",
+   "answer": "224",
+   "explanation": "12 × 4 × 4 cuboid: 2(48 + 16 + 48) = 224.",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A hemisphere of diameter 14 cm stands on the top face of a cube of edge 14 cm. Find the total surface area of the solid in cm². Use π = 22/7.",
+   "answer": "1330",
+   "explanation": "1176 − πr² + 2πr² = 1176 + 154 (NCERT Example 2 type).",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "A hemisphere of radius r is fixed on one face of a cube of edge 2r. The surface area of the solid is:",
+   "answer": "C",
+   "explanation": "6(2r)² − πr² + 2πr².",
+   "remediation": "Video part 2.",
+   "options": [
+    "(24 − π)r²",
+    "24r²",
+    "(24 + π)r²",
+    "(24 + 2π)r²"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "A toy is a cone of slant height l on a hemisphere of the same radius r. Its total surface area is:",
+   "answer": "D",
+   "explanation": "Curved hemisphere + curved cone; the joined base is hidden.",
+   "remediation": "Video part 3.",
+   "options": [
+    "3πr² + πrl",
+    "2πr² + 2πrl",
+    "πr² + πrl",
+    "2πr² + πrl"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A toy is a cone on a hemisphere, both of radius 7 cm. The total height of the toy is 31 cm. Find its total surface area in cm². Use π = 22/7.",
+   "answer": "858",
+   "explanation": "Cone h = 24, l = 25: 308 + 550 = 858 (NCERT Exercise 12.1 Q3 type).",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "A solid is a cone of height 4 cm on a hemisphere, both of radius 3 cm. Its volume is kπ cm³. Find k.",
+   "answer": "30",
+   "explanation": "⅔π(27) + ⅓π(9)(4) = 18π + 12π.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q14",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "A toy is a cone on a hemisphere, both of radius 7 cm. Its total volume is 1232 cm³. Find the height of the cone in cm. Use π = 22/7.",
+   "answer": "10",
+   "explanation": "Hemisphere 718⅔ → cone 513⅓ = ⅓ × 22/7 × 49 × h → h = 10 (SQP 2026-27 Q34(B) type).",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q15",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "A cone of height 4 cm stands on a hemisphere, both of radius 3 cm. The total surface area of the solid is:",
+   "answer": "B",
+   "explanation": "l = 5: 2π(9) + π(3)(5) = 33π.",
+   "remediation": "Video part 3.",
+   "options": [
+    "42π cm²",
+    "33π cm²",
+    "30π cm²",
+    "27π cm²"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "A tent is a cylinder with a conical top, and the floor is not covered. The canvas needed equals:",
+   "answer": "A",
+   "explanation": "Only the outside, no floor.",
+   "remediation": "Video part 4.",
+   "options": [
+    "CSA of cylinder + CSA of cone",
+    "TSA of cylinder + TSA of cone",
+    "CSA of cylinder + base area",
+    "CSA of cone only"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A tent is a cylinder of radius 7 m and height 4 m with a conical top of slant height 10 m. Find the canvas needed (no floor) in m². Use π = 22/7.",
+   "answer": "396",
+   "explanation": "176 + 220 = 396.",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q18",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "The canvas in the previous tent (396 m²) costs ₹50 per m². Find the total cost in rupees.",
+   "answer": "19800",
+   "explanation": "396 × 50.",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q19",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A capsule is a cylinder with a hemisphere at each end. Its total length is 21 mm and its diameter 7 mm. Find its surface area in mm². Use π = 22/7.",
+   "answer": "462",
+   "explanation": "Cylinder 14 long: 308 + sphere 154 = 462 (NCERT Exercise 12.1 Q6 type).",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q20",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A tent is a cylinder of diameter 28 m and height 5 m with a conical top; the total height is 15.5 m. Find the canvas needed (no floor) in m². Use π = 22/7.",
+   "answer": "1210",
+   "explanation": "Cone h = 10.5, l = 17.5: 440 + 770 = 1210 (SQP 2026-27 Q34(A) type).",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q21",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The volume of a solid made by joining two solids is:",
+   "answer": "B",
+   "explanation": "Volumes add (NCERT 12.3).",
+   "remediation": "Video part 5.",
+   "options": [
+    "the difference of their volumes",
+    "the sum of their volumes",
+    "the product of their volumes",
+    "the sum minus the joined face area"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "A shed is a cuboid 20 m × 14 m × 6 m with a half cylinder of diameter 14 m along its 20 m length on top. Find the volume in m³. Use π = 22/7.",
+   "answer": "3220",
+   "explanation": "1680 + ½ × 22/7 × 49 × 20 = 1680 + 1540 (NCERT Example 5 type).",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q23",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "A model is a cylinder with a cone at each end. Its total length is 20 cm, its diameter 14 cm and each cone is 3 cm high. Find its volume in cm³. Use π = 22/7.",
+   "answer": "2464",
+   "explanation": "Cylinder 14 long: 2156 + 2 × 154 = 2464 (NCERT Exercise 12.2 Q2 type).",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q24",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "A capsule is a cylinder with a hemisphere at each end, total length 12 cm and diameter 6 cm. Its volume is kπ cm³. Find k.",
+   "answer": "90",
+   "explanation": "Cylinder 6 long: 54π + sphere 36π.",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q25",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "A solid is a cone standing on a hemisphere, both of radius 1 cm, and the height of the cone equals its radius. Its volume is:",
+   "answer": "B",
+   "explanation": "⅔π + ⅓π (NCERT Exercise 12.2 Q1).",
+   "remediation": "Video part 5.",
+   "options": [
+    "2π cm³",
+    "π cm³",
+    "π/3 cm³",
+    "3π cm³"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A glass is a cylinder of inner diameter 6 cm and height 12 cm with a raised hemispherical bottom of the same radius. Its actual capacity is kπ cm³. Find k.",
+   "answer": "90",
+   "explanation": "108π − 18π (NCERT Example 6 type).",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q27",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A pen stand is a cuboid 30 cm × 20 cm × 5 cm with four conical depressions, each of radius 3.5 cm and depth 3 cm. Find the volume of wood in cm³. Use π = 22/7.",
+   "answer": "2846",
+   "explanation": "3000 − 4 × 38.5 (NCERT Exercise 12.2 Q4 type).",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q28",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "From a solid cylinder of radius 7 cm and height 12 cm, a cone of the same radius and height is removed. Find the remaining volume in cm³. Use π = 22/7.",
+   "answer": "1232",
+   "explanation": "⅔ × 22/7 × 49 × 12.",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S7",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "A hemisphere is scooped out of each end of a solid cylinder of radius r and height h. The total surface area of the article is:",
+   "answer": "B",
+   "explanation": "Curved cylinder + two curved hollows (NCERT Exercise 12.1 Q9).",
+   "remediation": "Video part 6.",
+   "options": [
+    "2πrh + 6πr²",
+    "2πrh + 4πr²",
+    "2πrh + 2πr²",
+    "2πrh − 4πr²"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A hemisphere is scooped out of each end of a solid cylinder of height 12 cm and radius 7 cm. Find the total surface area of the article in cm². Use π = 22/7.",
+   "answer": "1144",
+   "explanation": "528 + 616 (a 2023 board type, new numbers).",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q31",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "From a solid cylinder of height 8 cm and radius 6 cm, a cone of the same height and radius is hollowed out. Its total surface area is kπ cm². Find k.",
+   "answer": "192",
+   "explanation": "l = 10: 96π + 36π + 60π (a 2023 board type, new numbers).",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q32",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A hemispherical depression of diameter 14 cm is cut out of one face of a cube of edge 28 cm. Find the surface area of the remaining solid in cm². Use π = 22/7.",
+   "answer": "4858",
+   "explanation": "4704 − 154 + 308 (NCERT Exercise 12.1 Q5 type).",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q33",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "A cone of radius 6 cm and height 9 cm is full of water. Lead spheres of radius 1.5 cm are dropped in until one-third of the water flows out. How many spheres were dropped?",
+   "answer": "8",
+   "explanation": "Cone 108π; ⅓ = 36π; each sphere 4.5π (NCERT Exercise 12.2 Q5 type).",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "An iron pole is a cylinder of radius 7 cm and height 100 cm with a cylinder of radius 3.5 cm and height 40 cm on top. Iron has mass 8 g per cm³. Find the mass of the pole in grams. Use π = 22/7.",
+   "answer": "135520",
+   "explanation": "15400 + 1540 = 16940 cm³ × 8 (NCERT Exercise 12.2 Q6 type).",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q35",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "The radii of a cylinder and a cone are in the ratio 1 : 2 and their heights in the ratio 3 : 1. The ratio of their volumes is:",
+   "answer": "B",
+   "explanation": "1 × 3 : ⅓ × 4 × 1 = 3 : 4/3 (a 2025 board type).",
+   "remediation": "Video part 7.",
+   "options": [
+    "4 : 9",
+    "9 : 4",
+    "3 : 2",
+    "3 : 4"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "The volumes of two cubes are in the ratio 27 : 64. The ratio of their surface areas is:",
+   "answer": "D",
+   "explanation": "Edges 3 : 4 → areas 9 : 16 (a 2025 board type).",
+   "remediation": "Video part 7.",
+   "options": [
+    "81 : 256",
+    "27 : 64",
+    "3 : 4",
+    "9 : 16"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "Case study: a circus tent is a cylinder of diameter 42 m and height 6 m with a conical top; the total height is 26 m. Find the floor area in m². Use π = 22/7.",
+   "answer": "1386",
+   "explanation": "22/7 × 21² (2024 board case-study type).",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q38",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "Same tent (radius 21 m, cylinder 6 m, cone 20 m high). Find the canvas needed (no floor) in m². Use π = 22/7.",
+   "answer": "2706",
+   "explanation": "l = 29: 792 + 1914.",
+   "remediation": "Video parts 4 and 8."
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "Case study: a cylindrical coffee cup has diameter 14 cm and height 10 cm. Find its capacity in cm³. Use π = 22/7.",
+   "answer": "1540",
+   "explanation": "22/7 × 49 × 10 (2023 board case-study type).",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "A hemispherical bowl of diameter 21 cm is full of coffee. How many cylindrical cups of diameter 7 cm and height 3.5 cm can be filled from it?",
+   "answer": "18",
+   "explanation": "Bowl 2425.5 cm³ ÷ cup 134.75 cm³.",
+   "remediation": "Video part 8."
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

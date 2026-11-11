@@ -523,6 +523,126 @@
    "suggested_minutes": 40
   },
   {
+   "id": "c10-maths-ch10",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 10 Circles",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 10 Circles (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch10",
+    "S2": "ch10",
+    "S3": "ch10",
+    "S4": "ch10",
+    "S5": "ch10",
+    "S6": "ch10",
+    "S7": "ch10",
+    "S8": "ch10",
+    "S9": "ch10"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
+   "id": "c10-maths-ch11",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 11 Areas Related to Circles",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 11 Areas Related to Circles (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch11",
+    "S2": "ch11",
+    "S3": "ch11",
+    "S4": "ch11",
+    "S5": "ch11",
+    "S6": "ch11",
+    "S7": "ch11",
+    "S8": "ch11",
+    "S9": "ch11"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
+   "id": "c10-maths-ch12",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 12 Surface Areas and Volumes",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 12 Surface Areas and Volumes (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch12",
+    "S2": "ch12",
+    "S3": "ch12",
+    "S4": "ch12",
+    "S5": "ch12",
+    "S6": "ch12",
+    "S7": "ch12",
+    "S8": "ch12",
+    "S9": "ch12"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
+   "id": "c10-maths-ch13",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 13 Statistics",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 13 Statistics (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch13",
+    "S2": "ch13",
+    "S3": "ch13",
+    "S4": "ch13",
+    "S5": "ch13",
+    "S6": "ch13",
+    "S7": "ch13",
+    "S8": "ch13",
+    "S9": "ch13"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
+   "id": "c10-maths-ch14",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 14 Probability",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 14 Probability (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch14",
+    "S2": "ch14",
+    "S3": "ch14",
+    "S4": "ch14",
+    "S5": "ch14",
+    "S6": "ch14",
+    "S7": "ch14",
+    "S8": "ch14",
+    "S9": "ch14"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
    "id": "c10-maths",
    "title": "Board-pattern readiness test — most-repeated question types",
    "short_title": "Class 10 Maths · Crash Revision 2027",
@@ -731,21 +851,31 @@
      "name": "Circles",
      "videos": [
       {
+       "label": "Chapter video: Circles",
+       "url": "https://youtu.be/SCqGDg987VM"
+      },
+      {
        "label": "Crash revision from 7:01",
        "url": "https://youtu.be/Jg9raxKftdU?t=421"
       }
      ],
-     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+     "chapter_test": "c10-maths-ch10"
     },
     "ch11": {
      "name": "Areas Related to Circles",
      "videos": [
       {
+       "label": "Chapter video: Areas Related to Circles",
+       "url": "https://youtu.be/_sEeUKyQp-E"
+      },
+      {
        "label": "Crash revision from 9:40",
        "url": "https://youtu.be/Jg9raxKftdU?t=580"
       }
      ],
-     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+     "chapter_test": "c10-maths-ch11"
     },
     "ch12": {
      "name": "Surface Areas and Volumes",

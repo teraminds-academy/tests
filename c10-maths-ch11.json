@@ -1,0 +1,623 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch11",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 11 Areas Related to Circles (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 11 Areas Related to Circles",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2023-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number. Use the value of π given in the question. No calculator.",
+ "suggested_minutes": 40,
+ "video_url": "https://youtu.be/_sEeUKyQp-E",
+ "worksheet_url": "https://drive.google.com/file/d/1c47Vp6b_EMGGiJitMrpWSOjXsTBhk1x6/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Sector area (incl. equal sectors, find the angle)",
+  "T2": "Arc length / perimeter of a sector",
+  "T3": "Clock hands and swept areas",
+  "T4": "Area of a segment",
+  "T5": "Shaded regions / case study"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Sector and segment: minor, major, quadrant",
+   "tip": "Sector = two radii + arc; segment = chord + arc. Major angle = 360° − θ. 'Sector' alone means the minor one.",
+   "ncert": "NCERT §11.1"
+  },
+  "S2": {
+   "name": "Area of a sector",
+   "tip": "Area of a sector = θ/360 × πr².",
+   "ncert": "NCERT Example 1"
+  },
+  "S3": {
+   "name": "Equal sectors and the angle",
+   "tip": "n equal sectors: angle 360°/n, area πr²/n.",
+   "ncert": "NCERT Exercise 11.1"
+  },
+  "S4": {
+   "name": "Arc length",
+   "tip": "Arc length = θ/360 × 2πr.",
+   "ncert": "NCERT §11.1"
+  },
+  "S5": {
+   "name": "Perimeter of a sector",
+   "tip": "Perimeter of a sector = arc + 2r. Don't forget the two radii.",
+   "ncert": "NCERT Exercise 11.1"
+  },
+  "S6": {
+   "name": "Area = ½ × arc × r (reverse questions)",
+   "tip": "Area = ½ × arc × r. Use it to find r or θ backwards.",
+   "ncert": "NCERT §11.1"
+  },
+  "S7": {
+   "name": "Clock hands, wipers, swept areas",
+   "tip": "Minute hand 6° per minute; hour hand 30° per hour; wipers and umbrella ribs are equal sectors.",
+   "ncert": "NCERT Exercise 11.1"
+  },
+  "S8": {
+   "name": "Area of a segment (60°, 90°, 120°)",
+   "tip": "Segment = sector − triangle. 90°: ½r²; 60° and 120°: (√3/4)r² for the triangle.",
+   "ncert": "NCERT Example 2; Exercise 11.1"
+  },
+  "S9": {
+   "name": "Shaded regions and case studies",
+   "tip": "Shaded regions: add and subtract known shapes; use the π the question gives.",
+   "ncert": "NCERT Exercise 11.1"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The region of a circle between a chord and its arc is called a:",
+   "answer": "D",
+   "explanation": "Chord + arc → segment; two radii + arc → sector.",
+   "remediation": "Video part 1.",
+   "options": [
+    "sector",
+    "quadrant",
+    "radius",
+    "segment"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The minor sector of a circle has angle 100°. The angle of the major sector is:",
+   "answer": "A",
+   "explanation": "360° − 100°.",
+   "remediation": "Video part 1.",
+   "options": [
+    "260°",
+    "100°",
+    "80°",
+    "180°"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A quadrant of a circle is a sector of angle:",
+   "answer": "B",
+   "explanation": "One quarter of 360°.",
+   "remediation": "Video part 1.",
+   "options": [
+    "180°",
+    "90°",
+    "45°",
+    "60°"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true and R is the reason (NCERT note in 11.1).",
+   "remediation": "Video part 1.",
+   "assertion": "Area of the major segment = πr² − area of the minor segment.",
+   "reason": "The minor and major segments formed by a chord together make up the whole circle.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Find the area (in cm²) of a sector of radius 14 cm and angle 90°. Use π = 22/7.",
+   "answer": "154",
+   "explanation": "¼ × 22/7 × 196 = 154.",
+   "remediation": "Video part 2: θ/360 × πr²."
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Find the area (in cm²) of a sector of radius 21 cm and angle 60°. Use π = 22/7.",
+   "answer": "231",
+   "explanation": "⅙ × 22/7 × 441 = 231.",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The area of a sector of a circle of radius 6 cm and angle 60° is:",
+   "answer": "C",
+   "explanation": "⅙ × 36π = 6π.",
+   "remediation": "Video part 2.",
+   "options": [
+    "36π cm²",
+    "12π cm²",
+    "6π cm²",
+    "3π cm²"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Find the area (in cm²) of a sector of radius 28 cm and angle 45°. Use π = 22/7.",
+   "answer": "308",
+   "explanation": "⅛ × 22/7 × 784 = 308.",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q09",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "A circular cake is cut into 8 equal sectors. Find the angle of each sector in degrees.",
+   "answer": "45",
+   "explanation": "360° ÷ 8.",
+   "remediation": "Video part 2 (2025 pizza type)."
+  },
+  {
+   "id": "q10",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "A circle of radius 14 cm is divided into 8 equal sectors. Find the area of each sector in cm². Use π = 22/7.",
+   "answer": "77",
+   "explanation": "616 ÷ 8 = 77 (2026 board type, new numbers).",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The area of a sector is one-fifth of the area of its circle. The angle of the sector is:",
+   "answer": "D",
+   "explanation": "⅕ × 360° (2024 board type).",
+   "remediation": "Video part 2.",
+   "options": [
+    "36°",
+    "60°",
+    "90°",
+    "72°"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "An umbrella has 10 equally spaced ribs. Treating it as a flat circle of radius 35 cm, find the area between two consecutive ribs in cm². Use π = 22/7.",
+   "answer": "385",
+   "explanation": "1/10 × 22/7 × 1225 = 385 (NCERT Exercise 11.1 Q10 type).",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q13",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Find the length (in cm) of the arc of a sector of radius 21 cm and angle 60°. Use π = 22/7.",
+   "answer": "22",
+   "explanation": "⅙ × 2 × 22/7 × 21 = 22.",
+   "remediation": "Video part 3: θ/360 × 2πr."
+  },
+  {
+   "id": "q14",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The length of the arc of a sector of radius 14 cm and central angle 90° is (π = 22/7):",
+   "answer": "C",
+   "explanation": "¼ × 88 = 22 (a 2023 board question).",
+   "remediation": "Video part 3.",
+   "options": [
+    "44 cm",
+    "88 cm",
+    "22 cm",
+    "11 cm"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "An arc of a circle of radius 12 cm has length 10π cm. Find the angle it subtends at the centre, in degrees.",
+   "answer": "150",
+   "explanation": "θ/360 × 24π = 10π → θ = 150 (a 2024 board type).",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "An arc of a circle of diameter 10 cm subtends 144° at the centre. Its length is:",
+   "answer": "A",
+   "explanation": "144/360 × 10π = 4π (a 2025 board type).",
+   "remediation": "Video part 3.",
+   "options": [
+    "4π cm",
+    "2π cm",
+    "8π cm",
+    "10π cm"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The perimeter of a sector of radius r with arc length l is:",
+   "answer": "A",
+   "explanation": "Arc plus the two bounding radii.",
+   "remediation": "Video part 3: the perimeter trap.",
+   "options": [
+    "l + 2r",
+    "2l + r",
+    "l + r",
+    "l × r"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Find the perimeter (in cm) of a sector of radius 14 cm and angle 90°. Use π = 22/7.",
+   "answer": "50",
+   "explanation": "Arc 22 + 2 × 14 = 50.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q19",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Find the perimeter (in cm) of a sector of radius 21 cm and angle 120°. Use π = 22/7.",
+   "answer": "86",
+   "explanation": "Arc 44 + 42 = 86.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q20",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "The perimeter of a sector of radius 10.5 cm is 32 cm. Find its central angle in degrees. Use π = 22/7.",
+   "answer": "60",
+   "explanation": "Arc = 32 − 21 = 11; circumference 66 → 11/66 × 360 = 60 (2026 board type).",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q21",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A table top is a sector of a circle with radius 28 cm and angle 90°. Find its perimeter in cm. Use π = 22/7.",
+   "answer": "100",
+   "explanation": "Arc 44 + 56 = 100 (2025 board type, new numbers).",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q22",
+   "subtopic": "S6",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The area of a sector with arc length l and radius r is:",
+   "answer": "B",
+   "explanation": "θ/360 × πr² = ½ × (θ/360 × 2πr) × r.",
+   "remediation": "Video part 4.",
+   "options": [
+    "l r",
+    "½ l r",
+    "2 l r",
+    "l r²"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "A sector of radius 10 cm has an arc of 33 cm. Find its area in cm².",
+   "answer": "165",
+   "explanation": "½ × 33 × 10.",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q24",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "A sector has area 30 cm² and arc length 6 cm. Find the radius in cm.",
+   "answer": "10",
+   "explanation": "30 = ½ × 6 × r.",
+   "remediation": "Video part 4 (2025 board type, new numbers)."
+  },
+  {
+   "id": "q25",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The area of a sector of a circle of radius 18 cm is 54π cm². Its central angle is:",
+   "answer": "B",
+   "explanation": "54π/324π × 360° = 60°.",
+   "remediation": "Video part 4.",
+   "options": [
+    "30°",
+    "60°",
+    "90°",
+    "120°"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "The arc of a sector is 8π cm long and its area is 40π cm². Find the radius in cm.",
+   "answer": "10",
+   "explanation": "40π = ½ × 8π × r (SQP 2026-27 Q15 type).",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q27",
+   "subtopic": "S7",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "Through how many degrees does the minute hand of a clock turn in 20 minutes?",
+   "answer": "120",
+   "explanation": "6° per minute × 20.",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q28",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "The minute hand of a clock is 21 cm long. Find the area it sweeps in 10 minutes, in cm². Use π = 22/7.",
+   "answer": "231",
+   "explanation": "60° → ⅙ × 1386 = 231.",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The hour hand of a clock is 7 cm long. The area it sweeps in 3 hours is (π = 22/7):",
+   "answer": "B",
+   "explanation": "90° → ¼ × 154.",
+   "remediation": "Video part 5.",
+   "options": [
+    "154 cm²",
+    "38.5 cm²",
+    "77 cm²",
+    "19.25 cm²"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "A car has two wipers that do not overlap. Each blade is 21 cm long and sweeps 120°. Find the total area cleaned in one sweep, in cm². Use π = 22/7.",
+   "answer": "924",
+   "explanation": "2 × ⅓ × 1386 = 924 (NCERT Exercise 11.1 Q11 type).",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q31",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "The minute hand of a clock is 14 cm long. How far (in cm) does its tip travel in 15 minutes? Use π = 22/7.",
+   "answer": "22",
+   "explanation": "90° arc: ¼ × 88 = 22.",
+   "remediation": "Video parts 3 and 5."
+  },
+  {
+   "id": "q32",
+   "subtopic": "S8",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The area of a segment of a circle equals:",
+   "answer": "B",
+   "explanation": "NCERT 11.1.",
+   "remediation": "Video part 6.",
+   "options": [
+    "area of the triangle − area of the sector",
+    "area of the sector − area of the triangle",
+    "area of the sector + area of the triangle",
+    "area of the circle − area of the sector"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A chord of a circle of radius 14 cm subtends a right angle at the centre. Find the area of the minor segment in cm². Use π = 22/7.",
+   "answer": "56",
+   "explanation": "154 − ½ × 196 = 56.",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "When a chord subtends 60° at the centre of a circle of radius r, the area of triangle OAB is:",
+   "answer": "D",
+   "explanation": "OAB is equilateral with side r.",
+   "remediation": "Video part 6.",
+   "options": [
+    "r²",
+    "½ r²",
+    "(√3/2) r²",
+    "(√3/4) r²"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A chord of a circle of radius 20 cm subtends 90° at the centre. Find the area of the minor segment in cm². Use π = 3.14.",
+   "answer": "114",
+   "explanation": "314 − 200 = 114.",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q36",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "A chord of a circle of radius 6 cm subtends 120° at the centre. The area of the minor segment is:",
+   "answer": "D",
+   "explanation": "Sector ⅓ × 36π = 12π; triangle (√3/4) × 36 = 9√3.",
+   "remediation": "Video part 7.",
+   "options": [
+    "(12π + 9√3) cm²",
+    "(6π − 9√3) cm²",
+    "(12π − 36) cm²",
+    "(12π − 9√3) cm²"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S8",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A chord of a circle of radius 20 cm subtends 90° at the centre. Find the area of the major segment in cm². Use π = 3.14.",
+   "answer": "1142",
+   "explanation": "1256 − 114 = 1142.",
+   "remediation": "Video parts 1 and 6."
+  },
+  {
+   "id": "q38",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "From each corner of a square of side 14 cm, a quadrant of radius 7 cm is cut out. Find the area left, in cm². Use π = 22/7.",
+   "answer": "42",
+   "explanation": "Four quadrants = one circle of 154: 196 − 154 = 42.",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "A horse is tied at one corner of a square field of side 20 m with a 14 m rope. Find the area it can graze, in m². Use π = 22/7.",
+   "answer": "154",
+   "explanation": "Quadrant: ¼ × 22/7 × 196 = 154 (NCERT Exercise 11.1 Q8 type).",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "Case study: a 16 cm by 12 cm rectangle is drawn inside a circle with all four corners on it. Find the area of the circle outside the rectangle, in cm². Use π = 3.14.",
+   "answer": "122",
+   "explanation": "Diagonal 20 = diameter → r = 10: 314 − 192 = 122 (2023 board rakhi type).",
+   "remediation": "Video part 8."
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

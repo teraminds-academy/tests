@@ -1,0 +1,683 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch10",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 10 Circles (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 10 Circles",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2023-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (angles in degrees). No calculator.",
+ "suggested_minutes": 40,
+ "video_url": "https://youtu.be/SCqGDg987VM",
+ "worksheet_url": "https://drive.google.com/file/d/1VGFvgRK4jtiPxwRrs6Yin9s_3FfCCM7w/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Tangent length / radius / distance",
+  "T2": "Angles: two tangents and the centre",
+  "T3": "Tangent–chord / tangent–radius angles",
+  "T4": "Circle inscribed in a polygon",
+  "T5": "Proofs (theorems and NCERT exercise)",
+  "T6": "Concentric circles / chords",
+  "T7": "Case study"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Tangent, secant, number of tangents",
+   "tip": "Secant cuts at two points; a tangent touches at one. Inside: no tangent; on the circle: one; outside: two.",
+   "ncert": "NCERT §10.2, §10.3"
+  },
+  "S2": {
+   "name": "Theorem 10.1: tangent ⊥ radius",
+   "tip": "Tangent ⊥ radius at the point of contact (Theorem 10.1): OP is the shortest distance from O to the tangent.",
+   "ncert": "NCERT Theorem 10.1"
+  },
+  "S3": {
+   "name": "Tangent length (Pythagoras)",
+   "tip": "Tangent length: PT² = OP² − r² (right angle at the point of contact).",
+   "ncert": "NCERT Ex 10.1 Q3; Ex 10.2 Q1"
+  },
+  "S4": {
+   "name": "Theorem 10.2: equal tangents",
+   "tip": "Tangents from an external point are equal (RHS congruence) and OP bisects the angle between them.",
+   "ncert": "NCERT Theorem 10.2"
+  },
+  "S5": {
+   "name": "Angle between two tangents",
+   "tip": "Angle between the tangents + angle at the centre = 180° (quadrilateral PAOB with two 90° angles).",
+   "ncert": "NCERT Exercise 10.2"
+  },
+  "S6": {
+   "name": "Tangent–chord and tangent–radius angles",
+   "tip": "∠PTQ = 2∠OPQ: the chord's angle at the centre is twice the tangent–chord angle.",
+   "ncert": "NCERT Example 2"
+  },
+  "S7": {
+   "name": "Circles inscribed in polygons",
+   "tip": "Each vertex sends two equal tangent pieces. Quadrilateral: AB + CD = AD + BC.",
+   "ncert": "NCERT Exercise 10.2"
+  },
+  "S8": {
+   "name": "Concentric circles and chords",
+   "tip": "A chord of the bigger circle touching the smaller one is bisected: half-chord = √(R² − r²).",
+   "ncert": "NCERT Example 1"
+  },
+  "S9": {
+   "name": "Proofs and case studies",
+   "tip": "Repeating proofs: tangents at the ends of a diameter are parallel; a parallelogram circumscribing a circle is a rhombus.",
+   "ncert": "NCERT Exercise 10.2"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "How many tangents can be drawn to a circle through a point inside it?",
+   "answer": "D",
+   "explanation": "Every line through an inside point cuts the circle twice, so none is a tangent.",
+   "remediation": "Video part 1.",
+   "options": [
+    "1",
+    "2",
+    "infinitely many",
+    "0"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "A line that intersects a circle at two distinct points is called a:",
+   "answer": "A",
+   "explanation": "Two points → secant; one point → tangent.",
+   "remediation": "Video part 1.",
+   "options": [
+    "secant",
+    "tangent",
+    "radius",
+    "normal"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "At most how many tangents of a circle can be parallel to one another?",
+   "answer": "2",
+   "explanation": "Only the tangents at the two ends of one diameter are parallel.",
+   "remediation": "Video part 1."
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "The number of tangents to a circle through a point outside it is:",
+   "answer": "D",
+   "explanation": "Exactly two tangents pass through an external point.",
+   "remediation": "Video part 1.",
+   "options": [
+    "infinitely many",
+    "0",
+    "1",
+    "2"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The angle between a tangent and the radius through the point of contact is:",
+   "answer": "A",
+   "explanation": "Theorem 10.1.",
+   "remediation": "Video part 2.",
+   "options": [
+    "90°",
+    "60°",
+    "45°",
+    "180°"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; only one line through P is perpendicular to OP, so R explains A (NCERT remark after Theorem 10.1).",
+   "remediation": "Video part 2.",
+   "assertion": "At any point on a circle there is one and only one tangent.",
+   "reason": "The tangent at a point of a circle is perpendicular to the radius through that point.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "In the proof of Theorem 10.1, every point Q of the tangent other than P lies outside the circle. This shows that:",
+   "answer": "C",
+   "explanation": "OQ > OP for every Q ≠ P, so OP is the shortest segment, hence perpendicular.",
+   "remediation": "Video part 2.",
+   "options": [
+    "OQ < OP",
+    "OQ = OP for every Q",
+    "OP is the shortest distance from O to the tangent",
+    "the tangent is a secant"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "B",
+   "explanation": "Both are true theorems, but R does not explain A (a 2023 board type).",
+   "remediation": "Video parts 2 and 4.",
+   "assertion": "A tangent to a circle is perpendicular to the radius through the point of contact.",
+   "reason": "The lengths of tangents drawn from an external point to a circle are equal.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "A point is 25 cm from the centre of a circle of radius 7 cm. Find the length of the tangent from the point in cm.",
+   "answer": "24",
+   "explanation": "√(625 − 49) = √576 = 24.",
+   "remediation": "Video part 3: PT² = OP² − r²."
+  },
+  {
+   "id": "q10",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "The tangent from a point P to a circle is 12 cm long and P is 13 cm from the centre. Find the radius in cm.",
+   "answer": "5",
+   "explanation": "√(169 − 144) = 5.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The length of the tangent to a circle of radius 8 cm from a point 17 cm from its centre is:",
+   "answer": "D",
+   "explanation": "√(289 − 64) = √225 = 15.",
+   "remediation": "Video part 3.",
+   "options": [
+    "9 cm",
+    "25 cm",
+    "√353 cm",
+    "15 cm"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "The tangent from P to a circle of radius 8 cm is 15 cm long. How far is P from the centre, in cm?",
+   "answer": "17",
+   "explanation": "√(225 + 64) = 17.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "PT is a tangent at T to a circle with centre O. If OP = 10 cm and ∠OPT = 30°, the radius is:",
+   "answer": "C",
+   "explanation": "sin 30° = OT/OP → OT = 5 (a 2023 board type, new numbers).",
+   "remediation": "Video part 3.",
+   "options": [
+    "10 cm",
+    "5√3 cm",
+    "5 cm",
+    "10√3 cm"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Two tangents from P to a circle of radius 6 cm are perpendicular to each other. OP equals:",
+   "answer": "C",
+   "explanation": "PAOB is a square of side 6, so OP is its diagonal 6√2 (a 2026 board type).",
+   "remediation": "Video part 3.",
+   "options": [
+    "12 cm",
+    "3√2 cm",
+    "6√2 cm",
+    "6 cm"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "PA and PB are tangents from P to a circle. If PA = 9 cm, then PB is:",
+   "answer": "B",
+   "explanation": "Theorem 10.2: tangents from an external point are equal.",
+   "remediation": "Video part 4.",
+   "options": [
+    "18 cm",
+    "9 cm",
+    "cannot be found",
+    "4.5 cm"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "In the proof of Theorem 10.2, △OQP ≅ △ORP by the rule:",
+   "answer": "A",
+   "explanation": "Right angles at Q and R, hypotenuse OP common, OQ = OR.",
+   "remediation": "Video part 4.",
+   "options": [
+    "RHS",
+    "SSS",
+    "ASA",
+    "AAA"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "PA and PB are tangents from P with ∠APB = 70°. Then ∠APO is:",
+   "answer": "A",
+   "explanation": "OP bisects ∠APB.",
+   "remediation": "Video part 4.",
+   "options": [
+    "35°",
+    "55°",
+    "70°",
+    "20°"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "PA and PB are tangents from P with ∠APB = 60° and PA = 10 cm. Find the chord AB in cm.",
+   "answer": "10",
+   "explanation": "PA = PB and ∠P = 60° → △PAB is equilateral.",
+   "remediation": "Video parts 4 and 5."
+  },
+  {
+   "id": "q19",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "TP and TQ are tangents to a circle with centre O. If ∠POQ = 120°, then ∠PTQ is:",
+   "answer": "D",
+   "explanation": "∠PTQ = 180° − 120°.",
+   "remediation": "Video part 5.",
+   "options": [
+    "120°",
+    "90°",
+    "30°",
+    "60°"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Tangents PA and PB from P are inclined to each other at 50°. Find ∠POA in degrees.",
+   "answer": "65",
+   "explanation": "∠AOB = 130°, bisected by OP → 65°.",
+   "remediation": "Video part 5 (NCERT Exercise 10.2 Q3 type)."
+  },
+  {
+   "id": "q21",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "AB and AC are tangents to a circle from A. If ∠ABC = 50°, then ∠BAC is:",
+   "answer": "B",
+   "explanation": "AB = AC → ∠ACB = 50° → ∠BAC = 80° (a 2024 board type, new numbers).",
+   "remediation": "Video part 5.",
+   "options": [
+    "50°",
+    "80°",
+    "100°",
+    "40°"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Two tangents from a point are inclined at 60°. The radius is 4√3 cm. Find the length of each tangent in cm.",
+   "answer": "12",
+   "explanation": "∠APO = 30°, tan 30° = r/PA → PA = r√3 = 12 (a 2024 board type).",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q23",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "RJ and RL are tangents to a circle with centre O. If ∠RJL = 50°, then ∠JOL is:",
+   "answer": "D",
+   "explanation": "∠JRL = 80° → ∠JOL = 180° − 80° = 100° (a 2024 board type, new numbers).",
+   "remediation": "Video part 5.",
+   "options": [
+    "80°",
+    "130°",
+    "50°",
+    "100°"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The tangent at P makes an angle of 40° with the chord PQ. The angle PQ subtends at the centre O is:",
+   "answer": "A",
+   "explanation": "∠OPQ = 50° → ∠POQ = 180° − 100° = 80° (twice the tangent–chord angle).",
+   "remediation": "Video part 6.",
+   "options": [
+    "80°",
+    "140°",
+    "40°",
+    "100°"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "A chord subtends 100° at the centre. Find, in degrees, the angle between the chord and the tangent at one of its ends.",
+   "answer": "50",
+   "explanation": "Half the central angle.",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q26",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "TP and TQ are tangents from T with ∠PTQ = 80°. Find ∠OPQ in degrees.",
+   "answer": "40",
+   "explanation": "∠PTQ = 2∠OPQ (NCERT Example 2).",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q27",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "AT is the tangent at A to a circle with centre O, and AB is a chord with ∠OBA = 25°. The angle between AT and AB is:",
+   "answer": "D",
+   "explanation": "∠OAB = 25° (OA = OB) → 90° − 25° = 65°.",
+   "remediation": "Video part 6.",
+   "options": [
+    "50°",
+    "25°",
+    "115°",
+    "65°"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "S7",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "A quadrilateral ABCD circumscribes a circle. If AB = 6 cm, BC = 7 cm and CD = 5 cm, then AD is:",
+   "answer": "B",
+   "explanation": "AB + CD = AD + BC → AD = 11 − 7.",
+   "remediation": "Video part 7 (SQP 2025-26 Q4 type).",
+   "options": [
+    "6 cm",
+    "4 cm",
+    "8 cm",
+    "18 cm"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A circle is inscribed in △ABC, touching AB at R, BC at P and CA at Q. If AR = 5 cm, BR = 4 cm and AC = 12 cm, find BC in cm.",
+   "answer": "11",
+   "explanation": "AQ = 5 → CQ = CP = 7; BP = 4 → BC = 11.",
+   "remediation": "Video part 7 (a 2024 board type)."
+  },
+  {
+   "id": "q30",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "A parallelogram that circumscribes a circle is always a:",
+   "answer": "A",
+   "explanation": "AB + CD = AD + BC with opposite sides equal → all sides equal.",
+   "remediation": "Video part 9 (SQP 2026-27 Q29).",
+   "options": [
+    "rhombus",
+    "kite with unequal sides",
+    "trapezium",
+    "rectangle that is not a square"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A circle is inscribed in a right triangle with legs 6 cm and 8 cm (hypotenuse 10 cm). Find its radius in cm.",
+   "answer": "2",
+   "explanation": "Tangent pieces at the right angle = r: (6 − r) + (8 − r) = 10 → r = 2.",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q32",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A circle touches all four sides of quadrilateral ABCD. If AB = 8 cm, BC = 12 cm and CD = 10 cm, find AD in cm.",
+   "answer": "6",
+   "explanation": "AD = AB + CD − BC.",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q33",
+   "subtopic": "S8",
+   "level": "L1",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "In two concentric circles, a chord of the larger circle that touches the smaller circle is:",
+   "answer": "A",
+   "explanation": "The radius to the contact point is ⊥ to the chord (NCERT Example 1).",
+   "remediation": "Video part 8.",
+   "options": [
+    "bisected at the point of contact",
+    "longer than the diameter of the larger circle",
+    "divided in the ratio 1 : 2",
+    "equal to the diameter of the smaller circle"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "Two concentric circles have radii 10 cm and 6 cm. Find the length of the chord of the larger circle that touches the smaller circle, in cm.",
+   "answer": "16",
+   "explanation": "2√(100 − 36) = 16.",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q35",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "A chord of length 24 cm of the larger of two concentric circles touches the smaller circle of radius 5 cm. Find the radius of the larger circle in cm.",
+   "answer": "13",
+   "explanation": "√(12² + 5²) = 13.",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q36",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "AB is a diameter of a circle of radius 13 cm and XAY is the tangent at A. A chord CD parallel to XY is 18 cm from A. Find CD in cm.",
+   "answer": "24",
+   "explanation": "CD is 18 − 13 = 5 cm from O → CD = 2√(169 − 25) = 24 (a 2025 board type).",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q37",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "The tangents drawn at the ends of a diameter of a circle are:",
+   "answer": "A",
+   "explanation": "Both are ⊥ to the same diameter.",
+   "remediation": "Video part 9.",
+   "options": [
+    "parallel",
+    "inclined at 60°",
+    "meeting at the centre",
+    "perpendicular"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Opposite angles P and O add to 180°, which is exactly why AOBP is cyclic (a 2023 board type).",
+   "remediation": "Video parts 5 and 9.",
+   "assertion": "If PA and PB are tangents from an external point P to a circle with centre O, then the quadrilateral AOBP is cyclic.",
+   "reason": "The angle between two tangents drawn from an external point is supplementary to the angle subtended at the centre by the segment joining the points of contact.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "Case study: a circular garden has radius 12 m. A point P is 24 m from its centre O, and PA, PB are tangents. Find ∠APB in degrees.",
+   "answer": "60",
+   "explanation": "sin ∠APO = 12/24 → 30° → ∠APB = 60° (SQP 2026-27 Q37 type).",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Same garden (radius 12 m, OP = 24 m). The length of the tangent PA is:",
+   "answer": "C",
+   "explanation": "√(576 − 144) = √432 = 12√3.",
+   "remediation": "Video part 3.",
+   "options": [
+    "24√3 m",
+    "12 m",
+    "12√3 m",
+    "6√3 m"
+   ]
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

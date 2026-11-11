@@ -1,0 +1,728 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch14",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 14 Probability (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 14 Probability",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2023-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number. No calculator.",
+ "suggested_minutes": 40,
+ "video_url": null,
+ "worksheet_url": null,
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Range of P(E); sure and impossible events",
+  "T2": "Complementary events (not, neither … nor)",
+  "T3": "Cards (incl. cards removed)",
+  "T4": "Two or three coins",
+  "T5": "Two dice",
+  "T6": "Numbers or letters drawn at random",
+  "T7": "Find a count from a given probability",
+  "T8": "Case study on probability"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Classical definition, sure and impossible events",
+   "tip": "P(E) = favourable ÷ all outcomes; 0 ≤ P(E) ≤ 1; impossible 0, sure 1.",
+   "ncert": "NCERT §14.1, Example 3"
+  },
+  "S2": {
+   "name": "Complementary events",
+   "tip": "P(not E) = 1 − P(E). 'Neither … nor': count what is left.",
+   "ncert": "NCERT Example 5"
+  },
+  "S3": {
+   "name": "A pack of 52 cards",
+   "tip": "52 = 4 suits × 13; 12 face cards; 4 aces. 'A or B': subtract the overlap. Cards removed: recount the total.",
+   "ncert": "NCERT Example 4; Ex 14.1"
+  },
+  "S4": {
+   "name": "Two and three coins",
+   "tip": "List outcomes: 2 coins → 4, 3 coins → 8.",
+   "ncert": "NCERT Example 9"
+  },
+  "S5": {
+   "name": "Two dice: sums and differences",
+   "tip": "Two dice: 36 outcomes, (1, 4) ≠ (4, 1). The 11 sums are not equally likely.",
+   "ncert": "NCERT Example 13"
+  },
+  "S6": {
+   "name": "Two dice: products and both-dice conditions",
+   "tip": "Both dice with a condition: multiply the choices (3 × 3 = 9). x > y: (36 − 6) ÷ 2 = 15.",
+   "ncert": "NCERT Example 13; Ex 14.1 Q22"
+  },
+  "S7": {
+   "name": "Numbers and letters drawn at random",
+   "tip": "Numbers from a to b: b − a + 1. 'Square or cube': add, then subtract the ones that are both.",
+   "ncert": "NCERT Ex 14.1"
+  },
+  "S8": {
+   "name": "Finding a count from a given probability",
+   "tip": "Given P and the total: count = P × total.",
+   "ncert": "NCERT Ex 14.1"
+  },
+  "S9": {
+   "name": "Case studies and traps",
+   "tip": "Read who accepts what (Example 12). Leap year: 52 weeks + 2 days → 2/7.",
+   "ncert": "NCERT Example 12"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Which of these can NOT be the probability of an event?",
+   "answer": "D",
+   "explanation": "A probability lies from 0 to 1; 7/6 > 1 (a 2023/2026 board type).",
+   "remediation": "Video part 1.",
+   "options": [
+    "0",
+    "0.7",
+    "1",
+    "7/6"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A die is thrown once. The probability of getting a number less than 3 is:",
+   "answer": "A",
+   "explanation": "Favourable 1, 2 → 2/6.",
+   "remediation": "Video part 1.",
+   "options": [
+    "1/3",
+    "1/2",
+    "2/3",
+    "1/6"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The probability of a sure event is:",
+   "answer": "B",
+   "explanation": "NCERT 14.1.",
+   "remediation": "Video part 1.",
+   "options": [
+    "1/2",
+    "1",
+    "0",
+    "−1"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A die is thrown once. The probability of getting a prime number is:",
+   "answer": "D",
+   "explanation": "Primes 2, 3, 5 → 3/6.",
+   "remediation": "Video part 1.",
+   "options": [
+    "1/6",
+    "2/3",
+    "1/3",
+    "1/2"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A die is thrown once. The probability of getting a number greater than 6 is:",
+   "answer": "A",
+   "explanation": "No face shows more than 6: impossible event.",
+   "remediation": "Video part 1.",
+   "options": [
+    "0",
+    "1",
+    "1/6",
+    "5/6"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "If P(E) = 0.35, then P(not E) is:",
+   "answer": "A",
+   "explanation": "1 − 0.35.",
+   "remediation": "Video part 2.",
+   "options": [
+    "0.65",
+    "0.53",
+    "0.35",
+    "1.35"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "A batsman hits a boundary 6 times in the 48 balls he plays. The probability that he does not hit a boundary on a ball is:",
+   "answer": "C",
+   "explanation": "1 − 6/48 = 42/48 (a 2024/2025 board type, new numbers).",
+   "remediation": "Video part 2.",
+   "options": [
+    "1/6",
+    "1/8",
+    "7/8",
+    "6/7"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "A bag has 4 red, 6 white and 5 black balls. The probability that a ball drawn at random is neither red nor white is:",
+   "answer": "C",
+   "explanation": "Neither red nor white = black: 5/15 (a 2024 board type, new numbers).",
+   "remediation": "Video part 2.",
+   "options": [
+    "4/15",
+    "2/3",
+    "1/3",
+    "2/5"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "The probability of guessing the correct answer to a question is x/12. If the probability of not guessing it is 2/3, find x.",
+   "answer": "4",
+   "explanation": "x/12 = 1 − 2/3 = 1/3 (a 2024/2025 board type, new numbers).",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true and R gives A.",
+   "remediation": "Video part 2.",
+   "assertion": "If P(E) = 0.25, then P(not E) = 0.75.",
+   "reason": "For any event E, P(E) + P(not E) = 1.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "How many face cards are there in a pack of 52 playing cards?",
+   "answer": "12",
+   "explanation": "King, queen and jack in each of 4 suits.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "One card is drawn from a pack of 52. The probability that it is a black king is:",
+   "answer": "A",
+   "explanation": "2 black kings → 2/52.",
+   "remediation": "Video part 3.",
+   "options": [
+    "1/26",
+    "2/13",
+    "1/13",
+    "1/52"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "One card is drawn from a pack of 52. The probability that it is a red card that is not a face card is:",
+   "answer": "C",
+   "explanation": "26 red − 6 red face cards = 20 → 20/52.",
+   "remediation": "Video part 3.",
+   "options": [
+    "10/13",
+    "3/26",
+    "5/13",
+    "1/2"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "One card is drawn from a pack of 52. The probability that it is a diamond or a jack is:",
+   "answer": "C",
+   "explanation": "13 diamonds + 3 other jacks = 16 → 16/52 (a 2025 board type, new suit).",
+   "remediation": "Video part 3: subtract the overlap.",
+   "options": [
+    "17/52",
+    "5/13",
+    "4/13",
+    "1/4"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The 4 aces are removed from a pack of 52 cards. One card is drawn from the rest. The probability that it is a face card is:",
+   "answer": "B",
+   "explanation": "48 left, 12 face cards → 12/48.",
+   "remediation": "Video part 3: recount the total.",
+   "options": [
+    "1/3",
+    "1/4",
+    "1/13",
+    "3/13"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "3 hearts and 5 clubs are missing from a pack of 52 cards. One card is drawn from the rest. The probability that it is a spade is:",
+   "answer": "A",
+   "explanation": "52 − 8 = 44, all 13 spades remain (SQP 2026-27 Q18 type, new numbers).",
+   "remediation": "Video part 3: removed cards.",
+   "options": [
+    "13/44",
+    "13/52",
+    "13/48",
+    "11/44"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "How many outcomes are there when three coins are tossed together?",
+   "answer": "8",
+   "explanation": "2 × 2 × 2.",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q18",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Two coins are tossed together. The probability of exactly one head is:",
+   "answer": "B",
+   "explanation": "HT, TH of 4.",
+   "remediation": "Video part 4.",
+   "options": [
+    "3/4",
+    "1/2",
+    "1/4",
+    "1/3"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Two coins are tossed together. The probability of getting no head is:",
+   "answer": "D",
+   "explanation": "Only TT.",
+   "remediation": "Video part 4.",
+   "options": [
+    "1/2",
+    "0",
+    "3/4",
+    "1/4"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Three coins are tossed together. The probability of at least two heads is:",
+   "answer": "B",
+   "explanation": "HHH, HHT, HTH, THH → 4/8.",
+   "remediation": "Video part 4.",
+   "options": [
+    "3/8",
+    "1/2",
+    "7/8",
+    "1/4"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Three coins are tossed together. The probability of exactly one head is:",
+   "answer": "B",
+   "explanation": "HTT, THT, TTH → 3/8 (a 2024/2025 board type).",
+   "remediation": "Video part 4.",
+   "options": [
+    "1/8",
+    "3/8",
+    "1/2",
+    "5/8"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "How many outcomes are there when two dice are thrown together?",
+   "answer": "36",
+   "explanation": "6 × 6.",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q23",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Two dice are thrown. The probability that the sum is 7 is:",
+   "answer": "D",
+   "explanation": "(1,6) (2,5) (3,4) (4,3) (5,2) (6,1) → 6/36.",
+   "remediation": "Video part 5.",
+   "options": [
+    "7/36",
+    "1/12",
+    "5/36",
+    "1/6"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Two dice are thrown. The probability that the sum is less than 4 is:",
+   "answer": "A",
+   "explanation": "(1,1) (1,2) (2,1) → 3/36.",
+   "remediation": "Video part 5.",
+   "options": [
+    "1/12",
+    "1/6",
+    "1/9",
+    "1/18"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Two dice are thrown. The probability that the difference of the numbers is 3 is:",
+   "answer": "B",
+   "explanation": "(1,4) (4,1) (2,5) (5,2) (3,6) (6,3) → 6/36 (a 2023 board type).",
+   "remediation": "Video part 5.",
+   "options": [
+    "1/9",
+    "1/6",
+    "1/12",
+    "5/36"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Two dice are thrown. The probability that the sum is a multiple of 5 is:",
+   "answer": "B",
+   "explanation": "Sum 5: 4 outcomes, sum 10: 3 → 7/36.",
+   "remediation": "Video part 5.",
+   "options": [
+    "5/36",
+    "7/36",
+    "1/9",
+    "1/4"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Two dice are thrown. The probability that both show even numbers is:",
+   "answer": "D",
+   "explanation": "3 × 3 = 9 → 9/36 (a 2024 board type, new condition).",
+   "remediation": "Video part 6.",
+   "options": [
+    "1/6",
+    "1/2",
+    "1/9",
+    "1/4"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Two dice are thrown. The probability that the product of the numbers is 6 is:",
+   "answer": "B",
+   "explanation": "(1,6) (6,1) (2,3) (3,2) → 4/36 (a 2023 board type, new number).",
+   "remediation": "Video part 6.",
+   "options": [
+    "1/6",
+    "1/9",
+    "5/36",
+    "1/12"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Two dice are thrown. The probability that the product of the numbers is a perfect square is:",
+   "answer": "B",
+   "explanation": "6 doubles + (1,4) (4,1) = 8 → 8/36 (a 2025 board type).",
+   "remediation": "Video part 6.",
+   "options": [
+    "7/36",
+    "2/9",
+    "1/6",
+    "1/4"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Two dice are thrown, giving the outcome (x, y). The probability that x < y is:",
+   "answer": "A",
+   "explanation": "(36 − 6) ÷ 2 = 15 → 15/36 (a 2026 board type, reversed).",
+   "remediation": "Video part 6.",
+   "options": [
+    "5/12",
+    "1/6",
+    "7/12",
+    "1/2"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "A number is chosen at random from 1 to 30. The probability that it is a multiple of 4 is:",
+   "answer": "C",
+   "explanation": "4, 8, …, 28 → 7 numbers.",
+   "remediation": "Video part 7.",
+   "options": [
+    "4/15",
+    "1/5",
+    "7/30",
+    "1/4"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "A letter is chosen at random from the word EDUCATION. The probability that it is a vowel is:",
+   "answer": "B",
+   "explanation": "E, U, A, I, O of 9 letters (a 2024 board type, new word).",
+   "remediation": "Video part 7.",
+   "options": [
+    "5/8",
+    "5/9",
+    "4/9",
+    "1/2"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Cards numbered 3 to 52 are in a box. The probability that a card drawn at random shows a perfect square is:",
+   "answer": "A",
+   "explanation": "50 cards; 4, 9, 16, 25, 36, 49 → 6/50 (a 2024 board type, new numbers).",
+   "remediation": "Video part 7: count a to b as b − a + 1.",
+   "options": [
+    "3/25",
+    "6/49",
+    "7/50",
+    "1/10"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "How many whole numbers are there from 15 to 84, both included?",
+   "answer": "70",
+   "explanation": "84 − 15 + 1.",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q35",
+   "subtopic": "S7",
+   "level": "L4",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Discs numbered 2 to 101 are in a box. The probability that a disc drawn at random shows a perfect square or a perfect cube is:",
+   "answer": "B",
+   "explanation": "100 discs; 9 squares (4 to 100) + 3 cubes (8, 27, 64) − 1 (64) = 11 (SQP 2026-27 Q9 type, new numbers).",
+   "remediation": "Video part 7: subtract the overlap.",
+   "options": [
+    "13/100",
+    "11/100",
+    "3/25",
+    "1/10"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "A bag has 30 balls. The probability of drawing a blue ball is 2/5. How many blue balls are there?",
+   "answer": "12",
+   "explanation": "2/5 × 30 (a 2026 board type, new numbers).",
+   "remediation": "Video part 7: the reverse question."
+  },
+  {
+   "id": "q37",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "A bag has 6 red balls and n blue balls. Drawing a blue ball is twice as likely as drawing a red ball. Find n.",
+   "answer": "12",
+   "explanation": "n = 2 × 6 (a 2023 board type, new numbers).",
+   "remediation": "Video part 7: the reverse question."
+  },
+  {
+   "id": "q38",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "The probability that a bulb from a lot of 500 is defective is 0.04. How many bulbs in the lot are not defective?",
+   "answer": "480",
+   "explanation": "Defective 0.04 × 500 = 20; 500 − 20 (a 2024 board type, new numbers).",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Case study: a carton has 80 shirts: 64 good, 10 with minor defects and 6 with major defects. A trader rejects only shirts with major defects. The probability that a shirt drawn at random is acceptable to him is:",
+   "answer": "B",
+   "explanation": "64 + 10 = 74 → 74/80 (NCERT Example 12 type, new numbers).",
+   "remediation": "Video part 8.",
+   "options": [
+    "4/5",
+    "37/40",
+    "5/8",
+    "3/40"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The probability that a non-leap year, chosen at random, has 53 Sundays is:",
+   "answer": "C",
+   "explanation": "365 = 52 weeks + 1 day → 1/7.",
+   "remediation": "Video part 8: count the extra days.",
+   "options": [
+    "1/52",
+    "2/7",
+    "1/7",
+    "1/365"
+   ]
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

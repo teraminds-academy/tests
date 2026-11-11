@@ -1,0 +1,598 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch13",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 13 Statistics (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 13 Statistics",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2023-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number. No calculator.",
+ "suggested_minutes": 40,
+ "video_url": null,
+ "worksheet_url": "https://drive.google.com/file/d/11I8JETrjezGkqLcMATLi2ds2zFx4p1mq/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Mean of grouped data",
+  "T2": "Mode of grouped data",
+  "T3": "Median of grouped data / median class",
+  "T4": "Missing frequency",
+  "T5": "Empirical relation",
+  "T6": "Properties / combined mean / case study"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Class marks and the mean (direct)",
+   "tip": "Class mark = (lower + upper) ÷ 2; mean = Σfx ÷ Σf.",
+   "ncert": "NCERT §13.2"
+  },
+  "S2": {
+   "name": "Assumed mean and step deviation",
+   "tip": "Step deviation: mean = a + (Σfu ÷ Σf) × h, u = (x − a)/h. All methods give the same mean.",
+   "ncert": "NCERT Example 2"
+  },
+  "S3": {
+   "name": "Missing value from the mean",
+   "tip": "Missing frequency: mean × Σf = Σfx with the unknown; solve.",
+   "ncert": "NCERT Ex 13.1 Q3"
+  },
+  "S4": {
+   "name": "Mode of grouped data",
+   "tip": "Mode = l + (f1 − f0)/(2f1 − f0 − f2) × h; f0, f2 are the classes next to the modal class.",
+   "ncert": "NCERT §13.3, Example 5"
+  },
+  "S5": {
+   "name": "Cumulative frequency and the median class",
+   "tip": "Median class = first class with cf ≥ n/2. A less-than table is already cumulative.",
+   "ncert": "NCERT §13.4"
+  },
+  "S6": {
+   "name": "Median of grouped data",
+   "tip": "Median = l + (n/2 − cf)/f × h; cf is of the class before the median class.",
+   "ncert": "NCERT Example 7"
+  },
+  "S7": {
+   "name": "Missing frequencies from the median",
+   "tip": "Two unknowns: use the total and the median formula.",
+   "ncert": "NCERT Example 8"
+  },
+  "S8": {
+   "name": "Empirical relation",
+   "tip": "3 Median = Mode + 2 Mean.",
+   "ncert": "NCERT §13.4 remark"
+  },
+  "S9": {
+   "name": "Properties, combined mean, case study",
+   "tip": "Adding k to every value adds k to the mean and median; combined mean = Σ(n × mean) ÷ Σn.",
+   "ncert": "NCERT §13.2"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Find the class mark of the class 40–50.",
+   "answer": "45",
+   "explanation": "(40 + 50) ÷ 2.",
+   "remediation": "Video part 1."
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "By the direct method, the mean of grouped data is:",
+   "answer": "A",
+   "explanation": "x = class mark.",
+   "remediation": "Video part 1.",
+   "options": [
+    "Σfx ÷ Σf",
+    "Σf ÷ Σfx",
+    "Σx ÷ n",
+    "Σfx × Σf"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Classes 0–10, 10–20, 20–30, 30–40 have frequencies 2, 3, 4, 1. Find the mean.",
+   "answer": "19",
+   "explanation": "Σfx = 10 + 45 + 100 + 35 = 190; 190 ÷ 10.",
+   "remediation": "Video part 1."
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Classes 0–20, 20–40, 40–60, 60–80 have frequencies 4, 6, 7, 3. Find the mean.",
+   "answer": "39",
+   "explanation": "Σfx = 40 + 180 + 350 + 210 = 780; 780 ÷ 20.",
+   "remediation": "Video part 1."
+  },
+  {
+   "id": "q05",
+   "subtopic": "S1",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Classes 10–20, 20–30, 30–40, 40–50, 50–60 have frequencies 5, 10, 20, 10, 5. Find the mean.",
+   "answer": "35",
+   "explanation": "Σfx = 1750, Σf = 50 (symmetric table).",
+   "remediation": "Video part 1."
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "In the step-deviation method, with assumed mean a and class size h, u equals:",
+   "answer": "A",
+   "explanation": "NCERT 13.2.",
+   "remediation": "Video part 2.",
+   "options": [
+    "(x − a)/h",
+    "h(x − a)",
+    "x − a",
+    "(x + a)/h"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "With a = 45, h = 10, Σf = 50 and Σfu = 10, find the mean.",
+   "answer": "47",
+   "explanation": "45 + (10/50) × 10.",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "With assumed mean a = 150, Σf = 40 and Σfd = −200, find the mean.",
+   "answer": "145",
+   "explanation": "150 + (−200/40).",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "In the step-deviation method the mean is 52, a = 50 and h = 10. The value of ū is:",
+   "answer": "B",
+   "explanation": "52 = 50 + 10ū (a 2026 board type, new numbers).",
+   "remediation": "Video part 2.",
+   "options": [
+    "0.5",
+    "0.2",
+    "2",
+    "20"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Classes 100–120, 120–140, 140–160, 160–180, 180–200 have frequencies 10, 15, 20, 10, 5. Using a = 150 and h = 20, find the mean.",
+   "answer": "145",
+   "explanation": "Σfu = −20 − 15 + 0 + 10 + 10 = −15; 150 + (−15/60) × 20.",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "Classes 0–10, 10–20, 20–30, 30–40 have frequencies 5, k, 10, 5 and the mean is 20. Find k.",
+   "answer": "10",
+   "explanation": "Σf = 20 + k, Σfx = 450 + 15k; 20(20 + k) = 450 + 15k.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "The values 10, 20, 30, 40 have frequencies 3, p, 5, 2 and the mean is 24. Find p.",
+   "answer": "5",
+   "explanation": "24(10 + p) = 260 + 20p.",
+   "remediation": "Video part 3 (NCERT Exercise 13.1 type)."
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "The mean of 3, 8, x + 1, 2x, 6, 9 is 7. Find x.",
+   "answer": "5",
+   "explanation": "27 + 3x = 42 (a 2024/2025 board type, new numbers).",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q14",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The modal class of a grouped distribution is the class with the:",
+   "answer": "C",
+   "explanation": "NCERT 13.3.",
+   "remediation": "Video part 4.",
+   "options": [
+    "highest cumulative frequency",
+    "largest class mark",
+    "highest frequency",
+    "middle position"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "The modal class is 20–30 with f1 = 15, f0 = 10, f2 = 10. Find the mode.",
+   "answer": "25",
+   "explanation": "20 + 5/(30 − 20) × 10.",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "The modal class is 60–80 with f1 = 12, f0 = 6, f2 = 8. Find the mode.",
+   "answer": "72",
+   "explanation": "60 + 6/(24 − 14) × 20.",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Classes 0–10, 10–20, 20–30, 30–40, 40–50 have frequencies 4, 6, 12, 8, 5. Find the mode.",
+   "answer": "26",
+   "explanation": "Modal 20–30: 20 + 6/(24 − 14) × 10.",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q18",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "The modal class is 15–20 and the mode is 17. If f1 = 10 and f0 = 6, find f2.",
+   "answer": "4",
+   "explanation": "17 = 15 + 4/(20 − 6 − f2) × 5 → 14 − f2 = 10 (2023 board type).",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q19",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The cumulative frequency of a class is:",
+   "answer": "D",
+   "explanation": "A running total.",
+   "remediation": "Video part 5.",
+   "options": [
+    "the frequency of that class",
+    "the frequency of the next class",
+    "the sum of all the frequencies",
+    "the sum of the frequencies up to and including that class"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Classes 0–10, 10–20, 20–30, 30–40, 40–50 have frequencies 6, 9, 15, 12, 8. The median class is:",
+   "answer": "B",
+   "explanation": "cf 6, 15, 30; n/2 = 25 → 20–30 (SQP 2024-25 Q9 type).",
+   "remediation": "Video part 5.",
+   "options": [
+    "10–20",
+    "20–30",
+    "30–40",
+    "40–50"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "Less than 10: 5, less than 20: 12, less than 30: 25, less than 40: 30. Find the frequency of the class 20–30.",
+   "answer": "13",
+   "explanation": "25 − 12.",
+   "remediation": "Video part 5: subtract cumulative counts."
+  },
+  {
+   "id": "q22",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "For the distribution in the previous median-class question (frequencies 6, 9, 15, 12, 8 for 0–10 to 40–50), find the sum of the lower limits of the median class and the modal class.",
+   "answer": "40",
+   "explanation": "Both are 20–30 → 20 + 20 (a 2023 board type).",
+   "remediation": "Video parts 4 and 5."
+  },
+  {
+   "id": "q23",
+   "subtopic": "S6",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "In Median = l + (n/2 − cf)/f × h, cf is the cumulative frequency of:",
+   "answer": "D",
+   "explanation": "NCERT 13.4.",
+   "remediation": "Video part 6.",
+   "options": [
+    "the last class",
+    "the modal class",
+    "the median class",
+    "the class before the median class"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "n = 40, the median class is 30–40, the cumulative frequency before it is 14 and its frequency is 12. Find the median.",
+   "answer": "35",
+   "explanation": "30 + (20 − 14)/12 × 10.",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q25",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "n = 100, the median class is 50–60, cf before it is 40 and its frequency is 20. Find the median.",
+   "answer": "55",
+   "explanation": "50 + (50 − 40)/20 × 10.",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q26",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "Classes 0–20, 20–40, 40–60, 60–80, 80–100 have frequencies 8, 12, 20, 6, 4. Find the median.",
+   "answer": "45",
+   "explanation": "cf 8, 20, 40; n/2 = 25 → 40 + (25 − 20)/20 × 20.",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q27",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "Less than 10: 3, less than 20: 10, less than 30: 20, less than 40: 27, less than 50: 30. Find the median.",
+   "answer": "25",
+   "explanation": "f of 20–30 = 10, cf before = 10, n/2 = 15 → 20 + 5/10 × 10 (NCERT Example 7 type).",
+   "remediation": "Video parts 5 and 6."
+  },
+  {
+   "id": "q28",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "Classes 0–10, 10–20, 20–30, 30–40, 40–50 have frequencies 5, x, 20, 10, y, and the total frequency is 50. Find x + y.",
+   "answer": "15",
+   "explanation": "35 + x + y = 50.",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "For the same table, the median is 25. Find x.",
+   "answer": "10",
+   "explanation": "Median class 20–30: 25 = 20 + (25 − 5 − x)/20 × 10 → x = 10 (NCERT Example 8 type).",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q30",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "For the same table, find y.",
+   "answer": "5",
+   "explanation": "x + y = 15 and x = 10.",
+   "remediation": "Video part 7."
+  },
+  {
+   "id": "q31",
+   "subtopic": "S8",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "The empirical relation between mean, median and mode is:",
+   "answer": "C",
+   "explanation": "NCERT remark in 13.4.",
+   "remediation": "Video part 8.",
+   "options": [
+    "Mode = 3 Mean − 2 Median",
+    "2 Median = Mode + 3 Mean",
+    "3 Median = Mode + 2 Mean",
+    "3 Mean = Mode + 2 Median"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "The mean of a distribution is 20 and its median is 22. Find its mode.",
+   "answer": "26",
+   "explanation": "3 × 22 − 2 × 20.",
+   "remediation": "Video part 8 (SQP 2026-27 Q16 type)."
+  },
+  {
+   "id": "q33",
+   "subtopic": "S8",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "The mode of a distribution is 30 and its mean is 21. Find its median.",
+   "answer": "24",
+   "explanation": "3 Median = 30 + 42.",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "For a distribution, Mode − Median = 18. Then Median − Mean is:",
+   "answer": "D",
+   "explanation": "Mode − Median = 2(Median − Mean) (a 2024 board type, new numbers).",
+   "remediation": "Video part 8.",
+   "options": [
+    "36",
+    "18",
+    "6",
+    "9"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "The mode and mean of a distribution are 16x and 19x. Its median is kx. Find k.",
+   "answer": "18",
+   "explanation": "3 Median = 16x + 38x = 54x (a 2025 board type, new numbers).",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q36",
+   "subtopic": "S9",
+   "level": "L1",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "If every observation of a data set is increased by 5, the mean:",
+   "answer": "D",
+   "explanation": "Every value shifts by 5 (a 2023 board type).",
+   "remediation": "Video part 8.",
+   "options": [
+    "is multiplied by 5",
+    "increases by 5n",
+    "stays the same",
+    "increases by 5"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "A shop wants the shirt size bought by the largest number of customers. The measure it needs is the:",
+   "answer": "A",
+   "explanation": "Most frequent value → mode (a 2024 board type).",
+   "remediation": "Video part 4.",
+   "options": [
+    "mode",
+    "range",
+    "median",
+    "mean"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "The mean of 5 numbers is 18. When one more number is included, the mean of the 6 numbers becomes 20. Find the number included.",
+   "answer": "30",
+   "explanation": "120 − 90 (a 2024 board type, new numbers).",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "The mean age of a group of men and women is 36 years. The men's mean is 40 and the women's mean is 30. What percentage of the group are women?",
+   "answer": "40",
+   "explanation": "40m + 30w = 36(m + w) → 4m = 6w → women 4/10 (SQP 2026-27 Q12 type).",
+   "remediation": "Video part 8."
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Case study: test scores in classes 0–20, 20–40, 40–60, 60–80, 80–100 have frequencies 5, 10, 15, 15, 5. Find the mean score.",
+   "answer": "52",
+   "explanation": "Σfx = 50 + 300 + 750 + 1050 + 450 = 2600; 2600 ÷ 50 (SQP 2026-27 Q38 type).",
+   "remediation": "Video part 1."
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}
