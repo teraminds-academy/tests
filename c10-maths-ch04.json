@@ -1,0 +1,679 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch04",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 4 Quadratic Equations (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 4 Quadratic Equations",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2022-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (negative allowed). No calculator.",
+ "suggested_minutes": 40,
+ "video_url": "https://youtu.be/zAccP4GSoJE",
+ "worksheet_url": "https://drive.google.com/file/d/1jdqBYIIUmqciTlXQk5_q3uyxza8082nn/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "P1": "Nature of roots / discriminant",
+  "P2": "Find k for equal (or real) roots",
+  "P3": "Solve by factorisation or formula",
+  "P4": "Word problem → quadratic",
+  "P5": "Root given: find the constant",
+  "P6": "Is it a quadratic equation?",
+  "P7": "Case study: area / walkway / pool"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "Standard form: is it a quadratic equation?",
+   "tip": "Write it as ax² + bx + c = 0 with a ≠ 0, but simplify first: x² terms can cancel (linear) and x³ terms can cancel (quadratic).",
+   "ncert": "NCERT §4.2, Example 2; Exercise 4.1"
+  },
+  "S2": {
+   "name": "Roots by factorisation (and a given root)",
+   "tip": "Split the middle term into two parts whose product is ac, factorise, set each factor to 0. A given root makes the equation true: substitute it.",
+   "ncert": "NCERT §4.3, Examples 3, 4, 6; Exercise 4.2"
+  },
+  "S3": {
+   "name": "Surd and repeated roots",
+   "tip": "With surds, ac may still be a whole number (√2 × 5√2 = 10). A perfect square (px − q)² gives two equal roots q/p.",
+   "ncert": "NCERT Example 5; Exercise 4.2 Q1(iii), (v)"
+  },
+  "S4": {
+   "name": "Quadratic formula and nature of roots",
+   "tip": "D = b² − 4ac: D > 0 two distinct real roots, D = 0 two equal roots (−b/2a), D < 0 no real roots. Formula x = (−b ± √D)/2a.",
+   "ncert": "NCERT §4.4, Examples 7, 9; Exercise 4.3 Q1"
+  },
+  "S5": {
+   "name": "Find k for equal or real roots",
+   "tip": "Equal roots: set D = 0. Expand brackets first, keep both signs of k, and reject a k that makes a = 0. Real roots: D ≥ 0.",
+   "ncert": "NCERT Exercise 4.3 Q2"
+  },
+  "S6": {
+   "name": "Word problems: numbers, digits, ages",
+   "tip": "Numbers: x(S − x) = P. Reciprocals: 1/x + 1/y = (x + y)/xy. Digits 10t + u. Ages: add the same years to both. Reject impossible roots.",
+   "ncert": "NCERT Exercise 4.2 Q3-Q5"
+  },
+  "S7": {
+   "name": "Word problems: speed and time",
+   "tip": "time = distance ÷ speed. 'Takes 30 min less' → old time − new time = 1/2. Upstream speed − stream, downstream speed + stream.",
+   "ncert": "NCERT Exercise 4.1 Q2(iv) type; past-paper 5-mark type"
+  },
+  "S8": {
+   "name": "Is it possible? Geometry problems",
+   "tip": "'Is it possible?' Form the equation, then check D (D < 0 → not possible). Right triangles: Pythagoras, then reject the negative root.",
+   "ncert": "NCERT Example 8; Exercise 4.3 Q3-Q5"
+  },
+  "S9": {
+   "name": "Case study: area with a uniform strip",
+   "tip": "Strip of width x outside an a × b rectangle: (a + 2x)(b + 2x); inside: (a − 2x)(b − 2x). Reject a width that makes a side negative.",
+   "ncert": "Case-study type (2025 board; SQP 2026-27 Q32)"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "P6",
+   "type": "mcq",
+   "question": "Which of these is a quadratic equation?",
+   "answer": "D",
+   "explanation": "Highest power 2, with a ≠ 0.",
+   "remediation": "Video part 1.",
+   "options": [
+    "x³ − 4x = 0",
+    "3x + 5 = 0",
+    "x⁴ − 1 = 0",
+    "2x² − 3x + 1 = 0"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "P6",
+   "type": "mcq",
+   "question": "Which of these is NOT a quadratic equation?",
+   "answer": "A",
+   "explanation": "(x + 3)² = x² + 5 simplifies to 6x + 4 = 0: the x² terms cancel, so it is linear.",
+   "remediation": "Video part 1: simplify before deciding.",
+   "options": [
+    "(x + 3)² = x² + 5",
+    "(x − 1)³ = x³ + 2",
+    "(x − 2)(x + 1) = 2x + 5",
+    "x(2x − 1) = x² + 4"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "P6",
+   "type": "numeric",
+   "question": "(x + 2)³ = x³ + 3x is written in standard form ax² + bx + c = 0 with a = 6. What is c?",
+   "answer": "8",
+   "explanation": "x³ + 6x² + 12x + 8 = x³ + 3x → 6x² + 9x + 8 = 0, so c = 8.",
+   "remediation": "Video part 1: the cubes cancel."
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "P6",
+   "type": "mcq",
+   "question": "A rectangle's length is 3 m more than its breadth x m, and its area is 40 m². The equation for x is:",
+   "answer": "D",
+   "explanation": "x(x + 3) = 40 → x² + 3x − 40 = 0 (so x = 5).",
+   "remediation": "Video part 1: the prayer-hall model.",
+   "options": [
+    "2x + 3 = 40",
+    "x² + 3x + 40 = 0",
+    "x² − 3x − 40 = 0",
+    "x² + 3x − 40 = 0"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "The roots of x² − 5x + 6 = 0 are:",
+   "answer": "A",
+   "explanation": "(x − 2)(x − 3) = 0.",
+   "remediation": "Video part 2.",
+   "options": [
+    "2 and 3",
+    "−2 and −3",
+    "1 and 6",
+    "−1 and 6"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "The roots of 2x² − 7x + 3 = 0 are:",
+   "answer": "A",
+   "explanation": "ac = 6: −7x = −6x − x → (2x − 1)(x − 3) = 0.",
+   "remediation": "Video part 2: split the middle term using ac.",
+   "options": [
+    "3 and 1/2",
+    "1/3 and 2",
+    "−3 and −1/2",
+    "3 and −1/2"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "The roots of 3x² + 5x − 2 = 0 are:",
+   "answer": "C",
+   "explanation": "ac = −6: 5x = 6x − x → (3x − 1)(x + 2) = 0.",
+   "remediation": "Video part 2.",
+   "options": [
+    "3 and −2",
+    "−1/3 and 2",
+    "1/3 and −2",
+    "2/3 and −1"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "P3",
+   "type": "numeric",
+   "question": "Find the positive root of x² + x − 20 = 0.",
+   "answer": "4",
+   "explanation": "(x + 5)(x − 4) = 0, so the roots are −5 and 4.",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "P5",
+   "type": "mcq",
+   "question": "If x = 2 is a root of x² + kx − 10 = 0, then k =",
+   "answer": "B",
+   "explanation": "4 + 2k − 10 = 0 → k = 3.",
+   "remediation": "Video part 10: a root makes the equation true.",
+   "options": [
+    "2",
+    "3",
+    "−3",
+    "7"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "P5",
+   "type": "numeric",
+   "question": "If x = −3 is a root of 2x² + 5x + p = 0, find p.",
+   "answer": "-3",
+   "explanation": "2(9) + 5(−3) + p = 0 → 18 − 15 + p = 0 → p = −3.",
+   "remediation": "Video part 10: substitute the root."
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "The roots of 9x² − 12x + 4 = 0 are:",
+   "answer": "D",
+   "explanation": "9x² − 12x + 4 = (3x − 2)²: two equal roots.",
+   "remediation": "Video part 3: perfect squares.",
+   "options": [
+    "−2/3 and −2/3",
+    "2/3 and −2/3",
+    "3/2 and 3/2",
+    "2/3 and 2/3"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "The roots of √3x² + 10x + 7√3 = 0 are:",
+   "answer": "A",
+   "explanation": "ac = 21: 10x = 3x + 7x → (x + √3)(√3x + 7) = 0.",
+   "remediation": "Video part 3: surd coefficients.",
+   "options": [
+    "−√3 and −7/√3",
+    "−7 and −√3",
+    "√3 and 7/√3",
+    "−√3 and 7/√3"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "The roots of x² − 2√2x + 2 = 0 are:",
+   "answer": "C",
+   "explanation": "x² − 2√2x + 2 = (x − √2)².",
+   "remediation": "Video part 3.",
+   "options": [
+    "2 and 1",
+    "−√2 and −√2",
+    "√2 and √2",
+    "√2 and −√2"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "S3",
+   "level": "L4",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "Which equation has 1/5 as a repeated root?",
+   "answer": "C",
+   "explanation": "25x² − 10x + 1 = (5x − 1)².",
+   "remediation": "Video part 3: 100x² − 20x + 1 = (10x − 1)².",
+   "options": [
+    "25x² + 10x + 1 = 0",
+    "25x² − 1 = 0",
+    "25x² − 10x + 1 = 0",
+    "5x² − 2x + 1 = 0"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "P1",
+   "type": "mcq",
+   "question": "The discriminant of 2x² − 3x + 5 = 0 is:",
+   "answer": "B",
+   "explanation": "b² − 4ac = 9 − 40 = −31.",
+   "remediation": "Video part 4.",
+   "options": [
+    "49",
+    "−31",
+    "−49",
+    "31"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "P1",
+   "type": "mcq",
+   "question": "If the discriminant of a quadratic equation is 0, its roots are:",
+   "answer": "A",
+   "explanation": "D = 0 → two equal real roots, both −b/2a.",
+   "remediation": "Video part 4.",
+   "options": [
+    "real and equal",
+    "real and distinct",
+    "not real",
+    "irrational and distinct"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "P1",
+   "type": "mcq",
+   "question": "The equation x² − 4x + 7 = 0 has:",
+   "answer": "A",
+   "explanation": "D = 16 − 28 = −12 < 0.",
+   "remediation": "Video part 4.",
+   "options": [
+    "no real roots",
+    "two distinct rational roots",
+    "two equal real roots",
+    "two distinct irrational roots"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "P1",
+   "type": "mcq",
+   "question": "The roots of x² − 3x − 1 = 0 are:",
+   "answer": "B",
+   "explanation": "D = 9 + 4 = 13 > 0 and 13 is not a perfect square.",
+   "remediation": "Video part 4: the 2024-25 sample-paper type.",
+   "options": [
+    "real and equal",
+    "real, distinct and irrational",
+    "real, distinct and rational",
+    "not real"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "P1",
+   "type": "numeric",
+   "question": "The discriminant of 2x² + bx + 1 = 0 is 1, and b > 0. Find b.",
+   "answer": "3",
+   "explanation": "b² − 8 = 1 → b² = 9 → b = 3.",
+   "remediation": "Video part 10: discriminant given."
+  },
+  {
+   "id": "q20",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "P3",
+   "type": "mcq",
+   "question": "By the quadratic formula, the roots of x² − 2x − 4 = 0 are:",
+   "answer": "B",
+   "explanation": "x = (2 ± √(4 + 16))/2 = (2 ± 2√5)/2 = 1 ± √5.",
+   "remediation": "Video part 4: the formula.",
+   "options": [
+    "−1 ± √5",
+    "1 ± √5",
+    "2 ± √5",
+    "1 ± √3"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "P1",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "D = 1 − 4 = −3 < 0, so A is true, and R is the rule that explains it.",
+   "remediation": "Video part 4.",
+   "assertion": "x² + x + 1 = 0 has no real roots.",
+   "reason": "A quadratic equation has no real roots when b² − 4ac < 0.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "P2",
+   "type": "mcq",
+   "question": "The values of k for which x² + kx + 16 = 0 has equal roots are:",
+   "answer": "B",
+   "explanation": "k² − 64 = 0 → k = ±8. Keep both signs.",
+   "remediation": "Video part 5.",
+   "options": [
+    "±4",
+    "±8",
+    "8 only",
+    "±16"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "P2",
+   "type": "numeric",
+   "question": "Find the positive value of k for which 4x² − kx + 9 = 0 has equal roots.",
+   "answer": "12",
+   "explanation": "k² − 144 = 0 → k = ±12; positive value 12.",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q24",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "P2",
+   "type": "numeric",
+   "question": "Find k (k ≠ 0) for which kx(x − 3) + 9 = 0 has equal roots.",
+   "answer": "4",
+   "explanation": "kx² − 3kx + 9 = 0: D = 9k² − 36k = 9k(k − 4) = 0 → k = 4 (k = 0 is not quadratic).",
+   "remediation": "Video part 5: expand first, reject k = 0."
+  },
+  {
+   "id": "q25",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "P2",
+   "type": "mcq",
+   "question": "For what value of m does 3x² − 6x + m = 0 have real and equal roots?",
+   "answer": "B",
+   "explanation": "36 − 12m = 0 → m = 3.",
+   "remediation": "Video part 5.",
+   "options": [
+    "−3",
+    "3",
+    "6",
+    "1/3"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "S5",
+   "level": "L4",
+   "pattern": "P2",
+   "type": "mcq",
+   "question": "(k + 1)x² − 2(k − 1)x + 1 = 0 has equal roots. Then k =",
+   "answer": "B",
+   "explanation": "4(k − 1)² − 4(k + 1) = 0 → k² − 3k = 0 → k = 0 or 3 (both keep a = k + 1 ≠ 0).",
+   "remediation": "Video part 5.",
+   "options": [
+    "−1 or 3",
+    "0 or 3",
+    "1 or 3",
+    "0 or −3"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "P2",
+   "type": "mcq",
+   "question": "For which values of p does x² + px + 9 = 0 have real roots?",
+   "answer": "D",
+   "explanation": "Real roots need D = p² − 36 ≥ 0, so p ≤ −6 or p ≥ 6.",
+   "remediation": "Video part 4: real roots mean D ≥ 0.",
+   "options": [
+    "p ≥ 0 only",
+    "−6 ≤ p ≤ 6",
+    "p = ±3 only",
+    "p ≤ −6 or p ≥ 6"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "S6",
+   "level": "L2",
+   "pattern": "P4",
+   "type": "numeric",
+   "question": "Two numbers have sum 25 and product 156. Find the larger number.",
+   "answer": "13",
+   "explanation": "x(25 − x) = 156 → x² − 25x + 156 = 0 → (x − 12)(x − 13) = 0.",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "P4",
+   "type": "numeric",
+   "question": "The sum of the squares of two consecutive positive integers is 181. Find the larger integer.",
+   "answer": "10",
+   "explanation": "x² + (x + 1)² = 181 → x² + x − 90 = 0 → x = 9; the integers are 9 and 10.",
+   "remediation": "Video part 6."
+  },
+  {
+   "id": "q30",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "P4",
+   "type": "numeric",
+   "question": "The product of the digits of a two-digit number is 18. When 27 is subtracted from the number, the digits interchange. Find the number.",
+   "answer": "63",
+   "explanation": "Tens t, units u: tu = 18 and (10t + u) − 27 = 10u + t → t − u = 3. t(t − 3) = 18 → t = 6, u = 3. Check: 63 − 27 = 36.",
+   "remediation": "Video part 6: digits are 0-9, reject negatives."
+  },
+  {
+   "id": "q31",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "P4",
+   "type": "numeric",
+   "question": "Two numbers have sum 15, and the sum of their reciprocals is 3/10. Find the larger number.",
+   "answer": "10",
+   "explanation": "1/x + 1/y = (x + y)/xy = 15/xy = 3/10 → xy = 50 → x² − 15x + 50 = 0 → 5 and 10.",
+   "remediation": "Video part 6: the 2024-25 sample-paper type."
+  },
+  {
+   "id": "q32",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "P4",
+   "type": "numeric",
+   "question": "A girl is 4 years older than her brother. The product of their ages 2 years from now will be 96. Find the brother's present age.",
+   "answer": "6",
+   "explanation": "(b + 2)(b + 6) = 96 → b² + 8b − 84 = 0 → (b + 14)(b − 6) = 0 → b = 6. Check: 8 × 12 = 96.",
+   "remediation": "Video part 6: ages."
+  },
+  {
+   "id": "q33",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "P4",
+   "type": "numeric",
+   "question": "A car covers 240 km. Had its speed been 20 km/h more, the trip would have taken 1 hour less. Find its original speed in km/h.",
+   "answer": "60",
+   "explanation": "240/x − 240/(x + 20) = 1 → x² + 20x − 4800 = 0 → (x + 80)(x − 60) = 0 → 60. Check: 4 h at 60, 3 h at 80.",
+   "remediation": "Video part 7: time = distance ÷ speed."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S7",
+   "level": "L4",
+   "pattern": "P4",
+   "type": "numeric",
+   "question": "A motorboat goes at 18 km/h in still water. Going 24 km upstream takes 1 hour more than coming back 24 km downstream. Find the speed of the stream in km/h.",
+   "answer": "6",
+   "explanation": "24/(18 − s) − 24/(18 + s) = 1 → s² + 48s − 324 = 0 → (s + 54)(s − 6) = 0 → s = 6. Check: 2 h up, 1 h down.",
+   "remediation": "Video part 7: upstream speed − stream."
+  },
+  {
+   "id": "q35",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "P4",
+   "type": "mcq",
+   "question": "A train travels 360 km at a uniform speed. If the speed were 5 km/h more, the journey would take 1 hour less. Its speed is:",
+   "answer": "B",
+   "explanation": "360/x − 360/(x + 5) = 1 → x² + 5x − 1800 = 0 → (x + 45)(x − 40) = 0 → 40.",
+   "remediation": "Video part 7.",
+   "options": [
+    "50 km/h",
+    "40 km/h",
+    "45 km/h",
+    "36 km/h"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "P4",
+   "type": "mcq",
+   "question": "A car goes 150 km at x km/h. If the speed rises by 10 km/h, which expression gives the time saved (in hours)?",
+   "answer": "D",
+   "explanation": "Old time 150/x is longer than the new time 150/(x + 10); saved = old − new.",
+   "remediation": "Video part 7.",
+   "options": [
+    "10/150",
+    "150(x + 10) − 150x",
+    "150/(x + 10) − 150/x",
+    "150/x − 150/(x + 10)"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "P4",
+   "type": "mcq",
+   "question": "Is a rectangular plot with perimeter 28 m and area 40 m² possible?",
+   "answer": "A",
+   "explanation": "l + b = 14, lb = 40 → x² − 14x + 40 = 0, D = 196 − 160 = 36 > 0 → 10 and 4.",
+   "remediation": "Video part 8: form the equation, then check D.",
+   "options": [
+    "Yes: 10 m by 4 m",
+    "Yes: a 7 m square",
+    "No: D < 0",
+    "Yes: 8 m by 5 m"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "P4",
+   "type": "numeric",
+   "question": "The hypotenuse of a right triangle is 25 cm and one leg is 5 cm longer than the other. Find the shorter leg in cm.",
+   "answer": "15",
+   "explanation": "x² + (x + 5)² = 625 → x² + 5x − 300 = 0 → (x + 20)(x − 15) = 0 → 15 (legs 15 and 20).",
+   "remediation": "Video part 8: Pythagoras + reject the negative root."
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "P7",
+   "type": "numeric",
+   "question": "A 16 m × 10 m lawn is surrounded by a path of uniform width x m. The lawn and path together cover 280 m². Find x.",
+   "answer": "2",
+   "explanation": "(16 + 2x)(10 + 2x) = 280 → x² + 13x − 30 = 0 → (x + 15)(x − 2) = 0 → x = 2.",
+   "remediation": "Video part 9: the walkway case study."
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "P7",
+   "type": "numeric",
+   "question": "A 30 m × 20 m park has a rectangular pond in the middle and a grass strip of uniform width x m all round. The grass covers 264 m². Find x.",
+   "answer": "3",
+   "explanation": "Pond = 600 − 264 = 336 = (30 − 2x)(20 − 2x) → x² − 25x + 66 = 0 → x = 3 or 22; 22 is too wide, so x = 3 (pond 24 m × 14 m).",
+   "remediation": "Video part 9: the pool case study."
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

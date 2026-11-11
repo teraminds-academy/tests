@@ -379,6 +379,54 @@
    "suggested_minutes": 40
   },
   {
+   "id": "c10-maths-ch04",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 4 Quadratic Equations",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 4 Quadratic Equations (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch04",
+    "S2": "ch04",
+    "S3": "ch04",
+    "S4": "ch04",
+    "S5": "ch04",
+    "S6": "ch04",
+    "S7": "ch04",
+    "S8": "ch04",
+    "S9": "ch04"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
+   "id": "c10-maths-ch05",
+   "title": "Board-pattern readiness test — most-repeated question types",
+   "short_title": "Class 10 Maths · Ch 5 Arithmetic Progressions",
+   "chapter": "CBSE Class 10 Mathematics · Chapter 5 Arithmetic Progressions (NCERT reprint 2026-27)",
+   "class": "10",
+   "subject": "Mathematics",
+   "version": 1,
+   "kind": "readiness",
+   "subject_key": "maths",
+   "sub_chapter": {
+    "S1": "ch05",
+    "S2": "ch05",
+    "S3": "ch05",
+    "S4": "ch05",
+    "S5": "ch05",
+    "S6": "ch05",
+    "S7": "ch05",
+    "S8": "ch05",
+    "S9": "ch05"
+   },
+   "questions": 40,
+   "suggested_minutes": 40
+  },
+  {
    "id": "c10-maths",
    "title": "Board-pattern readiness test — most-repeated question types",
    "short_title": "Class 10 Maths · Crash Revision 2027",
@@ -463,25 +511,39 @@
      "name": "Polynomials",
      "videos": [
       {
+       "label": "Chapter video: Polynomials",
+       "url": "https://youtu.be/6z_5X1Bf4GU"
+      },
+      {
        "label": "Crash revision from 1:58",
        "url": "https://youtu.be/Jg9raxKftdU?t=118"
       }
      ],
-     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+     "chapter_test": "c10-maths-ch02"
     },
     "ch03": {
      "name": "Pair of Linear Equations in Two Variables",
      "videos": [
       {
+       "label": "Chapter video: Pair of Linear Equations in Two Variables",
+       "url": "https://youtu.be/WB9nKr8v1dI"
+      },
+      {
        "label": "Crash revision from 2:47",
        "url": "https://youtu.be/Jg9raxKftdU?t=167"
       }
      ],
-     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+     "chapter_test": "c10-maths-ch03"
     },
     "ch04": {
      "name": "Quadratic Equations",
      "videos": [
+      {
+       "label": "Chapter video: Quadratic Equations",
+       "url": "https://youtu.be/zAccP4GSoJE"
+      },
       {
        "label": "Crash revision from 3:34",
        "url": "https://youtu.be/Jg9raxKftdU?t=214"
@@ -491,17 +553,23 @@
        "url": "https://youtube.com/shorts/BtLGe4P-pJ8"
       }
      ],
-     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+     "chapter_test": "c10-maths-ch04"
     },
     "ch05": {
      "name": "Arithmetic Progressions",
      "videos": [
       {
+       "label": "Chapter video: Arithmetic Progressions",
+       "url": "https://youtu.be/vBFUqC2SUp4"
+      },
+      {
        "label": "Crash revision from 4:27",
        "url": "https://youtu.be/Jg9raxKftdU?t=267"
       }
      ],
-     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link"
+     "worksheet": "https://drive.google.com/file/d/1ERV5RMRHzX6W132qbWQLSj01ON3nRt1o/view?usp=drive_link",
+     "chapter_test": "c10-maths-ch05"
     },
     "ch06": {
      "name": "Triangles",

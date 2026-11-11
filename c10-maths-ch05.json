@@ -1,0 +1,606 @@
+{
+ "schema": 1,
+ "id": "c10-maths-ch05",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 10 Mathematics · Chapter 5 Arithmetic Progressions (NCERT reprint 2026-27)",
+ "short_title": "Class 10 Maths · Ch 5 Arithmetic Progressions",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions modelled on question types that have repeated in CBSE board papers 2022-2026 and the Sample Question Papers 2024-25 to 2026-27. They are practice for readiness, not predictions of what will appear in any exam.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (negative allowed). No calculator.",
+ "suggested_minutes": 40,
+ "video_url": "https://youtu.be/vBFUqC2SUp4",
+ "worksheet_url": "https://drive.google.com/file/d/1nKd_mUTcibhrSPnxUHtvOsFAAtimCgc5/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Find d / a term / which term / number of terms",
+  "T2": "kth term from the end / middle term",
+  "T3": "Three terms in AP",
+  "T4": "Sum of n terms",
+  "T5": "Sn given as a formula",
+  "T7": "Word problem / case study"
+ },
+ "subtopics": {
+  "S1": {
+   "name": "What makes an AP: common difference",
+   "tip": "An AP adds the same d every time. d = later term − earlier term (6, 3, 0 has d = −3). Check every difference.",
+   "ncert": "NCERT §5.2, Examples 1-2; Exercise 5.1"
+  },
+  "S2": {
+   "name": "The nth term: a term, which term, is it a term",
+   "tip": "an = a + (n − 1)d. Which term is x: solve for n, and n must be a positive whole number. Count terms with the formula, not (l − a)/d.",
+   "ncert": "NCERT §5.3, Examples 3-7; Exercise 5.2"
+  },
+  "S3": {
+   "name": "Two terms given; terms from the end; middle term",
+   "tip": "Two terms given: write both as a + (n − 1)d and solve. am − ak = (m − k)d. kth from the end = (n − k + 1)th term; count terms first.",
+   "ncert": "NCERT Examples 5, 8; Exercise 5.2 Q7-Q18"
+  },
+  "S4": {
+   "name": "Three terms in AP (2b = a + c)",
+   "tip": "a, b, c in AP exactly when 2b = a + c. Three unknown terms: take a − d, a, a + d (their sum is 3a).",
+   "ncert": "NCERT §5.5 note (arithmetic mean)"
+  },
+  "S5": {
+   "name": "Sum of n terms",
+   "tip": "Sn = n/2 [2a + (n − 1)d], or n/2 (a + l) when the last term is known. 1 + 2 + … + n = n(n + 1)/2.",
+   "ncert": "NCERT §5.4, Examples 11, 14; Exercise 5.3 Q1-Q2"
+  },
+  "S6": {
+   "name": "Sum given: find n (incl. the double answer)",
+   "tip": "Sum given and n unknown gives a quadratic in n. Two positive answers can both be right when some terms cancel (sum 0).",
+   "ncert": "NCERT Example 13; Exercise 5.3 Q3-Q5"
+  },
+  "S7": {
+   "name": "Sn given as a formula in n",
+   "tip": "an = Sn − S(n − 1) and the first term is S1. Then d = a2 − a1.",
+   "ncert": "NCERT Exercise 5.3 Q11"
+  },
+  "S8": {
+   "name": "Two conditions on terms or sums",
+   "tip": "Two conditions (two sums, or two terms) give a pair of linear equations in a and d: solve them, then answer the question.",
+   "ncert": "NCERT Exercise 5.3 Q9; Exercise 5.2 Q18"
+  },
+  "S9": {
+   "name": "Word problems and case studies",
+   "tip": "Spot the AP (simple interest, a fixed yearly rise, rows, exterior angles adding to 360°). One value → an; a total → Sn.",
+   "ncert": "NCERT Examples 9, 10, 16; Exercise 5.3 Q15-Q19"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The common difference of the AP 11, 7, 3, −1, … is:",
+   "answer": "D",
+   "explanation": "d = 7 − 11 = −4 (later term minus earlier term).",
+   "remediation": "Video part 1.",
+   "options": [
+    "4",
+    "−3",
+    "7",
+    "−4"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "S1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Which list is an AP?",
+   "answer": "A",
+   "explanation": "Differences 4, 4, 4: constant.",
+   "remediation": "Video part 1: test every difference.",
+   "options": [
+    "5, 9, 13, 17, …",
+    "1, 2, 4, 8, …",
+    "1, −1, 1, −1, …",
+    "2, 3, 5, 8, …"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "The AP 7, 13, 19, … continues. What is the 5th term?",
+   "answer": "31",
+   "explanation": "d = 6: 7, 13, 19, 25, 31.",
+   "remediation": "Video part 1."
+  },
+  {
+   "id": "q04",
+   "subtopic": "S1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "1 − (−3) = 4, 5 − 1 = 4, 9 − 5 = 4: A is true, and R is the reason it is an AP.",
+   "remediation": "Video part 1.",
+   "assertion": "−3, 1, 5, 9, … is an AP with d = 4.",
+   "reason": "In an AP, the difference between consecutive terms is constant.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "S2",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Find the 12th term of the AP 4, 9, 14, …",
+   "answer": "59",
+   "explanation": "a12 = 4 + 11 × 5 = 59.",
+   "remediation": "Video part 2: an = a + (n − 1)d."
+  },
+  {
+   "id": "q06",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "Which term of the AP 40, 37, 34, … is −20?",
+   "answer": "21",
+   "explanation": "−20 = 40 + (n − 1)(−3) → 3(n − 1) = 60 → n = 21.",
+   "remediation": "Video part 2."
+  },
+  {
+   "id": "q07",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Is 200 a term of the AP 6, 13, 20, 27, …?",
+   "answer": "C",
+   "explanation": "200 = 6 + 7(n − 1) → n − 1 = 194/7, not a whole number.",
+   "remediation": "Video part 2: n must be a positive whole number.",
+   "options": [
+    "Yes: the 30th term",
+    "Yes: the 28th term",
+    "No: n would not be a whole number",
+    "Yes: the 29th term"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "How many two-digit numbers are divisible by 4?",
+   "answer": "22",
+   "explanation": "12, 16, …, 96: 96 = 12 + 4(n − 1) → n = 22.",
+   "remediation": "Video part 2; NCERT Example 7 type."
+  },
+  {
+   "id": "q09",
+   "subtopic": "S2",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "How many terms are there in the AP 5, 8, 11, …, 98?",
+   "answer": "32",
+   "explanation": "98 = 5 + 3(n − 1) → n − 1 = 31 → n = 32.",
+   "remediation": "Video part 10: count with the formula, not (l − a)/d."
+  },
+  {
+   "id": "q10",
+   "subtopic": "S2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "If an = 5n − 2, the common difference is:",
+   "answer": "C",
+   "explanation": "an+1 − an = 5. d is the number with n.",
+   "remediation": "Video part 10.",
+   "options": [
+    "3",
+    "5n",
+    "5",
+    "−2"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The 4th term of an AP is 11 and the 9th term is 26. The common difference is:",
+   "answer": "D",
+   "explanation": "a9 − a4 = 5d = 15 → d = 3.",
+   "remediation": "Video part 3: subtract the two terms.",
+   "options": [
+    "5",
+    "15",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "The 3rd term of an AP is 12 and the 8th term is 32. Find the first term.",
+   "answer": "4",
+   "explanation": "a + 2d = 12, a + 7d = 32 → 5d = 20 → d = 4, a = 4.",
+   "remediation": "Video part 3."
+  },
+  {
+   "id": "q13",
+   "subtopic": "S3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "In an AP, a18 − a13 = 30. Find d.",
+   "answer": "6",
+   "explanation": "a18 − a13 = 5d = 30 → d = 6.",
+   "remediation": "Video part 3: the a's cancel."
+  },
+  {
+   "id": "q14",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Find the 8th term from the end of the AP 7, 10, 13, …, 85.",
+   "answer": "64",
+   "explanation": "85 = 7 + 3(n − 1) → n = 27; 8th from the end = (27 − 8 + 1)th = 20th = 7 + 19 × 3 = 64. (Or 85 − 7 × 3 = 64.)",
+   "remediation": "Video part 3: count the terms first."
+  },
+  {
+   "id": "q15",
+   "subtopic": "S3",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Find the middle term of the AP 3, 7, 11, …, 99.",
+   "answer": "51",
+   "explanation": "99 = 3 + 4(n − 1) → n = 25; middle = 13th = 3 + 12 × 4 = 51.",
+   "remediation": "Video part 3: the 2026-27 sample-paper type."
+  },
+  {
+   "id": "q16",
+   "subtopic": "S4",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "If a, b, c are in AP, then:",
+   "answer": "A",
+   "explanation": "b − a = c − b → 2b = a + c.",
+   "remediation": "Video part 4.",
+   "options": [
+    "2b = a + c",
+    "b² = ac",
+    "b = a + c",
+    "2a = b + c"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "If 2k + 1, 13 and 5k − 3 are three consecutive terms of an AP, find k.",
+   "answer": "4",
+   "explanation": "2 × 13 = (2k + 1) + (5k − 3) → 26 = 7k − 2 → k = 4. Check: 9, 13, 17.",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q18",
+   "subtopic": "S4",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "Three numbers in AP add to 45. What is the middle number?",
+   "answer": "15",
+   "explanation": "(a − d) + a + (a + d) = 3a = 45 → a = 15.",
+   "remediation": "Video part 4."
+  },
+  {
+   "id": "q19",
+   "subtopic": "S4",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "If x + 1, 3x and 4x + 2 are in AP, then x =",
+   "answer": "D",
+   "explanation": "6x = 5x + 3 → x = 3. Check: 4, 9, 14.",
+   "remediation": "Video part 4.",
+   "options": [
+    "1",
+    "−3",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "Find the sum of the first 15 terms of 2, 5, 8, …",
+   "answer": "345",
+   "explanation": "S15 = 15/2 [4 + 14 × 3] = 15/2 × 46 = 345.",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q21",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "Find the sum 6 + 10 + 14 + … + 70.",
+   "answer": "646",
+   "explanation": "70 = 6 + 4(n − 1) → n = 17; S = 17/2 (6 + 70) = 646.",
+   "remediation": "Video part 5: Sn = n/2 (a + l)."
+  },
+  {
+   "id": "q22",
+   "subtopic": "S5",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The sum of the first 100 natural numbers is:",
+   "answer": "B",
+   "explanation": "n(n + 1)/2 = 100 × 101/2 = 5050.",
+   "remediation": "Video part 5.",
+   "options": [
+    "5000",
+    "5050",
+    "10100",
+    "4950"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "S5",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "Find the sum of the first 20 terms of the AP 10, 6, 2, …",
+   "answer": "-560",
+   "explanation": "S20 = 10[20 + 19(−4)] = 10(−56) = −560.",
+   "remediation": "Video part 5: watch the negative d."
+  },
+  {
+   "id": "q24",
+   "subtopic": "S5",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "Find the sum of all odd numbers from 1 to 59.",
+   "answer": "900",
+   "explanation": "1, 3, …, 59: n = 30; S = 30/2 (1 + 59) = 900 (= 30²).",
+   "remediation": "Video part 5."
+  },
+  {
+   "id": "q25",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "How many terms of the AP 3, 7, 11, … must be taken to make the sum 210?",
+   "answer": "10",
+   "explanation": "n/2 [6 + 4(n − 1)] = 210 → 2n² + n − 210 = 0 → (n − 10)(2n + 21) = 0 → n = 10.",
+   "remediation": "Video part 6: the sum gives a quadratic in n."
+  },
+  {
+   "id": "q26",
+   "subtopic": "S6",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "How many terms of 30, 26, 22, … give a sum of 120?",
+   "answer": "B",
+   "explanation": "n/2 [60 − 4(n − 1)] = 120 → n(32 − 2n) = 120 → n² − 16n + 60 = 0 → n = 6 or 10. Both work: the 7th to 10th terms (6, 2, −2, −6) add to 0.",
+   "remediation": "Video part 6: the double answer.",
+   "options": [
+    "5 or 11",
+    "6 or 10",
+    "6 only",
+    "10 only"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "S6",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "The first term of an AP is 4, the last term is 60 and the sum is 480. How many terms are there?",
+   "answer": "15",
+   "explanation": "480 = n/2 (4 + 60) = 32n → n = 15.",
+   "remediation": "Video part 6: first, last and sum given."
+  },
+  {
+   "id": "q28",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "If Sn = n² + 2n, find the first term.",
+   "answer": "3",
+   "explanation": "a = S1 = 1 + 2 = 3.",
+   "remediation": "Video part 7: first term = S1."
+  },
+  {
+   "id": "q29",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "If Sn = 3n² − n, find the 10th term.",
+   "answer": "56",
+   "explanation": "a10 = S10 − S9 = (300 − 10) − (243 − 9) = 290 − 234 = 56. (an = 6n − 4.)",
+   "remediation": "Video part 7: an = Sn − S(n − 1)."
+  },
+  {
+   "id": "q30",
+   "subtopic": "S7",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "If Sn = 2n² + 5n, the common difference is:",
+   "answer": "A",
+   "explanation": "a1 = S1 = 7, a2 = S2 − S1 = 18 − 7 = 11 → d = 4. (an = 4n + 3.)",
+   "remediation": "Video part 7.",
+   "options": [
+    "4",
+    "7",
+    "5",
+    "2"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "S7",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "If Sn = 5n − n², find the second term.",
+   "answer": "2",
+   "explanation": "S1 = 4, S2 = 10 − 4 = 6 → a2 = 6 − 4 = 2.",
+   "remediation": "Video part 7: NCERT Exercise 5.3 Q11 type."
+  },
+  {
+   "id": "q32",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "The sum of the first 5 terms of an AP is 35 and the sum of the first 10 terms is 120. Find d.",
+   "answer": "2",
+   "explanation": "5/2 (2a + 4d) = 35 → a + 2d = 7; 5(2a + 9d) = 120 → 2a + 9d = 24 → 5d = 10 → d = 2 (a = 3).",
+   "remediation": "Video part 8: two conditions → a pair of equations."
+  },
+  {
+   "id": "q33",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "In an AP, a = 5 and S12 = 456. Find a12.",
+   "answer": "71",
+   "explanation": "456 = 12/2 (5 + a12) = 6(5 + a12) → 5 + a12 = 76 → a12 = 71.",
+   "remediation": "Video part 8: Sn = n/2 (a + l)."
+  },
+  {
+   "id": "q34",
+   "subtopic": "S8",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The sum of the first 20 terms of an AP is 0, with first term a and common difference d. Then:",
+   "answer": "D",
+   "explanation": "S20 = 10(2a + 19d) = 0 → 2a + 19d = 0.",
+   "remediation": "Video part 8.",
+   "options": [
+    "2a = 19d",
+    "a + 19d = 0",
+    "a = 19d",
+    "2a + 19d = 0"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "S8",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "The sum of the 4th and 8th terms of an AP is 26 and the sum of the 6th and 10th terms is 42. Find d.",
+   "answer": "4",
+   "explanation": "(a + 3d) + (a + 7d) = 26 → 2a + 10d = 26; (a + 5d) + (a + 9d) = 42 → 2a + 14d = 42 → 4d = 16 → d = 4.",
+   "remediation": "Video part 8; NCERT Exercise 5.2 Q18 type."
+  },
+  {
+   "id": "q36",
+   "subtopic": "S9",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "₹5000 is invested at 6% simple interest per year. The interest at the end of each year forms an AP. Find the interest at the end of the 15th year (in ₹).",
+   "answer": "4500",
+   "explanation": "Interests 300, 600, 900, … (a = d = 300) → a15 = 300 × 15 = 4500.",
+   "remediation": "Video part 9: simple interest is an AP."
+  },
+  {
+   "id": "q37",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "A factory made 400 units in its 2nd year and 520 units in its 5th year, rising by the same number each year. How many units did it make in its 1st year?",
+   "answer": "360",
+   "explanation": "a + d = 400, a + 4d = 520 → 3d = 120 → d = 40, a = 360.",
+   "remediation": "Video part 9: NCERT TV-factory type."
+  },
+  {
+   "id": "q38",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "A stack of logs has 18 in the bottom row, 17 in the next, 16 in the next, and so on. How many logs are there if there are 10 rows?",
+   "answer": "135",
+   "explanation": "S10 = 10/2 [36 + 9(−1)] = 5 × 27 = 135.",
+   "remediation": "Video part 9."
+  },
+  {
+   "id": "q39",
+   "subtopic": "S9",
+   "level": "L4",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "The exterior angles of a polygon are in AP: the smallest is 45° and each next one is 30° more. How many sides does the polygon have?",
+   "answer": "4",
+   "explanation": "n/2 [90 + 30(n − 1)] = 360 → n² + 2n − 24 = 0 → (n + 6)(n − 4) = 0 → n = 4. Check: 45 + 75 + 105 + 135 = 360.",
+   "remediation": "Video part 9: the 2026-27 sample-paper polygon type."
+  },
+  {
+   "id": "q40",
+   "subtopic": "S9",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "A penalty for delay is ₹100 for the first day, ₹150 for the second, ₹200 for the third, and so on. What is the total penalty for 20 days (in ₹)?",
+   "answer": "11500",
+   "explanation": "S20 = 10[200 + 19 × 50] = 10 × 1150 = 11500.",
+   "remediation": "Video part 9; NCERT Exercise 5.3 Q15 type."
+  }
+ ],
+ "class": "10",
+ "subject": "Mathematics",
+ "board": "CBSE"
+}

@@ -1,6 +1,6 @@
 /* Offline cache for the readiness tests. Caches only the app's own files from the same origin.
    Bump VERSION whenever app files change so phones pick up the update. */
-var VERSION = "tm-tests-v5";
+var VERSION = "tm-tests-v6";
 var SHELL = ["./", "index.html", "styles.css", "app.js", "logo-192.png", "Poppins-SemiBold.ttf", "index.json"];
 
 self.addEventListener("install", function (e) {
