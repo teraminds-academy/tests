@@ -232,3 +232,12 @@ html, body { max-width: 100%; }
 .card, .report { min-width: 0; max-width: 100%; }
 table.struct th, table.struct td { white-space: normal; padding: .35rem .3rem; }
 table.struct th:first-child, table.struct td:first-child { min-width: 0; }
+
+/* for parents page (v11b) */
+.pg { padding-left: 1.2rem; margin: 0; } .pg li { margin: 0 0 .55rem; }
+.pg.steps li::marker, .pg.weeks li::marker { color: var(--teal); font-weight: 700; }
+.saygrid { display: grid; grid-template-columns: 1fr; gap: .8rem; } @media (min-width: 640px) { .saygrid { grid-template-columns: 1fr 1fr; } }
+.saygrid ul { padding-left: 1.1rem; margin: 0; } .saygrid li { margin: 0 0 .4rem; }
+.say { background: var(--green-soft); border-radius: 12px; padding: .8rem 1rem; } .say h3 { color: var(--green); }
+.dont { background: var(--red-soft); border-radius: 12px; padding: .8rem 1rem; } .dont h3 { color: var(--red); }
+.parentcard { border-left: 5px solid var(--amber); }

@@ -349,6 +349,51 @@
 
   /* ---------- hub ---------- */
   var SUBJ_ORDER = ["maths", "science", "sst", "english", "hindi", "marathi", "ai"];
+  /* ---------- for parents: how to read the readiness report ---------- */
+  var GUIDE_PDF = "readiness-report-guide.pdf";
+  function renderParents() {
+    stopTimer(); topbarTimer(); setTitle("For parents: how to read the readiness report"); document.body.classList.remove("print-view");
+    function li(a) { return "<li>" + a + "</li>"; }
+    app.innerHTML = '<article class="parents" id="parents">' +
+      '<section class="card hero"><div class="eyebrow">For parents</div><h1>How to read your child\'s readiness report</h1>' +
+      '<p class="tagline">One report shows where your child\'s time will help most. A calm 10-minute read together is enough.</p>' +
+      '<div class="row"><a class="btn" href="' + GUIDE_PDF + '" target="_blank" rel="noopener">Download the 1-page guide (PDF)</a><a class="btn secondary" href="#">See all tests</a></div></section>' +
+
+      '<section class="card"><h2>What the test is</h2><ul class="pg">' +
+      li("A free board-pattern practice test per subject (Class 12: 36–40 questions, about 35–50 minutes). No sign-up.") +
+      li("Questions are original practice items modelled on the most-repeated question types in past CBSE papers. They are <b>not predictions</b> of this year's paper.") +
+      li("Private by design: answers and reports stay on your child's own phone. To see the report on your phone, ask your child to use <b>Download report (PDF)</b> and share it.") +
+      "</ul></section>" +
+
+      '<section class="card"><h2>Read the report in this order</h2><ol class="pg steps">' +
+      li("<b>Score and band.</b> Building (below 50%) · Getting there (50–79%) · Board-ready (80%+ and at least 60% on board-pattern and HOTS questions). It describes this one practice attempt, not board marks.") +
+      li("<b>Your top 3 focus areas.</b> The weakest units first. This is where the next week's time goes. Each has a link to the free Blueprint Short and PDF.") +
+      li("<b>By unit.</b> Each unit shows its board marks (CBSE curriculum 2026-27). A weak unit that carries many marks matters more than a weak small unit: <i>low % × high marks = start here</i>.") +
+      li("<b>By difficulty level.</b> L1 Recall · L2 Application · L3 Board-pattern (multi-step) · L4 HOTS. Low L1 means concepts need a re-read from NCERT. L1–L2 fine but L3–L4 low means more full, timed board-style practice.") +
+      li("<b>Where you missed.</b> Every wrong answer with the correct answer and the reason. The best check: ask your child to explain two of these back to you.") +
+      li("<b>Your progress on this test.</b> Retake after a week of work on the focus units. Green means a unit went up.") +
+      "</ol></section>" +
+
+      '<section class="card"><h2>A 4-week plan from one report</h2><ol class="pg weeks">' +
+      li("<b>Week 1 · Test and read.</b> Take the test once. Read the report together for 10 minutes. Write the top 3 focus units on paper. Revise focus unit #1 from NCERT and redo its missed questions.") +
+      li("<b>Week 2 · Fix units #2 and #3.</b> NCERT first, then the most-repeated question types for those units (Blueprint PDF). Two timed practice blocks of 30–40 minutes.") +
+      li("<b>Week 3 · Retake and compare.</b> Retake the test. Check the progress table. The new top 3 becomes this week's list. Add one CBSE sample paper (cbseacademic.nic.in) in a 3-hour sitting.") +
+      li("<b>Week 4 · Board-pattern practice.</b> Work on L3–L4 questions and full answers. Keep a one-page mistakes list. Repeat the cycle for the next subject by exam date.") +
+      "</ol></section>" +
+
+      '<section class="card"><h2>What to say, and what not to say</h2><div class="saygrid"><div class="say"><h3>Helps</h3><ul>' +
+      li("“Which unit do you want to fix first?”") + li("“Explain this one missed question to me.”") +
+      li("“What do you need: time, a quiet place, or a teacher's help?”") + li("“This unit went up since last week. Good work.”") +
+      '</ul></div><div class="dont"><h3>Avoid</h3><ul>' +
+      li("Comparing with siblings, cousins or classmates.") + li("Turning the % into a board-marks or rank prediction.") +
+      li("“Only 53%? You'll fail.” A low first score is normal; it is a starting map.") + li("Checking the report every day, or taking the phone away over a score.") +
+      "</ul></div></div></section>" +
+
+      '<section class="card"><p class="small muted">Independent revision aid, not an official CBSE resource. Exam dates and unit marks are from the CBSE date sheet (06.11.2026) and the CBSE curriculum 2026-27. Practice for readiness only; no promise of marks.</p>' +
+      '<div class="row"><a class="btn" href="' + GUIDE_PDF + '" target="_blank" rel="noopener">Download the guide (PDF)</a><a class="btn secondary" href="#">All tests</a></div></section></article>';
+    scrollTo(0, 0);
+  }
+
   function renderHome() {
     stopTimer(); topbarTimer(); setTitle(); document.body.classList.remove("print-view");
     loadIndex().then(function (ix) {
@@ -375,13 +420,17 @@
         '<p class="tagline">Practice questions modelled on past CBSE papers; not predictions of this year\'s paper.</p>' +
         '<nav class="row jump"><a class="btn secondary" href="#mocks">Mock Papers</a><a class="btn secondary" href="#readiness-list">Readiness tests</a>' +
         (ready12.length ? '<a class="btn secondary" href="#class12-list">Class 12</a>' : "") +
+        '<a class="btn secondary" href="#parents">For parents</a>' +
         (nAtt ? '<a class="btn" href="#profile">My subject profile</a>' : "") + "</nav></section>" +
         (mocks.length ? '<section id="mock-papers" class="hubsec"><h2 class="sechead">Board-pattern Mock Papers</h2>' +
           '<p class="muted small">Full-length papers in the CBSE 2026-27 sample-paper structure: sections, question types, marks and internal choice. Objective parts are marked for you; for written answers you compare with the model answer and award your own marks point by point.</p>' + mh + "</section>" : "") +
         '<section id="readiness" class="hubsec"><h2 class="sechead">Readiness tests</h2><p class="muted small">Short tests of the most-repeated question types, one per video.</p>' +
         '<ul class="plain">' + ready.map(function (t) { return card(t, false); }).join("") + "</ul></section>" +
         (ready12.length ? '<section id="class12" class="hubsec"><h2 class="sechead">Class 12</h2><p class="muted small">Board-pattern readiness tests for Class 12 CBSE (2026-27 syllabus): original questions on every unit, weighted by its marks, with a unit-wise report.</p>' +
-          '<ul class="plain">' + ready12.map(function (t) { return card(t, false); }).join("") + "</ul></section>" : "");
+          '<ul class="plain">' + ready12.map(function (t) { return card(t, false); }).join("") + "</ul></section>" : "") +
+        '<section id="for-parents" class="hubsec"><h2 class="sechead">For parents</h2><div class="card parentcard"><div class="eyebrow">Readiness report guide</div>' +
+        '<h2>How to read your child\'s report, and a 4-week plan from it</h2><p class="muted small">Score bands, unit-wise marks, top-3 focus areas, what to say (and not say) at home. 1 page, free.</p>' +
+        '<div class="row"><a class="btn" href="#parents">Read the guide</a><a class="btn secondary" href="' + GUIDE_PDF + '" target="_blank" rel="noopener">Download PDF</a></div></div></section>';
       $all(".jump a").forEach(function (a) {
         var tgt = { "#mocks": "mock-papers", "#readiness-list": "readiness", "#class12-list": "class12" }[a.getAttribute("href")];
         if (tgt) a.addEventListener("click", function (e) { e.preventDefault(); var el = document.getElementById(tgt); if (el) el.scrollIntoView({ behavior: "smooth" }); });
@@ -1208,6 +1257,7 @@
     if (!parts.length) return renderHome();
     var id = parts[0].toLowerCase();
     if (id === "profile") return renderProfile();
+    if (id === "parents") return renderParents();
     if (id === "mocks" || id === "readiness-list") return renderHome();
     app.innerHTML = '<p class="loading">Loading…</p>';
     loadIndex().catch(function () { return null; }).then(function () { return loadTest(id); }).then(function (test) {
