@@ -1,0 +1,644 @@
+{
+ "schema": 1,
+ "id": "c12-physics",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 12 Physics (042) · all units, weighted by the 2026-27 theory marks",
+ "short_title": "Class 12 Physics (042) · Board-pattern readiness test",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written for Teraminds Academy from the NCERT textbooks prescribed for 2026-27, modelled on the most-repeated question types in CBSE board papers 2023–26 and the Sample Question Paper 2026-27 (see our Board Blueprint). A board-pattern readiness test for practice only: not a prediction of any exam and no promise of marks.",
+ "instructions": "38 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (no units).",
+ "suggested_minutes": 45,
+ "video_url": "https://youtube.com/shorts/NUpbyMYmHzU",
+ "worksheet_url": "https://drive.google.com/file/d/1oimSmOyWVJsEQaLUgfTETUkvprfCjgFK/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Electric dipole: field, torque",
+  "T2": "Capacitors: combination, dielectric, energy",
+  "T3": "Equipotentials and work",
+  "T4": "Cells, drift velocity, Wheatstone bridge",
+  "T5": "Biot-Savart / loop field",
+  "T6": "Galvanometer conversion",
+  "T7": "Force on wires and moving charges",
+  "T8": "Magnetic materials",
+  "T9": "Faraday/Lenz, motional emf",
+  "T10": "Series LCR, resonance, transformer",
+  "T11": "EM spectrum and displacement current",
+  "T12": "Lens formula, lens maker, power",
+  "T13": "TIR / prism",
+  "T14": "Optical instruments",
+  "T15": "YDSE and wave optics",
+  "T16": "Photoelectric effect",
+  "T17": "de Broglie wavelength",
+  "T18": "Bohr model",
+  "T19": "Binding energy and nuclear energy",
+  "T20": "p-n junction and rectifier",
+  "T21": "Energy bands, intrinsic / extrinsic"
+ },
+ "subtopics": {
+  "U1": {
+   "name": "Units I–II · Electrostatics + Current Electricity (16 marks)",
+   "tip": "Dipole: torque τ = pE sin θ. Capacitors: series 1/C = Σ1/Cᵢ, parallel C = ΣCᵢ, dielectric multiplies C by K, U = ½CV² (formula only). Field ⟂ equipotentials. Cells: V = E − Ir. Drift velocity v = eEτ/m. Balanced bridge P/Q = R/S.",
+   "ncert": "NCERT Physics Part I/II (Class 12, 2026-27): Ch 1 Electric Charges and Fields, Ch 2 Electrostatic Potential and Capacitance, Ch 3 Current Electricity"
+  },
+  "U2": {
+   "name": "Units III–IV · Magnetism + EMI & AC (17 marks)",
+   "tip": "Loop axis B = μ₀IR²/2(R² + x²)^{3/2}. Galvanometer → voltmeter: series R = V/I_g − G; → ammeter: shunt. Like currents attract. Charge in B: r = mv/qB, T = 2πm/qB (speed-independent). Motional emf = Bvl. Series LCR: Z = √(R² + (X_L − X_C)²), resonance X_L = X_C. Laminated cores cut eddy currents.",
+   "ncert": "NCERT Physics Part I/II (Class 12, 2026-27): Ch 4 Moving Charges and Magnetism, Ch 5 Magnetism and Matter, Ch 6 Electromagnetic Induction, Ch 7 Alternating Current"
+  },
+  "U3": {
+   "name": "Units V–VI · EM Waves + Optics (18 marks)",
+   "tip": "Know the EM spectrum uses (UV sterilises, microwaves for radar). Lens 1/v − 1/u = 1/f with sign convention; lens maker 1/f = (μ − 1)(1/R₁ − 1/R₂); P = 1/f (m). TIR: denser → rarer and i > critical angle. YDSE β = λD/d; in a medium λ → λ/μ. Telescope (normal) m = f₀/f_e. Frequency never changes on refraction.",
+   "ncert": "NCERT Physics Part I/II (Class 12, 2026-27): Ch 8 Electromagnetic Waves, Ch 9 Ray Optics and Optical Instruments, Ch 10 Wave Optics"
+  },
+  "U4": {
+   "name": "Units VII–VIII · Dual Nature + Atoms & Nuclei (12 marks)",
+   "tip": "hν = φ₀ + eV₀: intensity changes photocurrent, not stopping potential. λ = h/√(2meV) ≈ 1.227/√V nm for electrons. Bohr: rₙ ∝ n², Eₙ = −13.6/n² eV. Fission/fusion release energy because products have higher binding energy per nucleon.",
+   "ncert": "NCERT Physics Part I/II (Class 12, 2026-27): Ch 11 Dual Nature of Radiation and Matter, Ch 12 Atoms, Ch 13 Nuclei"
+  },
+  "U5": {
+   "name": "Unit IX · Semiconductor Electronics (7 marks)",
+   "tip": "n-type = pentavalent dopant (P, As); p-type = trivalent (B, Al). Forward bias narrows the depletion layer. At equilibrium, diffusion and drift currents cancel. Full-wave rectifier output frequency = 2 × input. Transistors and logic gates are not in the 2026-27 list.",
+   "ncert": "NCERT Physics Part I/II (Class 12, 2026-27): Ch 14 Semiconductor Electronics"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "U1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The SI unit of electric dipole moment is:",
+   "answer": "C",
+   "explanation": "p = q × 2a, so its unit is coulomb × metre.",
+   "remediation": "Units I–II · Electrostatics + Current Electricity (16 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 1 Electric Charges and Fields, Ch 2 Electrostatic Potential and Capacitance, Ch 3 Current Electricity; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "V m",
+    "C/m",
+    "C m",
+    "N/C"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "U1",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "An electric dipole of moment 4 × 10⁻⁹ C m is placed at 30° to a uniform field of 5 × 10⁴ N/C. Find the torque on it, in units of 10⁻⁵ N m.",
+   "answer": "10",
+   "explanation": "τ = pE sin θ = 4 × 10⁻⁹ × 5 × 10⁴ × 0.5 = 1 × 10⁻⁴ N m = 10 × 10⁻⁵ N m.",
+   "remediation": "Units I–II · Electrostatics + Current Electricity (16 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 1 Electric Charges and Fields, Ch 2 Electrostatic Potential and Capacitance, Ch 3 Current Electricity; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q03",
+   "subtopic": "U1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Capacitors of 6 µF and 3 µF are joined in series. What is the equivalent capacitance, in µF?",
+   "answer": "2",
+   "explanation": "1/C = 1/6 + 1/3 = 1/2, so C = 2 µF.",
+   "remediation": "Units I–II · Electrostatics + Current Electricity (16 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 1 Electric Charges and Fields, Ch 2 Electrostatic Potential and Capacitance, Ch 3 Current Electricity; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q04",
+   "subtopic": "U1",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "A 10 µF capacitor is charged to 20 V. How much energy does it store, in mJ?",
+   "answer": "2",
+   "explanation": "U = ½CV² = ½ × 10 × 10⁻⁶ × 400 = 2 × 10⁻³ J = 2 mJ.",
+   "remediation": "Units I–II · Electrostatics + Current Electricity (16 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 1 Electric Charges and Fields, Ch 2 Electrostatic Potential and Capacitance, Ch 3 Current Electricity; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q05",
+   "subtopic": "U1",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "A charge is moved from one point to another on an equipotential surface. The work done by the electric field is:",
+   "answer": "A",
+   "explanation": "W = q(V_B − V_A) and V_B = V_A on an equipotential surface.",
+   "remediation": "Units I–II · Electrostatics + Current Electricity (16 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 1 Electric Charges and Fields, Ch 2 Electrostatic Potential and Capacitance, Ch 3 Current Electricity; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Zero",
+    "Negative",
+    "Equal to the charge × field",
+    "Positive"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "U1",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "If the field had a component along the surface, moving a charge along it would need work; since no work is done, E must be normal to the surface.",
+   "remediation": "Units I–II · Electrostatics + Current Electricity (16 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 1 Electric Charges and Fields, Ch 2 Electrostatic Potential and Capacitance, Ch 3 Current Electricity; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "Electric field lines are always normal to an equipotential surface.",
+   "reason": "No work is done in moving a test charge along an equipotential surface.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "U1",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A cell of emf 12 V and internal resistance 1 Ω is connected to a 5 Ω resistor. What is the terminal voltage, in volts?",
+   "answer": "10",
+   "explanation": "I = 12/(5 + 1) = 2 A; V = E − Ir = 12 − 2 = 10 V.",
+   "remediation": "Units I–II · Electrostatics + Current Electricity (16 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 1 Electric Charges and Fields, Ch 2 Electrostatic Potential and Capacitance, Ch 3 Current Electricity; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q08",
+   "subtopic": "U1",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "A metal wire is connected across a fixed potential difference. If its length is doubled (same material and area), the drift velocity of electrons:",
+   "answer": "B",
+   "explanation": "v_d = eEτ/m and E = V/l. Doubling l halves E, so v_d halves.",
+   "remediation": "Units I–II · Electrostatics + Current Electricity (16 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 1 Electric Charges and Fields, Ch 2 Electrostatic Potential and Capacitance, Ch 3 Current Electricity; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Stays the same",
+    "Becomes half",
+    "Becomes four times",
+    "Doubles"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "U1",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "In a balanced Wheatstone bridge, P = 10 Ω, Q = 20 Ω and R = 15 Ω. Find S, in ohms.",
+   "answer": "30",
+   "explanation": "Balance: P/Q = R/S, so S = RQ/P = 15 × 20/10 = 30 Ω.",
+   "remediation": "Units I–II · Electrostatics + Current Electricity (16 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 1 Electric Charges and Fields, Ch 2 Electrostatic Potential and Capacitance, Ch 3 Current Electricity; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q10",
+   "subtopic": "U2",
+   "level": "L1",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "The magnetic susceptibility of a diamagnetic substance is:",
+   "answer": "D",
+   "explanation": "Diamagnets are weakly repelled: χ is small and negative (e.g. bismuth, copper).",
+   "remediation": "Units III–IV · Magnetism + EMI & AC (17 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 4 Moving Charges and Magnetism, Ch 5 Magnetism and Matter, Ch 6 Electromagnetic Induction, Ch 7 Alternating Current; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Large and positive",
+    "Small and positive",
+    "Exactly zero",
+    "Small and negative"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "A circular loop of radius R carries current I. Find the ratio of the magnetic field at its centre to the field on its axis at a distance √3R from the centre.",
+   "answer": "8",
+   "explanation": "B_centre = μ₀I/2R. B_axis = μ₀IR²/2(R² + 3R²)^{3/2} = μ₀I/16R. Ratio = 8.",
+   "remediation": "Units III–IV · Magnetism + EMI & AC (17 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 4 Moving Charges and Magnetism, Ch 5 Magnetism and Matter, Ch 6 Electromagnetic Induction, Ch 7 Alternating Current; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q12",
+   "subtopic": "U2",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "A galvanometer of resistance 100 Ω gives full-scale deflection at 2 mA. What resistance (in Ω) must be joined in series to make it a voltmeter of range 0–10 V?",
+   "answer": "4900",
+   "explanation": "R = V/I_g − G = 10/0.002 − 100 = 5000 − 100 = 4900 Ω.",
+   "remediation": "Units III–IV · Magnetism + EMI & AC (17 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 4 Moving Charges and Magnetism, Ch 5 Magnetism and Matter, Ch 6 Electromagnetic Induction, Ch 7 Alternating Current; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q13",
+   "subtopic": "U2",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Two long parallel wires carry currents in the same direction. They:",
+   "answer": "B",
+   "explanation": "Parallel currents attract; antiparallel currents repel.",
+   "remediation": "Units III–IV · Magnetism + EMI & AC (17 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 4 Moving Charges and Magnetism, Ch 5 Magnetism and Matter, Ch 6 Electromagnetic Induction, Ch 7 Alternating Current; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Repel each other",
+    "Attract each other",
+    "Exert no force on each other",
+    "Rotate to become perpendicular"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "U2",
+   "level": "L4",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "A proton moves in a circle in a uniform magnetic field. If its speed is doubled, its time period of revolution:",
+   "answer": "D",
+   "explanation": "r = mv/qB doubles, but T = 2πr/v = 2πm/qB does not depend on speed.",
+   "remediation": "Units III–IV · Magnetism + EMI & AC (17 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 4 Moving Charges and Magnetism, Ch 5 Magnetism and Matter, Ch 6 Electromagnetic Induction, Ch 7 Alternating Current; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Becomes four times",
+    "Doubles",
+    "Becomes half",
+    "Stays the same"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "U2",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "numeric",
+   "question": "A rod of length 0.5 m moves at 10 m/s perpendicular to a uniform magnetic field of 0.4 T. Find the emf induced across its ends, in volts.",
+   "answer": "2",
+   "explanation": "ε = Bvl = 0.4 × 10 × 0.5 = 2 V.",
+   "remediation": "Units III–IV · Magnetism + EMI & AC (17 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 4 Moving Charges and Magnetism, Ch 5 Magnetism and Matter, Ch 6 Electromagnetic Induction, Ch 7 Alternating Current; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q16",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "numeric",
+   "question": "In a series LCR circuit, R = 30 Ω, X_L = 80 Ω and X_C = 40 Ω. Find the impedance, in ohms.",
+   "answer": "50",
+   "explanation": "Z = √(R² + (X_L − X_C)²) = √(900 + 1600) = 50 Ω.",
+   "remediation": "Units III–IV · Magnetism + EMI & AC (17 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 4 Moving Charges and Magnetism, Ch 5 Magnetism and Matter, Ch 6 Electromagnetic Induction, Ch 7 Alternating Current; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q17",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; minimum Z (= R) at resonance is why the current amplitude peaks.",
+   "remediation": "Units III–IV · Magnetism + EMI & AC (17 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 4 Moving Charges and Magnetism, Ch 5 Magnetism and Matter, Ch 6 Electromagnetic Induction, Ch 7 Alternating Current; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "At resonance, the current in a series LCR circuit is maximum.",
+   "reason": "At resonance, X_L = X_C, so the impedance is minimum and equal to R.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "U2",
+   "level": "L2",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "Why is the iron core of a transformer laminated?",
+   "answer": "C",
+   "explanation": "Thin insulated laminations break up eddy-current paths and reduce heating loss.",
+   "remediation": "Units III–IV · Magnetism + EMI & AC (17 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 4 Moving Charges and Magnetism, Ch 5 Magnetism and Matter, Ch 6 Electromagnetic Induction, Ch 7 Alternating Current; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "To increase the flux leakage",
+    "To change the frequency of the output",
+    "To reduce energy loss due to eddy currents",
+    "To increase the resistance of the windings"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "U3",
+   "level": "L1",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Which electromagnetic waves are used in water purifiers to kill germs?",
+   "answer": "A",
+   "explanation": "UV radiation is used to kill germs in water purifiers.",
+   "remediation": "Units V–VI · EM Waves + Optics (18 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 8 Electromagnetic Waves, Ch 9 Ray Optics and Optical Instruments, Ch 10 Wave Optics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Ultraviolet rays",
+    "Microwaves",
+    "Radio waves",
+    "Infrared waves"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Maxwell's displacement current arises between the plates of a charging capacitor because:",
+   "answer": "A",
+   "explanation": "i_d = ε₀ dΦ_E/dt: a changing electric field produces a magnetic field just like a conduction current.",
+   "remediation": "Units V–VI · EM Waves + Optics (18 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 8 Electromagnetic Waves, Ch 9 Ray Optics and Optical Instruments, Ch 10 Wave Optics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The electric flux between the plates changes with time",
+    "Charges flow across the gap",
+    "The dielectric conducts",
+    "The plates become magnetised"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "numeric",
+   "question": "An object is placed 30 cm in front of a convex lens of focal length 20 cm. How far from the lens (in cm) is the image formed?",
+   "answer": "60",
+   "explanation": "1/v − 1/u = 1/f with u = −30, f = +20: 1/v = 1/20 − 1/30 = 1/60, so v = +60 cm (real, on the other side).",
+   "remediation": "Units V–VI · EM Waves + Optics (18 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 8 Electromagnetic Waves, Ch 9 Ray Optics and Optical Instruments, Ch 10 Wave Optics; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q22",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "numeric",
+   "question": "A convex lens of focal length 25 cm is placed in contact with a concave lens of focal length 50 cm. What is the power of the combination, in dioptre?",
+   "answer": "2",
+   "explanation": "P = 1/0.25 − 1/0.5 = 4 − 2 = +2 D.",
+   "remediation": "Units V–VI · EM Waves + Optics (18 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 8 Electromagnetic Waves, Ch 9 Ray Optics and Optical Instruments, Ch 10 Wave Optics; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q23",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T12",
+   "type": "numeric",
+   "question": "A biconvex lens has both radii of curvature 20 cm and refractive index 1.5. Find its focal length, in cm.",
+   "answer": "20",
+   "explanation": "1/f = (1.5 − 1)(1/20 + 1/20) = 0.5 × 1/10 = 1/20, so f = 20 cm.",
+   "remediation": "Units V–VI · EM Waves + Optics (18 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 8 Electromagnetic Waves, Ch 9 Ray Optics and Optical Instruments, Ch 10 Wave Optics; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q24",
+   "subtopic": "U3",
+   "level": "L1",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "Total internal reflection can occur only when light travels:",
+   "answer": "B",
+   "explanation": "Both conditions are needed: denser → rarer, and i > i_c.",
+   "remediation": "Units V–VI · EM Waves + Optics (18 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 8 Electromagnetic Waves, Ch 9 Ray Optics and Optical Instruments, Ch 10 Wave Optics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "From a rarer to a denser medium at any angle",
+    "From a denser to a rarer medium at an angle of incidence greater than the critical angle",
+    "From a rarer to a denser medium at an angle greater than the critical angle",
+    "From a denser to a rarer medium at normal incidence"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T14",
+   "type": "numeric",
+   "question": "An astronomical telescope in normal adjustment has an objective of focal length 100 cm and an eyepiece of focal length 5 cm. Find its magnifying power (magnitude).",
+   "answer": "20",
+   "explanation": "m = f₀/f_e = 100/5 = 20.",
+   "remediation": "Units V–VI · EM Waves + Optics (18 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 8 Electromagnetic Waves, Ch 9 Ray Optics and Optical Instruments, Ch 10 Wave Optics; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q26",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T15",
+   "type": "numeric",
+   "question": "In Young's double-slit experiment, λ = 600 nm, the slit separation is 0.3 mm and the screen is 1 m away. Find the fringe width, in mm.",
+   "answer": "2",
+   "explanation": "β = λD/d = 600 × 10⁻⁹ × 1 / 0.3 × 10⁻³ = 2 × 10⁻³ m = 2 mm.",
+   "remediation": "Units V–VI · EM Waves + Optics (18 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 8 Electromagnetic Waves, Ch 9 Ray Optics and Optical Instruments, Ch 10 Wave Optics; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q27",
+   "subtopic": "U3",
+   "level": "L4",
+   "pattern": "T15",
+   "type": "mcq",
+   "question": "A Young's double-slit set-up is taken from air and immersed completely in water (refractive index 4/3). The fringe width becomes:",
+   "answer": "D",
+   "explanation": "In water the wavelength becomes λ/μ, so β = λD/(μd) is multiplied by 3/4.",
+   "remediation": "Units V–VI · EM Waves + Optics (18 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 8 Electromagnetic Waves, Ch 9 Ray Optics and Optical Instruments, Ch 10 Wave Optics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Unchanged",
+    "4/3 of its value in air",
+    "Zero",
+    "3/4 of its value in air"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "U3",
+   "level": "L4",
+   "pattern": "T15",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; because the frequency is fixed by the source, only v and λ change on refraction.",
+   "remediation": "Units V–VI · EM Waves + Optics (18 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 8 Electromagnetic Waves, Ch 9 Ray Optics and Optical Instruments, Ch 10 Wave Optics; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "When light passes from air into glass, its frequency does not change.",
+   "reason": "Frequency is a characteristic of the source; the speed and wavelength change in the new medium.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "U4",
+   "level": "L2",
+   "pattern": "T16",
+   "type": "numeric",
+   "question": "Photons of energy 5 eV fall on a metal of work function 2 eV. What is the stopping potential, in volts?",
+   "answer": "3",
+   "explanation": "eV₀ = hν − φ₀ = 5 − 2 = 3 eV, so V₀ = 3 V.",
+   "remediation": "Units VII–VIII · Dual Nature + Atoms & Nuclei (12 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 11 Dual Nature of Radiation and Matter, Ch 12 Atoms, Ch 13 Nuclei; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q30",
+   "subtopic": "U4",
+   "level": "L3",
+   "pattern": "T16",
+   "type": "mcq",
+   "question": "In a photoelectric experiment, the intensity of incident light is doubled at the same frequency. Then:",
+   "answer": "C",
+   "explanation": "Intensity sets the number of photoelectrons (current); maximum KE and V₀ depend only on frequency.",
+   "remediation": "Units VII–VIII · Dual Nature + Atoms & Nuclei (12 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 11 Dual Nature of Radiation and Matter, Ch 12 Atoms, Ch 13 Nuclei; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The photocurrent becomes zero",
+    "The stopping potential doubles",
+    "The photocurrent increases but the stopping potential is unchanged",
+    "Both photocurrent and stopping potential are unchanged"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "U4",
+   "level": "L3",
+   "pattern": "T17",
+   "type": "numeric",
+   "question": "An electron is accelerated from rest through 150 V. Find its de Broglie wavelength in ångström (Å), to the nearest whole number.",
+   "answer": "1",
+   "explanation": "λ = h/√(2meV) ≈ 1.227/√150 nm ≈ 0.100 nm = 1 Å.",
+   "remediation": "Units VII–VIII · Dual Nature + Atoms & Nuclei (12 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 11 Dual Nature of Radiation and Matter, Ch 12 Atoms, Ch 13 Nuclei; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q32",
+   "subtopic": "U4",
+   "level": "L1",
+   "pattern": "T18",
+   "type": "mcq",
+   "question": "The total energy of the electron in the ground state of the hydrogen atom is:",
+   "answer": "A",
+   "explanation": "Eₙ = −13.6/n² eV; n = 1 gives −13.6 eV (bound, so negative).",
+   "remediation": "Units VII–VIII · Dual Nature + Atoms & Nuclei (12 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 11 Dual Nature of Radiation and Matter, Ch 12 Atoms, Ch 13 Nuclei; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "−13.6 eV",
+    "+13.6 eV",
+    "0 eV",
+    "−3.4 eV"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "U4",
+   "level": "L2",
+   "pattern": "T18",
+   "type": "numeric",
+   "question": "In Bohr's model of hydrogen, what is the ratio of the radius of the n = 3 orbit to that of the n = 1 orbit?",
+   "answer": "9",
+   "explanation": "rₙ ∝ n², so r₃/r₁ = 9.",
+   "remediation": "Units VII–VIII · Dual Nature + Atoms & Nuclei (12 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 11 Dual Nature of Radiation and Matter, Ch 12 Atoms, Ch 13 Nuclei; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q34",
+   "subtopic": "U4",
+   "level": "L4",
+   "pattern": "T19",
+   "type": "mcq",
+   "question": "Why does the fission of a heavy nucleus such as uranium-235 release energy?",
+   "answer": "C",
+   "explanation": "On the BE/A curve, middle-mass nuclei are more tightly bound than very heavy ones, so splitting releases the difference.",
+   "remediation": "Units VII–VIII · Dual Nature + Atoms & Nuclei (12 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 11 Dual Nature of Radiation and Matter, Ch 12 Atoms, Ch 13 Nuclei; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Electrons are converted into energy",
+    "The total number of nucleons increases",
+    "The fragments have a higher binding energy per nucleon than the uranium nucleus",
+    "The fragments have a lower binding energy per nucleon"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "U5",
+   "level": "L1",
+   "pattern": "T21",
+   "type": "mcq",
+   "question": "An n-type silicon semiconductor is made by doping silicon with:",
+   "answer": "D",
+   "explanation": "The fifth valence electron of the pentavalent donor becomes a free electron.",
+   "remediation": "Unit IX · Semiconductor Electronics (7 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 14 Semiconductor Electronics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "A trivalent element such as boron",
+    "Another tetravalent element",
+    "A noble gas",
+    "A pentavalent element such as phosphorus"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "U5",
+   "level": "L2",
+   "pattern": "T20",
+   "type": "mcq",
+   "question": "When a p-n junction is forward biased, its depletion layer:",
+   "answer": "B",
+   "explanation": "Forward bias opposes the barrier potential, so the depletion region narrows.",
+   "remediation": "Unit IX · Semiconductor Electronics (7 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 14 Semiconductor Electronics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Disappears permanently even after the bias is removed",
+    "Becomes narrower",
+    "Stays the same",
+    "Becomes wider"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "U5",
+   "level": "L3",
+   "pattern": "T20",
+   "type": "numeric",
+   "question": "The input to a full-wave rectifier is a 50 Hz a.c. supply. What is the frequency of the output ripple, in Hz?",
+   "answer": "100",
+   "explanation": "Both half-cycles are rectified, so the output frequency is 2 × 50 = 100 Hz.",
+   "remediation": "Unit IX · Semiconductor Electronics (7 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 14 Semiconductor Electronics; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q38",
+   "subtopic": "U5",
+   "level": "L4",
+   "pattern": "T20",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "C",
+   "explanation": "A is true but R is false: carriers keep crossing; the diffusion current is equal and opposite to the drift current, so the net current is zero.",
+   "remediation": "Unit IX · Semiconductor Electronics (7 marks): NCERT Physics Part I/II (Class 12, 2026-27): Ch 14 Semiconductor Electronics; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "In an unbiased p-n junction at equilibrium, there is no net current across the junction.",
+   "reason": "At equilibrium, no charge carriers cross the junction in either direction.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  }
+ ],
+ "class": "12",
+ "subject": "Physics (042)",
+ "board": "CBSE",
+ "links": [
+  {
+   "label": "Watch the Blueprint Short",
+   "url": "https://youtube.com/shorts/NUpbyMYmHzU"
+  },
+  {
+   "label": "Blueprint PDF (free)",
+   "url": "https://drive.google.com/file/d/1oimSmOyWVJsEQaLUgfTETUkvprfCjgFK/view?usp=drive_link"
+  }
+ ],
+ "subtopic_label": "unit"
+}

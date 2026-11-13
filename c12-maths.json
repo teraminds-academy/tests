@@ -1,0 +1,674 @@
+{
+ "schema": 1,
+ "id": "c12-maths",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 12 Mathematics (041) · all six units, weighted by the 2026-27 theory marks",
+ "short_title": "Class 12 Maths (041) · Board-pattern readiness test",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written for Teraminds Academy from the NCERT textbooks prescribed for 2026-27, modelled on the most-repeated question types in CBSE board papers 2023–26 and the Sample Question Paper 2026-27 (see our Board Blueprint). A board-pattern readiness test for practice only: not a prediction of any exam and no promise of marks.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (no units).",
+ "suggested_minutes": 50,
+ "video_url": "https://youtube.com/shorts/cTdq5qBDYgg",
+ "worksheet_url": "https://drive.google.com/file/d/1K_L-8mWafv6LHCVi6F6Fx8JlLjzD-kCr/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Principal value of inverse trig",
+  "T2": "Equivalence relation / one-one, onto",
+  "T3": "Matrix types and properties",
+  "T4": "Determinant properties, adjoint",
+  "T5": "System of equations by A⁻¹",
+  "T6": "Continuity: find k",
+  "T7": "Derivatives: implicit, parametric, logarithmic, second order",
+  "T8": "Increasing / decreasing",
+  "T9": "Maxima-minima word problem",
+  "T10": "Rate of change",
+  "T11": "Definite integral properties",
+  "T12": "Area under curves",
+  "T13": "Differential equations",
+  "T14": "Dot / cross product, projection, area",
+  "T15": "Lines in 3-D: angle, DCs, shortest distance",
+  "T16": "LPP corner-point method",
+  "T17": "Conditional probability, independence",
+  "T18": "Bayes' theorem"
+ },
+ "subtopics": {
+  "U1": {
+   "name": "Unit I · Relations and Functions (8 marks)",
+   "tip": "Equivalence = reflexive + symmetric + transitive: check each with a pair. One-one: f(a) = f(b) ⇒ a = b; onto: every element of the codomain is hit. Principal ranges: sin⁻¹ [−π/2, π/2], cos⁻¹ [0, π], tan⁻¹ (−π/2, π/2).",
+   "ncert": "NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 1 Relations and Functions, Ch 2 Inverse Trigonometric Functions"
+  },
+  "U2": {
+   "name": "Unit II · Algebra (10 marks)",
+   "tip": "Skew-symmetric: Aᵀ = −A, so the diagonal is 0. For n × n: |kA| = kⁿ|A|, |adj A| = |A|ⁿ⁻¹. Solve AX = B by X = A⁻¹B (|A| ≠ 0). Idempotent A² = A simplifies powers.",
+   "ncert": "NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 3 Matrices, Ch 4 Determinants"
+  },
+  "U3": {
+   "name": "Unit III · Calculus (35 marks)",
+   "tip": "Continuity: LHL = RHL = f(a). Parametric dy/dx = (dy/dt)/(dx/dt); log-differentiate xˣ. Increasing where f′ > 0. Maxima: f′ = 0 and f″ < 0. King's rule ∫₀ᵃ f(x) dx = ∫₀ᵃ f(a − x) dx; odd functions vanish on [−a, a]. Area = ∫ y dx. Linear DE: IF = e^∫P dx.",
+   "ncert": "NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations"
+  },
+  "U4": {
+   "name": "Unit IV · Vectors and 3-D Geometry (14 marks)",
+   "tip": "Projection of a on b = a·b/|b|. |a × b| = area of the parallelogram. cos θ = |a₁a₂ + b₁b₂ + c₁c₂|/(…). l² + m² + n² = 1. Shortest distance = |(a₂ − a₁)·(b₁ × b₂)|/|b₁ × b₂|. Planes are not in the 2026-27 list.",
+   "ncert": "NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 10 Vector Algebra, Ch 11 Three Dimensional Geometry"
+  },
+  "U5": {
+   "name": "Unit V · Linear Programming (5 marks)",
+   "tip": "Draw the constraints, list every corner point of the feasible region, evaluate Z at each; for an unbounded region check the open half-plane.",
+   "ncert": "NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 12 Linear Programming"
+  },
+  "U6": {
+   "name": "Unit VI · Probability (8 marks)",
+   "tip": "P(A|B) = P(A∩B)/P(B). Independent: P(A∩B) = P(A)P(B), so P(A∪B) = P(A) + P(B) − P(A)P(B). Bayes: P(Eᵢ|A) = P(Eᵢ)P(A|Eᵢ)/Σ P(Eⱼ)P(A|Eⱼ). Random variables are not in the 2026-27 list.",
+   "ncert": "NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 13 Probability"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "U1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The principal value of sin⁻¹(−1/2) is:",
+   "answer": "B",
+   "explanation": "The principal range of sin⁻¹ is [−π/2, π/2], and sin(−π/6) = −1/2.",
+   "remediation": "Unit I · Relations and Functions (8 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 1 Relations and Functions, Ch 2 Inverse Trigonometric Functions; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "−5π/6",
+    "−π/6",
+    "5π/6",
+    "7π/6"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "U1",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The value of cos⁻¹(cos(7π/6)) is:",
+   "answer": "A",
+   "explanation": "7π/6 is outside [0, π]. cos(7π/6) = cos(5π/6) and 5π/6 lies in [0, π].",
+   "remediation": "Unit I · Relations and Functions (8 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 1 Relations and Functions, Ch 2 Inverse Trigonometric Functions; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "5π/6",
+    "−π/6",
+    "7π/6",
+    "π/6"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "U1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The function f: N → N, f(x) = 2x is:",
+   "answer": "D",
+   "explanation": "2a = 2b ⇒ a = b, so one-one; odd numbers have no pre-image, so not onto.",
+   "remediation": "Unit I · Relations and Functions (8 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 1 Relations and Functions, Ch 2 Inverse Trigonometric Functions; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Both one-one and onto",
+    "Neither one-one nor onto",
+    "Onto but not one-one",
+    "One-one but not onto"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "U1",
+   "level": "L4",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "How many equivalence relations on the set {1, 2, 3} contain both (1, 2) and (2, 1)?",
+   "answer": "2",
+   "explanation": "Such a relation must put 1 and 2 in one class. Either 3 is alone ({1, 2}, {3}) or with them (the universal relation): 2 relations.",
+   "remediation": "Unit I · Relations and Functions (8 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 1 Relations and Functions, Ch 2 Inverse Trigonometric Functions; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q05",
+   "subtopic": "U1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Two different inputs give the same output, which is exactly what makes f fail to be one-one.",
+   "remediation": "Unit I · Relations and Functions (8 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 1 Relations and Functions, Ch 2 Inverse Trigonometric Functions; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "The function f: R → R, f(x) = x² is not one-one.",
+   "reason": "f(−2) = f(2) = 4, although −2 ≠ 2.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "U2",
+   "level": "L1",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "In a skew-symmetric matrix, every diagonal element is:",
+   "answer": "C",
+   "explanation": "aᵢᵢ = −aᵢᵢ ⇒ aᵢᵢ = 0.",
+   "remediation": "Unit II · Algebra (10 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 3 Matrices, Ch 4 Determinants; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "−1",
+    "Any real number",
+    "0",
+    "1"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "U2",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A is a 3 × 3 matrix with |A| = 3. Find |adj A|.",
+   "answer": "9",
+   "explanation": "|adj A| = |A|ⁿ⁻¹ = 3² = 9.",
+   "remediation": "Unit II · Algebra (10 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 3 Matrices, Ch 4 Determinants; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q08",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "numeric",
+   "question": "A is a 3 × 3 matrix with |A| = 4. Find |2A|.",
+   "answer": "32",
+   "explanation": "|kA| = kⁿ|A| = 2³ × 4 = 32.",
+   "remediation": "Unit II · Algebra (10 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 3 Matrices, Ch 4 Determinants; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q09",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "Solve by the matrix method: x + y + z = 6, x − y + z = 2, 2x + y − z = 1. What is the value of z?",
+   "answer": "3",
+   "explanation": "X = A⁻¹B gives x = 1, y = 2, z = 3.",
+   "remediation": "Unit II · Algebra (10 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 3 Matrices, Ch 4 Determinants; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q10",
+   "subtopic": "U2",
+   "level": "L4",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "A is a square matrix with A² = A. Then (I + A)³ − 7A equals:",
+   "answer": "A",
+   "explanation": "(I + A)³ = I + 3A + 3A² + A³ = I + 3A + 3A + A = I + 7A, so the expression is I.",
+   "remediation": "Unit II · Algebra (10 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 3 Matrices, Ch 4 Determinants; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "I",
+    "A",
+    "3A",
+    "I − A"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "f(x) = (x² − 9)/(x − 3) for x ≠ 3 and f(3) = k. Find k so that f is continuous at x = 3.",
+   "answer": "6",
+   "explanation": "For x ≠ 3, f(x) = x + 3 → 6 as x → 3. So k = 6.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q12",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "The derivative of xˣ (x > 0) is:",
+   "answer": "C",
+   "explanation": "y = xˣ ⇒ log y = x log x ⇒ (1/y)y′ = log x + 1.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "xˣ(1 + x)",
+    "x·xˣ⁻¹",
+    "xˣ(1 + log x)",
+    "xˣ log x"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "numeric",
+   "question": "If x = 3t² and y = 6t, find dy/dx at t = 1/2.",
+   "answer": "2",
+   "explanation": "dy/dx = (dy/dt)/(dx/dt) = 6/(6t) = 1/t = 2 at t = 1/2.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q14",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "For the curve x² + y² = 25, dy/dx at the point (3, 4) is:",
+   "answer": "B",
+   "explanation": "2x + 2y y′ = 0 ⇒ y′ = −x/y = −3/4.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "4/3",
+    "−3/4",
+    "3/4",
+    "−4/3"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "If y = A sin x + B cos x, then:",
+   "answer": "D",
+   "explanation": "y″ = −A sin x − B cos x = −y.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "d²y/dx² = 0",
+    "d²y/dx² − y = 0",
+    "dy/dx + y = 0",
+    "d²y/dx² + y = 0"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "f(x) = 2x³ − 9x² + 12x + 5 is strictly decreasing on:",
+   "answer": "C",
+   "explanation": "f′(x) = 6(x − 1)(x − 2) < 0 only between 1 and 2.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "(−∞, 1)",
+    "(2, ∞)",
+    "(1, 2)",
+    "(−∞, 2)"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "numeric",
+   "question": "Two positive numbers add up to 16. What is the largest possible value of their product?",
+   "answer": "64",
+   "explanation": "P = x(16 − x); P′ = 16 − 2x = 0 ⇒ x = 8; P = 64 (P″ < 0).",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q18",
+   "subtopic": "U3",
+   "level": "L4",
+   "pattern": "T9",
+   "type": "numeric",
+   "question": "An open box is made from an 18 cm × 18 cm square sheet by cutting equal squares from the corners and folding up the sides. What is the maximum volume of the box, in cm³?",
+   "answer": "432",
+   "explanation": "V = s(18 − 2s)². V′ = 0 at s = 3 (s = 9 gives no box). V = 3 × 12 × 12 = 432 cm³.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q19",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "numeric",
+   "question": "The edge of a cube increases at 3 cm/s. How fast (in cm³/s) is its volume increasing when the edge is 10 cm?",
+   "answer": "900",
+   "explanation": "dV/dt = 3a² da/dt = 3 × 100 × 3 = 900 cm³/s.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q20",
+   "subtopic": "U3",
+   "level": "L1",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "∫ (1/x) dx equals:",
+   "answer": "D",
+   "explanation": "Standard integral.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "x⁻² + C",
+    "eˣ + C",
+    "−1/x² + C",
+    "log |x| + C"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "numeric",
+   "question": "Evaluate ∫ from 1 to 3 of (2x + 1) dx.",
+   "answer": "10",
+   "explanation": "[x² + x] from 1 to 3 = 12 − 2 = 10.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q22",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "∫ from 0 to π/2 of sin x/(sin x + cos x) dx equals:",
+   "answer": "B",
+   "explanation": "Using ∫₀ᵃ f(x) dx = ∫₀ᵃ f(a − x) dx: I = ∫ cos x/(cos x + sin x) dx, so 2I = π/2 and I = π/4.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "π/2",
+    "π/4",
+    "1",
+    "0"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "U3",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "numeric",
+   "question": "Evaluate ∫ from −3 to 3 of (x³ + x⁵ cos x + 2) dx.",
+   "answer": "12",
+   "explanation": "x³ and x⁵ cos x are odd, so they integrate to 0 on [−3, 3]. ∫ 2 dx = 12.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q24",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "numeric",
+   "question": "Find the area (in square units) of the region bounded by y = x², the x-axis and the lines x = 0 and x = 3.",
+   "answer": "9",
+   "explanation": "Area = ∫₀³ x² dx = 27/3 = 9.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q25",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "The area enclosed by the ellipse x²/9 + y²/4 = 1 is:",
+   "answer": "A",
+   "explanation": "Area = 4∫₀³ (2/3)√(9 − x²) dx = πab = 6π.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "6π",
+    "36π",
+    "12π",
+    "3π"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "U3",
+   "level": "L1",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "The order and degree of (d²y/dx²)³ + (dy/dx)² + y = 0 are:",
+   "answer": "C",
+   "explanation": "Highest derivative is d²y/dx² (order 2); its power is 3 (degree 3).",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Order 3, degree 3",
+    "Order 3, degree 2",
+    "Order 2, degree 3",
+    "Order 2, degree 2"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "The integrating factor of dy/dx + y/x = x² (x > 0) is:",
+   "answer": "B",
+   "explanation": "IF = e^∫(1/x) dx = e^(log x) = x.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "eˣ",
+    "x",
+    "1/x",
+    "log x"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "U3",
+   "level": "L4",
+   "pattern": "T13",
+   "type": "numeric",
+   "question": "Solve dy/dx + y/x = x² with y(1) = 1/4. Find y(2).",
+   "answer": "2",
+   "explanation": "IF = x: d(xy)/dx = x³ ⇒ xy = x⁴/4 + C. y(1) = 1/4 ⇒ C = 0, so y = x³/4 and y(2) = 2.",
+   "remediation": "Unit III · Calculus (35 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 5 Continuity and Differentiability, Ch 6 Application of Derivatives, Ch 7 Integrals, Ch 8 Application of Integrals, Ch 9 Differential Equations; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q29",
+   "subtopic": "U4",
+   "level": "L1",
+   "pattern": "T14",
+   "type": "numeric",
+   "question": "Find the magnitude of the vector 2î − ĵ + 2k̂.",
+   "answer": "3",
+   "explanation": "√(4 + 1 + 4) = 3.",
+   "remediation": "Unit IV · Vectors and 3-D Geometry (14 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 10 Vector Algebra, Ch 11 Three Dimensional Geometry; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q30",
+   "subtopic": "U4",
+   "level": "L2",
+   "pattern": "T14",
+   "type": "numeric",
+   "question": "Find the projection of a = î + 2ĵ + 3k̂ on b = 2î + 2ĵ + k̂.",
+   "answer": "3",
+   "explanation": "a·b = 2 + 4 + 3 = 9; |b| = 3; projection = 9/3 = 3.",
+   "remediation": "Unit IV · Vectors and 3-D Geometry (14 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 10 Vector Algebra, Ch 11 Three Dimensional Geometry; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q31",
+   "subtopic": "U4",
+   "level": "L3",
+   "pattern": "T14",
+   "type": "numeric",
+   "question": "Find the area of the parallelogram with adjacent sides a = î + 2ĵ + 2k̂ and b = 2î + ĵ − 2k̂.",
+   "answer": "9",
+   "explanation": "a × b = −6î + 6ĵ − 3k̂; |a × b| = √(36 + 36 + 9) = 9.",
+   "remediation": "Unit IV · Vectors and 3-D Geometry (14 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 10 Vector Algebra, Ch 11 Three Dimensional Geometry; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q32",
+   "subtopic": "U4",
+   "level": "L1",
+   "pattern": "T15",
+   "type": "mcq",
+   "question": "If l, m, n are the direction cosines of a line, then:",
+   "answer": "A",
+   "explanation": "Standard identity for direction cosines.",
+   "remediation": "Unit IV · Vectors and 3-D Geometry (14 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 10 Vector Algebra, Ch 11 Three Dimensional Geometry; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "l² + m² + n² = 1",
+    "l² + m² + n² = 0",
+    "l + m + n = 1",
+    "lmn = 1"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "U4",
+   "level": "L3",
+   "pattern": "T15",
+   "type": "mcq",
+   "question": "The angle between two lines with direction ratios 1, 1, 0 and 0, 1, 1 is:",
+   "answer": "D",
+   "explanation": "cos θ = |0 + 1 + 0|/(√2 × √2) = 1/2, so θ = π/3.",
+   "remediation": "Unit IV · Vectors and 3-D Geometry (14 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 10 Vector Algebra, Ch 11 Three Dimensional Geometry; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "π/6",
+    "π/4",
+    "π/2",
+    "π/3"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "U4",
+   "level": "L4",
+   "pattern": "T15",
+   "type": "numeric",
+   "question": "Find the shortest distance between the lines r = (î + 2ĵ + 3k̂) + λî and r = (4î + 5ĵ − 2k̂) + μĵ.",
+   "answer": "5",
+   "explanation": "b₁ × b₂ = k̂; (a₂ − a₁)·k̂ = (3, 3, −5)·(0, 0, 1) = −5; SD = |−5|/1 = 5.",
+   "remediation": "Unit IV · Vectors and 3-D Geometry (14 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 10 Vector Algebra, Ch 11 Three Dimensional Geometry; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q35",
+   "subtopic": "U5",
+   "level": "L1",
+   "pattern": "T16",
+   "type": "mcq",
+   "question": "In an LPP with a bounded feasible region, the maximum value of the objective function Z = ax + by occurs:",
+   "answer": "A",
+   "explanation": "Corner-point theorem.",
+   "remediation": "Unit V · Linear Programming (5 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 12 Linear Programming; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "At a corner point of the feasible region",
+    "Outside the feasible region",
+    "At the midpoint of a side only",
+    "At the origin always"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "U5",
+   "level": "L3",
+   "pattern": "T16",
+   "type": "numeric",
+   "question": "Maximise Z = 3x + 2y subject to x + y ≤ 4, x ≤ 3, x ≥ 0, y ≥ 0. What is the maximum value of Z?",
+   "answer": "11",
+   "explanation": "Corners (0, 0), (3, 0), (3, 1), (0, 4): Z = 0, 9, 11, 8. Maximum 11 at (3, 1).",
+   "remediation": "Unit V · Linear Programming (5 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 12 Linear Programming; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q37",
+   "subtopic": "U6",
+   "level": "L2",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "If P(A ∩ B) = 0.2 and P(B) = 0.5, then P(A|B) is:",
+   "answer": "B",
+   "explanation": "P(A|B) = 0.2/0.5 = 0.4.",
+   "remediation": "Unit VI · Probability (8 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 13 Probability; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "0.1",
+    "0.4",
+    "0.7",
+    "0.25"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "U6",
+   "level": "L3",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "A and B are independent with P(A) = 0.3 and P(B) = 0.4. Then P(A ∪ B) is:",
+   "answer": "D",
+   "explanation": "P(A ∪ B) = 0.3 + 0.4 − 0.12 = 0.58.",
+   "remediation": "Unit VI · Probability (8 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 13 Probability; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "0.12",
+    "0.7",
+    "0.82",
+    "0.58"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "U6",
+   "level": "L3",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "Two dice are thrown and the sum is 9. What is the probability that the first die shows 4?",
+   "answer": "C",
+   "explanation": "Sum 9: (3,6), (4,5), (5,4), (6,3). One has first die 4: 1/4.",
+   "remediation": "Unit VI · Probability (8 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 13 Probability; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "1/9",
+    "1/3",
+    "1/4",
+    "1/6"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "U6",
+   "level": "L4",
+   "pattern": "T18",
+   "type": "mcq",
+   "question": "Bag I has 3 red and 2 black balls; Bag II has 2 red and 3 black. A bag is chosen at random and a ball drawn from it is red. The probability that it came from Bag I is:",
+   "answer": "B",
+   "explanation": "P(I|R) = (½ × 3/5)/(½ × 3/5 + ½ × 2/5) = 3/5.",
+   "remediation": "Unit VI · Probability (8 marks): NCERT Mathematics Part I/II (Class 12, 2026-27): Ch 13 Probability; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "3/10",
+    "3/5",
+    "2/5",
+    "1/2"
+   ]
+  }
+ ],
+ "class": "12",
+ "subject": "Mathematics (041)",
+ "board": "CBSE",
+ "links": [
+  {
+   "label": "Watch the Blueprint Short",
+   "url": "https://youtube.com/shorts/cTdq5qBDYgg"
+  },
+  {
+   "label": "Blueprint PDF (free)",
+   "url": "https://drive.google.com/file/d/1K_L-8mWafv6LHCVi6F6Fx8JlLjzD-kCr/view?usp=drive_link"
+  }
+ ],
+ "subtopic_label": "unit"
+}

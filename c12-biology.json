@@ -1,0 +1,664 @@
+{
+ "schema": 1,
+ "id": "c12-biology",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 12 Biology (044) · all five units, weighted by the 2026-27 theory marks",
+ "short_title": "Class 12 Biology (044) · Board-pattern readiness test",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written for Teraminds Academy from the NCERT textbooks prescribed for 2026-27, modelled on the most-repeated question types in CBSE board papers 2023–26 and the Sample Question Paper 2026-27 (see our Board Blueprint). A board-pattern readiness test for practice only: not a prediction of any exam and no promise of marks.",
+ "instructions": "36 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (no units).",
+ "suggested_minutes": 40,
+ "video_url": null,
+ "worksheet_url": "https://drive.google.com/file/d/1wM3wzuoF9gef9HQaZKt4-WQOvvNnbFvo/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Embryo sac, double fertilisation",
+  "T2": "Outbreeding devices, apomixis",
+  "T3": "Gametogenesis",
+  "T4": "Menstrual cycle, pregnancy hormones",
+  "T5": "Contraception and ART",
+  "T6": "Genetic crosses and ratios",
+  "T7": "Dominance, ABO, sex-linked inheritance",
+  "T8": "Chromosomal disorders",
+  "T9": "DNA structure, Chargaff, replication",
+  "T10": "Gene expression: lac operon, genetic code",
+  "T11": "Evolution: Hardy-Weinberg, homology",
+  "T12": "Diseases and immunity",
+  "T13": "Microbes in human welfare",
+  "T14": "Tools: restriction enzymes, gel, PCR",
+  "T15": "Vectors and selection",
+  "T16": "Applications: RNAi, gene therapy",
+  "T17": "Population interactions and growth",
+  "T18": "Ecosystem: energy flow, pyramids",
+  "T19": "Biodiversity loss and conservation"
+ },
+ "subtopics": {
+  "U1": {
+   "name": "Unit VI · Reproduction (16 marks)",
+   "tip": "Embryo sac: 7-celled, 8-nucleate. Double fertilisation = syngamy + triple fusion; endosperm (PEN) is 3n. Dioecy stops both autogamy and geitonogamy. 1 primary spermatocyte → 4 sperms. LH surge → ovulation; hCG is made only in pregnancy. ZIFT: zygote/early embryo (up to 8 blastomeres) into the fallopian tube.",
+   "ncert": "NCERT Biology (Class 12, 2026-27): Ch 1 Sexual Reproduction in Flowering Plants, Ch 2 Human Reproduction, Ch 3 Reproductive Health"
+  },
+  "U2": {
+   "name": "Unit VII · Genetics and Evolution (20 marks)",
+   "tip": "Dihybrid F₂ 9:3:3:1; test cross Tt × tt = 1:1; incomplete dominance F₂ 1:2:1. I^A, I^B co-dominant, i recessive. X-linked: carrier mother → half the sons affected. Chargaff: A = T, G = C. Hardy-Weinberg p² + 2pq + q² = 1. Lactose is the inducer of the lac operon. AUG starts; UAA, UAG, UGA stop.",
+   "ncert": "NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution"
+  },
+  "U3": {
+   "name": "Unit VIII · Biology and Human Welfare (12 marks)",
+   "tip": "Plasmodium enters as sporozoites from the female Anopheles. Antibody = H₂L₂. Ready-made antibodies (colostrum, antitoxin) = passive immunity. HIV infects helper T-cells; macrophages act as an HIV factory. High BOD = more organic matter. Methanogens (Methanobacterium) make biogas.",
+   "ncert": "NCERT Biology (Class 12, 2026-27): Ch 7 Human Health and Disease, Ch 8 Microbes in Human Welfare"
+  },
+  "U4": {
+   "name": "Unit IX · Biotechnology (12 marks)",
+   "tip": "EcoRI cuts GAATTC (palindrome) leaving sticky ends. DNA moves to the anode in gel electrophoresis. PCR: denaturation → annealing → extension (Taq). pBR322: insert in tetR (BamHI) → recombinants lose tetracycline resistance. RNAi against Meloidogyne incognita. First gene therapy: ADA deficiency, 1990.",
+   "ncert": "NCERT Biology (Class 12, 2026-27): Ch 9 Biotechnology: Principles and Processes, Ch 10 Biotechnology and its Applications"
+  },
+  "U5": {
+   "name": "Unit X · Ecology and Environment (10 marks)",
+   "tip": "Commensalism (+, 0): orchid on mango. Logistic growth dN/dt = rN(K − N)/K. About 10% of energy passes to the next trophic level. Pyramid of biomass is inverted in the sea. Evil quartet: habitat loss, over-exploitation, alien species, co-extinctions.",
+   "ncert": "NCERT Biology (Class 12, 2026-27): Ch 11 Organisms and Populations, Ch 12 Ecosystem, Ch 13 Biodiversity and its Conservation"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "U1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "A typical mature angiosperm embryo sac is:",
+   "answer": "C",
+   "explanation": "3 antipodals + 2 synergids + 1 egg + 1 central cell (2 polar nuclei) = 7 cells, 8 nuclei.",
+   "remediation": "Unit VI · Reproduction (16 marks): NCERT Biology (Class 12, 2026-27): Ch 1 Sexual Reproduction in Flowering Plants, Ch 2 Human Reproduction, Ch 3 Reproductive Health; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "8-celled and 8-nucleate",
+    "8-celled and 7-nucleate",
+    "7-celled and 8-nucleate",
+    "7-celled and 7-nucleate"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "U1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Triple fusion in angiosperms is the fusion of:",
+   "answer": "B",
+   "explanation": "Triple fusion forms the triploid primary endosperm nucleus (PEN).",
+   "remediation": "Unit VI · Reproduction (16 marks): NCERT Biology (Class 12, 2026-27): Ch 1 Sexual Reproduction in Flowering Plants, Ch 2 Human Reproduction, Ch 3 Reproductive Health; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Two male gametes with the egg",
+    "A male gamete with the two polar nuclei",
+    "The egg with a synergid",
+    "A male gamete with the egg"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "U1",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "The leaf cells of a flowering plant have 24 chromosomes (2n = 24). How many chromosomes are present in a cell of its endosperm?",
+   "answer": "36",
+   "explanation": "Endosperm is triploid (3n): 3 × 12 = 36.",
+   "remediation": "Unit VI · Reproduction (16 marks): NCERT Biology (Class 12, 2026-27): Ch 1 Sexual Reproduction in Flowering Plants, Ch 2 Human Reproduction, Ch 3 Reproductive Health; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q04",
+   "subtopic": "U1",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Which outbreeding device prevents both autogamy and geitonogamy?",
+   "answer": "D",
+   "explanation": "With unisexual flowers on separate plants, neither self- nor same-plant pollination is possible.",
+   "remediation": "Unit VI · Reproduction (16 marks): NCERT Biology (Class 12, 2026-27): Ch 1 Sexual Reproduction in Flowering Plants, Ch 2 Human Reproduction, Ch 3 Reproductive Health; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Self-incompatibility only",
+    "Bisexual flowers that open",
+    "Cleistogamy",
+    "Dioecy (male and female flowers on different plants)"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "U1",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "How many sperms are produced from 25 primary spermatocytes?",
+   "answer": "100",
+   "explanation": "Each primary spermatocyte gives 4 spermatids/sperms after meiosis: 25 × 4 = 100.",
+   "remediation": "Unit VI · Reproduction (16 marks): NCERT Biology (Class 12, 2026-27): Ch 1 Sexual Reproduction in Flowering Plants, Ch 2 Human Reproduction, Ch 3 Reproductive Health; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q06",
+   "subtopic": "U1",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Ovulation in the human menstrual cycle is induced by:",
+   "answer": "A",
+   "explanation": "LH and FSH peak mid-cycle (about day 14); the LH surge induces rupture of the Graafian follicle.",
+   "remediation": "Unit VI · Reproduction (16 marks): NCERT Biology (Class 12, 2026-27): Ch 1 Sexual Reproduction in Flowering Plants, Ch 2 Human Reproduction, Ch 3 Reproductive Health; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "A surge of LH in the middle of the cycle",
+    "Oxytocin from the pituitary",
+    "Progesterone from the corpus luteum",
+    "A sharp fall in FSH on day 1"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "U1",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Which hormone is produced in the human body only during pregnancy?",
+   "answer": "B",
+   "explanation": "hCG, hPL and relaxin come from pregnancy; oestrogen, progesterone and LH are also made in non-pregnant women.",
+   "remediation": "Unit VI · Reproduction (16 marks): NCERT Biology (Class 12, 2026-27): Ch 1 Sexual Reproduction in Flowering Plants, Ch 2 Human Reproduction, Ch 3 Reproductive Health; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Progesterone",
+    "hCG (human chorionic gonadotropin)",
+    "LH",
+    "Oestrogen"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "U1",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "In ZIFT, what is transferred and where?",
+   "answer": "A",
+   "explanation": "ZIFT = zygote intra fallopian transfer; >8 blastomeres → IUT; GIFT transfers ova; ICSI injects a sperm into the ovum.",
+   "remediation": "Unit VI · Reproduction (16 marks): NCERT Biology (Class 12, 2026-27): Ch 1 Sexual Reproduction in Flowering Plants, Ch 2 Human Reproduction, Ch 3 Reproductive Health; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The zygote or early embryo (up to 8 blastomeres) into the fallopian tube",
+    "Embryos with more than 8 blastomeres into the uterus",
+    "Sperm directly into the ovum in the laboratory",
+    "Ova into the fallopian tube of another female"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "In a dihybrid cross between pure round-yellow and wrinkled-green pea plants, 1600 F₂ plants are raised. How many are expected to be round-yellow?",
+   "answer": "900",
+   "explanation": "F₂ ratio 9:3:3:1, so round-yellow = 9/16 × 1600 = 900.",
+   "remediation": "Unit VII · Genetics and Evolution (20 marks): NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q10",
+   "subtopic": "U2",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "A tall pea plant (Tt) is crossed with a dwarf plant (tt). The expected ratio of tall to dwarf offspring is:",
+   "answer": "D",
+   "explanation": "Test cross: Tt × tt → ½ Tt (tall) : ½ tt (dwarf).",
+   "remediation": "Unit VII · Genetics and Evolution (20 marks): NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "3:1",
+    "All tall",
+    "1:2:1",
+    "1:1"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "A man with blood group A (genotype I^A i) marries a woman with blood group B (I^B i). Which blood groups are possible in their children?",
+   "answer": "C",
+   "explanation": "Gametes I^A or i × I^B or i give I^A I^B (AB), I^A i (A), I^B i (B) and ii (O).",
+   "remediation": "Unit VII · Genetics and Evolution (20 marks): NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "A, B and AB, but not O",
+    "Only AB",
+    "A, B, AB and O",
+    "Only A and B"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "U2",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "In snapdragon, a red-flowered plant (RR) is crossed with a white-flowered plant (rr). The phenotypic ratio in F₂ is:",
+   "answer": "B",
+   "explanation": "Incomplete dominance: F₁ pink (Rr); F₂ phenotype ratio equals genotype ratio 1:2:1.",
+   "remediation": "Unit VII · Genetics and Evolution (20 marks): NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "All pink",
+    "1 red : 2 pink : 1 white",
+    "3 red : 1 white",
+    "9 : 3 : 3 : 1"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "A woman who is a carrier for haemophilia marries a normal man. What proportion of their sons is expected to be haemophilic?",
+   "answer": "D",
+   "explanation": "Sons get their X from the mother: half get Xʰ (affected), half get X (normal).",
+   "remediation": "Unit VII · Genetics and Evolution (20 marks): NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "0%",
+    "25%",
+    "100%",
+    "50%"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "U2",
+   "level": "L1",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Down's syndrome is caused by:",
+   "answer": "C",
+   "explanation": "Down's: trisomy 21; Turner's: XO; Klinefelter's: XXY; sickle-cell: β-globin point mutation.",
+   "remediation": "Unit VII · Genetics and Evolution (20 marks): NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "An extra X chromosome in males (XXY)",
+    "A point mutation in the β-globin gene",
+    "Trisomy of chromosome 21",
+    "Absence of one X chromosome (XO)"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T9",
+   "type": "numeric",
+   "question": "A double-stranded DNA sample has 20% adenine. What percentage of its bases is cytosine?",
+   "answer": "30",
+   "explanation": "A = T = 20%, so G + C = 60% and C = 30%.",
+   "remediation": "Unit VII · Genetics and Evolution (20 marks): NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q16",
+   "subtopic": "U2",
+   "level": "L2",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "In the lac operon of E. coli, the inducer is:",
+   "answer": "A",
+   "explanation": "Lactose (the substrate) binds the repressor and inactivates it, so the operon is switched on.",
+   "remediation": "Unit VII · Genetics and Evolution (20 marks): NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Lactose",
+    "β-galactosidase",
+    "Glucose",
+    "The repressor protein"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "Which of these is NOT a stop codon?",
+   "answer": "D",
+   "explanation": "AUG codes methionine and is the start codon; UAA, UAG and UGA are stop codons.",
+   "remediation": "Unit VII · Genetics and Evolution (20 marks): NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "UGA",
+    "UAG",
+    "UAA",
+    "AUG"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "U2",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "numeric",
+   "question": "In a population in Hardy-Weinberg equilibrium, 16% of individuals show a recessive trait (aa). What percentage of the population is heterozygous (Aa)?",
+   "answer": "48",
+   "explanation": "q² = 0.16 ⇒ q = 0.4, p = 0.6; 2pq = 2 × 0.6 × 0.4 = 0.48 = 48%.",
+   "remediation": "Unit VII · Genetics and Evolution (20 marks): NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q19",
+   "subtopic": "U2",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; analogy = similar function, different structure (convergent evolution), which is what R describes.",
+   "remediation": "Unit VII · Genetics and Evolution (20 marks): NCERT Biology (Class 12, 2026-27): Ch 4 Principles of Inheritance and Variation, Ch 5 Molecular Basis of Inheritance, Ch 6 Evolution; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "The wings of a butterfly and of a bird are analogous organs.",
+   "reason": "They perform the same function but are not anatomically similar in structure or origin.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "U3",
+   "level": "L1",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "Plasmodium enters the human body through the bite of an infected female Anopheles mosquito as:",
+   "answer": "B",
+   "explanation": "Sporozoites (infectious form) are injected; they multiply in liver cells and then in RBCs.",
+   "remediation": "Unit VIII · Biology and Human Welfare (12 marks): NCERT Biology (Class 12, 2026-27): Ch 7 Human Health and Disease, Ch 8 Microbes in Human Welfare; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Merozoites",
+    "Sporozoites",
+    "Trophozoites",
+    "Gametocytes"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "An antibody molecule is represented as:",
+   "answer": "C",
+   "explanation": "Two heavy and two light peptide chains.",
+   "remediation": "Unit VIII · Biology and Human Welfare (12 marks): NCERT Biology (Class 12, 2026-27): Ch 7 Human Health and Disease, Ch 8 Microbes in Human Welfare; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "H₂L₄",
+    "HL",
+    "H₂L₂",
+    "H₄L₂"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "A newborn gets antibodies (IgA) from colostrum. This is an example of:",
+   "answer": "A",
+   "explanation": "Ready-made antibodies are given, not produced by the baby: passive immunity.",
+   "remediation": "Unit VIII · Biology and Human Welfare (12 marks): NCERT Biology (Class 12, 2026-27): Ch 7 Human Health and Disease, Ch 8 Microbes in Human Welfare; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Passive immunity",
+    "Active immunity",
+    "Autoimmunity",
+    "Innate immunity"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "After entering the body, HIV multiplies and attacks mainly:",
+   "answer": "D",
+   "explanation": "The decrease in helper T-cells weakens immunity, leading to opportunistic infections.",
+   "remediation": "Unit VIII · Biology and Human Welfare (12 marks): NCERT Biology (Class 12, 2026-27): Ch 7 Human Health and Disease, Ch 8 Microbes in Human Welfare; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Red blood cells",
+    "Platelets",
+    "B-lymphocytes only",
+    "Helper T-lymphocytes, with macrophages acting as an HIV factory"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "A sample of waste water has a very high BOD. This means it has:",
+   "answer": "B",
+   "explanation": "BOD measures the oxygen microbes need to oxidise organic matter; higher BOD = more polluting potential.",
+   "remediation": "Unit VIII · Biology and Human Welfare (12 marks): NCERT Biology (Class 12, 2026-27): Ch 7 Human Health and Disease, Ch 8 Microbes in Human Welfare; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "No microbes at all",
+    "A large amount of organic matter, so it is highly polluting",
+    "Excess dissolved oxygen",
+    "Very little organic matter"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "U3",
+   "level": "L4",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "Biogas is produced in a biogas plant from cattle dung mainly by:",
+   "answer": "A",
+   "explanation": "Methanogens grow anaerobically on cellulose-rich material and release methane, CO₂ and H₂.",
+   "remediation": "Unit VIII · Biology and Human Welfare (12 marks): NCERT Biology (Class 12, 2026-27): Ch 7 Human Health and Disease, Ch 8 Microbes in Human Welfare; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Methanogens such as Methanobacterium, under anaerobic conditions",
+    "Aerobic bacteria such as Lactobacillus",
+    "Fungi such as Penicillium",
+    "Cyanobacteria such as Anabaena"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "U4",
+   "level": "L1",
+   "pattern": "T14",
+   "type": "mcq",
+   "question": "The recognition sequence of the restriction enzyme EcoRI is:",
+   "answer": "C",
+   "explanation": "EcoRI recognises the palindrome GAATTC and cuts between G and A, leaving sticky ends.",
+   "remediation": "Unit IX · Biotechnology (12 marks): NCERT Biology (Class 12, 2026-27): Ch 9 Biotechnology: Principles and Processes, Ch 10 Biotechnology and its Applications; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "5′-AAGCTT-3′",
+    "5′-GATATC-3′",
+    "5′-GAATTC-3′",
+    "5′-GGATCC-3′"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "U4",
+   "level": "L2",
+   "pattern": "T14",
+   "type": "mcq",
+   "question": "During gel electrophoresis, DNA fragments move towards the:",
+   "answer": "A",
+   "explanation": "DNA is negatively charged; smaller fragments move farther through the agarose matrix.",
+   "remediation": "Unit IX · Biotechnology (12 marks): NCERT Biology (Class 12, 2026-27): Ch 9 Biotechnology: Principles and Processes, Ch 10 Biotechnology and its Applications; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Anode, because DNA is negatively charged",
+    "Anode, because DNA is neutral",
+    "Cathode, because DNA is positively charged",
+    "Centre of the gel"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "U4",
+   "level": "L2",
+   "pattern": "T14",
+   "type": "mcq",
+   "question": "The correct order of steps in one PCR cycle is:",
+   "answer": "C",
+   "explanation": "Heat separates strands, primers anneal, then thermostable Taq polymerase extends them.",
+   "remediation": "Unit IX · Biotechnology (12 marks): NCERT Biology (Class 12, 2026-27): Ch 9 Biotechnology: Principles and Processes, Ch 10 Biotechnology and its Applications; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Annealing → denaturation → extension",
+    "Extension → annealing → denaturation",
+    "Denaturation → annealing → extension",
+    "Denaturation → extension → annealing"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "U4",
+   "level": "L3",
+   "pattern": "T15",
+   "type": "mcq",
+   "question": "A gene is inserted at the BamHI site of the tetracycline-resistance gene of pBR322. Recombinant transformants will:",
+   "answer": "B",
+   "explanation": "Insertional inactivation of tetR: recombinants keep ampR but lose tetracycline resistance.",
+   "remediation": "Unit IX · Biotechnology (12 marks): NCERT Biology (Class 12, 2026-27): Ch 9 Biotechnology: Principles and Processes, Ch 10 Biotechnology and its Applications; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Grow on neither antibiotic",
+    "Grow on ampicillin but not on tetracycline",
+    "Grow on both antibiotics",
+    "Grow on tetracycline but not on ampicillin"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "U4",
+   "level": "L3",
+   "pattern": "T16",
+   "type": "mcq",
+   "question": "The first clinical gene therapy (1990) was given to a 4-year-old girl with:",
+   "answer": "D",
+   "explanation": "Functional ADA cDNA was introduced into her lymphocytes.",
+   "remediation": "Unit IX · Biotechnology (12 marks): NCERT Biology (Class 12, 2026-27): Ch 9 Biotechnology: Principles and Processes, Ch 10 Biotechnology and its Applications; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Thalassemia",
+    "Sickle-cell anaemia",
+    "Haemophilia",
+    "Adenosine deaminase (ADA) deficiency"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "U4",
+   "level": "L4",
+   "pattern": "T16",
+   "type": "mcq",
+   "question": "Tobacco plants protected from the nematode Meloidogyne incognita by RNA interference work because:",
+   "answer": "A",
+   "explanation": "Agrobacterium vectors introduce nematode genes giving sense and anti-sense RNA; the dsRNA silences the parasite mRNA and it dies.",
+   "remediation": "Unit IX · Biotechnology (12 marks): NCERT Biology (Class 12, 2026-27): Ch 9 Biotechnology: Principles and Processes, Ch 10 Biotechnology and its Applications; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "dsRNA made from nematode-specific genes silences the parasite's specific mRNA",
+    "The plant produces Bt toxin that kills the nematode",
+    "The nematode's DNA is cut by EcoRI",
+    "The plant roots become too hard to infect"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "U5",
+   "level": "L1",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "An orchid growing on a mango branch, with no harm or benefit to the mango, is an example of:",
+   "answer": "D",
+   "explanation": "One species benefits (+), the other is unaffected (0).",
+   "remediation": "Unit X · Ecology and Environment (10 marks): NCERT Biology (Class 12, 2026-27): Ch 11 Organisms and Populations, Ch 12 Ecosystem, Ch 13 Biodiversity and its Conservation; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Mutualism",
+    "Amensalism",
+    "Parasitism",
+    "Commensalism"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "U5",
+   "level": "L4",
+   "pattern": "T17",
+   "type": "numeric",
+   "question": "A population follows logistic growth with r = 0.2 per year and carrying capacity K = 1000. At what rate (individuals per year) is it growing when N = 500?",
+   "answer": "50",
+   "explanation": "dN/dt = rN(K − N)/K = 0.2 × 500 × 500/1000 = 50.",
+   "remediation": "Unit X · Ecology and Environment (10 marks): NCERT Biology (Class 12, 2026-27): Ch 11 Organisms and Populations, Ch 12 Ecosystem, Ch 13 Biodiversity and its Conservation; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q34",
+   "subtopic": "U5",
+   "level": "L3",
+   "pattern": "T18",
+   "type": "numeric",
+   "question": "Producers in an ecosystem fix 10,000 J of energy. Using the 10 per cent law, how much energy (in J) reaches the tertiary consumers?",
+   "answer": "10",
+   "explanation": "10,000 → 1,000 (primary) → 100 (secondary) → 10 J (tertiary).",
+   "remediation": "Unit X · Ecology and Environment (10 marks): NCERT Biology (Class 12, 2026-27): Ch 11 Organisms and Populations, Ch 12 Ecosystem, Ch 13 Biodiversity and its Conservation; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q35",
+   "subtopic": "U5",
+   "level": "L2",
+   "pattern": "T18",
+   "type": "mcq",
+   "question": "The pyramid of biomass in a sea is generally inverted because:",
+   "answer": "B",
+   "explanation": "Phytoplankton have a small standing biomass but reproduce fast, so consumers can outweigh them.",
+   "remediation": "Unit X · Ecology and Environment (10 marks): NCERT Biology (Class 12, 2026-27): Ch 11 Organisms and Populations, Ch 12 Ecosystem, Ch 13 Biodiversity and its Conservation; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Energy flows from consumers to producers",
+    "The biomass of fishes far exceeds that of the phytoplankton at any time",
+    "Phytoplankton are absent in the sea",
+    "Decomposers are the largest group"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "U5",
+   "level": "L2",
+   "pattern": "T19",
+   "type": "mcq",
+   "question": "Which of these is NOT one of the 'evil quartet' causes of biodiversity loss?",
+   "answer": "C",
+   "explanation": "The evil quartet: habitat loss, over-exploitation, alien species invasions, co-extinctions. Biosphere reserves are in situ conservation.",
+   "remediation": "Unit X · Ecology and Environment (10 marks): NCERT Biology (Class 12, 2026-27): Ch 11 Organisms and Populations, Ch 12 Ecosystem, Ch 13 Biodiversity and its Conservation; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Alien species invasions",
+    "Habitat loss and fragmentation",
+    "Setting up biosphere reserves",
+    "Over-exploitation"
+   ]
+  }
+ ],
+ "class": "12",
+ "subject": "Biology (044)",
+ "board": "CBSE",
+ "links": [
+  {
+   "label": "Blueprint PDF (free)",
+   "url": "https://drive.google.com/file/d/1wM3wzuoF9gef9HQaZKt4-WQOvvNnbFvo/view?usp=drive_link"
+  }
+ ],
+ "subtopic_label": "unit"
+}

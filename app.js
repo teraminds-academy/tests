@@ -203,7 +203,7 @@
     });
     return { correct: correct, total: test.questions.length, overall: pct(correct, test.questions.length), subs: subs, levels: levels, wrong: wrong };
   }
-  function band(s) {
+  function band(s, test) {
     var hard = { c: 0, t: 0 };
     ["L3", "L4"].forEach(function (k) { if (s.levels[k]) { hard.c += s.levels[k].c; hard.t += s.levels[k].t; } });
     var hp = hard.t ? pct(hard.c, hard.t) : 100;
@@ -211,7 +211,7 @@
     if (s.overall >= 50) return { k: "b2", name: "Getting there", text: s.overall >= 80
       ? "Strong overall, but the multi-step board-pattern and HOTS questions need more work before you can call this chapter done. Start with “Focus next”."
       : "You have a working base. Fix the subtopics under “Focus next”, then repeat the test to see the gap close." };
-    return { k: "b1", name: "Building", text: "The basics need another pass. Re-watch the video parts named under “Focus next”, do the NCERT exercises listed, then try again." };
+    return { k: "b1", name: "Building", text: c12(test) ? "The basics need another pass. Revise the units under “Focus next” from the NCERT sections listed, then try again." : "The basics need another pass. Re-watch the video parts named under “Focus next”, do the NCERT exercises listed, then try again." };
   }
   // readiness subtopic stats pooled by registry chapter (for the subject profile)
   function readinessChapters(test, att) {
@@ -315,7 +315,12 @@
 
   /* ---------- rendering pieces ---------- */
   function topbarTimer(html) { topRight.innerHTML = html || ""; }
+  function c12(test) { return test && String(test["class"]) === "12"; }
+  function subLabel(test) { return (test && test.subtopic_label) || "subtopic"; }
   function footerLinks(test) {
+    if (test && test.links && test.links.length) return '<div class="row no-print">' + test.links.map(function (l) {
+      return '<a class="btn secondary" href="' + esc(l.url) + '" target="_blank" rel="noopener noreferrer">' + esc(l.label) + "</a>";
+    }).join("") + "</div>";
     var v = test && test.video_url ? '<a class="btn secondary" href="' + esc(test.video_url) + '" target="_blank" rel="noopener noreferrer">Watch the video</a>' :
       '<a class="btn secondary" href="' + LINKS.youtube + '" target="_blank" rel="noopener noreferrer">Video lessons on YouTube</a>';
     var w = '<a class="btn secondary" href="' + esc((test && test.worksheet_url) || LINKS.worksheets) + '" target="_blank" rel="noopener noreferrer">Free worksheets</a>';
@@ -348,7 +353,8 @@
     stopTimer(); topbarTimer(); setTitle(); document.body.classList.remove("print-view");
     loadIndex().then(function (ix) {
       var mocks = ix.tests.filter(function (t) { return t.kind === "mock"; });
-      var ready = ix.tests.filter(function (t) { return t.kind !== "mock"; });
+      var ready = ix.tests.filter(function (t) { return t.kind !== "mock" && String(t["class"]) !== "12"; });
+      var ready12 = ix.tests.filter(function (t) { return t.kind !== "mock" && String(t["class"]) === "12"; });
       var nAtt = history().attempts.length;
       function card(t, mock) {
         var n = attemptsFor(t.id).length;
@@ -368,13 +374,16 @@
       app.innerHTML = '<section class="card hero"><div class="eyebrow">Teraminds Academy</div><h1>Board-pattern tests</h1>' +
         '<p class="tagline">Practice questions modelled on past CBSE papers; not predictions of this year\'s paper.</p>' +
         '<nav class="row jump"><a class="btn secondary" href="#mocks">Mock Papers</a><a class="btn secondary" href="#readiness-list">Readiness tests</a>' +
+        (ready12.length ? '<a class="btn secondary" href="#class12-list">Class 12</a>' : "") +
         (nAtt ? '<a class="btn" href="#profile">My subject profile</a>' : "") + "</nav></section>" +
         (mocks.length ? '<section id="mock-papers" class="hubsec"><h2 class="sechead">Board-pattern Mock Papers</h2>' +
           '<p class="muted small">Full-length papers in the CBSE 2026-27 sample-paper structure: sections, question types, marks and internal choice. Objective parts are marked for you; for written answers you compare with the model answer and award your own marks point by point.</p>' + mh + "</section>" : "") +
         '<section id="readiness" class="hubsec"><h2 class="sechead">Readiness tests</h2><p class="muted small">Short tests of the most-repeated question types, one per video.</p>' +
-        '<ul class="plain">' + ready.map(function (t) { return card(t, false); }).join("") + "</ul></section>";
+        '<ul class="plain">' + ready.map(function (t) { return card(t, false); }).join("") + "</ul></section>" +
+        (ready12.length ? '<section id="class12" class="hubsec"><h2 class="sechead">Class 12</h2><p class="muted small">Board-pattern readiness tests for Class 12 CBSE (2026-27 syllabus): original questions on every unit, weighted by its marks, with a unit-wise report.</p>' +
+          '<ul class="plain">' + ready12.map(function (t) { return card(t, false); }).join("") + "</ul></section>" : "");
       $all(".jump a").forEach(function (a) {
-        var tgt = { "#mocks": "mock-papers", "#readiness-list": "readiness" }[a.getAttribute("href")];
+        var tgt = { "#mocks": "mock-papers", "#readiness-list": "readiness", "#class12-list": "class12" }[a.getAttribute("href")];
         if (tgt) a.addEventListener("click", function (e) { e.preventDefault(); var el = document.getElementById(tgt); if (el) el.scrollIntoView({ behavior: "smooth" }); });
       });
     }).catch(function () { app.innerHTML = '<div class="card"><h2>Couldn\'t load the tests</h2><p>Check your connection and reload the page.</p></div>'; });
@@ -396,7 +405,7 @@
       '<section class="card"><h2>How it works</h2><p>' + esc(test.instructions) + "</p>" +
       '<div class="levels-grid">' + lv + "</div>" +
       '<p class="muted small">' + (test.suggested_minutes ? "Suggested time: about " + test.suggested_minutes + " minutes. The timer is only a guide; nothing is cut off. " : "") +
-      "Your report shows your score by level and subtopic, what you've got, where you missed, and what to focus on next.</p>" +
+      "Your report shows your score by level and " + esc(subLabel(test)) + ", what you've got, where you missed, and what to focus on next.</p>" +
       nickField() +
       '<div class="stack" style="margin-top:1rem">' +
       (prog && answered ? '<button class="btn full" id="resume">Resume attempt (' + answered + "/" + test.questions.length + ' answered)</button><button class="btn secondary full" id="start">Start a fresh attempt</button>'
@@ -853,7 +862,7 @@
   }
 
   function reportHTML(test, att) {
-    var s = score(test, att.answers || {}), b = band(s), nk = nick(), sk = subjectOf(test), smap = manifest(test.id).sub_chapter || {};
+    var s = score(test, att.answers || {}), b = band(s, test), nk = nick(), sk = subjectOf(test), smap = manifest(test.id).sub_chapter || {};
     var h = '<article class="report" id="report">';
     h += '<section class="card hero"><div class="report-head"><img src="logo-192.png" alt="Teraminds Academy" id="rlogo"><div>' +
       '<div class="eyebrow">Readiness report · ' + esc(test.short_title || test.chapter) + "</div><h1>" + esc(test.title) + "</h1></div></div>" +
@@ -877,9 +886,9 @@
       h += '<ol class="top3">' + weak.slice(0, 3).map(function (k) {
         var v = s.subs[k], info = chapterInfo(sk, smap[k], null);
         return "<li><b>" + esc(test.subtopics[k].name) + '</b> <span class="chip bad">' + pct(v.c, v.t) + "%</span>" +
-          (info ? linksHTML(info) : '<div class="linkrow">' + (test.video_url ? extLink(test.video_url, "▶ Watch the video", "lnk") : "") + extLink(test.worksheet_url || LINKS.worksheets, "Worksheet", "lnk ws") + "</div>") + "</li>";
+          (info ? linksHTML(info) : test.links && test.links.length ? '<div class="linkrow">' + test.links.map(function (l, i) { return extLink(l.url, (/youtu/.test(l.url) ? "▶ " : "") + l.label, /youtu/.test(l.url) ? "lnk" : "lnk ws"); }).join("") + "</div>" : '<div class="linkrow">' + (test.video_url ? extLink(test.video_url, "▶ Watch the video", "lnk") : "") + extLink(test.worksheet_url || LINKS.worksheets, "Worksheet", "lnk ws") + "</div>") + "</li>";
       }).join("") + "</ol>";
-    } else h += "<p>No weak subtopic on this attempt. Next: a full Board-pattern Mock Paper for this subject.</p>";
+    } else h += c12(test) ? "<p>No weak " + subLabel(test) + " on this attempt. Next: timed practice with full-length board-pattern papers.</p>" : "<p>No weak subtopic on this attempt. Next: a full Board-pattern Mock Paper for this subject.</p>";
     h += '<p class="muted small">Strengths: ' + (strong.length ? strong.map(function (k) { return esc(test.subtopics[k].name); }).join(", ") : "none at 75% yet") + "</p></section>";
 
     h += '<section class="card"><h2>By difficulty level</h2><table class="bars">' + Object.keys(test.levels).map(function (k) {
@@ -887,7 +896,7 @@
       var nm = test.levels[k].name; return barRow(k + " · " + test.levels[k].label, v.c, v.t, nm && nm.toLowerCase() !== test.levels[k].label.toLowerCase() ? nm : "");
     }).join("") + "</table></section>";
 
-    h += '<section class="card allow-break"><h2>By subtopic</h2><table class="bars">' + Object.keys(test.subtopics).map(function (k) {
+    h += '<section class="card allow-break"><h2>By ' + esc(subLabel(test)) + '</h2><table class="bars">' + Object.keys(test.subtopics).map(function (k) {
       var v = s.subs[k] || { c: 0, t: 0 }; if (!v.t) return ""; return barRow(test.subtopics[k].name, v.c, v.t);
     }).join("") + "</table></section>";
 
@@ -915,7 +924,7 @@
           (st.ncert ? '<div class="ncert"><b>Book practice:</b> ' + esc(st.ncert) + "</div>" : "") +
           (tips.length ? "<ul>" + tips.map(function (t) { return "<li>" + mt(t) + "</li>"; }).join("") + "</ul>" : "") + "</li>";
       }).join("") + "</ol>";
-    } else h += "<p>Every subtopic is at 75% or above. Next step: the hard questions in the worksheet, then a timed full paper.</p>";
+    } else h += c12(test) ? "<p>Every " + subLabel(test) + " is at 75% or above. Next step: timed full-length board-pattern papers.</p>" : "<p>Every subtopic is at 75% or above. Next step: the hard questions in the worksheet, then a timed full paper.</p>";
     h += footerLinks(test) + "</section>";
 
     h += '<section class="card allow-break"><h2>Where you missed</h2>';

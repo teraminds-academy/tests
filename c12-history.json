@@ -1,0 +1,800 @@
+{
+ "schema": 1,
+ "id": "c12-history",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 12 History (027) · all twelve themes and map work, weighted by the 2026-27 theory marks",
+ "short_title": "Class 12 History (027) · Board-pattern readiness test",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written for Teraminds Academy from the NCERT textbooks prescribed for 2026-27, modelled on the most-repeated question types in CBSE board papers 2023–26 and the Sample Question Paper 2026-27 (see our Board Blueprint). A board-pattern readiness test for practice only: not a prediction of any exam and no promise of marks.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option.",
+ "suggested_minutes": 40,
+ "video_url": null,
+ "worksheet_url": "https://drive.google.com/file/d/1J1fz3WqZ7qzSZEaH94GMvNDgwIkOMmZE/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Source / fact recall",
+  "T2": "Explain the significance",
+  "T3": "Compare or analyse",
+  "T4": "Interpret a historian's view or source",
+  "T5": "Map-based identification"
+ },
+ "subtopics": {
+  "T1": {
+   "name": "Part I · Bricks, Beads and Bones (Harappa)",
+   "tip": "Mohenjodaro: citadel (Great Bath, warehouse) and lower town; planned drains laid out before houses. Chanhudaro: almost wholly craft production. Cunningham (first DG of ASI) used Chinese Buddhist pilgrims' accounts and missed Harappa's age; Marshall announced a new civilisation in 1924.",
+   "ncert": "NCERT Themes in Indian History Part I (2026-27): Theme 1"
+  },
+  "T2": {
+   "name": "Part I · Kings, Farmers and Towns",
+   "tip": "James Prinsep deciphered Brahmi and Kharosthi (1838). Most Ashokan inscriptions are in Prakrit; in the north-west, Aramaic and Greek. Punch-marked coins first; the Kushanas issued the first gold coins (c. 1st century CE).",
+   "ncert": "NCERT Themes in Indian History Part I (2026-27): Theme 2"
+  },
+  "T3": {
+   "name": "Part I · Kinship, Caste and Class (Mahabharata)",
+   "tip": "Critical edition began 1919 under V.S. Sukthankar. Draupadi's marriage = polyandry. Brahmanical rule: a woman took her husband's gotra, but several Satavahana queens kept their fathers' gotra names (Gotami, Vasithi).",
+   "ncert": "NCERT Themes in Indian History Part I (2026-27): Theme 3"
+  },
+  "T4": {
+   "name": "Part I · Thinkers, Beliefs and Buildings (Buddhism, Jainism, Sanchi)",
+   "tip": "Tipitaka = Vinaya, Sutta and Abhidhamma Pitaka. Therigatha: verses by bhikkhunis. Sanchi survived thanks to the Begums of Bhopal (Shahjehan Begum, Sultan Jehan Begum).",
+   "ncert": "NCERT Themes in Indian History Part I (2026-27): Theme 4"
+  },
+  "T5": {
+   "name": "Part II · Through the Eyes of Travellers",
+   "tip": "Al-Biruni: Kitab-ul-Hind in Arabic (11th c.), on caste and purity. Ibn Battuta: Rihla (14th c.), made qazi of Delhi by Muhammad bin Tughlaq. Bernier (17th c.): thought the Mughal emperor owned all land (no private property).",
+   "ncert": "NCERT Themes in Indian History Part II (2026-27): Theme 5"
+  },
+  "T6": {
+   "name": "Part II · Bhakti-Sufi Traditions",
+   "tip": "Alvars (Vishnu) and Nayanars (Shiva) in Tamil Nadu. Basavanna: Virashaiva (Lingayat) movement, Karnataka, 12th c. Sufis: khanqah (hospice), silsila (chain), sama (musical gatherings); Chishtis at Delhi (Nizamuddin Auliya) and Ajmer.",
+   "ncert": "NCERT Themes in Indian History Part II (2026-27): Theme 6"
+  },
+  "T7": {
+   "name": "Part II · An Imperial Capital: Vijayanagara",
+   "tip": "Founded 1336 by Harihara and Bukka. Colin Mackenzie mapped Hampi (1800). Amara-nayakas: military commanders given territories, paid tribute and supplied troops. Royal centre (Mahanavami dibba), sacred centre (Virupaksha, Vitthala).",
+   "ncert": "NCERT Themes in Indian History Part II (2026-27): Theme 7"
+  },
+  "T8": {
+   "name": "Part II · Peasants, Zamindars and the State",
+   "tip": "Ain-i-Akbari by Abu'l Fazl (part of the Akbar Nama). Khud-kashta = resident peasants; pahi-kashta = non-resident cultivators. Jins-i-kamil ('perfect crops'): cash crops such as cotton and sugarcane.",
+   "ncert": "NCERT Themes in Indian History Part II (2026-27): Theme 8"
+  },
+  "T9": {
+   "name": "Part III · Colonialism and the Countryside",
+   "tip": "Permanent Settlement 1793 (Cornwallis) in Bengal. Jotedars: rich peasants controlling land, trade and moneylending. Damin-i-Koh demarcated for the Santhals (1832). Fifth Report (1813) to the British Parliament.",
+   "ncert": "NCERT Themes in Indian History Part III (2026-27): Theme 9"
+  },
+  "T10": {
+   "name": "Part III · Rebels and the Raj (1857)",
+   "tip": "Revolt began at Meerut on 10 May 1857; rebels proclaimed Bahadur Shah Zafar their leader at Delhi. Awadh annexed in 1856. Rumours of cartridges greased with cow and pig fat.",
+   "ncert": "NCERT Themes in Indian History Part III (2026-27): Theme 10"
+  },
+  "T11": {
+   "name": "Part III · Mahatma Gandhi and the Nationalist Movement",
+   "tip": "Champaran 1917 (indigo cultivators); Non-Cooperation 1920–22; Dandi/Salt March 1930; Quit India August 1942. Read sources (autobiography, letters, newspapers) critically: written after the event, for an audience.",
+   "ncert": "NCERT Themes in Indian History Part III (2026-27): Theme 11"
+  },
+  "T12": {
+   "name": "Part III · Framing the Constitution",
+   "tip": "Constituent Assembly first met 9 December 1946; Nehru moved the Objectives Resolution on 13 December 1946; the Constitution came into effect on 26 January 1950. G.B. Pant called separate electorates suicidal for minorities.",
+   "ncert": "NCERT Themes in Indian History Part III (2026-27): Theme 12"
+  },
+  "MAP": {
+   "name": "Map work (5 marks)",
+   "tip": "Practise the curriculum map list on an outline map: Harappan sites, Mahajanapadas and their capitals, Ashokan inscriptions, Vijayanagara, Mughal territories, centres of 1857 and of the national movement.",
+   "ncert": "CBSE History curriculum 2026-27 map list (with Themes 1–2, 7, 10–11)"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "T1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Great Bath was found in which part of Mohenjodaro?",
+   "answer": "B",
+   "explanation": "The Great Bath stood in the citadel along with structures like the warehouse.",
+   "remediation": "Part I · Bricks, Beads and Bones (Harappa): NCERT Themes in Indian History Part I (2026-27): Theme 1; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The lower town",
+    "The citadel",
+    "The port area",
+    "A suburb outside the walls"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "T1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Chanhudaro is significant because it was:",
+   "answer": "C",
+   "explanation": "Bead-making, shell-cutting, metal-working, seal-making and weight-making were done there.",
+   "remediation": "Part I · Bricks, Beads and Bones (Harappa): NCERT Themes in Indian History Part I (2026-27): Theme 1; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "A port on the Red Sea",
+    "The capital of a Harappan king",
+    "A settlement devoted almost exclusively to craft production",
+    "The largest Harappan city"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "T1",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Why did Alexander Cunningham miss the significance of Harappa?",
+   "answer": "A",
+   "explanation": "His framework was early historic cities known from texts, so Harappan objects did not fit it.",
+   "remediation": "Part I · Bricks, Beads and Bones (Harappa): NCERT Themes in Indian History Part I (2026-27): Theme 1; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "He used accounts of Chinese Buddhist pilgrims and tried to fit finds into the Early Historic period he knew",
+    "He thought the seals were Greek",
+    "He believed the site was a modern village",
+    "He never visited Harappa"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "T2",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Who deciphered the Brahmi and Kharosthi scripts in 1838?",
+   "answer": "D",
+   "explanation": "Prinsep, an officer in the mint of the East India Company, deciphered both.",
+   "remediation": "Part I · Kings, Farmers and Towns: NCERT Themes in Indian History Part I (2026-27): Theme 2; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "John Marshall",
+    "Colin Mackenzie",
+    "Alexander Cunningham",
+    "James Prinsep"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "T2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Most Ashokan inscriptions were in Prakrit. Those in the north-west of the subcontinent were in:",
+   "answer": "A",
+   "explanation": "Prakrit in Brahmi elsewhere; Aramaic and Greek (Kharosthi/Aramaic scripts) in the north-west.",
+   "remediation": "Part I · Kings, Farmers and Towns: NCERT Themes in Indian History Part I (2026-27): Theme 2; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Aramaic and Greek",
+    "Sanskrit and Tamil",
+    "Pali and Kannada",
+    "Persian and Arabic"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "T2",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The first gold coins in the subcontinent were issued, c. first century CE, by the:",
+   "answer": "D",
+   "explanation": "Punch-marked silver and copper coins came first; the Kushanas issued the first gold coins.",
+   "remediation": "Part I · Kings, Farmers and Towns: NCERT Themes in Indian History Part I (2026-27): Theme 2; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Guptas",
+    "Satavahanas",
+    "Mauryas",
+    "Kushanas"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "T3",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The project of preparing a critical edition of the Mahabharata began in 1919 under:",
+   "answer": "C",
+   "explanation": "Sukthankar led the team that compared manuscripts from across the subcontinent.",
+   "remediation": "Part I · Kinship, Caste and Class (Mahabharata): NCERT Themes in Indian History Part I (2026-27): Theme 3; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "B.R. Ambedkar",
+    "D.D. Kosambi",
+    "V.S. Sukthankar",
+    "R.G. Bhandarkar"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "T3",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Draupadi's marriage with the five Pandavas is an example of:",
+   "answer": "B",
+   "explanation": "Polyandry = a woman with several husbands; polygyny = a man with several wives.",
+   "remediation": "Part I · Kinship, Caste and Class (Mahabharata): NCERT Themes in Indian History Part I (2026-27): Theme 3; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Endogamy only",
+    "Polyandry",
+    "Polygyny",
+    "Exogamy only"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "T3",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Several Satavahana queens are known by names derived from their fathers' gotras (such as Gotami). What does this suggest?",
+   "answer": "D",
+   "explanation": "The norm in Brahmanical texts was to take the husband's gotra; these names show it was not universally followed.",
+   "remediation": "Part I · Kinship, Caste and Class (Mahabharata): NCERT Themes in Indian History Part I (2026-27): Theme 3; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Women had no names in Satavahana inscriptions",
+    "Every Satavahana queen ruled independently",
+    "Satavahana kings had no gotras",
+    "Not all women followed the Brahmanical rule of adopting the husband's gotra after marriage"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "T4",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Sanchi stupa survived largely because of the support of:",
+   "answer": "A",
+   "explanation": "The Begums of Bhopal funded its preservation.",
+   "remediation": "Part I · Thinkers, Beliefs and Buildings (Buddhism, Jainism, Sanchi): NCERT Themes in Indian History Part I (2026-27): Theme 4; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Shahjehan Begum and Sultan Jehan Begum, rulers of Bhopal",
+    "The rulers of the Vijayanagara empire",
+    "The Satavahana rulers",
+    "The Mughal emperor Akbar"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "T4",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Tipitaka (three baskets) consists of the:",
+   "answer": "C",
+   "explanation": "Vinaya: rules for the Sangha; Sutta: the Buddha's teachings; Abhidhamma: philosophy.",
+   "remediation": "Part I · Thinkers, Beliefs and Buildings (Buddhism, Jainism, Sanchi): NCERT Themes in Indian History Part I (2026-27): Theme 4; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Agamas, Angas and Puranas",
+    "Rig, Sama and Yajur Vedas",
+    "Vinaya Pitaka, Sutta Pitaka and Abhidhamma Pitaka",
+    "Jataka, Therigatha and Dipavamsa"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "T4",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The Therigatha is unique because it is:",
+   "answer": "B",
+   "explanation": "It gives a rare insight into women's social and spiritual experiences.",
+   "remediation": "Part I · Thinkers, Beliefs and Buildings (Buddhism, Jainism, Sanchi): NCERT Themes in Indian History Part I (2026-27): Theme 4; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "A book of rules for kings",
+    "A collection of verses composed by bhikkhunis (Buddhist nuns)",
+    "A biography of Ashoka",
+    "The only Jaina text in Sanskrit"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "T5",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Al-Biruni's Kitab-ul-Hind was written in:",
+   "answer": "B",
+   "explanation": "Written in Arabic in the eleventh century.",
+   "remediation": "Part II · Through the Eyes of Travellers: NCERT Themes in Indian History Part II (2026-27): Theme 5; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Turkish",
+    "Arabic",
+    "Persian",
+    "Sanskrit"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "T5",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Ibn Battuta was appointed qazi (judge) of Delhi by:",
+   "answer": "D",
+   "explanation": "Impressed by his scholarship, Muhammad bin Tughlaq made him qazi of Delhi.",
+   "remediation": "Part II · Through the Eyes of Travellers: NCERT Themes in Indian History Part II (2026-27): Theme 5; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Akbar",
+    "Alauddin Khalji",
+    "Krishnadeva Raya",
+    "Sultan Muhammad bin Tughlaq"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "T5",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "François Bernier argued that a major difference between Mughal India and Europe was that in India:",
+   "answer": "A",
+   "explanation": "Bernier saw crown ownership of land as harmful to the state and society; Mughal official documents do not show the state as the sole owner of land.",
+   "remediation": "Part II · Through the Eyes of Travellers: NCERT Themes in Indian History Part II (2026-27): Theme 5; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The emperor owned all the land, so there was no private property in land",
+    "Peasants owned all the land",
+    "Trade was forbidden",
+    "There were no cities"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "T6",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Alvars and Nayanars were devotees of:",
+   "answer": "C",
+   "explanation": "Alvars: Vishnu; Nayanars: Shiva (Tamil Nadu, early bhakti).",
+   "remediation": "Part II · Bhakti-Sufi Traditions: NCERT Themes in Indian History Part II (2026-27): Theme 6; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Allah and Rama",
+    "Shiva and Vishnu respectively",
+    "Vishnu and Shiva respectively",
+    "The Buddha and Mahavira"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "T6",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Virashaiva (Lingayat) tradition in Karnataka was led by:",
+   "answer": "A",
+   "explanation": "Basavanna started the movement in Karnataka in the twelfth century.",
+   "remediation": "Part II · Bhakti-Sufi Traditions: NCERT Themes in Indian History Part II (2026-27): Theme 6; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Basavanna",
+    "Guru Nanak",
+    "Mirabai",
+    "Kabir"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "T6",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "In the Chishti tradition, sama refers to:",
+   "answer": "C",
+   "explanation": "Khanqah = hospice; silsila = chain; sama = music/audition in worship.",
+   "remediation": "Part II · Bhakti-Sufi Traditions: NCERT Themes in Indian History Part II (2026-27): Theme 6; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "A tax paid to the state",
+    "The chain of succession from master to disciple",
+    "Musical gatherings with mystical chants, used to evoke divine ecstasy",
+    "A hospice for travellers"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "T7",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Vijayanagara empire was founded in 1336 by:",
+   "answer": "B",
+   "explanation": "Two brothers, Harihara and Bukka, founded it in 1336.",
+   "remediation": "Part II · An Imperial Capital: Vijayanagara: NCERT Themes in Indian History Part II (2026-27): Theme 7; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The Bahmani Sultans",
+    "Harihara and Bukka",
+    "Krishnadeva Raya",
+    "Colin Mackenzie"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "T7",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Who prepared the first survey map of the ruins at Hampi in 1800?",
+   "answer": "D",
+   "explanation": "Mackenzie, later the first Surveyor General of India, mapped Hampi.",
+   "remediation": "Part II · An Imperial Capital: Vijayanagara: NCERT Themes in Indian History Part II (2026-27): Theme 7; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Alexander Cunningham",
+    "John Marshall",
+    "James Prinsep",
+    "Colin Mackenzie"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "T7",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The amara-nayakas in the Vijayanagara empire were:",
+   "answer": "C",
+   "explanation": "They kept part of the revenue for themselves and their troops and sent tribute to the king.",
+   "remediation": "Part II · An Imperial Capital: Vijayanagara: NCERT Themes in Indian History Part II (2026-27): Theme 7; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Priests in charge of the Virupaksha temple",
+    "Foreign traders from Portugal",
+    "Military commanders given territories to govern, who collected taxes and supplied troops to the king",
+    "Village headmen elected by peasants"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "T8",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Ain-i-Akbari was written by:",
+   "answer": "B",
+   "explanation": "It forms the third volume of the Akbar Nama.",
+   "remediation": "Part II · Peasants, Zamindars and the State: NCERT Themes in Indian History Part II (2026-27): Theme 8; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Badauni",
+    "Abu'l Fazl",
+    "Bernier",
+    "Babur"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "T8",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "In Mughal records, khud-kashta peasants were:",
+   "answer": "A",
+   "explanation": "Khud-kashta: resident; pahi-kashta: non-resident cultivators.",
+   "remediation": "Part II · Peasants, Zamindars and the State: NCERT Themes in Indian History Part II (2026-27): Theme 8; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Residents of the village where they held their lands",
+    "Non-resident cultivators from other villages",
+    "Zamindars who collected revenue",
+    "Artisans who paid no tax"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "T8",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Jins-i-kamil ('perfect crops') were crops such as:",
+   "answer": "D",
+   "explanation": "Cash crops earned more revenue for the state.",
+   "remediation": "Part II · Peasants, Zamindars and the State: NCERT Themes in Indian History Part II (2026-27): Theme 8; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Wild fruits from forests",
+    "Millets grown only for the farmer's family",
+    "Rice grown only in temple lands",
+    "Cotton and sugarcane, which the state encouraged because they brought more revenue"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "T9",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Permanent Settlement was introduced in Bengal in 1793 by:",
+   "answer": "A",
+   "explanation": "It fixed revenue permanently with zamindars.",
+   "remediation": "Part III · Colonialism and the Countryside: NCERT Themes in Indian History Part III (2026-27): Theme 9; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Lord Cornwallis",
+    "Warren Hastings",
+    "Lord Curzon",
+    "Lord Dalhousie"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "T9",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "In late 18th-century Bengal, jotedars were:",
+   "answer": "B",
+   "explanation": "Their power in villages was often greater than that of the zamindars.",
+   "remediation": "Part III · Colonialism and the Countryside: NCERT Themes in Indian History Part III (2026-27): Theme 9; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Santhal headmen",
+    "Rich peasants who controlled large areas of land, local trade and moneylending",
+    "Indigo planters from Britain",
+    "Zamindars appointed by the Company"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "T9",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The area demarcated by the British in 1832 for the Santhals was called:",
+   "answer": "C",
+   "explanation": "The Santhals settled in the Damin-i-Koh around the Rajmahal hills.",
+   "remediation": "Part III · Colonialism and the Countryside: NCERT Themes in Indian History Part III (2026-27): Theme 9; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Rajmahal",
+    "Khandesh",
+    "Damin-i-Koh",
+    "Awadh"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "T10",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The revolt of 1857 began with the uprising of sepoys at:",
+   "answer": "D",
+   "explanation": "The sepoys at Meerut mutinied on the afternoon of 10 May 1857 and then marched to Delhi.",
+   "remediation": "Part III · Rebels and the Raj (1857): NCERT Themes in Indian History Part III (2026-27): Theme 10; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Barrackpore, in 1858",
+    "Lucknow, on 15 August 1857",
+    "Delhi, on 26 January 1857",
+    "Meerut, on 10 May 1857"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "T10",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Awadh was annexed to the British empire in:",
+   "answer": "D",
+   "explanation": "Dalhousie annexed Awadh in 1856 on the ground of misgovernment.",
+   "remediation": "Part III · Rebels and the Raj (1857): NCERT Themes in Indian History Part III (2026-27): Theme 10; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "1857",
+    "1765",
+    "1801",
+    "1856"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "T10",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "At Delhi, the rebel sepoys of 1857 proclaimed as their leader:",
+   "answer": "B",
+   "explanation": "Using the Mughal emperor's name gave the revolt legitimacy.",
+   "remediation": "Part III · Rebels and the Raj (1857): NCERT Themes in Indian History Part III (2026-27): Theme 10; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Rani Lakshmibai",
+    "The Mughal emperor Bahadur Shah Zafar",
+    "Nana Sahib",
+    "Kunwar Singh"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "T11",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Gandhiji's 1917 movement in Champaran was on behalf of:",
+   "answer": "C",
+   "explanation": "He sought security of tenure and freedom to grow crops of choice for peasants.",
+   "remediation": "Part III · Mahatma Gandhi and the Nationalist Movement: NCERT Themes in Indian History Part III (2026-27): Theme 11; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Salt makers",
+    "Mill workers",
+    "Indigo cultivators",
+    "Tea garden labourers"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "T11",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Salt March to Dandi took place in:",
+   "answer": "A",
+   "explanation": "Gandhiji began the march in March 1930 and broke the salt law at Dandi.",
+   "remediation": "Part III · Mahatma Gandhi and the Nationalist Movement: NCERT Themes in Indian History Part III (2026-27): Theme 11; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "1930",
+    "1917",
+    "1942",
+    "1920"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "T11",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Quit India movement was launched in:",
+   "answer": "B",
+   "explanation": "Launched in August 1942 after the failure of the Cripps Mission.",
+   "remediation": "Part III · Mahatma Gandhi and the Nationalist Movement: NCERT Themes in Indian History Part III (2026-27): Theme 11; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "March 1930",
+    "August 1942",
+    "January 1919",
+    "April 1917"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "T11",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Why must a historian read Gandhiji's autobiography critically?",
+   "answer": "A",
+   "explanation": "Autobiographies are reconstructions of the past; they need to be checked against other sources.",
+   "remediation": "Part III · Mahatma Gandhi and the Nationalist Movement: NCERT Themes in Indian History Part III (2026-27): Theme 11; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "It is a retrospective account, written later from memory and shaped by what the author wanted to present",
+    "It was written before he was born",
+    "It contains no information about events",
+    "It was written by the British government"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "T12",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Constituent Assembly of India first met on:",
+   "answer": "C",
+   "explanation": "The first session was on 9 December 1946.",
+   "remediation": "Part III · Framing the Constitution: NCERT Themes in Indian History Part III (2026-27): Theme 12; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "26 January 1950",
+    "13 December 1946",
+    "9 December 1946",
+    "15 August 1947"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "T12",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Who moved the Objectives Resolution in the Constituent Assembly on 13 December 1946?",
+   "answer": "D",
+   "explanation": "Nehru's resolution set out the ideals of the Constitution.",
+   "remediation": "Part III · Framing the Constitution: NCERT Themes in Indian History Part III (2026-27): Theme 12; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "B.R. Ambedkar",
+    "Rajendra Prasad",
+    "Sardar Patel",
+    "Jawaharlal Nehru"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "T12",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Constitution of India came into effect on:",
+   "answer": "C",
+   "explanation": "It came into effect on 26 January 1950.",
+   "remediation": "Part III · Framing the Constitution: NCERT Themes in Indian History Part III (2026-27): Theme 12; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "9 December 1946",
+    "15 August 1947",
+    "26 January 1950",
+    "26 January 1930"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "T12",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; his reason (R) explains his opposition (A).",
+   "remediation": "Part III · Framing the Constitution: NCERT Themes in Indian History Part III (2026-27): Theme 12; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "Govind Ballabh Pant opposed separate electorates in the Constituent Assembly.",
+   "reason": "He argued that they would isolate the minorities permanently and were suicidal for them.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "MAP",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Which of these Harappan sites is in present-day Gujarat?",
+   "answer": "B",
+   "explanation": "Lothal (Gujarat); Kalibangan (Rajasthan); Banawali (Haryana); Harappa (Punjab, Pakistan).",
+   "remediation": "Map work (5 marks): CBSE History curriculum 2026-27 map list (with Themes 1–2, 7, 10–11); then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Banawali",
+    "Lothal",
+    "Harappa",
+    "Kalibangan"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "MAP",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "Rajagaha (Rajgir) was the capital of which mahajanapada?",
+   "answer": "D",
+   "explanation": "Rajagaha was Magadha's early capital; later the capital shifted to Pataliputra.",
+   "remediation": "Map work (5 marks): CBSE History curriculum 2026-27 map list (with Themes 1–2, 7, 10–11); then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Kosala",
+    "Avanti",
+    "Vatsa",
+    "Magadha"
+   ]
+  }
+ ],
+ "class": "12",
+ "subject": "History (027)",
+ "board": "CBSE",
+ "links": [
+  {
+   "label": "Blueprint PDF (free)",
+   "url": "https://drive.google.com/file/d/1J1fz3WqZ7qzSZEaH94GMvNDgwIkOMmZE/view?usp=drive_link"
+  }
+ ],
+ "subtopic_label": "theme"
+}

@@ -1,0 +1,804 @@
+{
+ "schema": 1,
+ "id": "c12-polsci",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 12 Political Science (028) · all fifteen chapters, weighted by the 2026-27 theory marks",
+ "short_title": "Class 12 Political Science (028) · Board-pattern readiness test",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written for Teraminds Academy from the NCERT textbooks prescribed for 2026-27, modelled on the most-repeated question types in CBSE board papers 2023–26 and the Sample Question Paper 2026-27 (see our Board Blueprint). A board-pattern readiness test for practice only: not a prediction of any exam and no promise of marks.",
+ "instructions": "40 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (no units).",
+ "suggested_minutes": 40,
+ "video_url": null,
+ "worksheet_url": "https://drive.google.com/file/d/1rTwU_NBpyegEfm5jE_GuA7h8njIGRKz5/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Event / date / person recall",
+  "T2": "Concept meaning",
+  "T3": "Cause and consequence",
+  "T4": "Analyse / evaluate",
+  "T5": "Statement-based (A-R)"
+ },
+ "subtopics": {
+  "A1": {
+   "name": "A1 · The End of Bipolarity (6 marks)",
+   "tip": "Gorbachev: perestroika (restructuring) and glasnost (openness). December 1991: Russia, Ukraine and Belarus declared the USSR disbanded; CIS formed. Shock therapy: a rapid switch to capitalism, backed by the World Bank and IMF.",
+   "ncert": "NCERT Contemporary World Politics (Class 12, 2026-27): Ch 1 The End of Bipolarity"
+  },
+  "A2": {
+   "name": "A2 · Contemporary Centres of Power (6 marks)",
+   "tip": "EU: Maastricht Treaty 1992, common currency euro. ASEAN: 1967 (Bangkok Declaration), five founding members, 'ASEAN Way'. China: open-door reforms from 1978 under Deng Xiaoping.",
+   "ncert": "NCERT Contemporary World Politics (Class 12, 2026-27): Ch 2 Contemporary Centres of Power"
+  },
+  "A3": {
+   "name": "A3 · Contemporary South Asia (6 marks)",
+   "tip": "SAARC set up in 1985. Nepal abolished its monarchy and became a democratic republic in 2008. Sri Lanka: the LTTE fought for a separate Tamil Eelam; the IPKF was sent in 1987.",
+   "ncert": "NCERT Contemporary World Politics (Class 12, 2026-27): Ch 3 Contemporary South Asia"
+  },
+  "A4": {
+   "name": "A4 · International Organizations (6 marks)",
+   "tip": "UN: six principal organs; five permanent Security Council members with the veto (US, UK, France, Russia, China). IAEA (1957) promotes peaceful use of nuclear energy. India's case for permanent membership.",
+   "ncert": "NCERT Contemporary World Politics (Class 12, 2026-27): Ch 4 International Organisations"
+  },
+  "A5": {
+   "name": "A5 · Security in the Contemporary World (6 marks)",
+   "tip": "Traditional security: deterrence, defence, balance of power, alliance building. Non-traditional/human security: threats to people (terrorism, epidemics, poverty, migration); 'freedom from want' and 'freedom from fear'. Cooperative security.",
+   "ncert": "NCERT Contemporary World Politics (Class 12, 2026-27): Ch 5 Security in the Contemporary World"
+  },
+  "A6": {
+   "name": "A6 · Environment and Natural Resources (6 marks)",
+   "tip": "Rio Earth Summit 1992 → Agenda 21. Kyoto Protocol 1997: targets for industrialised countries; India and China were exempt. CBDR: common but differentiated responsibilities. Global commons: atmosphere, oceans, Antarctica, outer space.",
+   "ncert": "NCERT Contemporary World Politics (Class 12, 2026-27): Ch 6 Environment and Natural Resources"
+  },
+  "A7": {
+   "name": "A7 · Globalisation (4 marks)",
+   "tip": "Globalisation = flows of ideas, capital, commodities and people across the world. Cultural effects: homogenisation (spread of Western culture, 'McDonaldisation') and heterogenisation (cultures mixing and enriching each other).",
+   "ncert": "NCERT Contemporary World Politics (Class 12, 2026-27): Ch 7 Globalisation"
+  },
+  "B1": {
+   "name": "B1 · Challenges of Nation-Building (6 marks)",
+   "tip": "565 princely states; Hyderabad joined in 1948 after military action; Manipur's merger in 1949. States Reorganisation Commission (1953) → States Reorganisation Act 1956: 14 states and 6 union territories.",
+   "ncert": "NCERT Politics in India since Independence (Class 12, 2026-27): Ch 1 Challenges of Nation Building"
+  },
+  "B2": {
+   "name": "B2 · Era of One-Party Dominance (4 marks)",
+   "tip": "First general election 1951-52, conducted under the first Chief Election Commissioner Sukumar Sen. Congress dominance rested on being a social and ideological coalition.",
+   "ncert": "NCERT Politics in India since Independence (Class 12, 2026-27): Ch 2 Era of One-Party Dominance"
+  },
+  "B3": {
+   "name": "B3 · Politics of Planned Development (2 marks)",
+   "tip": "Planning Commission 1950. The Second Five Year Plan, drafted under P.C. Mahalanobis, stressed heavy industries.",
+   "ncert": "NCERT Politics in India since Independence (Class 12, 2026-27): Ch 3 Politics of Planned Development"
+  },
+  "B4": {
+   "name": "B4 · India's External Relations (6 marks)",
+   "tip": "Panchsheel (1954, Nehru and Zhou Enlai). War with China 1962; Tashkent Agreement (1966) after the 1965 war with Pakistan; first nuclear test at Pokhran in 1974.",
+   "ncert": "NCERT Politics in India since Independence (Class 12, 2026-27): Ch 4 India's External Relations"
+  },
+  "B5": {
+   "name": "B5 · Challenges to and Restoration of the Congress System (4 marks)",
+   "tip": "1967 elections: 'non-Congressism' (Ram Manohar Lohia). Congress split 1969. 1971: Indira Gandhi's 'Garibi Hatao' won a big majority.",
+   "ncert": "NCERT Politics in India since Independence (Class 12, 2026-27): Ch 5 Challenges to and Restoration of the Congress System"
+  },
+  "B6": {
+   "name": "B6 · The Crisis of Democratic Order (4 marks)",
+   "tip": "Emergency declared on 25 June 1975 under Article 352 (internal disturbance). After 1977, the Janata government set up the Shah Commission to inquire into the Emergency's excesses.",
+   "ncert": "NCERT Politics in India since Independence (Class 12, 2026-27): Ch 6 The Crisis of Democratic Order"
+  },
+  "B7": {
+   "name": "B7 · Regional Aspirations (6 marks)",
+   "tip": "Punjab: Rajiv Gandhi–Longowal Accord 1985. Mizoram: Mizo Accord 1986 (Laldenga), statehood 1987. Dravidian movement: E.V. Ramasami 'Periyar'. Jammu and Kashmir, Assam and the North-East.",
+   "ncert": "NCERT Politics in India since Independence (Class 12, 2026-27): Ch 7 Regional Aspirations"
+  },
+  "B8": {
+   "name": "B8 · Recent Developments in Indian Politics (8 marks)",
+   "tip": "From 1989: end of Congress dominance and the coalition era. Mandal Commission recommendations implemented in 1990 by the National Front government. Rise of the BJP. Growing consensus: new economic policy, OBC claims, role of state parties, pragmatism over ideology.",
+   "ncert": "NCERT Politics in India since Independence (Class 12, 2026-27): Ch 8 Recent Developments in Indian Politics"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "A1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Gorbachev's reform policies were known as:",
+   "answer": "A",
+   "explanation": "Perestroika = restructuring; glasnost = openness.",
+   "remediation": "A1 · The End of Bipolarity (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 1 The End of Bipolarity; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Perestroika and glasnost",
+    "Perestroika and the Marshall Plan",
+    "Shock therapy and détente",
+    "Glasnost and Panchsheel"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "A1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "'Shock therapy' in the post-communist countries meant:",
+   "answer": "D",
+   "explanation": "The model was influenced by the World Bank and the IMF.",
+   "remediation": "A1 · The End of Bipolarity (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 1 The End of Bipolarity; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "A gradual return to central planning",
+    "A military alliance with the USSR",
+    "Closing economies to foreign investment",
+    "A sudden, complete shift from an authoritarian socialist system to a democratic capitalist system"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "A1",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "In December 1991, which three republics declared that the Soviet Union was disbanded?",
+   "answer": "B",
+   "explanation": "Under Yeltsin, these three founded the CIS.",
+   "remediation": "A1 · The End of Bipolarity (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 1 The End of Bipolarity; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Ukraine, Armenia and Azerbaijan",
+    "Russia, Ukraine and Belarus",
+    "Estonia, Latvia and Lithuania",
+    "Russia, Kazakhstan and Georgia"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "A2",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "ASEAN was established in 1967 by:",
+   "answer": "C",
+   "explanation": "Indonesia, Malaysia, the Philippines, Singapore and Thailand.",
+   "remediation": "A2 · Contemporary Centres of Power (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 2 Contemporary Centres of Power; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Ten countries signing the Maastricht Treaty",
+    "The United Nations",
+    "Five countries of the region signing the Bangkok Declaration",
+    "India and China"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "A2",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The European Union was established in 1992 by the:",
+   "answer": "D",
+   "explanation": "The EU has a common currency, the euro.",
+   "remediation": "A2 · Contemporary Centres of Power (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 2 Contemporary Centres of Power; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Kyoto Protocol",
+    "Treaty of Versailles",
+    "Bangkok Declaration",
+    "Treaty of Maastricht"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "A2",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "China's rapid economic growth began after it adopted the 'open door' policy in:",
+   "answer": "A",
+   "explanation": "Deng Xiaoping announced the open door policy and economic reforms in 1978.",
+   "remediation": "A2 · Contemporary Centres of Power (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 2 Contemporary Centres of Power; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "1978",
+    "1991",
+    "1962",
+    "1949"
+   ]
+  },
+  {
+   "id": "q07",
+   "subtopic": "A3",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "SAARC was established in:",
+   "answer": "B",
+   "explanation": "SAARC, a regional initiative of South Asian states, began in 1985.",
+   "remediation": "A3 · Contemporary South Asia (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 3 Contemporary South Asia; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "1992",
+    "1985",
+    "2004",
+    "1967"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "A3",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Nepal became a democratic republic after abolishing the monarchy in:",
+   "answer": "C",
+   "explanation": "The monarchy was abolished in 2008.",
+   "remediation": "A3 · Contemporary South Asia (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 3 Contemporary South Asia; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "1990",
+    "1971",
+    "2008",
+    "2015"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "A3",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The LTTE in Sri Lanka demanded:",
+   "answer": "D",
+   "explanation": "The ethnic conflict led to the IPKF being sent in 1987.",
+   "remediation": "A3 · Contemporary South Asia (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 3 Contemporary South Asia; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Merger of Sri Lanka with India",
+    "Restoration of monarchy",
+    "Membership of the UN Security Council",
+    "A separate country for Tamils (Tamil Eelam)"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "A4",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Which of these is NOT a permanent member of the UN Security Council?",
+   "answer": "B",
+   "explanation": "Permanent five: US, UK, France, Russia and China.",
+   "remediation": "A4 · International Organizations (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 4 International Organisations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "China",
+    "Germany",
+    "Russia",
+    "France"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "A4",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "How many principal organs does the United Nations have?",
+   "answer": "6",
+   "explanation": "General Assembly, Security Council, Economic and Social Council, Trusteeship Council, International Court of Justice and Secretariat.",
+   "remediation": "A4 · International Organizations (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 4 International Organisations; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q12",
+   "subtopic": "A4",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The International Atomic Energy Agency (IAEA), set up in 1957, aims to:",
+   "answer": "C",
+   "explanation": "It inspects nuclear facilities to ensure peaceful use.",
+   "remediation": "A4 · International Organizations (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 4 International Organisations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Fund development projects in poor countries",
+    "Settle trade disputes",
+    "Promote the peaceful use of nuclear energy and prevent its military use",
+    "Run the UN's peacekeeping missions"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "A5",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Which is a component of traditional security policy?",
+   "answer": "A",
+   "explanation": "Traditional: deterrence, defence, balance of power and alliance building.",
+   "remediation": "A5 · Security in the Contemporary World (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 5 Security in the Contemporary World; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Balance of power",
+    "Global poverty reduction",
+    "Human security against epidemics",
+    "Protection against migration"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "A5",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The broadest idea of human security includes:",
+   "answer": "D",
+   "explanation": "It protects people, not just states, from hunger, disease and natural disasters as well as violence.",
+   "remediation": "A5 · Security in the Contemporary World (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 5 Security in the Contemporary World; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Only protection of rulers",
+    "Only nuclear deterrence",
+    "Only military defence of borders",
+    "Freedom from want and freedom from fear"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "A5",
+   "level": "L4",
+   "pattern": "T5",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; the wider range of threats in R is exactly why non-traditional security is broader than military security.",
+   "remediation": "A5 · Security in the Contemporary World (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 5 Security in the Contemporary World; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "Non-traditional security goes beyond military threats.",
+   "reason": "It deals with threats to human existence such as terrorism, epidemics, global poverty and migration.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "A6",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Agenda 21, a list of development practices, was adopted at the:",
+   "answer": "C",
+   "explanation": "The Rio Earth Summit recommended Agenda 21.",
+   "remediation": "A6 · Environment and Natural Resources (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 6 Environment and Natural Resources; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Kyoto conference, 1997",
+    "Maastricht meeting, 1992",
+    "Earth Summit in Rio de Janeiro, 1992",
+    "Bandung conference, 1955"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "A6",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Under the Kyoto Protocol (1997):",
+   "answer": "A",
+   "explanation": "Based on historical responsibility for emissions.",
+   "remediation": "A6 · Environment and Natural Resources (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 6 Environment and Natural Resources; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Industrialised countries got targets to cut greenhouse gases, while India and China were exempt",
+    "Every country, rich or poor, got the same targets",
+    "India got the highest reduction target",
+    "Only India and China got targets"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "A6",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The principle of 'common but differentiated responsibilities' means:",
+   "answer": "B",
+   "explanation": "Developed countries caused more pollution and have more resources.",
+   "remediation": "A6 · Environment and Natural Resources (6 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 6 Environment and Natural Resources; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Only developing countries must cut emissions",
+    "All states must protect the environment, but developed countries bear a greater responsibility",
+    "All countries have exactly the same obligations",
+    "No country is responsible for pollution"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "A7",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Globalisation as a concept fundamentally deals with:",
+   "answer": "B",
+   "explanation": "Flows of different kinds create worldwide interconnectedness.",
+   "remediation": "A7 · Globalisation (4 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 7 Globalisation; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Closing national borders",
+    "Flows of ideas, capital, commodities and people across the world",
+    "Only migration of workers",
+    "Only the movement of armies"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "A7",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "'Cultural homogenisation' as a consequence of globalisation refers to:",
+   "answer": "D",
+   "explanation": "Critics call it 'McDonaldisation'; heterogenisation is the opposite effect.",
+   "remediation": "A7 · Globalisation (4 marks): NCERT Contemporary World Politics (Class 12, 2026-27): Ch 7 Globalisation; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Revival of local folk traditions only",
+    "Every culture becoming isolated",
+    "Cultures mixing to create new forms",
+    "The spread of a dominant (Western) culture that makes cultures look alike"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "B1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "At independence, about how many princely states existed in British India's territory?",
+   "answer": "C",
+   "explanation": "There were 565 princely states.",
+   "remediation": "B1 · Challenges of Nation-Building (6 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 1 Challenges of Nation Building; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "965",
+    "265",
+    "565",
+    "65"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "B1",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The Nizam's state of Hyderabad became part of India in:",
+   "answer": "A",
+   "explanation": "The Nizam resisted; after military action in September 1948 Hyderabad joined India.",
+   "remediation": "B1 · Challenges of Nation-Building (6 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 1 Challenges of Nation Building; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "1948, after military action",
+    "1956, through the States Reorganisation Act",
+    "1947, by signing the Instrument of Accession on 15 August",
+    "1961, after a referendum"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "B1",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The States Reorganisation Act of 1956 led to the creation of:",
+   "answer": "B",
+   "explanation": "Based on the 1953 States Reorganisation Commission's report on linguistic lines.",
+   "remediation": "B1 · Challenges of Nation-Building (6 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 1 Challenges of Nation Building; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "28 states and 8 union territories",
+    "14 states and 6 union territories",
+    "29 states",
+    "10 states and 10 union territories"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "B2",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "India's first Chief Election Commissioner, who conducted the first general election, was:",
+   "answer": "C",
+   "explanation": "The first election was held in 1951-52.",
+   "remediation": "B2 · Era of One-Party Dominance (4 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 2 Era of One-Party Dominance; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "B.R. Ambedkar",
+    "C. Rajagopalachari",
+    "Sukumar Sen",
+    "T.N. Seshan"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "B2",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The Congress was dominant in the first decades after independence partly because it was:",
+   "answer": "A",
+   "explanation": "It brought together revolutionaries and pacifists, conservatives and radicals, and many social groups.",
+   "remediation": "B2 · Era of One-Party Dominance (4 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 2 Era of One-Party Dominance; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "A social and ideological coalition that accommodated diverse groups and views",
+    "Funded by foreign governments",
+    "The only party allowed by law",
+    "A party of one region only"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "B3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Second Five Year Plan, which stressed heavy industries, was drafted under:",
+   "answer": "D",
+   "explanation": "Mahalanobis, a statistician, led the drafting.",
+   "remediation": "B3 · Politics of Planned Development (2 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 3 Politics of Planned Development; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "K.N. Raj",
+    "J.C. Kumarappa",
+    "Verghese Kurien",
+    "P.C. Mahalanobis"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "B4",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Panchsheel agreement was signed in 1954 between:",
+   "answer": "A",
+   "explanation": "The five principles of peaceful coexistence between India and China.",
+   "remediation": "B4 · India's External Relations (6 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 4 India's External Relations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Jawaharlal Nehru and Zhou Enlai",
+    "Indira Gandhi and Zulfikar Ali Bhutto",
+    "Nehru and Liaquat Ali Khan",
+    "Lal Bahadur Shastri and Ayub Khan"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "B4",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "India conducted its first nuclear explosion at Pokhran in:",
+   "answer": "C",
+   "explanation": "May 1974; further tests followed in 1998.",
+   "remediation": "B4 · India's External Relations (6 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 4 India's External Relations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "1998",
+    "1971",
+    "1974",
+    "1962"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "B4",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The Tashkent Agreement of 1966, which ended the 1965 war, was signed by:",
+   "answer": "D",
+   "explanation": "The Soviet Union mediated the agreement.",
+   "remediation": "B4 · India's External Relations (6 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 4 India's External Relations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Indira Gandhi and Zulfikar Ali Bhutto",
+    "Atal Bihari Vajpayee and Nawaz Sharif",
+    "Jawaharlal Nehru and Liaquat Ali Khan",
+    "Lal Bahadur Shastri and Ayub Khan"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "B5",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The slogan 'Garibi Hatao' was used in the 1971 elections by:",
+   "answer": "B",
+   "explanation": "It helped the Congress (R) win a big victory.",
+   "remediation": "B5 · Challenges to and Restoration of the Congress System (4 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 5 Challenges to and Restoration of the Congress System; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Morarji Desai",
+    "Indira Gandhi",
+    "Jayaprakash Narayan",
+    "Ram Manohar Lohia"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "B5",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The strategy of 'non-Congressism' before the 1967 elections was associated with:",
+   "answer": "C",
+   "explanation": "Lohia argued that opposition parties should come together to end Congress dominance.",
+   "remediation": "B5 · Challenges to and Restoration of the Congress System (4 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 5 Challenges to and Restoration of the Congress System; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "K. Kamaraj",
+    "Indira Gandhi",
+    "Ram Manohar Lohia",
+    "Jawaharlal Nehru"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "B6",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The national emergency of 25 June 1975 was declared on the ground of:",
+   "answer": "D",
+   "explanation": "Article 352 allowed an emergency on the ground of 'internal disturbance'.",
+   "remediation": "B6 · The Crisis of Democratic Order (4 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 6 The Crisis of Democratic Order; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Financial crisis, under Article 360",
+    "Failure of a state government, under Article 356",
+    "External aggression, under Article 356",
+    "Internal disturbance, under Article 352"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "B6",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "After the 1977 elections, the Janata government set up the Shah Commission to:",
+   "answer": "A",
+   "explanation": "It was headed by Justice J.C. Shah.",
+   "remediation": "B6 · The Crisis of Democratic Order (4 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 6 The Crisis of Democratic Order; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Inquire into the excesses committed during the Emergency",
+    "Recommend reservations for OBCs",
+    "Draft the Five Year Plans",
+    "Reorganise states on linguistic lines"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "B7",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Punjab Accord of 1985 was signed between Rajiv Gandhi and:",
+   "answer": "B",
+   "explanation": "It aimed to bring normalcy to Punjab.",
+   "remediation": "B7 · Regional Aspirations (6 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 7 Regional Aspirations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Sheikh Abdullah",
+    "Harchand Singh Longowal",
+    "Prafulla Kumar Mahanta",
+    "Laldenga"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "B7",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Mizo Accord of 1986 was signed between Rajiv Gandhi and:",
+   "answer": "C",
+   "explanation": "Mizoram became a full state in 1987.",
+   "remediation": "B7 · Regional Aspirations (6 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 7 Regional Aspirations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Phizo",
+    "Sheikh Abdullah",
+    "Laldenga",
+    "Longowal"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "B7",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "What does the Mizoram experience suggest about regional demands in a democracy?",
+   "answer": "B",
+   "explanation": "After two decades of insurgency, the accord turned Mizoram into one of the most peaceful states.",
+   "remediation": "B7 · Regional Aspirations (6 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 7 Regional Aspirations; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Accords always fail",
+    "Negotiation and accommodation within the Constitution can resolve even secessionist movements",
+    "Statehood never satisfies regional aspirations",
+    "Regional demands can only be ended by force"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "B8",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The recommendations of the Mandal Commission were implemented in 1990 by the:",
+   "answer": "D",
+   "explanation": "V.P. Singh's National Front government announced OBC reservations in central government jobs.",
+   "remediation": "B8 · Recent Developments in Indian Politics (8 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 8 Recent Developments in Indian Politics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Congress government of 1984",
+    "Janata Party government of 1977",
+    "NDA government of 1999",
+    "National Front government"
+   ]
+  },
+  {
+   "id": "q38",
+   "subtopic": "B8",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "The year 1989 is significant in Indian politics because it marked:",
+   "answer": "A",
+   "explanation": "From 1989 no single party won a majority until 2014.",
+   "remediation": "B8 · Recent Developments in Indian Politics (8 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 8 Recent Developments in Indian Politics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The end of Congress dominance and the start of the era of coalition governments",
+    "The declaration of Emergency",
+    "The creation of the Planning Commission",
+    "The first general election"
+   ]
+  },
+  {
+   "id": "q39",
+   "subtopic": "B8",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Which pair of governments formed after 1998 were coalitions led by national parties?",
+   "answer": "D",
+   "explanation": "Coalitions became the norm: NDA from 1998 and UPA from 2004.",
+   "remediation": "B8 · Recent Developments in Indian Politics (8 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 8 Recent Developments in Indian Politics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Swatantra and Bharatiya Jana Sangh",
+    "Janata Party and National Front",
+    "United Front and Janata Dal",
+    "NDA (led by BJP) and UPA (led by Congress)"
+   ]
+  },
+  {
+   "id": "q40",
+   "subtopic": "B8",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Which of these is part of the growing consensus among most parties since the 1990s?",
+   "answer": "B",
+   "explanation": "Consensus areas: new economic policy, social and political claims of OBCs, role of state parties, pragmatism over ideology.",
+   "remediation": "B8 · Recent Developments in Indian Politics (8 marks): NCERT Politics in India since Independence (Class 12, 2026-27): Ch 8 Recent Developments in Indian Politics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Return to one-party rule",
+    "Agreement on the new economic policies",
+    "Ending all reservations",
+    "Abolition of all state parties"
+   ]
+  }
+ ],
+ "class": "12",
+ "subject": "Political Science (028)",
+ "board": "CBSE",
+ "links": [
+  {
+   "label": "Blueprint PDF (free)",
+   "url": "https://drive.google.com/file/d/1rTwU_NBpyegEfm5jE_GuA7h8njIGRKz5/view?usp=drive_link"
+  }
+ ],
+ "subtopic_label": "chapter"
+}

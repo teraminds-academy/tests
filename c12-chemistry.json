@@ -1,0 +1,708 @@
+{
+ "schema": 1,
+ "id": "c12-chemistry",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 12 Chemistry (043) · all ten units, weighted by the 2026-27 theory marks",
+ "short_title": "Class 12 Chemistry (043) · Board-pattern readiness test",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written for Teraminds Academy from the NCERT textbooks prescribed for 2026-27, modelled on the most-repeated question types in CBSE board papers 2023–26 and the Sample Question Paper 2026-27 (see our Board Blueprint). A board-pattern readiness test for practice only: not a prediction of any exam and no promise of marks.",
+ "instructions": "37 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (no units).",
+ "suggested_minutes": 45,
+ "video_url": "https://youtube.com/shorts/vL2QcHNANo8",
+ "worksheet_url": "https://drive.google.com/file/d/1qmLXR7nuyKgcta5UQizjJQrp9yZ2VYbY/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Colligative property numerical",
+  "T2": "Raoult's law, deviations, azeotropes",
+  "T3": "Nernst / Faraday numerical",
+  "T4": "Conductance and Kohlrausch's law",
+  "T5": "First-order kinetics numerical",
+  "T6": "Order, rate law, units of k",
+  "T7": "Transition metals: explain-why",
+  "T8": "Lanthanoid contraction",
+  "T9": "IUPAC naming of complexes",
+  "T10": "VBT / CFT: magnetism, shape",
+  "T11": "Isomerism in complexes",
+  "T12": "SN1 vs SN2, reactivity",
+  "T13": "Named reactions",
+  "T14": "Acidity order",
+  "T15": "Distinguish by chemical test",
+  "T16": "Basicity of amines",
+  "T17": "Biomolecule structure and function"
+ },
+ "subtopics": {
+  "U1": {
+   "name": "Solutions (7 marks)",
+   "tip": "Colligative numericals: ΔT_f = iK_f m, ΔT_b = iK_b m, π = iCRT; molar mass M = K_f × w × 1000/(ΔT_f × W). i = number of ions on complete dissociation. Positive deviation → minimum-boiling azeotrope (ethanol–water). Osmotic pressure suits proteins and polymers.",
+   "ncert": "NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 1 Solutions"
+  },
+  "U2": {
+   "name": "Electrochemistry (9 marks)",
+   "tip": "Nernst: E = E° − (0.059/n) log Q at 298 K. Λm unit S cm² mol⁻¹; weak electrolytes: Λm rises steeply on dilution (α increases), so use Kohlrausch: Λ°(CH₃COOH) = Λ°(HCl) + Λ°(CH₃COONa) − Λ°(NaCl). Faraday: moles of metal = charge (F) ÷ n.",
+   "ncert": "NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 2 Electrochemistry"
+  },
+  "U3": {
+   "name": "Chemical Kinetics (7 marks)",
+   "tip": "First order: t½ = 0.693/k, unit of k = s⁻¹; 75% done = 2 half-lives. Rate law exponents come from experiment: rate = k[A]ˣ[B]ʸ. Pseudo first order when one reactant is in large excess (ester hydrolysis in water).",
+   "ncert": "NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 3 Chemical Kinetics"
+  },
+  "U4": {
+   "name": "d- and f-Block Elements (7 marks)",
+   "tip": "Spin-only μ = √(n(n + 2)) BM (Mn²⁺ d⁵ → 5.92). Zn, Cd, Hg: full d¹⁰ in ground state and common oxidation state, so not typical transition metals. Lanthanoid contraction makes Zr and Hf almost the same size.",
+   "ncert": "NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 4 The d- and f-Block Elements"
+  },
+  "U5": {
+   "name": "Coordination Compounds (7 marks)",
+   "tip": "IUPAC: ligands alphabetically, then metal with oxidation state in Roman numerals. CN⁻ is a strong-field ligand → low spin ([Fe(CN)₆]³⁻ has 1 unpaired e⁻; [Ni(CN)₄]²⁻ is dsp², square planar, diamagnetic). NO₂⁻ / ONO⁻ → linkage isomers.",
+   "ncert": "NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 5 Coordination Compounds"
+  },
+  "U6": {
+   "name": "Haloalkanes and Haloarenes (6 marks)",
+   "tip": "SN2: CH₃X > 1° > 2° > 3°, one step, inversion. SN1: 3° fastest, racemisation. Finkelstein: R–Cl/Br + NaI in dry acetone → R–I. Haloarenes resist nucleophilic substitution: C–X has partial double-bond character (resonance).",
+   "ncert": "NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 6 Haloalkanes and Haloarenes"
+  },
+  "U7": {
+   "name": "Alcohols, Phenols and Ethers (6 marks)",
+   "tip": "Acidity: o/p-nitrophenol > phenol > alcohols (−NO₂ stabilises phenoxide). Reimer-Tiemann: phenol + CHCl₃/NaOH → salicylaldehyde. Williamson: use the bulky alkoxide with a primary (methyl) halide; a 3° halide gives elimination.",
+   "ncert": "NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 7 Alcohols, Phenols and Ethers"
+  },
+  "U8": {
+   "name": "Aldehydes, Ketones and Carboxylic Acids (8 marks)",
+   "tip": "Clemmensen (Zn-Hg/HCl) and Wolff-Kishner turn C=O into CH₂. Iodoform test needs CH₃CO– (or CH₃CH(OH)–). Tollens' test separates aldehydes (incl. benzaldehyde) from ketones. Cannizzaro needs an aldehyde with no α-H. Electron-withdrawing groups raise acid strength (FCH₂COOH strongest).",
+   "ncert": "NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 8 Aldehydes, Ketones and Carboxylic Acids"
+  },
+  "U9": {
+   "name": "Amines (6 marks)",
+   "tip": "Basicity in water (ethyl series): 2° > 3° > 1° > NH₃. Hofmann bromamide: amide → amine with one carbon less. Aniline gives no Friedel-Crafts reaction: it forms a salt with AlCl₃. Carbylamine test = 1° amines only.",
+   "ncert": "NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 9 Amines"
+  },
+  "U10": {
+   "name": "Biomolecules (7 marks)",
+   "tip": "Glucose + HI → n-hexane (six-carbon straight chain). DNA: deoxyribose, A G C T; RNA: ribose, A G C U. Denaturation destroys 2° and 3° structure but keeps the 1° sequence. Vitamin C deficiency → scurvy; D → rickets.",
+   "ncert": "NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 10 Biomolecules"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "U1",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "2 g of a non-electrolyte dissolved in 100 g of benzene lowers its freezing point by 0.512 K. K_f of benzene is 5.12 K kg mol⁻¹. Find the molar mass of the solute, in g mol⁻¹.",
+   "answer": "200",
+   "explanation": "M = K_f × w × 1000/(ΔT_f × W) = 5.12 × 2 × 1000/(0.512 × 100) = 200 g mol⁻¹.",
+   "remediation": "Solutions (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 1 Solutions; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q02",
+   "subtopic": "U1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "What is the van 't Hoff factor i for K₂SO₄, assuming complete dissociation in water?",
+   "answer": "3",
+   "explanation": "K₂SO₄ → 2K⁺ + SO₄²⁻: three ions, so i = 3.",
+   "remediation": "Solutions (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 1 Solutions; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q03",
+   "subtopic": "U1",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "A mixture of ethanol and water shows:",
+   "answer": "A",
+   "explanation": "Ethanol–water shows large positive deviation; about 95% ethanol forms a minimum-boiling azeotrope.",
+   "remediation": "Solutions (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 1 Solutions; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Positive deviation from Raoult's law and forms a minimum-boiling azeotrope",
+    "Ideal behaviour",
+    "Negative deviation and forms a maximum-boiling azeotrope",
+    "Positive deviation and forms a maximum-boiling azeotrope"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "U1",
+   "level": "L4",
+   "pattern": "T1",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; biomolecules are unstable at high temperature and polymers are poorly soluble, so a room-temperature method with a measurable effect is ideal.",
+   "remediation": "Solutions (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 1 Solutions; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "The osmotic pressure method is preferred for finding molar masses of proteins and polymers.",
+   "reason": "Osmotic pressure is measured at room temperature and is large enough to measure even for very dilute solutions.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "U2",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The unit of molar conductivity commonly used in NCERT tables is:",
+   "answer": "C",
+   "explanation": "Λm = κ/c, so S cm⁻¹ ÷ mol cm⁻³ = S cm² mol⁻¹.",
+   "remediation": "Electrochemistry (9 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 2 Electrochemistry; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "S cm⁻¹",
+    "Ω cm",
+    "S cm² mol⁻¹",
+    "S mol L⁻¹"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "U2",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "How many moles of copper are deposited at the cathode when 4 faradays of charge pass through CuSO₄ solution?",
+   "answer": "2",
+   "explanation": "Cu²⁺ + 2e⁻ → Cu: 2 F deposit 1 mol, so 4 F deposit 2 mol.",
+   "remediation": "Electrochemistry (9 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 2 Electrochemistry; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q07",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "For a cell reaction with n = 2, E°cell = 0.300 V and the reaction quotient Q = 100 at 298 K. Using E = E° − (0.059/n) log Q, find E_cell in millivolts.",
+   "answer": "241",
+   "explanation": "E = 0.300 − (0.059/2) × log 100 = 0.300 − 0.0295 × 2 = 0.241 V = 241 mV.",
+   "remediation": "Electrochemistry (9 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 2 Electrochemistry; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q08",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Λ°m for HCl, CH₃COONa and NaCl are 425.9, 91.0 and 126.4 S cm² mol⁻¹. Λ°m for CH₃COOH is:",
+   "answer": "B",
+   "explanation": "Kohlrausch: Λ°(CH₃COOH) = Λ°(HCl) + Λ°(CH₃COONa) − Λ°(NaCl) = 425.9 + 91.0 − 126.4 = 390.5.",
+   "remediation": "Electrochemistry (9 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 2 Electrochemistry; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "461.3 S cm² mol⁻¹",
+    "390.5 S cm² mol⁻¹",
+    "643.3 S cm² mol⁻¹",
+    "208.5 S cm² mol⁻¹"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "U2",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; more ions per mole on dilution (R) is why Λm rises steeply (A).",
+   "remediation": "Electrochemistry (9 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 2 Electrochemistry; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "The molar conductivity of a weak electrolyte such as acetic acid rises steeply on dilution.",
+   "reason": "The degree of dissociation of a weak electrolyte increases on dilution.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "U3",
+   "level": "L1",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "The unit of the rate constant of a first-order reaction is:",
+   "answer": "D",
+   "explanation": "For first order, k = rate/[A], so (mol L⁻¹ s⁻¹)/(mol L⁻¹) = s⁻¹.",
+   "remediation": "Chemical Kinetics (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 3 Chemical Kinetics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "mol⁻¹ L s",
+    "mol L⁻¹ s⁻¹",
+    "L mol⁻¹ s⁻¹",
+    "s⁻¹"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "A first-order reaction has k = 0.0693 min⁻¹. What is its half-life, in minutes?",
+   "answer": "10",
+   "explanation": "t½ = 0.693/k = 0.693/0.0693 = 10 min.",
+   "remediation": "Chemical Kinetics (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 3 Chemical Kinetics; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q12",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "The half-life of a first-order reaction is 20 min. How long (in minutes) does it take for 75% of the reactant to be used up?",
+   "answer": "40",
+   "explanation": "75% used = 25% left = (1/2)², i.e. 2 half-lives = 40 min.",
+   "remediation": "Chemical Kinetics (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 3 Chemical Kinetics; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q13",
+   "subtopic": "U3",
+   "level": "L4",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "For the rate law rate = k[A][B]², [A] is halved and [B] is doubled. By what factor does the rate change?",
+   "answer": "2",
+   "explanation": "New rate = k(½[A])(2[B])² = ½ × 4 = 2 times the old rate.",
+   "remediation": "Chemical Kinetics (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 3 Chemical Kinetics; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q14",
+   "subtopic": "U4",
+   "level": "L1",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Zn, Cd and Hg are not regarded as typical transition elements because:",
+   "answer": "C",
+   "explanation": "d¹⁰ in the atom and in M²⁺, so no partly filled d orbitals.",
+   "remediation": "d- and f-Block Elements (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 4 The d- and f-Block Elements; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "They have no d electrons at all",
+    "They are non-metals",
+    "They have completely filled d orbitals in the ground state and in their common oxidation states",
+    "They show many oxidation states"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "U4",
+   "level": "L2",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "The spin-only magnetic moment of Mn²⁺ (Z of Mn = 25) is about:",
+   "answer": "A",
+   "explanation": "Mn²⁺ is 3d⁵: n = 5 unpaired, μ = √(5 × 7) = √35 ≈ 5.92 BM.",
+   "remediation": "d- and f-Block Elements (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 4 The d- and f-Block Elements; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "5.92 BM",
+    "1.73 BM",
+    "4.90 BM",
+    "3.87 BM"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "U4",
+   "level": "L3",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Zirconium (4d) and hafnium (5d) have almost identical atomic radii because of:",
+   "answer": "D",
+   "explanation": "The poor shielding of 4f electrons cancels the expected size increase from Zr to Hf.",
+   "remediation": "d- and f-Block Elements (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 4 The d- and f-Block Elements; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Hydrogen bonding",
+    "Actinoid contraction",
+    "Inert pair effect",
+    "Lanthanoid contraction"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "U5",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "The IUPAC name of [Co(NH₃)₅Cl]Cl₂ is:",
+   "answer": "B",
+   "explanation": "Ligands alphabetical (ammine before chlorido); Co: x − 1 = +2 → x = +3.",
+   "remediation": "Coordination Compounds (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 5 Coordination Compounds; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Chloridopentaamminecobalt(III) chloride",
+    "Pentaamminechloridocobalt(III) chloride",
+    "Pentaamminecobalt(III) chloride",
+    "Pentaamminechloridocobalt(II) chloride"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "U5",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "numeric",
+   "question": "How many unpaired electrons are there in [Fe(CN)₆]³⁻?",
+   "answer": "1",
+   "explanation": "Fe³⁺ is 3d⁵; CN⁻ is strong field, so low spin t₂g⁵: one unpaired electron.",
+   "remediation": "Coordination Compounds (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 5 Coordination Compounds; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q19",
+   "subtopic": "U5",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "Which complex is square planar and diamagnetic?",
+   "answer": "B",
+   "explanation": "Ni²⁺ (d⁸) with strong-field CN⁻ pairs up electrons: dsp², square planar, no unpaired electrons. [NiCl₄]²⁻ is tetrahedral and paramagnetic.",
+   "remediation": "Coordination Compounds (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 5 Coordination Compounds; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "[NiCl₄]²⁻",
+    "[Ni(CN)₄]²⁻",
+    "[CoF₆]³⁻",
+    "[Fe(H₂O)₆]²⁺"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "U5",
+   "level": "L4",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "[Co(NH₃)₅(NO₂)]Cl₂ and [Co(NH₃)₅(ONO)]Cl₂ are:",
+   "answer": "A",
+   "explanation": "The ambidentate NO₂⁻ binds through N (nitro) in one and O (nitrito) in the other.",
+   "remediation": "Coordination Compounds (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 5 Coordination Compounds; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Linkage isomers",
+    "Optical isomers",
+    "Coordination isomers",
+    "Ionisation isomers"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "U6",
+   "level": "L1",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "R–Cl + NaI in dry acetone → R–I + NaCl. This is the:",
+   "answer": "D",
+   "explanation": "Halide exchange with NaI in dry acetone is the Finkelstein reaction (NaCl precipitates).",
+   "remediation": "Haloalkanes and Haloarenes (6 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 6 Haloalkanes and Haloarenes; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Sandmeyer reaction",
+    "Swarts reaction",
+    "Wurtz reaction",
+    "Finkelstein reaction"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "U6",
+   "level": "L2",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "Which compound reacts fastest by the SN2 mechanism?",
+   "answer": "C",
+   "explanation": "SN2 is fastest for the least hindered carbon: methyl > 1° > 2° > 3°.",
+   "remediation": "Haloalkanes and Haloarenes (6 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 6 Haloalkanes and Haloarenes; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "CH₃CH₂CH(Br)CH₃",
+    "(CH₃)₃CBr",
+    "CH₃Br",
+    "(CH₃)₂CHBr"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "U6",
+   "level": "L4",
+   "pattern": "T12",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "B",
+   "explanation": "Both statements are true, but insolubility does not explain the low reactivity. The reason is resonance: the C–X bond gets partial double-bond character (also sp² carbon, electron repulsion).",
+   "remediation": "Haloalkanes and Haloarenes (6 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 6 Haloalkanes and Haloarenes; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "Haloarenes are less reactive than haloalkanes towards nucleophilic substitution.",
+   "reason": "Haloarenes are only very slightly soluble in water.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "U7",
+   "level": "L2",
+   "pattern": "T14",
+   "type": "mcq",
+   "question": "Which is the correct order of acid strength?",
+   "answer": "B",
+   "explanation": "−NO₂ at para stabilises the phenoxide ion; alcohols are weaker acids than phenol.",
+   "remediation": "Alcohols, Phenols and Ethers (6 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 7 Alcohols, Phenols and Ethers; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Phenol > p-nitrophenol > ethanol",
+    "p-Nitrophenol > phenol > ethanol",
+    "Ethanol > phenol > p-nitrophenol",
+    "Phenol > ethanol > p-nitrophenol"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "U7",
+   "level": "L1",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "Phenol treated with chloroform and aqueous NaOH, followed by acid, gives:",
+   "answer": "C",
+   "explanation": "Reimer-Tiemann reaction introduces –CHO at the ortho position.",
+   "remediation": "Alcohols, Phenols and Ethers (6 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 7 Alcohols, Phenols and Ethers; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Benzoic acid",
+    "Anisole",
+    "Salicylaldehyde",
+    "Salicylic acid"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "U7",
+   "level": "L4",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "Which pair of reactants is best for preparing tert-butyl methyl ether by Williamson synthesis?",
+   "answer": "A",
+   "explanation": "A 3° halide with a strong base gives elimination (an alkene); the SN2 route needs the primary (methyl) halide.",
+   "remediation": "Alcohols, Phenols and Ethers (6 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 7 Alcohols, Phenols and Ethers; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Sodium tert-butoxide and methyl bromide",
+    "Methyl bromide and tert-butyl bromide with sodium",
+    "tert-Butyl alcohol and methanol with conc. H₂SO₄ at 413 K",
+    "tert-Butyl bromide and sodium methoxide"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "U8",
+   "level": "L1",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "Reduction of a ketone's C=O group to CH₂ with zinc amalgam and concentrated HCl is the:",
+   "answer": "D",
+   "explanation": "Zn-Hg/conc. HCl: Clemmensen; NH₂NH₂/KOH in glycol: Wolff-Kishner.",
+   "remediation": "Aldehydes, Ketones and Carboxylic Acids (8 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 8 Aldehydes, Ketones and Carboxylic Acids; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Aldol condensation",
+    "Rosenmund reduction",
+    "Cannizzaro reaction",
+    "Clemmensen reduction"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "U8",
+   "level": "L2",
+   "pattern": "T15",
+   "type": "mcq",
+   "question": "Which compound gives a positive iodoform test?",
+   "answer": "D",
+   "explanation": "The test needs a CH₃CO– group; acetone (propan-2-one) has it.",
+   "remediation": "Aldehydes, Ketones and Carboxylic Acids (8 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 8 Aldehydes, Ketones and Carboxylic Acids; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Propanal",
+    "Benzaldehyde",
+    "Pentan-3-one",
+    "Propan-2-one"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "U8",
+   "level": "L3",
+   "pattern": "T14",
+   "type": "mcq",
+   "question": "Which is the strongest acid?",
+   "answer": "B",
+   "explanation": "F is the most electronegative, so it stabilises the carboxylate ion most.",
+   "remediation": "Aldehydes, Ketones and Carboxylic Acids (8 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 8 Aldehydes, Ketones and Carboxylic Acids; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "CH₃COOH",
+    "FCH₂COOH",
+    "CH₃CH₂COOH",
+    "ClCH₂COOH"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "U8",
+   "level": "L4",
+   "pattern": "T15",
+   "type": "mcq",
+   "question": "Which test distinguishes benzaldehyde from acetophenone?",
+   "answer": "A",
+   "explanation": "Aldehydes reduce Tollens' reagent; ketones do not. (Acetophenone gives the iodoform test; benzaldehyde does not.)",
+   "remediation": "Aldehydes, Ketones and Carboxylic Acids (8 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 8 Aldehydes, Ketones and Carboxylic Acids; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Tollens' test: benzaldehyde gives a silver mirror",
+    "Iodoform test: benzaldehyde gives a yellow precipitate",
+    "Both give a silver mirror with Tollens' reagent",
+    "Sodium bicarbonate test: acetophenone gives effervescence"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "U9",
+   "level": "L1",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "The carbylamine test (CHCl₃ + alcoholic KOH, foul smell) is given by:",
+   "answer": "C",
+   "explanation": "Only 1° amines (aliphatic and aromatic) form isocyanides.",
+   "remediation": "Amines (6 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 9 Amines; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Tertiary amines",
+    "Amides",
+    "Primary amines",
+    "Secondary amines"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "U9",
+   "level": "L3",
+   "pattern": "T16",
+   "type": "mcq",
+   "question": "The correct order of basic strength in aqueous solution is:",
+   "answer": "A",
+   "explanation": "In water, inductive effect, solvation and steric hindrance together give 2° > 3° > 1° for the ethyl series.",
+   "remediation": "Amines (6 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 9 Amines; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "(C₂H₅)₂NH > (C₂H₅)₃N > C₂H₅NH₂ > NH₃",
+    "NH₃ > C₂H₅NH₂ > (C₂H₅)₂NH > (C₂H₅)₃N",
+    "(C₂H₅)₃N > (C₂H₅)₂NH > C₂H₅NH₂ > NH₃",
+    "C₂H₅NH₂ > (C₂H₅)₂NH > (C₂H₅)₃N > NH₃"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "U9",
+   "level": "L4",
+   "pattern": "T16",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; the Lewis acid catalyst reacts with the basic –NH₂ group, so R explains A.",
+   "remediation": "Amines (6 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 9 Amines; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "Aniline does not undergo the Friedel-Crafts reaction.",
+   "reason": "Aniline forms a salt with AlCl₃, which puts a positive charge on nitrogen and deactivates the ring.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "U10",
+   "level": "L1",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "Deficiency of vitamin C causes:",
+   "answer": "C",
+   "explanation": "Vitamin C: scurvy; D: rickets; B₁: beri-beri; A: night blindness.",
+   "remediation": "Biomolecules (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 10 Biomolecules; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Rickets",
+    "Night blindness",
+    "Scurvy",
+    "Beri-beri"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "U10",
+   "level": "L2",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "On prolonged heating with HI, glucose gives n-hexane. This shows that:",
+   "answer": "D",
+   "explanation": "Formation of n-hexane proves an unbranched six-carbon chain.",
+   "remediation": "Biomolecules (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 10 Biomolecules; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Glucose has a ketone group",
+    "Glucose exists only in a cyclic form",
+    "Glucose has five –OH groups",
+    "All six carbon atoms of glucose are in a straight chain"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "U10",
+   "level": "L2",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "Which base is present in RNA but not in DNA?",
+   "answer": "B",
+   "explanation": "DNA has A, G, C, T; RNA has A, G, C, U.",
+   "remediation": "Biomolecules (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 10 Biomolecules; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Guanine",
+    "Uracil",
+    "Thymine",
+    "Adenine"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "U10",
+   "level": "L4",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "When egg white is boiled, the protein coagulates. Which level of protein structure survives?",
+   "answer": "C",
+   "explanation": "Denaturation breaks the H-bonds holding 2° and 3° structures; the peptide-bond sequence (1°) stays intact.",
+   "remediation": "Biomolecules (7 marks): NCERT Chemistry Part I/II (Class 12, 2026-27): Unit 10 Biomolecules; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "All structures are destroyed",
+    "Secondary structure",
+    "Primary structure",
+    "Tertiary structure"
+   ]
+  }
+ ],
+ "class": "12",
+ "subject": "Chemistry (043)",
+ "board": "CBSE",
+ "links": [
+  {
+   "label": "Watch the Blueprint Short",
+   "url": "https://youtube.com/shorts/vL2QcHNANo8"
+  },
+  {
+   "label": "Blueprint PDF (free)",
+   "url": "https://drive.google.com/file/d/1qmLXR7nuyKgcta5UQizjJQrp9yZ2VYbY/view?usp=drive_link"
+  }
+ ],
+ "subtopic_label": "unit"
+}

@@ -1,0 +1,688 @@
+{
+ "schema": 1,
+ "id": "c12-economics",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 12 Economics (030) · all eight units, weighted by the 2026-27 theory marks",
+ "short_title": "Class 12 Economics (030) · Board-pattern readiness test",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written for Teraminds Academy from the NCERT textbooks prescribed for 2026-27, modelled on the most-repeated question types in CBSE board papers 2023–26 and the Sample Question Paper 2026-27 (see our Board Blueprint). A board-pattern readiness test for practice only: not a prediction of any exam and no promise of marks.",
+ "instructions": "37 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (no commas or ₹ needed).",
+ "suggested_minutes": 40,
+ "video_url": "https://youtube.com/shorts/UA9Iilvk3b8",
+ "worksheet_url": "https://drive.google.com/file/d/1xXSUcC1-ipHtK8GhxJoKhK06FMnPBP2D/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "National income numerical",
+  "T2": "National income concepts",
+  "T3": "Money creation / multiplier",
+  "T4": "RBI and credit control",
+  "T5": "Investment multiplier numerical",
+  "T6": "Equilibrium income",
+  "T7": "Excess / deficient demand",
+  "T8": "Budget receipts and deficits",
+  "T9": "BoP accounts",
+  "T10": "Exchange rate",
+  "T11": "Planning, industry, agriculture (1950-90)",
+  "T12": "Reforms since 1991",
+  "T13": "Human capital",
+  "T14": "Rural development",
+  "T15": "Employment",
+  "T16": "Sustainable development",
+  "T17": "India–China–Pakistan comparison"
+ },
+ "subtopics": {
+  "U1": {
+   "name": "A1 · National Income and Related Aggregates (10 marks)",
+   "tip": "NNP_FC = GDP_MP − depreciation + NFIA − net indirect taxes. Value added = value of output (sales + change in stock) − intermediate consumption. Real GDP = nominal GDP ÷ price index × 100. Count final goods only. GDP is not a full welfare index: distribution, non-monetary exchanges and externalities.",
+   "ncert": "NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 2 National Income Accounting"
+  },
+  "U2": {
+   "name": "A2 · Money and Banking (6 marks)",
+   "tip": "Money multiplier = 1/LRR; total deposits = initial deposit × 1/LRR. Repo rate = rate at which RBI lends to commercial banks. To curb inflation: raise CRR/repo, sell securities (OMO).",
+   "ncert": "NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 3 Money and Banking"
+  },
+  "U3": {
+   "name": "A3 · Determination of Income and Employment (12 marks)",
+   "tip": "MPC + MPS = 1; k = 1/(1 − MPC) = 1/MPS; ΔY = k × ΔI. Equilibrium: Y = C + I, so with C = c̄ + bY, Y = (c̄ + I)/(1 − b). Deficient demand: raise spending, cut repo/bank rate.",
+   "ncert": "NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 4 Determination of Income and Employment"
+  },
+  "U4": {
+   "name": "A4 · Government Budget and the Economy (6 marks)",
+   "tip": "Capital receipts create a liability or reduce assets (borrowing, disinvestment). Fiscal deficit = total expenditure − (revenue receipts + non-debt capital receipts); primary deficit = fiscal deficit − interest payments; revenue deficit = revenue expenditure − revenue receipts.",
+   "ncert": "NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 5 Government Budget and the Economy"
+  },
+  "U5": {
+   "name": "A5 · Balance of Payments (6 marks)",
+   "tip": "Current account: goods, services, transfers, income. Capital account: FDI, portfolio investment, loans. Accommodating items (reserve changes) cover a BoP gap. Depreciation of the rupee makes Indian exports cheaper abroad.",
+   "ncert": "NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 6 Open Economy Macroeconomics"
+  },
+  "U6": {
+   "name": "B6 · Development Experience (1947-90) and Reforms since 1991 (12 marks)",
+   "tip": "On the eve of independence India exported raw materials and imported finished goods; Britain controlled over half its trade. Plan goals: growth, modernisation, self-reliance, equity. IPR 1956: three categories of industries. Green Revolution: HYV seeds + fertilisers + irrigation. 1991 reforms followed a foreign-exchange (BoP) crisis.",
+   "ncert": "NCERT Indian Economic Development (Class 12, 2026-27): Ch 1 Indian Economy on the Eve of Independence, Ch 2 Indian Economy 1950-1990, Ch 3 Liberalisation, Privatisation and Globalisation"
+  },
+  "U7": {
+   "name": "B7 · Current Challenges facing the Indian Economy (20 marks)",
+   "tip": "Human capital: education, health, on-the-job training, migration, information. Rural credit: NABARD (1982), SHGs/micro-credit; Amul = cooperative success. Worker-population ratio = workers ÷ population × 100. Casualisation and jobless growth. Sustainable development: don't exceed the environment's absorptive or carrying capacity.",
+   "ncert": "NCERT Indian Economic Development (Class 12, 2026-27): Ch 4 Human Capital Formation, Ch 5 Rural Development, Ch 6 Employment, Ch 7 Environment and Sustainable Development"
+  },
+  "U8": {
+   "name": "B8 · India and its Neighbours (8 marks)",
+   "tip": "China: Great Leap Forward 1958, reforms 1978, one-child policy; growth led by manufacturing. Pakistan: reforms 1988. India: growth led by services.",
+   "ncert": "NCERT Indian Economic Development (Class 12, 2026-27): Ch 8 Comparative Development Experiences of India and its Neighbours"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "U1",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "GDP at market price = ₹1,000 crore, depreciation = ₹100 crore, net factor income from abroad = −₹20 crore and net indirect taxes = ₹80 crore. Find NNP at factor cost, in ₹ crore.",
+   "answer": "800",
+   "explanation": "NNP_FC = 1000 − 100 + (−20) − 80 = 800.",
+   "remediation": "A1 · National Income and Related Aggregates (10 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 2 National Income Accounting; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q02",
+   "subtopic": "U1",
+   "level": "L3",
+   "pattern": "T1",
+   "type": "numeric",
+   "question": "A firm's sales are ₹500 lakh, its closing stock rises by ₹50 lakh and it buys inputs worth ₹300 lakh from other firms. Find its gross value added at market price, in ₹ lakh.",
+   "answer": "250",
+   "explanation": "Value of output = 500 + 50 = 550; GVA = 550 − 300 = 250.",
+   "remediation": "A1 · National Income and Related Aggregates (10 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 2 National Income Accounting; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q03",
+   "subtopic": "U1",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "numeric",
+   "question": "Nominal GDP is ₹1,200 crore and the price index (base year = 100) is 120. Find real GDP, in ₹ crore.",
+   "answer": "1000",
+   "explanation": "Real GDP = 1200 × 100/120 = 1000.",
+   "remediation": "A1 · National Income and Related Aggregates (10 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 2 National Income Accounting; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q04",
+   "subtopic": "U1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Which of these is a STOCK concept?",
+   "answer": "C",
+   "explanation": "A stock is measured at a point of time (wealth, capital); a flow over a period (income, investment, depreciation).",
+   "remediation": "A1 · National Income and Related Aggregates (10 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 2 National Income Accounting; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Depreciation",
+    "Income",
+    "Wealth",
+    "Investment"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "U1",
+   "level": "L4",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Smoke from a factory harms nearby residents, but they are not compensated. In national income terms this is:",
+   "answer": "D",
+   "explanation": "Externalities are not paid for, so they are not in GDP: one reason GDP is not a perfect index of welfare.",
+   "remediation": "A1 · National Income and Related Aggregates (10 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 2 National Income Accounting; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Counted as a deduction from GDP",
+    "A positive externality",
+    "A factor payment included in NFIA",
+    "A negative externality that GDP does not account for, so GDP overstates welfare"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "U2",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "numeric",
+   "question": "Banks keep 20% of deposits as reserves (LRR = 0.2). If an initial deposit of ₹1,000 is made, what are the total deposits created, in ₹?",
+   "answer": "5000",
+   "explanation": "Money multiplier = 1/0.2 = 5; total deposits = 1000 × 5 = 5000.",
+   "remediation": "A2 · Money and Banking (6 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 3 Money and Banking; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q07",
+   "subtopic": "U2",
+   "level": "L1",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The repo rate is the rate at which:",
+   "answer": "B",
+   "explanation": "Repo = RBI lends to banks (against securities); parking funds with the RBI earns the reverse repo rate.",
+   "remediation": "A2 · Money and Banking (6 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 3 Money and Banking; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The government borrows from the public",
+    "The RBI lends to commercial banks for short periods",
+    "Commercial banks lend to the public",
+    "Commercial banks park surplus funds with the RBI"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "U2",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "To reduce inflation, the RBI is most likely to:",
+   "answer": "A",
+   "explanation": "Selling securities absorbs reserves from banks and reduces money supply; the others expand money supply.",
+   "remediation": "A2 · Money and Banking (6 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 3 Money and Banking; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Sell government securities in the open market",
+    "Buy government securities",
+    "Lower the repo rate",
+    "Lower the cash reserve ratio"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "U3",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "The marginal propensity to consume (MPC) and the marginal propensity to save (MPS) always add up to:",
+   "answer": "C",
+   "explanation": "Every extra rupee of income is either consumed or saved.",
+   "remediation": "A3 · Determination of Income and Employment (12 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 4 Determination of Income and Employment; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Average propensity to consume",
+    "0",
+    "1",
+    "The multiplier"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "U3",
+   "level": "L2",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "If MPC = 0.8, what is the value of the investment multiplier?",
+   "answer": "5",
+   "explanation": "k = 1/(1 − 0.8) = 5.",
+   "remediation": "A3 · Determination of Income and Employment (12 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 4 Determination of Income and Employment; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q11",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "Investment rises by ₹200 crore and MPS = 0.25. By how much does national income rise, in ₹ crore?",
+   "answer": "800",
+   "explanation": "k = 1/MPS = 4; ΔY = 4 × 200 = 800.",
+   "remediation": "A3 · Determination of Income and Employment (12 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 4 Determination of Income and Employment; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q12",
+   "subtopic": "U3",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "numeric",
+   "question": "In an economy C = 100 + 0.75Y and investment I = 50 (₹ crore). Find the equilibrium level of income, in ₹ crore.",
+   "answer": "600",
+   "explanation": "Y = C + I ⇒ Y = 150 + 0.75Y ⇒ 0.25Y = 150 ⇒ Y = 600.",
+   "remediation": "A3 · Determination of Income and Employment (12 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 4 Determination of Income and Employment; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q13",
+   "subtopic": "U3",
+   "level": "L4",
+   "pattern": "T7",
+   "type": "mcq",
+   "question": "Which measure would help correct a situation of deficient demand?",
+   "answer": "B",
+   "explanation": "Deficient demand needs more spending: cheaper credit (lower repo/bank rate), buying securities, more government expenditure or lower taxes.",
+   "remediation": "A3 · Determination of Income and Employment (12 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 4 Determination of Income and Employment; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Raising taxes",
+    "Lowering the repo rate",
+    "Selling government securities",
+    "Raising the cash reserve ratio"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "U4",
+   "level": "L2",
+   "pattern": "T8",
+   "type": "mcq",
+   "question": "Which of these is a capital receipt of the government?",
+   "answer": "A",
+   "explanation": "Disinvestment reduces government assets, so it is a capital receipt; the others are revenue receipts.",
+   "remediation": "A4 · Government Budget and the Economy (6 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 5 Government Budget and the Economy; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Disinvestment proceeds",
+    "Dividends from public sector units",
+    "Income tax",
+    "Fees and fines"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "U4",
+   "level": "L3",
+   "pattern": "T8",
+   "type": "numeric",
+   "question": "Total government expenditure = ₹1,000 crore, revenue receipts = ₹600 crore, non-debt capital receipts = ₹100 crore and interest payments = ₹120 crore. Find the primary deficit, in ₹ crore.",
+   "answer": "180",
+   "explanation": "Fiscal deficit = 1000 − (600 + 100) = 300; primary deficit = 300 − 120 = 180.",
+   "remediation": "A4 · Government Budget and the Economy (6 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 5 Government Budget and the Economy; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q16",
+   "subtopic": "U4",
+   "level": "L4",
+   "pattern": "T8",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; borrowing for current spending raises future interest burden without building assets.",
+   "remediation": "A4 · Government Budget and the Economy (6 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 5 Government Budget and the Economy; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "A high revenue deficit is a warning sign for the government.",
+   "reason": "It means the government is borrowing to finance consumption expenditure, which creates no assets to repay the debt.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "U5",
+   "level": "L2",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Which transaction is recorded in the capital account of India's balance of payments?",
+   "answer": "D",
+   "explanation": "FDI is a capital-account flow; goods, services and transfers are current-account items.",
+   "remediation": "A5 · Balance of Payments (6 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 6 Open Economy Macroeconomics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Import of crude oil",
+    "Export of software services",
+    "Remittances sent home by Indian workers abroad",
+    "Foreign direct investment into an Indian company"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "U5",
+   "level": "L3",
+   "pattern": "T10",
+   "type": "mcq",
+   "question": "If the rupee depreciates against the US dollar, Indian exports are likely to:",
+   "answer": "B",
+   "explanation": "A weaker rupee means fewer dollars are needed to buy Indian goods.",
+   "remediation": "A5 · Balance of Payments (6 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 6 Open Economy Macroeconomics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Stay unchanged in every case",
+    "Rise, because they become cheaper for foreign buyers",
+    "Fall, because they become costlier abroad",
+    "Stop completely"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "U5",
+   "level": "L4",
+   "pattern": "T9",
+   "type": "mcq",
+   "question": "Accommodating transactions in the balance of payments are those that:",
+   "answer": "D",
+   "explanation": "Accommodating (below the line) items, such as changes in foreign exchange reserves, balance the BoP.",
+   "remediation": "A5 · Balance of Payments (6 marks): NCERT Introductory Macroeconomics (Class 12, 2026-27): Ch 6 Open Economy Macroeconomics; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Are always in the current account",
+    "Never involve the central bank",
+    "Are undertaken purely for profit",
+    "Are undertaken to cover a deficit or surplus in the autonomous transactions"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "U6",
+   "level": "L3",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "On the eve of independence, India's foreign trade was characterised by:",
+   "answer": "A",
+   "explanation": "Colonial trade served Britain, which controlled more than half of India's trade.",
+   "remediation": "B6 · Development Experience (1947-90) and Reforms since 1991 (12 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 1 Indian Economy on the Eve of Independence, Ch 2 Indian Economy 1950-1990, Ch 3 Liberalisation, Privatisation and Globalisation; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Export of raw materials and import of finished consumer and capital goods",
+    "Equal trade with all countries",
+    "Export of machinery and import of food grains",
+    "No trade with Britain"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "U6",
+   "level": "L1",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "Which is NOT one of the goals of India's Five Year Plans (1950-90)?",
+   "answer": "C",
+   "explanation": "The goals were growth, modernisation, self-reliance and equity.",
+   "remediation": "B6 · Development Experience (1947-90) and Reforms since 1991 (12 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 1 Indian Economy on the Eve of Independence, Ch 2 Indian Economy 1950-1990, Ch 3 Liberalisation, Privatisation and Globalisation; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Growth",
+    "Equity",
+    "Privatisation of all industries",
+    "Self-reliance"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "U6",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "The Industrial Policy Resolution of 1956:",
+   "answer": "A",
+   "explanation": "IPR 1956 set the framework for the public sector's commanding role (three categories).",
+   "remediation": "B6 · Development Experience (1947-90) and Reforms since 1991 (12 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 1 Indian Economy on the Eve of Independence, Ch 2 Indian Economy 1950-1990, Ch 3 Liberalisation, Privatisation and Globalisation; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Classified industries into three categories, with the first reserved for the state",
+    "Ended the licensing of industries",
+    "Allowed only foreign companies to make steel",
+    "Abolished all public sector enterprises"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "U6",
+   "level": "L2",
+   "pattern": "T11",
+   "type": "mcq",
+   "question": "The Green Revolution in India was based mainly on:",
+   "answer": "D",
+   "explanation": "HYV seeds needed fertilisers, pesticides and regular water; first in wheat-growing regions.",
+   "remediation": "B6 · Development Experience (1947-90) and Reforms since 1991 (12 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 1 Indian Economy on the Eve of Independence, Ch 2 Indian Economy 1950-1990, Ch 3 Liberalisation, Privatisation and Globalisation; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Shifting cultivation",
+    "Ban on fertilisers",
+    "Collective farms",
+    "High-yielding variety seeds with fertilisers, pesticides and assured irrigation"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "U6",
+   "level": "L4",
+   "pattern": "T12",
+   "type": "mcq",
+   "question": "The immediate trigger for India's economic reforms of 1991 was:",
+   "answer": "B",
+   "explanation": "India faced a balance-of-payments crisis; it approached the World Bank and IMF and adopted LPG reforms.",
+   "remediation": "B6 · Development Experience (1947-90) and Reforms since 1991 (12 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 1 Indian Economy on the Eve of Independence, Ch 2 Indian Economy 1950-1990, Ch 3 Liberalisation, Privatisation and Globalisation; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "A rise in agricultural exports",
+    "A financial crisis: foreign exchange reserves were too low to pay for imports and debt",
+    "A sudden surplus in the government budget",
+    "A war with a neighbouring country"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "U7",
+   "level": "L1",
+   "pattern": "T14",
+   "type": "mcq",
+   "question": "NABARD, the apex body for rural credit, was set up in:",
+   "answer": "C",
+   "explanation": "NABARD was set up in 1982 to coordinate institutions providing rural finance.",
+   "remediation": "B7 · Current Challenges facing the Indian Economy (20 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 4 Human Capital Formation, Ch 5 Rural Development, Ch 6 Employment, Ch 7 Environment and Sustainable Development; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "1969",
+    "1991",
+    "1982",
+    "1951"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "U7",
+   "level": "L2",
+   "pattern": "T14",
+   "type": "mcq",
+   "question": "Self-help groups (SHGs) help the rural poor mainly by:",
+   "answer": "C",
+   "explanation": "SHGs promote thrift and lend to members at reasonable interest; they are often linked to banks.",
+   "remediation": "B7 · Current Challenges facing the Indian Economy (20 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 4 Human Capital Formation, Ch 5 Rural Development, Ch 6 Employment, Ch 7 Environment and Sustainable Development; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Providing free land to members",
+    "Building highways",
+    "Pooling small savings and giving small loans to members (micro-credit)",
+    "Fixing minimum support prices"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "U7",
+   "level": "L2",
+   "pattern": "T14",
+   "type": "mcq",
+   "question": "Amul is often cited as a success story of:",
+   "answer": "D",
+   "explanation": "Amul shows how cooperative marketing can raise farmers' incomes.",
+   "remediation": "B7 · Current Challenges facing the Indian Economy (20 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 4 Human Capital Formation, Ch 5 Rural Development, Ch 6 Employment, Ch 7 Environment and Sustainable Development; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Foreign direct investment in retail",
+    "Public sector steel",
+    "Organic tea plantations",
+    "Milk cooperatives in Gujarat"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "U7",
+   "level": "L3",
+   "pattern": "T15",
+   "type": "numeric",
+   "question": "A village has a population of 2,000, of whom 800 are workers. Find the worker-population ratio, in per cent.",
+   "answer": "40",
+   "explanation": "WPR = 800/2000 × 100 = 40%.",
+   "remediation": "B7 · Current Challenges facing the Indian Economy (20 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 4 Human Capital Formation, Ch 5 Rural Development, Ch 6 Employment, Ch 7 Environment and Sustainable Development; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q29",
+   "subtopic": "U7",
+   "level": "L3",
+   "pattern": "T15",
+   "type": "mcq",
+   "question": "Casualisation of the workforce means:",
+   "answer": "B",
+   "explanation": "Casual wage work rose relative to self-employment and regular salaried work.",
+   "remediation": "B7 · Current Challenges facing the Indian Economy (20 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 4 Human Capital Formation, Ch 5 Rural Development, Ch 6 Employment, Ch 7 Environment and Sustainable Development; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "A fall in the population of a country",
+    "A rising share of casual wage labourers in total employment",
+    "More workers getting permanent government jobs",
+    "Workers moving from services to agriculture"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "U7",
+   "level": "L4",
+   "pattern": "T15",
+   "type": "mcq",
+   "question": "GDP grows rapidly but employment hardly increases. This situation is called:",
+   "answer": "A",
+   "explanation": "Jobless growth: output rises without a matching rise in jobs.",
+   "remediation": "B7 · Current Challenges facing the Indian Economy (20 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 4 Human Capital Formation, Ch 5 Rural Development, Ch 6 Employment, Ch 7 Environment and Sustainable Development; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Jobless growth",
+    "Disguised unemployment",
+    "Full employment",
+    "Stagflation"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "U7",
+   "level": "L2",
+   "pattern": "T13",
+   "type": "mcq",
+   "question": "Which of these is NOT a source of human capital formation?",
+   "answer": "C",
+   "explanation": "Sources: education, health, on-the-job training, migration and information. Shares are financial assets.",
+   "remediation": "B7 · Current Challenges facing the Indian Economy (20 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 4 Human Capital Formation, Ch 5 Rural Development, Ch 6 Employment, Ch 7 Environment and Sustainable Development; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Expenditure on education",
+    "On-the-job training",
+    "Buying shares of a company",
+    "Expenditure on health"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "U7",
+   "level": "L3",
+   "pattern": "T13",
+   "type": "ar",
+   "question": "Choose the correct option.",
+   "answer": "A",
+   "explanation": "Both true; a skilled, healthy workforce produces more, so R explains A.",
+   "remediation": "B7 · Current Challenges facing the Indian Economy (20 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 4 Human Capital Formation, Ch 5 Rural Development, Ch 6 Employment, Ch 7 Environment and Sustainable Development; then the question types listed for this unit in the Blueprint PDF.",
+   "assertion": "Investment in human capital raises the productivity of an economy.",
+   "reason": "Education and health increase people's ability to work and produce.",
+   "options": [
+    "Both A and R are true and R is the correct explanation of A",
+    "Both A and R are true but R is not the correct explanation of A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "U7",
+   "level": "L4",
+   "pattern": "T16",
+   "type": "mcq",
+   "question": "When the rate of resource extraction is higher than the rate of regeneration, the environment:",
+   "answer": "D",
+   "explanation": "Exceeding regeneration means the environment's carrying capacity is crossed, leading to an environmental crisis.",
+   "remediation": "B7 · Current Challenges facing the Indian Economy (20 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 4 Human Capital Formation, Ch 5 Rural Development, Ch 6 Employment, Ch 7 Environment and Sustainable Development; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Becomes more productive",
+    "Is unaffected",
+    "Gains absorptive capacity",
+    "Fails to perform its function of life sustenance: its carrying capacity is exceeded"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "U8",
+   "level": "L1",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "China launched the Great Leap Forward campaign in:",
+   "answer": "B",
+   "explanation": "GLF (1958) aimed at rapid industrialisation; reforms came in 1978.",
+   "remediation": "B8 · India and its Neighbours (8 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 8 Comparative Development Experiences of India and its Neighbours; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "1978",
+    "1958",
+    "1949",
+    "1991"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "U8",
+   "level": "L2",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "Which of these did China introduce in the late 1970s to control population growth?",
+   "answer": "A",
+   "explanation": "The one-child policy was introduced in the late 1970s.",
+   "remediation": "B8 · India and its Neighbours (8 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 8 Comparative Development Experiences of India and its Neighbours; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The one-child policy",
+    "Cultural Revolution",
+    "The Great Leap Forward",
+    "Commune system"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "U8",
+   "level": "L3",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "Pakistan began its economic reforms in:",
+   "answer": "A",
+   "explanation": "China 1978, Pakistan 1988, India 1991.",
+   "remediation": "B8 · India and its Neighbours (8 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 8 Comparative Development Experiences of India and its Neighbours; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "1988",
+    "1978",
+    "1991",
+    "1958"
+   ]
+  },
+  {
+   "id": "q37",
+   "subtopic": "U8",
+   "level": "L4",
+   "pattern": "T17",
+   "type": "mcq",
+   "question": "Which statement best compares the growth paths of China and India?",
+   "answer": "C",
+   "explanation": "China shifted workers to manufacturing; in India the service sector grew fastest.",
+   "remediation": "B8 · India and its Neighbours (8 marks): NCERT Indian Economic Development (Class 12, 2026-27): Ch 8 Comparative Development Experiences of India and its Neighbours; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Both grew mainly through agriculture",
+    "India's growth was driven mainly by manufacturing and China's by services",
+    "China's growth has been driven mainly by manufacturing, while India's has relied more on the service sector",
+    "Neither country's sectoral structure has changed"
+   ]
+  }
+ ],
+ "class": "12",
+ "subject": "Economics (030)",
+ "board": "CBSE",
+ "links": [
+  {
+   "label": "Watch the Blueprint Short",
+   "url": "https://youtube.com/shorts/UA9Iilvk3b8"
+  },
+  {
+   "label": "Blueprint PDF (free)",
+   "url": "https://drive.google.com/file/d/1xXSUcC1-ipHtK8GhxJoKhK06FMnPBP2D/view?usp=drive_link"
+  }
+ ],
+ "subtopic_label": "unit"
+}

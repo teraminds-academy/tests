@@ -1,0 +1,714 @@
+{
+ "schema": 1,
+ "id": "c12-geography",
+ "version": 1,
+ "title": "Board-pattern readiness test — most-repeated question types",
+ "chapter": "CBSE Class 12 Geography (029) · both books and both map units, weighted by the 2026-27 theory marks",
+ "short_title": "Class 12 Geography (029) · Board-pattern readiness test",
+ "tagline": "Practice questions modelled on past CBSE papers; not predictions of this year's paper.",
+ "disclaimer": "Original questions written for Teraminds Academy from the NCERT textbooks prescribed for 2026-27, modelled on the most-repeated question types in CBSE board papers 2023–26 and the Sample Question Paper 2026-27 (see our Board Blueprint). A board-pattern readiness test for practice only: not a prediction of any exam and no promise of marks.",
+ "instructions": "36 questions. MCQ and assertion-reason: choose one option. Numeric: type a whole number (no units).",
+ "suggested_minutes": 35,
+ "video_url": "https://youtube.com/shorts/gVsVxwN8ypk",
+ "worksheet_url": "https://drive.google.com/file/d/1nfMOMBGDDQlD0hHuuCBzmwVXjaSJ4cM6/view?usp=drive_link",
+ "levels": {
+  "L1": {
+   "label": "Recall",
+   "name": "recall"
+  },
+  "L2": {
+   "label": "Application",
+   "name": "application"
+  },
+  "L3": {
+   "label": "Board-pattern",
+   "name": "board-pattern multi-step"
+  },
+  "L4": {
+   "label": "HOTS",
+   "name": "HOTS / competency"
+  }
+ },
+ "patterns": {
+  "T1": "Concept / definition",
+  "T2": "Classify or identify",
+  "T3": "Explain a feature or cause",
+  "T4": "Case study / application",
+  "T5": "Data-based",
+  "T6": "Map-based identification"
+ },
+ "subtopics": {
+  "A1": {
+   "name": "A-1 · Human Geography: Nature and Scope (3 marks)",
+   "tip": "Early humans adapted to nature: 'naturalisation of humans' = environmental determinism. Humans then shaped nature: possibilism ('humanisation of nature'). Griffith Taylor's middle path: neo-determinism, 'stop and go' determinism.",
+   "ncert": "NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 1 Human Geography"
+  },
+  "A2": {
+   "name": "A-2 · World Population; Human Development (8 marks)",
+   "tip": "Natural growth = birth rate − death rate. Demographic transition: stage 1 high birth and death rates, stage 3 both low. Human development (Mahbub-ul-Haq, 1990): four pillars equity, sustainability, productivity, empowerment.",
+   "ncert": "NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 2 The World Population, Ch 3 Human Development"
+  },
+  "A3": {
+   "name": "A-3 · Primary, Secondary, Tertiary & Quaternary Activities; Transport, Communication & Trade (19 marks)",
+   "tip": "Commercial livestock rearing = ranches, one animal type, scientific. Plantations: Europeans in colonies, one crop, large estates. Footloose industries: not tied to raw materials, component-based, low polluting. Quinary = top decision makers. Trans-Siberian: St Petersburg–Vladivostok. Suez (1869) joins Mediterranean and Red Sea. Negative balance of trade = imports > exports. Entrepot ports re-export (Singapore, Rotterdam). WTO 1995.",
+   "ncert": "NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 4 Primary Activities, Ch 5 Secondary Activities, Ch 6 Tertiary and Quaternary Activities, Ch 7 Transport and Communication, Ch 8 International Trade"
+  },
+  "AM": {
+   "name": "A-Map · World political map (5 marks)",
+   "tip": "Learn the curriculum's world map list: areas of farming (e.g. Prairies), major seaports, canals (Suez, Panama with their terminal ports), transcontinental railway terminals.",
+   "ncert": "CBSE Geography curriculum 2026-27: world map list (with Fundamentals Ch 4, 7, 8)"
+  },
+  "B1": {
+   "name": "B-I · India: Population (5 marks)",
+   "tip": "Census 2011: Bihar has the highest density, Arunachal Pradesh the lowest. Growth phases: 1901–21 stagnant, 1921–51 steady (falling death rate), 1951–81 population explosion, after 1981 the growth rate slows.",
+   "ncert": "NCERT India: People and Economy (Class 12, 2026-27): Ch 1 Population: Distribution, Density, Growth and Composition"
+  },
+  "B2": {
+   "name": "B-II · India: Human Settlements (3 marks)",
+   "tip": "Rural types: clustered, semi-clustered, hamleted (panna, para, palli, nagla, dhani), dispersed. Towns by function: administrative, industrial, transport, commercial, mining (Raniganj, Jharia, Digboi), garrison (Ambala, Jalandhar, Mhow), religious, educational.",
+   "ncert": "NCERT India: People and Economy (Class 12, 2026-27): Ch 2 Human Settlements"
+  },
+  "B3": {
+   "name": "B-III · Land, Agriculture, Water, Minerals & Energy, Planning (10 marks)",
+   "tip": "Current fallow = left uncultivated for one year or less. Watershed programmes: Haryali, Neeru-Meeru (Andhra Pradesh), Arvary Pani Sansad (Alwar, Rajasthan). Bharmaur: Gaddi tribe, Himachal Pradesh. Indira Gandhi Canal starts at the Harike barrage; sustainability needs water discipline and shelter belts.",
+   "ncert": "NCERT India: People and Economy (Class 12, 2026-27): Ch 3 Land Resources and Agriculture, Ch 4 Water Resources, Ch 5 Mineral and Energy Resources, Ch 6 Planning and Sustainable Development in Indian Context"
+  },
+  "B4": {
+   "name": "B-IV · India: Transport, Communication and Trade (7 marks)",
+   "tip": "Golden Quadrilateral: Delhi–Mumbai–Chennai–Kolkata. Konkan Railway (1998): Roha (Maharashtra) to Mangaluru (Karnataka). HBJ gas pipeline: Hazira–Bijaipur–Jagdishpur. Kandla was built after Partition to ease Mumbai's load after the loss of Karachi.",
+   "ncert": "NCERT India: People and Economy (Class 12, 2026-27): Ch 7 Transport and Communication, Ch 8 International Trade"
+  },
+  "B5": {
+   "name": "B-V · Geographical Perspective on Selected Issues (5 marks)",
+   "tip": "Pollution types and sources; noise is measured in decibels. Dharavi (Mumbai) as a case of slums. Human-made land degradation: waterlogging, salinity and alkalinity from over-irrigation; mining, deforestation.",
+   "ncert": "NCERT India: People and Economy (Class 12, 2026-27): Ch 9 Geographical Perspective on Selected Issues and Problems"
+  },
+  "BM": {
+   "name": "B-Map · India political map (5 marks)",
+   "tip": "Learn the curriculum's India map list: leading crop states, iron-ore/manganese/copper/bauxite/coal mines, refineries (Mathura, Jamnagar, Barauni), 10 seaports and 10 international airports.",
+   "ncert": "CBSE Geography curriculum 2026-27: India map list (with India: People and Economy Ch 3, 5, 7, 8)"
+  }
+ },
+ "questions": [
+  {
+   "id": "q01",
+   "subtopic": "A1",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The idea of neo-determinism ('stop and go' determinism) was put forward by:",
+   "answer": "A",
+   "explanation": "Taylor proposed a middle path between environmental determinism and possibilism.",
+   "remediation": "A-1 · Human Geography: Nature and Scope (3 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 1 Human Geography; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Griffith Taylor",
+    "Mahbub-ul-Haq",
+    "Ellen Semple",
+    "Thomas Malthus"
+   ]
+  },
+  {
+   "id": "q02",
+   "subtopic": "A1",
+   "level": "L4",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "In early human societies, people were heavily dependent on nature and adapted to it. Human geographers call this stage the 'naturalisation of humans', which corresponds to:",
+   "answer": "D",
+   "explanation": "With primitive technology, nature dictated human life: environmental determinism. Possibilism = 'humanisation of nature'.",
+   "remediation": "A-1 · Human Geography: Nature and Scope (3 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 1 Human Geography; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Welfare approach",
+    "Possibilism",
+    "Neo-determinism",
+    "Environmental determinism"
+   ]
+  },
+  {
+   "id": "q03",
+   "subtopic": "A2",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The concept of human development was introduced by:",
+   "answer": "B",
+   "explanation": "Dr Mahbub-ul-Haq; the UNDP has published the Human Development Report since 1990.",
+   "remediation": "A-2 · World Population; Human Development (8 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 2 The World Population, Ch 3 Human Development; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Jean Brunhes",
+    "Mahbub-ul-Haq",
+    "Thomas Malthus",
+    "Griffith Taylor"
+   ]
+  },
+  {
+   "id": "q04",
+   "subtopic": "A2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Which of these is NOT one of the four pillars of human development?",
+   "answer": "C",
+   "explanation": "The four pillars: equity, sustainability, productivity and empowerment.",
+   "remediation": "A-2 · World Population; Human Development (8 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 2 The World Population, Ch 3 Human Development; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Sustainability",
+    "Empowerment",
+    "Urbanisation",
+    "Equity"
+   ]
+  },
+  {
+   "id": "q05",
+   "subtopic": "A2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "In the first stage of the demographic transition theory:",
+   "answer": "A",
+   "explanation": "Stage 1: high and fluctuating birth and death rates, slow growth; stage 3: both low.",
+   "remediation": "A-2 · World Population; Human Development (8 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 2 The World Population, Ch 3 Human Development; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Both fertility and mortality are high",
+    "Fertility is high and mortality falls sharply",
+    "Fertility falls below mortality",
+    "Both fertility and mortality are low"
+   ]
+  },
+  {
+   "id": "q06",
+   "subtopic": "A2",
+   "level": "L3",
+   "pattern": "T5",
+   "type": "numeric",
+   "question": "A town of 50,000 people has a crude birth rate of 30 and a crude death rate of 10 (per thousand per year). Ignoring migration, by how many people does its population grow in a year?",
+   "answer": "1000",
+   "explanation": "Natural growth rate = 30 − 10 = 20 per thousand; 20/1000 × 50,000 = 1,000.",
+   "remediation": "A-2 · World Population; Human Development (8 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 2 The World Population, Ch 3 Human Development; then the question types listed for this unit in the Blueprint PDF."
+  },
+  {
+   "id": "q07",
+   "subtopic": "A3",
+   "level": "L1",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The Trans-Siberian Railway connects:",
+   "answer": "D",
+   "explanation": "It is Asia's longest double-tracked, electrified transcontinental railway.",
+   "remediation": "A-3 · Primary, Secondary, Tertiary & Quaternary Activities; Transport, Communication & Trade (19 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 4 Primary Activities, Ch 5 Secondary Activities, Ch 6 Tertiary and Quaternary Activities, Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Perth with Sydney",
+    "London with Paris",
+    "Halifax with Vancouver",
+    "St Petersburg in the west with Vladivostok in the east"
+   ]
+  },
+  {
+   "id": "q08",
+   "subtopic": "A3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Suez Canal links:",
+   "answer": "C",
+   "explanation": "Opened in 1869, it shortened the route between Europe and Asia; Panama links the Atlantic and Pacific.",
+   "remediation": "A-3 · Primary, Secondary, Tertiary & Quaternary Activities; Transport, Communication & Trade (19 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 4 Primary Activities, Ch 5 Secondary Activities, Ch 6 Tertiary and Quaternary Activities, Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The Black Sea and the Caspian Sea",
+    "The Baltic Sea and the North Sea",
+    "The Mediterranean Sea and the Red Sea",
+    "The Atlantic and Pacific Oceans"
+   ]
+  },
+  {
+   "id": "q09",
+   "subtopic": "A3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Commercial livestock rearing differs from nomadic herding because it:",
+   "answer": "B",
+   "explanation": "Ranching is capital-intensive, scientific and market-oriented.",
+   "remediation": "A-3 · Primary, Secondary, Tertiary & Quaternary Activities; Transport, Communication & Trade (19 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 4 Primary Activities, Ch 5 Secondary Activities, Ch 6 Tertiary and Quaternary Activities, Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Uses no fencing or capital",
+    "Is organised on permanent ranches, specialises in one type of animal and uses scientific methods",
+    "Moves with animals from place to place for pasture",
+    "Is practised only for self-consumption"
+   ]
+  },
+  {
+   "id": "q10",
+   "subtopic": "A3",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Plantation agriculture was introduced in many tropical countries by:",
+   "answer": "A",
+   "explanation": "Large estates growing a single crop (tea, coffee, rubber, sugarcane) with capital and cheap labour.",
+   "remediation": "A-3 · Primary, Secondary, Tertiary & Quaternary Activities; Transport, Communication & Trade (19 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 4 Primary Activities, Ch 5 Secondary Activities, Ch 6 Tertiary and Quaternary Activities, Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Europeans in their colonies",
+    "Cooperative farmers of Denmark",
+    "Nomadic herders",
+    "Medieval Indian kings"
+   ]
+  },
+  {
+   "id": "q11",
+   "subtopic": "A3",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Footloose industries are those that:",
+   "answer": "D",
+   "explanation": "They use component parts, employ small labour forces and are usually non-polluting.",
+   "remediation": "A-3 · Primary, Secondary, Tertiary & Quaternary Activities; Transport, Communication & Trade (19 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 4 Primary Activities, Ch 5 Secondary Activities, Ch 6 Tertiary and Quaternary Activities, Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Depend entirely on agricultural raw materials",
+    "Must be located near coal fields",
+    "Can only work near ports",
+    "Can be located in a wide variety of places because they are not tied to a specific raw material"
+   ]
+  },
+  {
+   "id": "q12",
+   "subtopic": "A3",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Quinary activities involve:",
+   "answer": "C",
+   "explanation": "Quinary is the highest level of decision making and policy formulation.",
+   "remediation": "A-3 · Primary, Secondary, Tertiary & Quaternary Activities; Transport, Communication & Trade (19 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 4 Primary Activities, Ch 5 Secondary Activities, Ch 6 Tertiary and Quaternary Activities, Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Manufacturing in factories",
+    "Farming and fishing",
+    "Senior business executives, government officials and decision makers ('gold collar')",
+    "Retail and wholesale trade"
+   ]
+  },
+  {
+   "id": "q13",
+   "subtopic": "A3",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "A country has a negative balance of trade when:",
+   "answer": "B",
+   "explanation": "A negative (unfavourable) balance means spending more on imports than earning from exports.",
+   "remediation": "A-3 · Primary, Secondary, Tertiary & Quaternary Activities; Transport, Communication & Trade (19 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 4 Primary Activities, Ch 5 Secondary Activities, Ch 6 Tertiary and Quaternary Activities, Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "It exports only services",
+    "The value of its imports exceeds the value of its exports",
+    "It has no foreign trade",
+    "Its exports exceed its imports"
+   ]
+  },
+  {
+   "id": "q14",
+   "subtopic": "A3",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Singapore and Rotterdam act as collection centres where goods are brought from many countries for re-export. Such ports are called:",
+   "answer": "A",
+   "explanation": "Entrepot = collection and re-export; packet stations carry passengers and mail over short distances.",
+   "remediation": "A-3 · Primary, Secondary, Tertiary & Quaternary Activities; Transport, Communication & Trade (19 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 4 Primary Activities, Ch 5 Secondary Activities, Ch 6 Tertiary and Quaternary Activities, Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Entrepot ports",
+    "Inland ports",
+    "Naval ports",
+    "Packet stations"
+   ]
+  },
+  {
+   "id": "q15",
+   "subtopic": "A3",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The World Trade Organisation (WTO) came into being in:",
+   "answer": "D",
+   "explanation": "WTO replaced GATT on 1 January 1995.",
+   "remediation": "A-3 · Primary, Secondary, Tertiary & Quaternary Activities; Transport, Communication & Trade (19 marks): NCERT Fundamentals of Human Geography (Class 12, 2026-27): Ch 4 Primary Activities, Ch 5 Secondary Activities, Ch 6 Tertiary and Quaternary Activities, Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "2001",
+    "1948",
+    "1969",
+    "1995"
+   ]
+  },
+  {
+   "id": "q16",
+   "subtopic": "AM",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "The extensive commercial grain farming region of North America is:",
+   "answer": "B",
+   "explanation": "Prairies (North America), Pampas (Argentina), Veld (South Africa), Steppes (Eurasia).",
+   "remediation": "A-Map · World political map (5 marks): CBSE Geography curriculum 2026-27: world map list (with Fundamentals Ch 4, 7, 8); then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The Veld",
+    "The Prairies",
+    "The Steppes",
+    "The Pampas"
+   ]
+  },
+  {
+   "id": "q17",
+   "subtopic": "AM",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Which port stands at the northern (Mediterranean) end of the Suez Canal?",
+   "answer": "C",
+   "explanation": "Port Said is at the northern end; Port Suez at the southern (Red Sea) end.",
+   "remediation": "A-Map · World political map (5 marks): CBSE Geography curriculum 2026-27: world map list (with Fundamentals Ch 4, 7, 8); then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Alexandria",
+    "Aden",
+    "Port Said",
+    "Port Suez"
+   ]
+  },
+  {
+   "id": "q18",
+   "subtopic": "B1",
+   "level": "L1",
+   "pattern": "T5",
+   "type": "mcq",
+   "question": "According to Census 2011, the state with the highest population density in India is:",
+   "answer": "B",
+   "explanation": "Bihar has the highest density; Arunachal Pradesh the lowest.",
+   "remediation": "B-I · India: Population (5 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 1 Population: Distribution, Density, Growth and Composition; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "West Bengal",
+    "Bihar",
+    "Kerala",
+    "Uttar Pradesh"
+   ]
+  },
+  {
+   "id": "q19",
+   "subtopic": "B1",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "The period 1951–1981 in India's population growth is described as the:",
+   "answer": "A",
+   "explanation": "Rapid fall in mortality with high fertility gave very high growth.",
+   "remediation": "B-I · India: Population (5 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 1 Population: Distribution, Density, Growth and Composition; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Period of population explosion",
+    "Period of declining population",
+    "Period of steady growth",
+    "Period of stagnant growth"
+   ]
+  },
+  {
+   "id": "q20",
+   "subtopic": "B1",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Population grew steadily in 1921–1951 mainly because:",
+   "answer": "D",
+   "explanation": "Better health, sanitation, transport and communication reduced mortality.",
+   "remediation": "B-I · India: Population (5 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 1 Population: Distribution, Density, Growth and Composition; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Famines became more frequent",
+    "Large-scale immigration took place",
+    "The birth rate fell sharply",
+    "Improvements in health and sanitation lowered the death rate"
+   ]
+  },
+  {
+   "id": "q21",
+   "subtopic": "B2",
+   "level": "L2",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "A rural settlement fragmented into several physically separated units that share one common name (e.g. panna, para, palli, nagla, dhani) is called:",
+   "answer": "C",
+   "explanation": "These units are hamlets, often formed by social and ethnic factors.",
+   "remediation": "B-II · India: Human Settlements (3 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 2 Human Settlements; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Semi-clustered settlement",
+    "Dispersed settlement",
+    "Hamleted settlement",
+    "Clustered settlement"
+   ]
+  },
+  {
+   "id": "q22",
+   "subtopic": "B2",
+   "level": "L3",
+   "pattern": "T2",
+   "type": "mcq",
+   "question": "Which of these is a mining town?",
+   "answer": "D",
+   "explanation": "Mining towns: Raniganj, Jharia, Digboi, Ankaleshwar, Singrauli. Mhow is a garrison town; Varanasi religious; Kandla a port.",
+   "remediation": "B-II · India: Human Settlements (3 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 2 Human Settlements; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Kandla",
+    "Mhow",
+    "Varanasi",
+    "Jharia"
+   ]
+  },
+  {
+   "id": "q23",
+   "subtopic": "B3",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Land left uncultivated for one agricultural year or less is called:",
+   "answer": "B",
+   "explanation": "Fallow other than current fallow: 1–5 years; culturable waste: over 5 years.",
+   "remediation": "B-III · Land, Agriculture, Water, Minerals & Energy, Planning (10 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 3 Land Resources and Agriculture, Ch 4 Water Resources, Ch 5 Mineral and Energy Resources, Ch 6 Planning and Sustainable Development in Indian Context; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Barren and waste land",
+    "Current fallow",
+    "Fallow other than current fallow",
+    "Culturable waste land"
+   ]
+  },
+  {
+   "id": "q24",
+   "subtopic": "B3",
+   "level": "L2",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The watershed development programme Neeru-Meeru (water and you) was run in:",
+   "answer": "C",
+   "explanation": "Arvary Pani Sansad is in Alwar (Rajasthan); Haryali is a central government scheme.",
+   "remediation": "B-III · Land, Agriculture, Water, Minerals & Energy, Planning (10 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 3 Land Resources and Agriculture, Ch 4 Water Resources, Ch 5 Mineral and Energy Resources, Ch 6 Planning and Sustainable Development in Indian Context; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Himachal Pradesh",
+    "Gujarat",
+    "Andhra Pradesh",
+    "Rajasthan"
+   ]
+  },
+  {
+   "id": "q25",
+   "subtopic": "B3",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The Bharmaur tribal region in Himachal Pradesh is the home of the:",
+   "answer": "A",
+   "explanation": "The Gaddis traditionally practised transhumance; the region is studied as a case of integrated tribal area development.",
+   "remediation": "B-III · Land, Agriculture, Water, Minerals & Energy, Planning (10 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 3 Land Resources and Agriculture, Ch 4 Water Resources, Ch 5 Mineral and Energy Resources, Ch 6 Planning and Sustainable Development in Indian Context; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Gaddis",
+    "Todas",
+    "Santhals",
+    "Bhils"
+   ]
+  },
+  {
+   "id": "q26",
+   "subtopic": "B3",
+   "level": "L3",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "The Indira Gandhi Canal originates at:",
+   "answer": "D",
+   "explanation": "Harike barrage near the confluence of the Satluj and Beas.",
+   "remediation": "B-III · Land, Agriculture, Water, Minerals & Energy, Planning (10 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 3 Land Resources and Agriculture, Ch 4 Water Resources, Ch 5 Mineral and Energy Resources, Ch 6 Planning and Sustainable Development in Indian Context; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "The Farakka barrage in West Bengal",
+    "The Hirakud dam in Odisha",
+    "The Bhakra dam in Himachal Pradesh",
+    "The Harike barrage in Punjab"
+   ]
+  },
+  {
+   "id": "q27",
+   "subtopic": "B3",
+   "level": "L4",
+   "pattern": "T4",
+   "type": "mcq",
+   "question": "Which measure would best promote ecological sustainability in the Indira Gandhi Canal command area?",
+   "answer": "C",
+   "explanation": "Over-irrigation causes waterlogging and salinity; water discipline, afforestation and orchards help.",
+   "remediation": "B-III · Land, Agriculture, Water, Minerals & Energy, Planning (10 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 3 Land Resources and Agriculture, Ch 4 Water Resources, Ch 5 Mineral and Energy Resources, Ch 6 Planning and Sustainable Development in Indian Context; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Removing all trees to make space for farms",
+    "Letting water flow freely without any rotation",
+    "Strict water management and planting shelter belts, with less area under water-intensive crops",
+    "Expanding rice cultivation everywhere along the canal"
+   ]
+  },
+  {
+   "id": "q28",
+   "subtopic": "B4",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The HBJ gas pipeline connects:",
+   "answer": "A",
+   "explanation": "Hazira (Gujarat) – Bijaipur (MP) – Jagdishpur (UP).",
+   "remediation": "B-IV · India: Transport, Communication and Trade (7 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Hazira, Bijaipur and Jagdishpur",
+    "Haldia, Barauni and Jalandhar",
+    "Hyderabad, Bhopal and Jaipur",
+    "Howrah, Bhubaneswar and Jamshedpur"
+   ]
+  },
+  {
+   "id": "q29",
+   "subtopic": "B4",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Golden Quadrilateral highway network links:",
+   "answer": "B",
+   "explanation": "The North-South and East-West corridors are a separate project.",
+   "remediation": "B-IV · India: Transport, Communication and Trade (7 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Delhi, Srinagar, Kanyakumari and Silchar",
+    "Delhi, Mumbai, Chennai and Kolkata",
+    "Kolkata, Patna, Lucknow and Delhi",
+    "Mumbai, Pune, Nagpur and Hyderabad"
+   ]
+  },
+  {
+   "id": "q30",
+   "subtopic": "B4",
+   "level": "L2",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "The Konkan Railway, completed in 1998, runs between:",
+   "answer": "A",
+   "explanation": "About 760 km along the west coast; an engineering feat.",
+   "remediation": "B-IV · India: Transport, Communication and Trade (7 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Roha in Maharashtra and Mangaluru in Karnataka",
+    "Delhi and Amritsar",
+    "Mumbai and Ahmedabad",
+    "Chennai and Kochi"
+   ]
+  },
+  {
+   "id": "q31",
+   "subtopic": "B4",
+   "level": "L4",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Kandla port was developed after Partition mainly to:",
+   "answer": "B",
+   "explanation": "It was built as a tidal port to serve the north-western hinterland.",
+   "remediation": "B-IV · India: Transport, Communication and Trade (7 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 7 Transport and Communication, Ch 8 International Trade; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Serve as India's main naval base",
+    "Ease the load on Mumbai port after the loss of Karachi to Pakistan",
+    "Export iron ore from Chhattisgarh",
+    "Handle only fishing boats"
+   ]
+  },
+  {
+   "id": "q32",
+   "subtopic": "B5",
+   "level": "L2",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Dharavi, studied as a case of slums, is located in:",
+   "answer": "D",
+   "explanation": "It is one of Asia's largest slums.",
+   "remediation": "B-V · Geographical Perspective on Selected Issues (5 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 9 Geographical Perspective on Selected Issues and Problems; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Delhi",
+    "Kolkata",
+    "Chennai",
+    "Mumbai"
+   ]
+  },
+  {
+   "id": "q33",
+   "subtopic": "B5",
+   "level": "L1",
+   "pattern": "T1",
+   "type": "mcq",
+   "question": "Noise pollution is measured in:",
+   "answer": "C",
+   "explanation": "Sound level is measured in decibels (dB).",
+   "remediation": "B-V · Geographical Perspective on Selected Issues (5 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 9 Geographical Perspective on Selected Issues and Problems; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Lux",
+    "Kilowatts",
+    "Decibels",
+    "Hertz only"
+   ]
+  },
+  {
+   "id": "q34",
+   "subtopic": "B5",
+   "level": "L3",
+   "pattern": "T3",
+   "type": "mcq",
+   "question": "Which is a human-induced cause of land degradation?",
+   "answer": "C",
+   "explanation": "Waterlogging, salinity and alkalinity from canal over-irrigation are man-made processes.",
+   "remediation": "B-V · Geographical Perspective on Selected Issues (5 marks): NCERT India: People and Economy (Class 12, 2026-27): Ch 9 Geographical Perspective on Selected Issues and Problems; then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Coastal erosion by waves",
+    "Volcanic eruptions",
+    "Waterlogging and salinity from over-irrigation",
+    "Formation of gullies by natural rainfall only"
+   ]
+  },
+  {
+   "id": "q35",
+   "subtopic": "BM",
+   "level": "L2",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "The oil refinery in Bihar on the curriculum map list is:",
+   "answer": "A",
+   "explanation": "Mathura is in Uttar Pradesh; Jamnagar in Gujarat; Digboi in Assam.",
+   "remediation": "B-Map · India political map (5 marks): CBSE Geography curriculum 2026-27: India map list (with India: People and Economy Ch 3, 5, 7, 8); then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Barauni",
+    "Mathura",
+    "Jamnagar",
+    "Digboi"
+   ]
+  },
+  {
+   "id": "q36",
+   "subtopic": "BM",
+   "level": "L3",
+   "pattern": "T6",
+   "type": "mcq",
+   "question": "Which iron-ore mine is in Chhattisgarh?",
+   "answer": "B",
+   "explanation": "Bailadila (Chhattisgarh); Kudremukh and Bellary (Karnataka); Mayurbhanj (Odisha).",
+   "remediation": "B-Map · India political map (5 marks): CBSE Geography curriculum 2026-27: India map list (with India: People and Economy Ch 3, 5, 7, 8); then the question types listed for this unit in the Blueprint PDF.",
+   "options": [
+    "Bellary",
+    "Bailadila",
+    "Kudremukh",
+    "Mayurbhanj"
+   ]
+  }
+ ],
+ "class": "12",
+ "subject": "Geography (029)",
+ "board": "CBSE",
+ "links": [
+  {
+   "label": "Watch the Blueprint Short",
+   "url": "https://youtube.com/shorts/gVsVxwN8ypk"
+  },
+  {
+   "label": "Blueprint PDF (free)",
+   "url": "https://drive.google.com/file/d/1nfMOMBGDDQlD0hHuuCBzmwVXjaSJ4cM6/view?usp=drive_link"
+  }
+ ],
+ "subtopic_label": "unit"
+}
